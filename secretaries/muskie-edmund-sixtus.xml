@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1221</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-05-13</start-date>
+        <end-date>1980-05-15</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Defense Planning Committee meeting.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1222</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-05-15</start-date>
+        <end-date>1980-05-16</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Attended ceremonies for the 25th anniversary of the Austrian State Treaty and
+                met with Soviet Foreign Minister Gromyko.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1223</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-06-19</start-date>
+        <end-date>1980-06-24</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome, Venice</locale>
+        <remarks>Accompanied President Carter on a State visit and to Economic Summit
+            Meeting.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1224</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-06-21</start-date>
+        <end-date>1980-06-21</end-date>
+        <country id="holy-see">Vatican City</country>
+        <remarks>Accompanied President Carter.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1225</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-06-25</start-date>
+        <end-date>1980-06-26</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Ankara</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1226</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-06-27</start-date>
+        <end-date>1980-06-29</end-date>
+        <country id="malaysia">Malaysia</country>
+        <locale>Kuala Lumpur</locale>
+        <remarks>Met with ASEAN Foreign Ministers.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1227</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-07-09</start-date>
+        <end-date>1980-07-10</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Accompanied President Carter to funeral of Prime Minister Ohira. Met with
+                Chinese Premier Hua Guofeng.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1228</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-11-29</start-date>
+        <end-date>1980-12-01</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico, D.F.</locale>
+        <remarks>Official visit. Reviewed work of U.S.-Mexico Consultative Mechanism.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1229</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-12-10</start-date>
+        <end-date>1980-12-12</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="muskie-edmund-sixtus" role="secretary">
+        <id>1230</id>
+        <role>secretary</role>
+        <name>Edmund Sixtus Muskie</name>
+        <start-date>1980-12-12</start-date>
+        <end-date>1980-12-14</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Thatcher and Foreign Secretary Lord Carrington.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+</trips>

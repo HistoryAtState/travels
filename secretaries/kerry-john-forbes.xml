@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3404</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-02-25</start-date>
+        <end-date>2013-02-26</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister David Cameron and Foreign Secretary William
+            Hague.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3405</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-02-26</start-date>
+        <end-date>2013-02-27</end-date>
+        <country id="germany">Germany</country>
+        <locale>Berlin</locale>
+        <remarks>Met with Foreign Minister Guido Westerwelle, Chancellor Angela Merkel, and Russian
+            Foreign Minister Sergey Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3406</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-02-27</start-date>
+        <end-date>2013-02-27</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Francois Hollande and Foreign Minister Laurent Fabius. Discussed
+            the situation in Mali.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3407</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-02-27</start-date>
+        <end-date>2013-03-01</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with Prime Minister Mario Monti, Foreign Minister Guilio de Sant’Agata, NATO
+            Secretary General Anders Fogh Rasmussen, and the Foreign Ministers of the Baltic States.
+            Also attended an Ad Hoc Meeting on Syria with Syrian Opposition leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3408</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-01</start-date>
+        <end-date>2013-03-02</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Ankara</locale>
+        <remarks>Met with President Abdullah Gul, Prime Minister Recep Tayyip Erdogan, and Foreign
+            Minister Ahmed Davutoglu. Discussed the Syrian crisis.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3409</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-02</start-date>
+        <end-date>2013-03-03</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with Arab League Secretary General Nabil al-Araby, Foreign Minister Mohamed
+            Amr, President Mohammed Morsi, Defense Minister Abdul Fatah al-Sisi, and Egyptian
+            political and business leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3410</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-03</start-date>
+        <end-date>2013-03-04</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with the Gulf Cooperation Council Foreign Ministers and with Foreign Minister
+            Prince Saud al-Faisal.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3411</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-04</start-date>
+        <end-date>2013-03-05</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with Crown Prince Mohamed bin Zayed al-Nahyan and Foreign Minister Abdullah bin
+            Zayed al-Nahyan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3412</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-05</start-date>
+        <end-date>2013-03-06</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Emir Hamad bin Khalifa al-Thani, Heir Apparent Tamim bin Hammad al-Thani,
+            and Prime Minister/Foreign Minister Hamad bin Jassin bin Jaber al-Thani.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3413</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-06</start-date>
+        <end-date>2013-03-06</end-date>
+        <country id="ireland">Ireland</country>
+        <locale>Shannon</locale>
+        <remarks>Met with Foreign Affairs Minister Eamon Gilmore while returning to the United
+            States.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3414</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-20</start-date>
+        <end-date>2013-03-22</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Accompanied President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3415</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-21</start-date>
+        <end-date>2013-03-21</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Accompanied President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3416</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-22</start-date>
+        <end-date>2013-03-24</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Accompanied President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3417</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-24</start-date>
+        <end-date>2013-03-25</end-date>
+        <country id="iraq">Iraq</country>
+        <locale>Baghdad</locale>
+        <remarks>Met with President Nouri al-Maliki and Iraqi political leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3418</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-25</start-date>
+        <end-date>2013-03-26</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Kabul</locale>
+        <remarks>Met with President Hamid Karzai.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3419</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-03-26</start-date>
+        <end-date>2013-03-27</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with Foreign Minister Laurent Fabius and addressed French business
+            leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3420</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-04-07</start-date>
+        <end-date>2013-04-07</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul</locale>
+        <remarks>Met with Foreign Minister Ahmed Davutoglu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3421</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-04-07</start-date>
+        <end-date>2013-04-09</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem, Tel Aviv</locale>
+        <remarks>Met with President Shimon Peres, Prime Minister Benjamin Netanyahu, and Palestinian
+            Authority Prime Minister Salam Fayyad.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3422</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-04-07</start-date>
+        <end-date>2013-04-07</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3423</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-04-10</start-date>
+        <end-date>2013-04-11</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended the G=8 Foreign Ministers Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3424</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-04-12</start-date>
+        <end-date>2013-04-13</end-date>
+        <country id="korea-south">Korea, South</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Park Gyeun-hye and Prime Minister Yun Byun-se. Addressed the
+            American Chamber of Commerce.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3425</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-04-13</start-date>
+        <end-date>2013-04-14</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>Met with President Xi Jinping, Premier Li Liqiang, and Foreign Minister Wang
+            Yi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3426</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-04-14</start-date>
+        <end-date>2013-04-14</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Foreign Minister Fumio Kishida.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3427</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-04-20</start-date>
+        <end-date>2013-04-21</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul</locale>
+        <remarks>Met with Foreign Minister Ahmed Davutoglu and attended a ministerial meeting of the
+            Friends of the Syrian People Core Group. Also met with Palestinian Authority President
+            Mahmoud Abbas and Ecumenical Patriarch Bartholomew.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3428</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-04-21</start-date>
+        <end-date>2013-04-24</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a NATO Foreign Minister’s Meeting. Also attended a NATO-Russia Council
+            Ministerial meeting. Signed agreement with Lithuania on countering nuclear smuggling.
+            Met with Afghan President Hamad Karzai and Pakistani General Ashfaq Kayani.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3429</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-07</start-date>
+        <end-date>2013-05-08</end-date>
+        <country id="russia">Russia</country>
+        <locale>Moscow</locale>
+        <remarks>Met with President Vladimir Putin and Foreign Minister Sergey Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3430</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-08</start-date>
+        <end-date>2013-05-09</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with Foreign Minister Emma Bonino, Jordanian Foreign Minister Nasser Judeh, and
+            Israeli Justice Minister Tzipi Livni.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3431</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-14</start-date>
+        <end-date>2013-05-15</end-date>
+        <country id="sweden">Sweden</country>
+        <locale>Stockholm, Kiruna</locale>
+        <remarks>Met with Prime Minister Fredrik Reinfeldt and Foreign Minister Carl Bildt. Attended
+            the Arctic Council Ministerial Meeting at Kiruna.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3432</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-21</start-date>
+        <end-date>2013-05-22</end-date>
+        <country id="oman">Oman</country>
+        <locale>Muscat</locale>
+        <remarks>Met with Sultan Qaboos bin Said al Said and Defense Minister Said Badr
+            al-Busaidi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3433</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-22</start-date>
+        <end-date>2013-05-22</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with King Abdullah II and Foreign Minister Nasser Judeh. Attended a London
+            Eleven plenary meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3434</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-23</start-date>
+        <end-date>2013-05-24</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu and President Shimon Peres.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3435</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-23</start-date>
+        <end-date>2013-05-24</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3436</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-24</start-date>
+        <end-date>2013-05-26</end-date>
+        <country id="ethiopia">Ethiopia</country>
+        <locale>Addis Ababa</locale>
+        <remarks>Attended the African Union Summit and commemorated the Golden Jubilee of the
+            Organization of African Unity.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3437</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-26</start-date>
+        <end-date>2013-05-27</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Attended the World Economic Forum.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3438</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-05-27</start-date>
+        <end-date>2013-05-28</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with French Foreign Minister Laurent Fabius and Russian Foreign Minister Sergey
+            Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3439</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-04</start-date>
+        <end-date>2013-06-05</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale>Guatemala City</locale>
+        <remarks>Attended the OAS General Assembly.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3440</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-22</start-date>
+        <end-date>2013-06-23</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Attended the London Eleven Plenary Meeting and met with Heir Apparent Sheikh Tamin
+            al-Thani, Prime Minister/Foreign Minister Sheikh Hamad al-Thani and Amir Hamad
+            al-Thani.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3441</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-23</start-date>
+        <end-date>2013-06-25</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi</locale>
+        <remarks>Attended the Fourth Annual U.S.-India Strategic Dialogue and the Second U.S.-India
+            Education Dialogue.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3442</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-25</start-date>
+        <end-date>2013-06-26</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jeddah</locale>
+        <remarks>Met with Foreign Minister Prince Saud al-Faisal.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3443</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-26</start-date>
+        <end-date>2013-06-26</end-date>
+        <country id="kuwait">Kuwait</country>
+        <locale>Kuwait City</locale>
+        <remarks>Met with Amir Sheikh Sabah al-Ahmed al-Sabah and Deputy Prime Minister/Foreign
+            Minister Sheikh Sabah Khalid al-Sabah.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3444</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-27</start-date>
+        <end-date>2013-06-27</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud
+            Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3445</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-29</start-date>
+        <end-date>2013-06-29</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud
+            Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3446</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-27</start-date>
+        <end-date>2013-06-30</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3447</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-28</start-date>
+        <end-date>2013-06-28</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3448</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-30</start-date>
+        <end-date>2013-06-30</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3449</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-30</start-date>
+        <end-date>2013-07-02</end-date>
+        <country id="brunei">Brunei</country>
+        <locale>Bandar Seri Begawan</locale>
+        <remarks>Attended the ASEAN-U.S. Ministerial, Lower Mekong Initiative and Friends of the
+            Lower Mekong Ministerial Meetings, the 20th ASEAN Regional Forum, and the 3rd East Asia
+            Summit Foreign Ministers Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3450</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-07-16</start-date>
+        <end-date>2013-07-19</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with Foreign Minister Nasser Judeh and Palestinian Authority President Mahmoud
+            Abbas. Attended an Arab League Peace Initiative Meeting. Visited the Za’atri Refugee
+            Camp.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3451</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-07-19</start-date>
+        <end-date>2013-07-19</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with President Mahmoud Abbas and chief negotiator Saeb Erekat.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3452</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-07-31</start-date>
+        <end-date>2013-08-02</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale>Islamabad</locale>
+        <remarks>Met with President Asif Zardari, Prime Minister Nawaz Sharif, National Security
+            Adviser Sartaj Aziz. Visited Zero Point Power Plant.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3453</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-08-02</start-date>
+        <end-date>2013-08-02</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with United Arab Emirates Foreign Minister Abdullah bin Zayed.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3454</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-08-12</start-date>
+        <end-date>2013-08-13</end-date>
+        <country id="colombia">Colombia</country>
+        <locale>Bogota</locale>
+        <remarks>Met with President Juan Manuel Santos, Foreign Minister Maria Angela Holguin,
+            Defense Minister Juan Carlos Pinzon, and Colombian Peace Negotiators.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3455</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-08-13</start-date>
+        <end-date>2013-08-13</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia</locale>
+        <remarks>Met with President Dilma Roussef, Foreign Minister Antonio Patriota, and Education
+            Minister Aloizio Mercadante.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3456</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-09-07</start-date>
+        <end-date>2013-09-07</end-date>
+        <country id="lithuania">Lithuania</country>
+        <locale>Vilnius</locale>
+        <remarks>Met with the EU Foreign Ministers and with Lithuanian President Dalia Gribauskaite
+            and Foreign Minister Linas Linkevicius.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3457</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-09-07</start-date>
+        <end-date>2013-09-08</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with Foreign Minister Laurent Fabius and the Ministerial Delegation of the Arab
+            Peace Initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3458</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-09-08</start-date>
+        <end-date>2013-09-09</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Palestinian Authority President Mahmoud Abbas and with Foreign Secretary
+            William Hague.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3459</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-09-12</start-date>
+        <end-date>2013-09-15</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Discussed the Syrian crisis with Russian Foreign Minister Sergey Lavrov. Announced
+            Framework for the Elimination of Syrian Chemical Weapons.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3460</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-09-15</start-date>
+        <end-date>2013-09-16</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3461</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-09-16</start-date>
+        <end-date>2013-09-16</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Francois Hollande, Foreign Minister Laurent Fabius, British
+            Foreign Secretary William Hague, Turkish Foreign Minister Ahmet Davutoglu, and Saudi
+            Foreign Minister Saud al-Faisal.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3462</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-10-02</start-date>
+        <end-date>2013-10-04</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Attended the U.S.-Japan Security Consultative Committee meeting. Signed Protocol to
+            amend the Guam International Agreement concerning redeployment of U.S. forces from
+            Okinawa to Guam.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3463</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-10-04</start-date>
+        <end-date>2013-10-09</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Bali</locale>
+        <remarks>Attended the APEC Ministerial Meeting and the APEC CEO Summit Meeting. Signed
+            Nuclear Risk Reduction Agreement with Russian Foreign Minister Sergey Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3464</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-10-09</start-date>
+        <end-date>2013-10-10</end-date>
+        <country id="brunei">Brunei</country>
+        <locale>Bandar Seri Begawan</locale>
+        <remarks>Attended the U.S.-ASEAN Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3465</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-10-10</start-date>
+        <end-date>2013-10-11</end-date>
+        <country id="malaysia">Malaysia</country>
+        <locale>Kuala Lumpur</locale>
+        <remarks>Attended the Fourth Global Entrepreneurship Summit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3466</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-10-11</start-date>
+        <end-date>2013-10-12</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Kabul</locale>
+        <remarks>Met with President Hamid Karzai. Signed Bilateral Security Agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip> October 12-14, 2013 United Kingdom London Met with EU High Representative Catherine
+    Ashton. Addressed the AIPAC National Summit by satellite. Also met with UN Special
+    Representative for Syria Lakhdar Brahimi. <trip who="kerry-john-forbes" role="secretary">
+        <id>3467</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-10-21</start-date>
+        <end-date>2013-10-22</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with members of the Arab Peace Initiative Follow-up Committee, Saudi Foreign
+            Minister Saud al-Faisal, Foreign Minister Laurent Fabius, and members of the Syrian
+            Opposition Coalition.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3468</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-10-22</start-date>
+        <end-date>2013-10-22</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended the London Eleven Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3469</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-10-22</start-date>
+        <end-date>2013-10-24</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with Prime Minister Enrico Letta and Israeli Prime Minister Benjamin
+            Netanyahu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3470</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-03</start-date>
+        <end-date>2013-11-03</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with Interim President Adly Mansour, Foreign Minister Nabil Fahmy, and Defense
+            Minister Abdul Fatah al-Sisi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3471</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-03</start-date>
+        <end-date>2013-11-04</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with Foreign Minister Saud al-Faisal and King Abdullah bin Abdulaziz
+            al-Saud.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3472</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-04</start-date>
+        <end-date>2013-11-05</end-date>
+        <country id="poland">Poland</country>
+        <locale>Warsaw, Lask</locale>
+        <remarks>Wreath-laying at the grave of former Prime Minister Tadeusz Mazowiecki. Met with
+            Prime Minister Donald Tusk and Foreign Minister Radoslaw Sikorski. Medal award ceremony
+            at Lask air base.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3473</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-05</start-date>
+        <end-date>2013-11-07</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Wreath-laying ceremony at the Yitzhak Rabin Memorial. Met with President Shimon
+            Peres and Prime Minister Benjamin Netanyahu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3474</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-06</start-date>
+        <end-date>2013-11-06</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Bethlehem</locale>
+        <remarks>Met with President Mahmoud Abbas and attended a High Impact Microfinance
+            Infrastructure Initiative Event.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3475</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-06</start-date>
+        <end-date>2013-11-06</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with King Abdullah II, Foreign Minister Nasser Judeh, and Palestinian Authority
+            President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3476</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-08</start-date>
+        <end-date>2013-11-08</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3477</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-08</start-date>
+        <end-date>2013-11-10</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Met with EU High Representative Catherine Ashton, French Foreign Minister Laurent
+            Fabius, and Iranian Foreign Minister Mohammed Zarif.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3478</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-10</start-date>
+        <end-date>2013-11-11</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with Crown Prince Mohammed bin Zayed al-Nahyan and Foreign Minister Abdullah
+            bin Zayed al-Nahyan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3479</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-22</start-date>
+        <end-date>2013-11-24</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Met with the P5+1 representatives and Iranian Foreign Minister Mohammed Zarif.
+            Announced a First Step Agreement on Iran’s Nuclear Program.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3480</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-11-24</start-date>
+        <end-date>2013-11-25</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Foreign Secretary William Hague and Libyan Prime Minister Ali
+            Zeidan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3481</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-12-03</start-date>
+        <end-date>2013-12-04</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended the NATO Foreign Ministers’ Meeting and a NATO-Russia Council Meeting.
+            Signed Cyber Partnership Agreement with Estonia.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3482</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-12-04</start-date>
+        <end-date>2013-12-04</end-date>
+        <country id="moldova">Moldova</country>
+        <locale>Chisinau</locale>
+        <remarks>Met with President Nicolae Timofti and Prime Minister Iurie Leanca. Attended a
+            Trade and Investment Showcast.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3483</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-12-05</start-date>
+        <end-date>2013-12-06</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu and Finance Minister Yair
+            Lapid.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3484</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-12-05</start-date>
+        <end-date>2013-12-05</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3485</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-12-12</start-date>
+        <end-date>2013-12-13</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem, Tel Aviv</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3486</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-12-14</start-date>
+        <end-date>2013-12-17</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Ho Chi Minh City, Ca Mau, Hanoi</locale>
+        <remarks>Met with American and Vietnamese business leaders, addressed the American Chamber
+            of Commerce, delivered an address on climate change, and met with Foreign Minister Pham
+            Binh Minh.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3487</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-12-17</start-date>
+        <end-date>2013-12-18</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila, Tacloban</locale>
+        <remarks>Met with President Benigno Aquino and Foreign Secretary Albert del Rosario.
+            Visited a USAID Forward Operating Base.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T10:38:12.81-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+</trips>

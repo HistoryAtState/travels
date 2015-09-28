@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="lansing-robert" role="secretary">
+        <id>1206</id>
+        <role>secretary</role>
+        <name>Robert  Lansing</name>
+        <start-date>1918-12-14</start-date>
+        <end-date>1919-07-14</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Accompanied President Wilson to the Paris Peace Conference. Left U.S December 4,
+                1918; returned July 22, 1919. </remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+</trips>

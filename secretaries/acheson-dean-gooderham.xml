@@ -1,0 +1,426 @@
+<trips>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3370</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1949-05-20</start-date>
+        <end-date>1949-06-20</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended 6th Session of the Council of Foreign Ministers.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:25:22.673-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:25:22.673-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:25:22.673-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3371</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1949-11-09</start-date>
+        <end-date>1949-11-11</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with the Foreign Ministers of the United Kingdom, France, Belgium, Luxembourg,
+            and the Netherlands.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3372</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1949-11-11</start-date>
+        <end-date>1949-11-13</end-date>
+        <country id="germany">Germany</country>
+        <locale>Frankfurt, Bonn</locale>
+        <remarks>Met with President Heuss and Chancellor Adenauer.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3373</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1949-11-14</start-date>
+        <end-date>1949-11-14</end-date>
+        <country id="germany">Germany</country>
+        <locale>Berlin</locale>
+        <remarks>Met with West Berlin officials and the commandants of the occupation sectors.
+            Briefly visited East Berlin.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3374</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1950-05-07</start-date>
+        <end-date>1950-05-08</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Conferred with French; left U.S. May 6.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3375</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1950-05-09</start-date>
+        <end-date>1950-05-19</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended 6th Session of the North Atlantic Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3376</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1950-12-18</start-date>
+        <end-date>1950-12-20</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Council Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3377</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1951-09-15</start-date>
+        <end-date>1951-09-20</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Attended 7th Session of the North Atlantic Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3378</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1951-11-06</start-date>
+        <end-date>1951-11-23</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended Sixth Session of the UN General Assembly. Left U.S. October 25.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3379</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1951-11-23</start-date>
+        <end-date>1951-12-04</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Attended 8th Session of the North Atlantic Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3380</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-02-13</start-date>
+        <end-date>1952-02-19</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended the funeral of King George VI and conferred with the British and French
+            Foreign Ministers and with West German Chancellor Adenauer.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3381</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-02-20</start-date>
+        <end-date>1952-02-26</end-date>
+        <country id="portugal">Portugal</country>
+        <locale>Lisbon</locale>
+        <remarks>Attended 9th Session of the North Atlantic Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3382</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-05-23</start-date>
+        <end-date>1952-05-26</end-date>
+        <country id="germany">Germany</country>
+        <locale>Bonn</locale>
+        <remarks>Signed Bonn Agreements providing for West German membership in NATO and the
+            European Defense Community.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3383</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-05-26</start-date>
+        <end-date>1952-05-29</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Signed Protocol to the North Atlantic Treaty regarding the European Defense
+            Community, May 28.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3384</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-06-23</start-date>
+        <end-date>1952-06-28</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London, Oxford</locale>
+        <remarks>Met with British and French Foreign Ministers. Received honorary degree from Oxford
+            University.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3385</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-06-29</start-date>
+        <end-date>1952-06-29</end-date>
+        <country id="germany">Germany</country>
+        <locale>West Berlin</locale>
+        <remarks>Spoke at cornerstone laying for the American Memorial Library.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3386</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-06-29</start-date>
+        <end-date>1952-06-30</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Met with Austrian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3387</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-07-01</start-date>
+        <end-date>1952-07-01</end-date>
+        <country id="france">France</country>
+        <locale>Dakar (Senegal)</locale>
+        <remarks>Overnight stop en route to Brazil.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3388</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-07-02</start-date>
+        <end-date>1952-07-08</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Pernambuco, Rio de Janeiro, Sao Paulo, Belem</locale>
+        <remarks>Official visit. Addressed the Brazilian Congress.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3389</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-07-08</start-date>
+        <end-date>1952-07-08</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Port-of-Spain (Trinidad)</locale>
+        <remarks>Overnight stop while returning to the U.S.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3390</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-11-21</start-date>
+        <end-date>1952-11-22</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Met with Canadian officials and attended a Cabinet meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="acheson-dean-gooderham" role="secretary">
+        <id>3391</id>
+        <role>secretary</role>
+        <name>Dean Gooderham Acheson</name>
+        <start-date>1952-12-15</start-date>
+        <end-date>1952-12-20</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended a Ministerial Meeting of the North Atlantic Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+</trips>

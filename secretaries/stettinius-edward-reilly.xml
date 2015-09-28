@@ -1,0 +1,195 @@
+<trips>
+    <trip who="stettinius-edward-reilly" role="secretary">
+        <id>2189</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-01-26</start-date>
+        <end-date>1945-01-30</end-date>
+        <country id="morocco">Morocco</country>
+        <locale>Marrakesh</locale>
+        <remarks>Preparations for the Malta and Yalta Conferences. Left U.S. January 25.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="stettinius-edward-reilley" role="secretary">
+        <id>2190</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-01-30</start-date>
+        <end-date>1945-01-31</end-date>
+        <country id="italy">Italy</country>
+        <locale>Naples</locale>
+        <remarks>Discussed postwar issues and policy toward Italy with Presidential adviser Harry
+                Hopkins.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="stettinius-edward-reilley" role="secretary">
+        <id>2191</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-01-31</start-date>
+        <end-date>1945-02-02</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Malta</locale>
+        <remarks>Attended the Malta Conference.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="stettinius-edward-reilley" role="secretary">
+        <id>2192</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-02-03</start-date>
+        <end-date>1945-02-14</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Yalta, Moscow</locale>
+        <remarks>Accompanied President Roosevelt to the Crimea Conference. Met afterward
+                (February 11-14) with Soviet Foreign Minister Molotov.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="stettinius-edward-reilley" role="secretary">
+        <id>2193</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-02-14</start-date>
+        <end-date>1945-02-15</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo, Alexandria</locale>
+        <remarks>Met with Haile Selassie; conferred with President Roosevelt.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="stettinius-edward-reilley" role="secretary">
+        <id>2194</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-02-16</start-date>
+        <end-date>1945-02-17</end-date>
+        <country id="liberia">Liberia</country>
+        <locale>Monrovia</locale>
+        <remarks>Met with President Tubman.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="stettinius-edward-reilley" role="secretary">
+        <id>2195</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-02-17</start-date>
+        <end-date>1945-02-19</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Rio de Janeiro</locale>
+        <remarks>Met with President Vargas.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="stettinius-edward-reilley" role="secretary">
+        <id>2196</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-02-20</start-date>
+        <end-date>1945-02-20</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale>Guatemala City</locale>
+        <remarks>Met with the Presidential Triumvirate and Secretary of Foreign Relations Munoz
+                Meany.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="stettinius-edward-reilley" role="secretary">
+        <id>2197</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-02-20</start-date>
+        <end-date>1945-03-08</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Chapultepec</locale>
+        <remarks>Attended Inter-American Conference on the Problems of War and Peace.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="stettinius-edward-reilley" role="secretary">
+        <id>2198</id>
+        <role>secretary</role>
+        <name>Edward Reilley Stettinius</name>
+        <start-date>1945-03-09</start-date>
+        <end-date>1945-03-09</end-date>
+        <country id="cuba">Cuba</country>
+        <locale>Havana</locale>
+        <remarks>Official visit. Returned to U.S. March 10. </remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+</trips>

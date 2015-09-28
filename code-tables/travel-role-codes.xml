@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>travel-role-code</name>
+    <description>This is a description of codes used in the role element of a trip in the Travels application..</description>
+    <items>
+        <item>
+            <label>President</label>
+            <value>president</value>
+            <definition>A trip made by the President of the US.</definition>
+        </item>
+        <item>
+            <label>Secretary</label>
+            <value>secretary</value>
+            <definition>A trip made by the US Secretary of state.</definition>
+        </item>
+    </items>
+</code-table>

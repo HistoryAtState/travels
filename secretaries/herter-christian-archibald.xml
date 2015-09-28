@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>912</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-04-27</start-date>
+        <end-date>1959-05-02</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended a meeting of Western Foreign Ministers.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>913</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-05-11</start-date>
+        <end-date>1959-06-20</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Attended a Conference of the Foreign Ministers of France, the United Kingdom,
+                the Soviet Union, and the United States on the questions of Germany and
+            Berlin.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>914</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-07-11</start-date>
+        <end-date>1959-07-11</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Informal meeting with Prime Minister Diefenbaker and Secretary for External
+                Affairs Green.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>915</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-07-13</start-date>
+        <end-date>1959-08-05</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Attended second Conference of Foreign Ministers on the German question.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>916</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-07-25</start-date>
+        <end-date>1959-07-25</end-date>
+        <country id="germany">Germany</country>
+        <locale>West Berlin</locale>
+        <remarks>Dedicated John Foster Allee.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>917</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-08-11</start-date>
+        <end-date>1959-08-18</end-date>
+        <country id="chile">Chile</country>
+        <locale>Santiago</locale>
+        <remarks>Attended the 5th Meeting of Consultation of Ministers of Foreign Affairs of the
+                American States.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>918</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-08-26</start-date>
+        <end-date>1959-08-27</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Accompanied President Eisenhower to a meeting with Chancellor Adenauer.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>919</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-08-27</start-date>
+        <end-date>1959-09-02</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London, Chequers</locale>
+        <remarks>Accompanied President Eisenhower on an informal visit. Also met with Spanish
+                Foreign Minister Castiella.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>920</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-09-02</start-date>
+        <end-date>1959-09-04</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Accompanied President Eisenhower to meeting of the North Atlantic
+            Council.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>921</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1959-12-13</start-date>
+        <end-date>1959-12-22</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended NATO Ministerial Meeting and a meeting of the Heads of State and
+                Government of France, Germany, the United Kingdom, and the United States.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>922</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-02-23</start-date>
+        <end-date>1960-02-26</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia, Rio de Janeiro, Sao Paulo</locale>
+        <remarks>Accompanied President Eisenhower on a good will tour.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>923</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-02-26</start-date>
+        <end-date>1960-02-29</end-date>
+        <country id="argentina">Argentina</country>
+        <locale>Buenos Aires, Mar del Plata, San Carlos de Bariloche</locale>
+        <remarks>Accompanied President Eisenhower on a good will tour.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>924</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-02-29</start-date>
+        <end-date>1960-03-02</end-date>
+        <country id="chile">Chile</country>
+        <locale>Santiago</locale>
+        <remarks>Accompanied President Eisenhower on a good will tour.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>925</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-03-02</start-date>
+        <end-date>1960-03-03</end-date>
+        <country id="uruguay">Uruguay</country>
+        <locale>Montevideo</locale>
+        <remarks>Accompanied President Eisenhower on a good will tour.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>926</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-04-26</start-date>
+        <end-date>1960-04-27</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Overnight stop en route to Tehran.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>927</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-04-28</start-date>
+        <end-date>1960-04-30</end-date>
+        <country id="iran">Iran</country>
+        <locale>Tehran</locale>
+        <remarks>Attended CENTO Ministerial Meeting.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>928</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-04-30</start-date>
+        <end-date>1960-05-04</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>929</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-05-05</start-date>
+        <end-date>1960-05-05</end-date>
+        <country id="greece">Greece</country>
+        <locale>Athens</locale>
+        <remarks>Met with King Paul I and Prime Minister Karamanlis.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>930</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-05-13</start-date>
+        <end-date>1960-05-21</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Accompanied President Eisenhower to a meeting of the Chiefs of State and Heads
+                of Government of France, the Soviet Union, the United Kingdom, and the United
+                States. Also attended a meeting of NATO's Permanent Council.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>931</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-08-16</start-date>
+        <end-date>1960-08-29</end-date>
+        <country id="costa-rica">Costa Rica</country>
+        <locale>San Jose</locale>
+        <remarks>Attended the 6th and 7th Meetings of Consultation of the American Foreign
+                Ministers.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>932</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-09-15</start-date>
+        <end-date>1960-09-16</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico, D.F.</locale>
+        <remarks>Attended ceremonies for the 150th anniversary of Mexican independence.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>933</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-12-13</start-date>
+        <end-date>1960-12-14</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Personal representative of the President at the wedding of King
+            Baudouin.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+    <trip who="herter-christian-archibald" role="secretary">
+        <id>934</id>
+        <role>secretary</role>
+        <name>Christian Archibald Herter</name>
+        <start-date>1960-12-14</start-date>
+        <end-date>1960-12-18</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended NATO Ministerial Meeting. </remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </trip>
+</trips>
