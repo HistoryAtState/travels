@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presidents>
+    <source-url>http://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States</source-url>
+    <crawl-dateTime>2011-08-18T17:30:09.653-04:00</crawl-dateTime>
+    <president n="1">
+        <id>washington-george</id>
+        <name>George Washington</name>
+        <birth-year>1732</birth-year>
+        <death-year>1799</death-year>
+        <took-office-date>1789-04-30</took-office-date>
+        <left-office-date>1797-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="2">
+        <id>adams-john</id>
+        <name>John Adams</name>
+        <birth-year>1735</birth-year>
+        <death-year>1826</death-year>
+        <took-office-date>1797-03-04</took-office-date>
+        <left-office-date>1801-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="3">
+        <id>jefferson-thomas</id>
+        <name>Thomas Jefferson</name>
+        <birth-year>1743</birth-year>
+        <death-year>1826</death-year>
+        <took-office-date>1801-03-04</took-office-date>
+        <left-office-date>1809-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="4">
+        <id>madison-james</id>
+        <name>James Madison</name>
+        <birth-year>1751</birth-year>
+        <death-year>1836</death-year>
+        <took-office-date>1809-03-04</took-office-date>
+        <left-office-date>1817-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="5">
+        <id>monroe-james</id>
+        <name>James Monroe</name>
+        <birth-year>1758</birth-year>
+        <death-year>1831</death-year>
+        <took-office-date>1817-03-04</took-office-date>
+        <left-office-date>1825-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="6">
+        <id>adams-john-quincy</id>
+        <name>John Quincy Adams</name>
+        <birth-year>1767</birth-year>
+        <death-year>1848</death-year>
+        <took-office-date>1825-03-04</took-office-date>
+        <left-office-date>1829-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="7">
+        <id>jackson-andrew</id>
+        <name>Andrew Jackson</name>
+        <birth-year>1767</birth-year>
+        <death-year>1845</death-year>
+        <took-office-date>1829-03-04</took-office-date>
+        <left-office-date>1837-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="8">
+        <id>buren-martin-van</id>
+        <name>Martin Van Buren</name>
+        <birth-year>1782</birth-year>
+        <death-year>1862</death-year>
+        <took-office-date>1837-03-04</took-office-date>
+        <left-office-date>1841-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="9">
+        <id>harrison-william-henry</id>
+        <name>William Henry Harrison</name>
+        <birth-year>1773</birth-year>
+        <death-year>1841</death-year>
+        <took-office-date>1841-03-04</took-office-date>
+        <left-office-date>1841-04-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="10">
+        <id>tyler-john</id>
+        <name>John Tyler</name>
+        <birth-year>1790</birth-year>
+        <death-year>1862</death-year>
+        <took-office-date>1841-04-04</took-office-date>
+        <left-office-date>1845-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="11">
+        <id>polk-james-k</id>
+        <name>James K. Polk</name>
+        <birth-year>1795</birth-year>
+        <death-year>1849</death-year>
+        <took-office-date>1845-03-04</took-office-date>
+        <left-office-date>1849-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="12">
+        <id>taylor-zachary</id>
+        <name>Zachary Taylor</name>
+        <birth-year>1784</birth-year>
+        <death-year>1850</death-year>
+        <took-office-date>1849-03-04</took-office-date>
+        <left-office-date>1850-07-09</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="13">
+        <id>fillmore-millard</id>
+        <name>Millard Fillmore</name>
+        <birth-year>1800</birth-year>
+        <death-year>1874</death-year>
+        <took-office-date>1850-07-09</took-office-date>
+        <left-office-date>1853-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="14">
+        <id>pierce-franklin</id>
+        <name>Franklin Pierce</name>
+        <birth-year>1804</birth-year>
+        <death-year>1869</death-year>
+        <took-office-date>1853-03-04</took-office-date>
+        <left-office-date>1857-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="15">
+        <id>buchanan-james</id>
+        <name>James Buchanan</name>
+        <birth-year>1791</birth-year>
+        <death-year>1868</death-year>
+        <took-office-date>1857-03-04</took-office-date>
+        <left-office-date>1861-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="16">
+        <id>lincoln-abraham</id>
+        <name>Abraham Lincoln</name>
+        <birth-year>1809</birth-year>
+        <death-year>1865</death-year>
+        <took-office-date>1861-03-04</took-office-date>
+        <left-office-date>1865-04-15</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="17">
+        <id>johnson-andrew</id>
+        <name>Andrew Johnson</name>
+        <birth-year>1808</birth-year>
+        <death-year>1875</death-year>
+        <took-office-date>1865-04-15</took-office-date>
+        <left-office-date>1869-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="18">
+        <id>grant-ulysses-s</id>
+        <name>Ulysses S. Grant</name>
+        <birth-year>1822</birth-year>
+        <death-year>1885</death-year>
+        <took-office-date>1869-03-04</took-office-date>
+        <left-office-date>1877-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="19">
+        <id>hayes-rutherford-b</id>
+        <name>Rutherford B. Hayes</name>
+        <birth-year>1822</birth-year>
+        <death-year>1893</death-year>
+        <took-office-date>1877-03-04</took-office-date>
+        <left-office-date>1881-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="20">
+        <id>garfield-james-a</id>
+        <name>James A. Garfield</name>
+        <birth-year>1831</birth-year>
+        <death-year>1881</death-year>
+        <took-office-date>1881-03-04</took-office-date>
+        <left-office-date>1881-09-19</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="21">
+        <id>arthur-chester-a</id>
+        <name>Chester A. Arthur</name>
+        <birth-year>1829</birth-year>
+        <death-year>1886</death-year>
+        <took-office-date>1881-09-19</took-office-date>
+        <left-office-date>1885-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="22">
+        <id>cleveland-grover</id>
+        <name>Grover Cleveland</name>
+        <birth-year>1837</birth-year>
+        <death-year>1908</death-year>
+        <took-office-date>1885-03-04</took-office-date>
+        <left-office-date>1889-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="23">
+        <id>harrison-benjamin</id>
+        <name>Benjamin Harrison</name>
+        <birth-year>1833</birth-year>
+        <death-year>1901</death-year>
+        <took-office-date>1889-03-04</took-office-date>
+        <left-office-date>1893-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="24">
+        <id>cleveland-grover</id>
+        <name>Grover Cleveland</name>
+        <birth-year>1837</birth-year>
+        <death-year>1908</death-year>
+        <took-office-date>1893-03-04</took-office-date>
+        <left-office-date>1897-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="25">
+        <id>mckinley-william</id>
+        <name>William McKinley</name>
+        <birth-year>1843</birth-year>
+        <death-year>1901</death-year>
+        <took-office-date>1897-03-04</took-office-date>
+        <left-office-date>1901-09-14</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="26">
+        <id>roosevelt-theodore</id>
+        <name>Theodore Roosevelt</name>
+        <birth-year>1858</birth-year>
+        <death-year>1919</death-year>
+        <took-office-date>1901-09-14</took-office-date>
+        <left-office-date>1909-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="27">
+        <id>taft-william-howard</id>
+        <name>William Howard Taft</name>
+        <birth-year>1857</birth-year>
+        <death-year>1930</death-year>
+        <took-office-date>1909-03-04</took-office-date>
+        <left-office-date>1913-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="28">
+        <id>wilson-woodrow</id>
+        <name>Woodrow Wilson</name>
+        <birth-year>1856</birth-year>
+        <death-year>1924</death-year>
+        <took-office-date>1913-03-04</took-office-date>
+        <left-office-date>1921-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="29">
+        <id>harding-warren-g</id>
+        <name>Warren G. Harding</name>
+        <birth-year>1865</birth-year>
+        <death-year>1923</death-year>
+        <took-office-date>1921-03-04</took-office-date>
+        <left-office-date>1923-08-02</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="30">
+        <id>coolidge-calvin</id>
+        <name>Calvin Coolidge</name>
+        <birth-year>1872</birth-year>
+        <death-year>1933</death-year>
+        <took-office-date>1923-08-02</took-office-date>
+        <left-office-date>1929-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="31">
+        <id>hoover-herbert-c</id>
+        <name>Herbert C. Hoover</name>
+        <birth-year>1874</birth-year>
+        <death-year>1964</death-year>
+        <took-office-date>1929-03-04</took-office-date>
+        <left-office-date>1933-03-04</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="32">
+        <id>roosevelt-franklin-d</id>
+        <name>Franklin D. Roosevelt</name>
+        <birth-year>1882</birth-year>
+        <death-year>1945</death-year>
+        <took-office-date>1933-03-04</took-office-date>
+        <left-office-date>1945-04-12</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="33">
+        <id>truman-harry-s</id>
+        <name>Harry S. Truman</name>
+        <birth-year>1884</birth-year>
+        <death-year>1972</death-year>
+        <took-office-date>1945-04-12</took-office-date>
+        <left-office-date>1953-01-20</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="34">
+        <id>eisenhower-dwight-d</id>
+        <name>Dwight D. Eisenhower</name>
+        <birth-year>1890</birth-year>
+        <death-year>1969</death-year>
+        <took-office-date>1953-01-20</took-office-date>
+        <left-office-date>1961-01-20</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="35">
+        <id>kennedy-john-f</id>
+        <name>John F. Kennedy</name>
+        <birth-year>1917</birth-year>
+        <death-year>1963</death-year>
+        <took-office-date>1961-01-20</took-office-date>
+        <left-office-date>1963-11-22</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="36">
+        <id>johnson-lyndon-b</id>
+        <name>Lyndon B. Johnson</name>
+        <birth-year>1908</birth-year>
+        <death-year>1973</death-year>
+        <took-office-date>1963-11-22</took-office-date>
+        <left-office-date>1969-01-20</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="37">
+        <id>nixon-richard-m</id>
+        <name>Richard M. Nixon</name>
+        <birth-year>1913</birth-year>
+        <death-year>1994</death-year>
+        <took-office-date>1969-01-20</took-office-date>
+        <left-office-date>1974-08-09</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="38">
+        <id>ford-gerald-r</id>
+        <name>Gerald R. Ford</name>
+        <birth-year>1913</birth-year>
+        <death-year>2006</death-year>
+        <took-office-date>1974-08-09</took-office-date>
+        <left-office-date>1977-01-20</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="39">
+        <id>carter-jimmy</id>
+        <name>Jimmy Carter</name>
+        <birth-year>1924</birth-year>
+        <death-year still-alive="true"/>
+        <took-office-date>1977-01-20</took-office-date>
+        <left-office-date>1981-01-20</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="40">
+        <id>reagan-ronald</id>
+        <name>Ronald Reagan</name>
+        <birth-year>1911</birth-year>
+        <death-year>2004</death-year>
+        <took-office-date>1981-01-20</took-office-date>
+        <left-office-date>1989-01-20</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="41">
+        <id>bush-george-h-w</id>
+        <name>George H. W. Bush</name>
+        <birth-year>1924</birth-year>
+        <death-year still-alive="true"/>
+        <took-office-date>1989-01-20</took-office-date>
+        <left-office-date>1993-01-20</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="42">
+        <id>clinton-william-j</id>
+        <name>William J. Clinton</name>
+        <birth-year>1946</birth-year>
+        <death-year still-alive="true"/>
+        <took-office-date>1993-01-20</took-office-date>
+        <left-office-date>2001-01-20</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="43">
+        <id>bush-george-w</id>
+        <name>George W. Bush</name>
+        <birth-year>1946</birth-year>
+        <death-year still-alive="true"/>
+        <took-office-date>2001-01-20</took-office-date>
+        <left-office-date>2009-01-20</left-office-date>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+    <president n="44">
+        <id>obama-barack</id>
+        <name>Barack Obama</name>
+        <birth-year>1961</birth-year>
+        <death-year still-alive="true"/>
+        <took-office-date>2009-01-20</took-office-date>
+        <left-office-date still-in-office="true"/>
+        <created-by>admin</created-by>
+        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <last-modified-by>admin</last-modified-by>
+        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>admin</released-by>
+        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+    </president>
+</presidents>
