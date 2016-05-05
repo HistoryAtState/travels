@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3370</id>
@@ -12,11 +13,6 @@
         <created-datetime>2013-12-16T06:25:22.673-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:25:22.673-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:25:22.673-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3371</id>
@@ -32,11 +28,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3372</id>
@@ -51,11 +42,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3373</id>
@@ -71,11 +57,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3374</id>
@@ -90,11 +71,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3375</id>
@@ -109,11 +85,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3376</id>
@@ -128,11 +99,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3377</id>
@@ -147,11 +113,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3378</id>
@@ -166,11 +127,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3379</id>
@@ -185,11 +141,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3380</id>
@@ -205,11 +156,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3381</id>
@@ -224,11 +170,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3382</id>
@@ -244,11 +185,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3383</id>
@@ -264,11 +200,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3384</id>
@@ -284,11 +215,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3385</id>
@@ -303,11 +229,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3386</id>
@@ -322,11 +243,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3387</id>
@@ -341,11 +257,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3388</id>
@@ -360,11 +271,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3389</id>
@@ -379,11 +285,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3390</id>
@@ -398,11 +299,6 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="acheson-dean-gooderham" role="secretary">
         <id>3391</id>
@@ -417,10 +313,5 @@
         <created-datetime>2013-12-16T06:39:58.699-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T06:39:58.699-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-12-16T06:39:58.699-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
 </trips>

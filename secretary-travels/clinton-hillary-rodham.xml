@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2986</id>
@@ -12,11 +13,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2987</id>
@@ -31,11 +27,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2988</id>
@@ -50,11 +41,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2989</id>
@@ -69,11 +55,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2990</id>
@@ -89,11 +70,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2991</id>
@@ -109,11 +85,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2992</id>
@@ -128,11 +99,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2993</id>
@@ -148,11 +114,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2994</id>
@@ -167,11 +128,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2995</id>
@@ -186,11 +142,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2996</id>
@@ -205,11 +156,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2997</id>
@@ -224,11 +170,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2998</id>
@@ -243,11 +184,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>2999</id>
@@ -262,11 +198,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3000</id>
@@ -281,11 +212,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3001</id>
@@ -300,11 +226,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3002</id>
@@ -319,11 +240,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3003</id>
@@ -338,11 +254,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3004</id>
@@ -357,11 +268,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3005</id>
@@ -377,11 +283,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3006</id>
@@ -398,11 +299,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3007</id>
@@ -417,11 +313,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3008</id>
@@ -437,11 +328,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3009</id>
@@ -456,11 +342,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3010</id>
@@ -476,11 +357,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3011</id>
@@ -496,11 +372,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3012</id>
@@ -516,11 +387,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3013</id>
@@ -535,11 +401,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3014</id>
@@ -555,11 +416,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3015</id>
@@ -575,11 +431,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3016</id>
@@ -595,11 +446,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3017</id>
@@ -614,11 +460,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3018</id>
@@ -633,11 +474,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3019</id>
@@ -652,11 +488,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3020</id>
@@ -672,11 +503,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3021</id>
@@ -691,11 +517,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3022</id>
@@ -710,11 +531,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3023</id>
@@ -731,11 +547,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3024</id>
@@ -752,11 +563,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3025</id>
@@ -771,11 +577,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3026</id>
@@ -790,11 +591,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3027</id>
@@ -809,11 +605,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3028</id>
@@ -829,11 +620,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3029</id>
@@ -849,11 +635,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3030</id>
@@ -869,11 +650,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3031</id>
@@ -888,11 +664,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3032</id>
@@ -908,11 +679,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3033</id>
@@ -927,11 +693,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3034</id>
@@ -947,11 +708,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3035</id>
@@ -966,11 +722,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3036</id>
@@ -986,11 +737,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3037</id>
@@ -1005,11 +751,6 @@
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3047</id>
@@ -1024,11 +765,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3048</id>
@@ -1043,11 +779,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3049</id>
@@ -1063,11 +794,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3050</id>
@@ -1083,11 +809,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3051</id>
@@ -1103,11 +824,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3052</id>
@@ -1124,11 +840,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3053</id>
@@ -1143,11 +854,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3054</id>
@@ -1162,11 +868,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3055</id>
@@ -1182,11 +883,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3056</id>
@@ -1202,11 +898,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3057</id>
@@ -1222,11 +913,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3058</id>
@@ -1242,11 +928,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3059</id>
@@ -1261,11 +942,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3060</id>
@@ -1281,11 +957,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3061</id>
@@ -1301,11 +972,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3062</id>
@@ -1321,11 +987,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3063</id>
@@ -1341,11 +1002,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3064</id>
@@ -1360,11 +1016,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3065</id>
@@ -1381,11 +1032,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3066</id>
@@ -1400,11 +1046,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3067</id>
@@ -1420,11 +1061,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3068</id>
@@ -1439,11 +1075,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3069</id>
@@ -1458,11 +1089,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3070</id>
@@ -1478,11 +1104,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3071</id>
@@ -1498,11 +1119,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3072</id>
@@ -1519,11 +1135,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3073</id>
@@ -1538,11 +1149,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3074</id>
@@ -1558,11 +1164,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3075</id>
@@ -1578,11 +1179,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3076</id>
@@ -1599,11 +1195,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3077</id>
@@ -1619,11 +1210,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3078</id>
@@ -1640,11 +1226,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3079</id>
@@ -1660,11 +1241,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3080</id>
@@ -1679,11 +1255,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3081</id>
@@ -1699,11 +1270,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3082</id>
@@ -1718,11 +1284,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3083</id>
@@ -1737,11 +1298,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3084</id>
@@ -1757,11 +1313,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3085</id>
@@ -1776,11 +1327,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3086</id>
@@ -1795,11 +1341,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3087</id>
@@ -1815,11 +1356,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3088</id>
@@ -1834,11 +1370,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3089</id>
@@ -1853,11 +1384,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3090</id>
@@ -1872,11 +1398,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3091</id>
@@ -1891,11 +1412,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3092</id>
@@ -1911,11 +1427,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3093</id>
@@ -1931,11 +1442,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3094</id>
@@ -1951,11 +1457,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3095</id>
@@ -1971,11 +1472,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3096</id>
@@ -1991,11 +1487,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3097</id>
@@ -2011,11 +1502,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3098</id>
@@ -2030,11 +1516,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3099</id>
@@ -2050,11 +1531,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3100</id>
@@ -2069,11 +1545,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:10:17.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3150</id>
@@ -2088,11 +1559,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3151</id>
@@ -2107,11 +1573,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3152</id>
@@ -2126,11 +1587,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3153</id>
@@ -2145,11 +1601,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3154</id>
@@ -2165,11 +1616,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3155</id>
@@ -2184,11 +1630,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3156</id>
@@ -2203,11 +1644,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3157</id>
@@ -2223,11 +1659,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3158</id>
@@ -2243,11 +1674,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3159</id>
@@ -2262,11 +1688,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3160</id>
@@ -2282,11 +1703,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3161</id>
@@ -2301,11 +1717,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3162</id>
@@ -2320,11 +1731,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3163</id>
@@ -2339,11 +1745,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3164</id>
@@ -2360,11 +1761,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3165</id>
@@ -2379,11 +1775,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3166</id>
@@ -2398,11 +1789,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3167</id>
@@ -2417,11 +1803,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3168</id>
@@ -2437,11 +1818,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3169</id>
@@ -2456,11 +1832,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3170</id>
@@ -2476,11 +1847,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3171</id>
@@ -2495,11 +1861,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3172</id>
@@ -2514,11 +1875,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3173</id>
@@ -2534,11 +1890,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3174</id>
@@ -2554,11 +1905,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3175</id>
@@ -2574,11 +1920,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3176</id>
@@ -2594,11 +1935,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3177</id>
@@ -2613,11 +1949,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3178</id>
@@ -2633,11 +1964,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3179</id>
@@ -2653,11 +1979,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3180</id>
@@ -2672,11 +1993,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3181</id>
@@ -2693,11 +2009,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3182</id>
@@ -2714,11 +2025,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3183</id>
@@ -2735,11 +2041,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3184</id>
@@ -2755,11 +2056,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3185</id>
@@ -2774,11 +2070,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3186</id>
@@ -2793,11 +2084,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3187</id>
@@ -2813,11 +2099,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3188</id>
@@ -2832,11 +2113,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3189</id>
@@ -2851,11 +2127,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3190</id>
@@ -2871,11 +2142,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3191</id>
@@ -2891,11 +2157,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3192</id>
@@ -2910,11 +2171,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3193</id>
@@ -2930,11 +2186,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3194</id>
@@ -2950,11 +2201,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3195</id>
@@ -2970,11 +2216,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3196</id>
@@ -2990,11 +2231,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3197</id>
@@ -3010,11 +2246,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3198</id>
@@ -3029,11 +2260,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3199</id>
@@ -3049,11 +2275,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3200</id>
@@ -3070,11 +2291,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3201</id>
@@ -3090,11 +2306,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3202</id>
@@ -3110,11 +2321,6 @@
         <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-11T16:59:41.331-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3488</id>
@@ -3129,11 +2335,6 @@
         <created-datetime>2015-03-23</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2015-03-23</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>marrsaw</released-by>
-        <release-datetime>2015-03-23</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3211</id>
@@ -3148,11 +2349,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3212</id>
@@ -3168,11 +2364,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3213</id>
@@ -3188,11 +2379,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3214</id>
@@ -3207,11 +2393,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3215</id>
@@ -3226,11 +2407,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3216</id>
@@ -3245,11 +2421,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3217</id>
@@ -3265,11 +2436,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3218</id>
@@ -3285,11 +2451,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3219</id>
@@ -3304,11 +2465,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3220</id>
@@ -3324,11 +2480,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3221</id>
@@ -3344,11 +2495,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3222</id>
@@ -3364,11 +2510,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3223</id>
@@ -3385,11 +2526,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3224</id>
@@ -3406,11 +2542,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3225</id>
@@ -3425,11 +2556,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3226</id>
@@ -3445,11 +2571,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3227</id>
@@ -3465,11 +2586,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3228</id>
@@ -3484,11 +2600,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3229</id>
@@ -3504,11 +2615,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3230</id>
@@ -3524,11 +2630,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3231</id>
@@ -3544,11 +2645,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3232</id>
@@ -3564,11 +2660,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3233</id>
@@ -3585,11 +2676,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:37:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3234</id>
@@ -3605,11 +2691,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3235</id>
@@ -3625,11 +2706,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3236</id>
@@ -3645,11 +2721,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3237</id>
@@ -3665,11 +2736,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3238</id>
@@ -3686,11 +2752,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3239</id>
@@ -3705,11 +2766,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3240</id>
@@ -3724,11 +2780,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3241</id>
@@ -3745,11 +2796,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3242</id>
@@ -3766,11 +2812,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3243</id>
@@ -3786,11 +2827,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3244</id>
@@ -3806,11 +2842,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3245</id>
@@ -3827,11 +2858,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3246</id>
@@ -3847,11 +2873,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3247</id>
@@ -3867,11 +2888,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3248</id>
@@ -3888,11 +2904,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3249</id>
@@ -3908,11 +2919,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3250</id>
@@ -3928,11 +2934,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3251</id>
@@ -3951,11 +2952,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3252</id>
@@ -3972,11 +2968,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3253</id>
@@ -3993,11 +2984,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3254</id>
@@ -4012,11 +2998,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3255</id>
@@ -4031,11 +3012,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3256</id>
@@ -4051,11 +3027,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3257</id>
@@ -4072,11 +3043,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3258</id>
@@ -4091,11 +3057,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3259</id>
@@ -4114,11 +3075,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3260</id>
@@ -4134,11 +3090,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3261</id>
@@ -4154,11 +3105,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3262</id>
@@ -4173,11 +3119,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3263</id>
@@ -4193,11 +3134,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3264</id>
@@ -4212,11 +3148,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3265</id>
@@ -4233,11 +3164,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3266</id>
@@ -4253,11 +3179,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3267</id>
@@ -4272,11 +3193,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3268</id>
@@ -4292,11 +3208,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3269</id>
@@ -4313,11 +3224,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3270</id>
@@ -4333,11 +3239,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3271</id>
@@ -4353,11 +3254,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3272</id>
@@ -4372,11 +3268,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3273</id>
@@ -4392,11 +3283,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3274</id>
@@ -4411,11 +3297,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3275</id>
@@ -4431,11 +3312,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3276</id>
@@ -4451,11 +3327,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3277</id>
@@ -4472,11 +3343,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3278</id>
@@ -4493,11 +3359,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3279</id>
@@ -4513,11 +3374,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3280</id>
@@ -4532,11 +3388,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3281</id>
@@ -4552,11 +3403,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3282</id>
@@ -4571,11 +3417,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3283</id>
@@ -4591,11 +3432,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3284</id>
@@ -4610,11 +3446,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3285</id>
@@ -4630,11 +3461,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3286</id>
@@ -4650,11 +3476,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3287</id>
@@ -4671,11 +3492,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3288</id>
@@ -4691,11 +3507,6 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3289</id>
@@ -4711,10 +3522,5 @@
         <created-datetime>2013-01-30T18:24:22.822-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-30T18:24:22.822-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-30T18:24:22.822-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
 </trips>

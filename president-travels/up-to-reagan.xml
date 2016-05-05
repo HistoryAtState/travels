@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="roosevelt-theodore" role="president">
         <id>2655</id>
@@ -13,11 +14,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="taft-william-howard" role="president">
         <id>2656</id>
@@ -33,11 +29,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="taft-william-howard" role="president">
         <id>2657</id>
@@ -52,11 +43,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2658</id>
@@ -71,11 +57,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2659</id>
@@ -91,11 +72,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2660</id>
@@ -110,11 +86,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2661</id>
@@ -129,11 +100,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2662</id>
@@ -148,11 +114,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2663</id>
@@ -166,11 +127,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2664</id>
@@ -185,11 +141,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2665</id>
@@ -204,11 +155,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2666</id>
@@ -223,11 +169,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2667</id>
@@ -242,11 +183,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="harding-warren-g" role="president">
         <id>2668</id>
@@ -261,11 +197,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="harding-warren-g" role="president">
         <id>2669</id>
@@ -280,11 +211,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="harding-warren-g" role="president">
         <id>2670</id>
@@ -299,11 +225,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="coolidge-calvin" role="president">
         <id>2671</id>
@@ -318,11 +239,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2672</id>
@@ -337,11 +253,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2673</id>
@@ -356,11 +267,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2674</id>
@@ -375,11 +281,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2675</id>
@@ -394,11 +295,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2676</id>
@@ -413,11 +309,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2677</id>
@@ -432,11 +323,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2678</id>
@@ -451,11 +337,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2679</id>
@@ -470,11 +351,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2680</id>
@@ -489,11 +365,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
         <id>2681</id>
@@ -508,11 +379,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2682</id>
@@ -527,11 +393,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2683</id>
@@ -546,11 +407,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2684</id>
@@ -565,11 +421,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2685</id>
@@ -584,11 +435,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2686</id>
@@ -603,11 +449,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2687</id>
@@ -622,11 +463,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2688</id>
@@ -641,11 +477,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2689</id>
@@ -661,11 +492,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2690</id>
@@ -680,11 +506,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2691</id>
@@ -699,11 +520,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2692</id>
@@ -718,11 +534,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2693</id>
@@ -737,11 +548,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2694</id>
@@ -756,11 +562,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2695</id>
@@ -776,11 +577,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2696</id>
@@ -795,11 +591,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2697</id>
@@ -814,11 +605,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2698</id>
@@ -833,11 +619,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2699</id>
@@ -853,11 +634,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2700</id>
@@ -872,11 +648,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2701</id>
@@ -891,11 +662,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2702</id>
@@ -910,11 +676,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2703</id>
@@ -929,11 +690,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2704</id>
@@ -948,11 +704,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2705</id>
@@ -967,11 +718,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2706</id>
@@ -986,11 +732,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2707</id>
@@ -1005,11 +746,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2708</id>
@@ -1025,11 +761,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2709</id>
@@ -1045,11 +776,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2710</id>
@@ -1064,11 +790,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2711</id>
@@ -1083,11 +804,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2712</id>
@@ -1102,11 +818,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2713</id>
@@ -1121,11 +832,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2714</id>
@@ -1140,11 +846,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2715</id>
@@ -1159,11 +860,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2716</id>
@@ -1178,11 +874,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2717</id>
@@ -1197,11 +888,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2718</id>
@@ -1216,11 +902,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2719</id>
@@ -1235,11 +916,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2720</id>
@@ -1254,11 +930,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2721</id>
@@ -1273,11 +944,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2722</id>
@@ -1293,11 +959,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2723</id>
@@ -1313,11 +974,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2724</id>
@@ -1333,11 +989,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2725</id>
@@ -1352,11 +1003,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2726</id>
@@ -1371,11 +1017,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2727</id>
@@ -1390,11 +1031,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2728</id>
@@ -1409,11 +1045,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2729</id>
@@ -1428,11 +1059,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2730</id>
@@ -1447,11 +1073,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2731</id>
@@ -1467,11 +1088,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2732</id>
@@ -1487,11 +1103,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2733</id>
@@ -1507,11 +1118,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2734</id>
@@ -1526,11 +1132,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2735</id>
@@ -1546,11 +1147,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2736</id>
@@ -1565,11 +1161,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>3203</id>
@@ -1584,11 +1175,6 @@
         <created-datetime>2012-09-25T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-09-25T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-09-25T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2737</id>
@@ -1603,11 +1189,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2738</id>
@@ -1623,11 +1204,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2739</id>
@@ -1643,11 +1219,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2740</id>
@@ -1662,11 +1233,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2741</id>
@@ -1681,11 +1247,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2742</id>
@@ -1700,11 +1261,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2743</id>
@@ -1720,11 +1276,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2744</id>
@@ -1740,11 +1291,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2745</id>
@@ -1759,11 +1305,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2746</id>
@@ -1778,11 +1319,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2747</id>
@@ -1797,11 +1333,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2748</id>
@@ -1816,11 +1347,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2749</id>
@@ -1835,11 +1361,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2750</id>
@@ -1854,11 +1375,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2751</id>
@@ -1873,11 +1389,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2752</id>
@@ -1892,11 +1403,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2753</id>
@@ -1912,11 +1418,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2754</id>
@@ -1931,11 +1432,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2755</id>
@@ -1950,11 +1446,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2756</id>
@@ -1968,11 +1459,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2757</id>
@@ -1987,11 +1473,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2758</id>
@@ -2006,11 +1487,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2759</id>
@@ -2025,11 +1501,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2760</id>
@@ -2044,11 +1515,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2761</id>
@@ -2063,11 +1529,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2762</id>
@@ -2083,11 +1544,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2763</id>
@@ -2102,11 +1558,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2764</id>
@@ -2122,11 +1573,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2765</id>
@@ -2141,11 +1587,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2766</id>
@@ -2160,11 +1601,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2767</id>
@@ -2179,11 +1615,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2768</id>
@@ -2198,11 +1629,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2769</id>
@@ -2217,11 +1643,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2770</id>
@@ -2237,11 +1658,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2771</id>
@@ -2257,11 +1673,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2772</id>
@@ -2276,11 +1687,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2773</id>
@@ -2296,11 +1702,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2774</id>
@@ -2315,11 +1716,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2775</id>
@@ -2334,11 +1730,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2776</id>
@@ -2353,11 +1744,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2777</id>
@@ -2372,11 +1758,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2778</id>
@@ -2392,11 +1773,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2779</id>
@@ -2411,11 +1787,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2780</id>
@@ -2430,11 +1801,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2781</id>
@@ -2449,11 +1815,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2782</id>
@@ -2468,11 +1829,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2783</id>
@@ -2487,11 +1843,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2784</id>
@@ -2506,11 +1857,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2785</id>
@@ -2526,11 +1872,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2786</id>
@@ -2545,11 +1886,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2787</id>
@@ -2564,11 +1900,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2788</id>
@@ -2583,11 +1914,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2789</id>
@@ -2602,11 +1928,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2790</id>
@@ -2621,11 +1942,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2791</id>
@@ -2640,11 +1956,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
         <id>2792</id>
@@ -2658,11 +1969,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2793</id>
@@ -2678,11 +1984,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2794</id>
@@ -2697,11 +1998,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2795</id>
@@ -2717,11 +2013,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2796</id>
@@ -2736,11 +2027,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2797</id>
@@ -2755,11 +2041,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2798</id>
@@ -2775,11 +2056,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2799</id>
@@ -2794,11 +2070,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2800</id>
@@ -2813,11 +2084,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2801</id>
@@ -2832,11 +2098,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2802</id>
@@ -2851,11 +2112,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2803</id>
@@ -2871,11 +2127,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2804</id>
@@ -2890,11 +2141,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2805</id>
@@ -2909,11 +2155,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2806</id>
@@ -2929,11 +2170,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2807</id>
@@ -2948,11 +2184,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2808</id>
@@ -2968,11 +2199,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2809</id>
@@ -2988,11 +2214,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2810</id>
@@ -3007,11 +2228,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2811</id>
@@ -3026,11 +2242,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2812</id>
@@ -3045,11 +2256,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2813</id>
@@ -3064,11 +2270,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2814</id>
@@ -3082,11 +2283,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2815</id>
@@ -3101,11 +2297,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2816</id>
@@ -3120,11 +2311,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2817</id>
@@ -3139,11 +2325,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-04-10T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-04-10T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2818</id>
@@ -3158,11 +2339,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2819</id>
@@ -3177,11 +2353,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2820</id>
@@ -3196,11 +2367,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2821</id>
@@ -3215,11 +2381,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-08-29</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2822</id>
@@ -3234,11 +2395,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-08-29</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2823</id>
@@ -3253,11 +2409,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2824</id>
@@ -3272,11 +2423,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2825</id>
@@ -3290,11 +2436,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2826</id>
@@ -3309,11 +2450,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2827</id>
@@ -3328,11 +2464,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2828</id>
@@ -3347,11 +2478,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2829</id>
@@ -3366,11 +2492,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2830</id>
@@ -3385,11 +2506,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2831</id>
@@ -3404,11 +2520,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2832</id>
@@ -3423,11 +2534,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2833</id>
@@ -3442,11 +2548,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2834</id>
@@ -3461,11 +2562,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2835</id>
@@ -3480,11 +2576,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2836</id>
@@ -3500,11 +2591,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2837</id>
@@ -3518,11 +2604,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2838</id>
@@ -3537,11 +2618,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2839</id>
@@ -3556,11 +2632,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2840</id>
@@ -3575,11 +2646,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2841</id>
@@ -3594,11 +2660,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2842</id>
@@ -3613,11 +2674,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2843</id>
@@ -3633,11 +2689,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2844</id>
@@ -3652,11 +2703,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2845</id>
@@ -3671,11 +2717,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2846</id>
@@ -3691,11 +2732,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2847</id>
@@ -3710,11 +2746,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2848</id>
@@ -3730,11 +2761,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2849</id>
@@ -3749,11 +2775,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2850</id>
@@ -3768,11 +2789,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2851</id>
@@ -3788,11 +2804,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2852</id>
@@ -3810,11 +2821,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2853</id>
@@ -3829,11 +2835,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2854</id>
@@ -3848,11 +2849,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2855</id>
@@ -3867,11 +2863,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2856</id>
@@ -3886,11 +2877,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2857</id>
@@ -3905,11 +2891,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2858</id>
@@ -3924,11 +2905,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2859</id>
@@ -3943,11 +2919,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2860</id>
@@ -3964,11 +2935,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
         <id>2861</id>
@@ -3984,11 +2950,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2862</id>
@@ -4004,11 +2965,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2863</id>
@@ -4023,11 +2979,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2864</id>
@@ -4042,11 +2993,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2865</id>
@@ -4062,11 +3008,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2866</id>
@@ -4081,11 +3022,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2867</id>
@@ -4101,11 +3037,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2868</id>
@@ -4121,11 +3052,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2869</id>
@@ -4140,11 +3066,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2870</id>
@@ -4159,11 +3080,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2871</id>
@@ -4177,11 +3093,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2872</id>
@@ -4196,11 +3107,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2873</id>
@@ -4215,11 +3121,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2874</id>
@@ -4237,11 +3138,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2875</id>
@@ -4256,11 +3152,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2876</id>
@@ -4275,11 +3166,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2877</id>
@@ -4295,11 +3181,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2878</id>
@@ -4315,11 +3196,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2879</id>
@@ -4334,11 +3210,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2880</id>
@@ -4353,11 +3224,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2881</id>
@@ -4376,11 +3242,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2882</id>
@@ -4396,11 +3257,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2883</id>
@@ -4415,11 +3271,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2884</id>
@@ -4435,11 +3286,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2885</id>
@@ -4454,11 +3300,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2886</id>
@@ -4473,11 +3314,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2887</id>
@@ -4492,11 +3328,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2888</id>
@@ -4511,11 +3342,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2889</id>
@@ -4531,11 +3357,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2890</id>
@@ -4551,11 +3372,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2891</id>
@@ -4571,11 +3387,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2892</id>
@@ -4591,11 +3402,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2893</id>
@@ -4610,11 +3416,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2894</id>
@@ -4632,11 +3433,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2895</id>
@@ -4652,11 +3448,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2896</id>
@@ -4671,11 +3462,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2897</id>
@@ -4691,11 +3477,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2898</id>
@@ -4711,11 +3492,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2899</id>
@@ -4731,11 +3507,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2900</id>
@@ -4750,11 +3521,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2901</id>
@@ -4770,11 +3536,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2902</id>
@@ -4789,11 +3550,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2903</id>
@@ -4809,11 +3565,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2012-11-09T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2904</id>
@@ -4830,11 +3581,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2905</id>
@@ -4849,11 +3595,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2906</id>
@@ -4870,11 +3611,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2907</id>
@@ -4888,11 +3624,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2908</id>
@@ -4907,11 +3638,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2909</id>
@@ -4926,11 +3652,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2910</id>
@@ -4945,11 +3666,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2911</id>
@@ -4966,11 +3682,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2912</id>
@@ -4985,11 +3696,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2913</id>
@@ -5004,11 +3710,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2914</id>
@@ -5024,11 +3725,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2915</id>
@@ -5046,11 +3742,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2916</id>
@@ -5065,11 +3756,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2917</id>
@@ -5086,11 +3772,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2918</id>
@@ -5105,11 +3786,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2919</id>
@@ -5125,11 +3801,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2920</id>
@@ -5144,11 +3815,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2921</id>
@@ -5162,11 +3828,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2922</id>
@@ -5182,11 +3843,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2923</id>
@@ -5202,11 +3858,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2924</id>
@@ -5221,11 +3872,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2925</id>
@@ -5240,11 +3886,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2926</id>
@@ -5259,11 +3900,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2927</id>
@@ -5278,11 +3914,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2928</id>
@@ -5298,11 +3929,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2929</id>
@@ -5318,11 +3944,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2930</id>
@@ -5337,11 +3958,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2931</id>
@@ -5357,11 +3973,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2932</id>
@@ -5377,11 +3988,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2933</id>
@@ -5396,11 +4002,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2934</id>
@@ -5416,11 +4017,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2935</id>
@@ -5437,11 +4033,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2936</id>
@@ -5460,11 +4051,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2937</id>
@@ -5479,11 +4065,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2938</id>
@@ -5499,11 +4080,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2939</id>
@@ -5519,11 +4095,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2940</id>
@@ -5538,11 +4109,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2941</id>
@@ -5557,11 +4123,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2942</id>
@@ -5577,11 +4138,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2943</id>
@@ -5597,11 +4153,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2944</id>
@@ -5618,11 +4169,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2945</id>
@@ -5637,11 +4183,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2946</id>
@@ -5659,11 +4200,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2947</id>
@@ -5679,11 +4215,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2948</id>
@@ -5699,11 +4230,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2949</id>
@@ -5719,11 +4245,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2950</id>
@@ -5739,11 +4260,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2951</id>
@@ -5761,11 +4277,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2952</id>
@@ -5779,11 +4290,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2953</id>
@@ -5798,11 +4304,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2954</id>
@@ -5817,11 +4318,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2955</id>
@@ -5836,11 +4332,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2956</id>
@@ -5857,11 +4348,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2957</id>
@@ -5877,11 +4363,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2958</id>
@@ -5897,11 +4378,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2959</id>
@@ -5917,11 +4393,6 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
         <id>2960</id>
@@ -5938,10 +4409,5 @@
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
 </trips>

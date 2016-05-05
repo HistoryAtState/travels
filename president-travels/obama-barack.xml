@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="obama-barack" role="president">
         <id>2961</id>
@@ -12,11 +13,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2962</id>
@@ -32,11 +28,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2963</id>
@@ -51,11 +42,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2964</id>
@@ -70,11 +56,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2965</id>
@@ -89,11 +70,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2966</id>
@@ -109,11 +85,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2967</id>
@@ -128,11 +99,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2968</id>
@@ -147,11 +113,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2969</id>
@@ -166,11 +127,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2970</id>
@@ -185,11 +141,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2971</id>
@@ -204,11 +155,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2972</id>
@@ -224,11 +170,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2973</id>
@@ -244,11 +185,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2974</id>
@@ -263,11 +199,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2975</id>
@@ -284,11 +215,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2976</id>
@@ -303,11 +229,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2977</id>
@@ -322,11 +243,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2978</id>
@@ -341,11 +257,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2979</id>
@@ -361,11 +272,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2980</id>
@@ -380,11 +286,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2981</id>
@@ -399,11 +300,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2982</id>
@@ -419,11 +315,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2983</id>
@@ -438,11 +329,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2984</id>
@@ -457,11 +343,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>2985</id>
@@ -476,11 +357,6 @@
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3038</id>
@@ -495,11 +371,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3039</id>
@@ -517,11 +388,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3040</id>
@@ -536,11 +402,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3041</id>
@@ -556,11 +417,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3042</id>
@@ -575,11 +431,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3043</id>
@@ -594,11 +445,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3044</id>
@@ -613,11 +459,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3045</id>
@@ -632,11 +473,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3046</id>
@@ -652,11 +488,6 @@
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:04:19.959-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3047</id>
@@ -671,11 +502,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3048</id>
@@ -690,11 +516,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3049</id>
@@ -709,11 +530,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3050</id>
@@ -729,11 +545,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3051</id>
@@ -749,11 +560,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3052</id>
@@ -768,11 +574,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-11-04</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3053</id>
@@ -787,11 +588,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3054</id>
@@ -806,11 +602,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3055</id>
@@ -826,11 +617,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3056</id>
@@ -845,11 +631,6 @@
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2012-04-02T13:30:57.225-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3204</id>
@@ -865,11 +646,6 @@
         <created-datetime>2013-01-17T08:26:14.331-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T08:26:14.331-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-17T08:56:35.044-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3205</id>
@@ -884,11 +660,6 @@
         <created-datetime>2013-01-17T08:26:14.331-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T08:26:14.331-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-17T08:56:35.044-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3206</id>
@@ -904,11 +675,6 @@
         <created-datetime>2013-01-17T08:26:14.331-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T08:26:14.331-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-17T08:56:35.044-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3207</id>
@@ -923,11 +689,6 @@
         <created-datetime>2013-01-17T08:26:14.331-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T08:26:14.331-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-17T08:56:35.044-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3208</id>
@@ -942,11 +703,6 @@
         <created-datetime>2013-01-17T08:26:14.331-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-02-19T08:26:14.331-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-02-19T08:56:35.044-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3209</id>
@@ -962,11 +718,6 @@
         <created-datetime>2013-01-17T08:26:14.331-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T08:26:14.331-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-17T08:56:35.044-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3210</id>
@@ -982,11 +733,6 @@
         <created-datetime>2013-01-17T08:26:14.331-05:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T08:26:14.331-05:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2013-01-17T08:56:35.044-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3392</id>
@@ -1001,11 +747,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3393</id>
@@ -1020,11 +761,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3394</id>
@@ -1039,11 +775,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3395</id>
@@ -1058,11 +789,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3396</id>
@@ -1078,11 +804,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3397</id>
@@ -1097,11 +818,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3398</id>
@@ -1116,11 +832,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3399</id>
@@ -1135,11 +846,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3400</id>
@@ -1155,11 +861,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3401</id>
@@ -1175,11 +876,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3402</id>
@@ -1194,11 +890,6 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3403</id>
@@ -1213,10 +904,5 @@
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2014-06-10T10:13:29.995-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </trip>
 </trips>
