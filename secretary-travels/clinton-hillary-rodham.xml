@@ -2332,9 +2332,9 @@
         <locale>Prague</locale>
         <remarks>Attended the funeral of former President Vaclav Havel.</remarks>
         <created-by>marrsaw</created-by>
-        <created-datetime>2015-03-23</created-datetime>
+        <created-datetime>2015-03-23T16:59:41.331-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2015-03-23</last-modified-datetime>
+        <last-modified-datetime>2015-03-23T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
         <id>3211</id>

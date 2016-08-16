@@ -388,6 +388,11 @@
         <end-date>1997-07-12</end-date>
         <country id="slovenia">Slovenia</country>
         <locale>Ljubljana</locale>
+        <remarks/>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
         <id>28</id>
@@ -453,6 +458,11 @@
         <end-date>1997-07-30</end-date>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
+        <remarks/>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
         <id>33</id>
@@ -746,6 +756,11 @@
         <end-date>1997-11-19</end-date>
         <country id="india">India</country>
         <locale>New Delhi</locale>
+        <remarks/>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
         <id>54</id>
@@ -1169,6 +1184,7 @@
         <start-date>1998-03-07</start-date>
         <end-date>1998-03-07</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Discussed the Kosovo crisis with Pope John Paul II.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1266,6 +1282,7 @@
         <start-date>1998-03-24</start-date>
         <end-date>1998-03-24</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Discussed the Kosovo crisis and the situation in Cuba with Vatican
             officials.</remarks>
         <created-by>joewiz</created-by>
@@ -2305,6 +2322,7 @@
         <start-date>1999-07-28</start-date>
         <end-date>1999-07-28</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Met with Secretary for Relations with States Tauran.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3444,6 +3462,7 @@
         <start-date>2000-08-01</start-date>
         <end-date>2000-08-01</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Briefed Foreign Minister Tauran on the Middle East peace process.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>

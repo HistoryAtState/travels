@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2522</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -15,7 +15,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2523</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -31,7 +31,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2524</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -46,7 +46,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2525</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -60,7 +60,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2526</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -75,7 +75,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2527</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -89,7 +89,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2528</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -104,7 +104,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2529</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -118,7 +118,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2530</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -132,7 +132,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2531</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -147,20 +147,21 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2532</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-06-02</start-date>
         <end-date>1994-06-02</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2533</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -177,7 +178,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2534</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -192,7 +193,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2535</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -206,7 +207,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2536</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -220,7 +221,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2537</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -235,7 +236,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2538</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -250,7 +251,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2539</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -266,7 +267,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2540</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -280,7 +281,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2541</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -295,7 +296,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2542</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -309,7 +310,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2543</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -323,7 +324,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2544</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -337,7 +338,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2545</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -351,7 +352,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2546</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -365,7 +366,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2547</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -379,7 +380,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2548</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -393,7 +394,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2549</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -407,7 +408,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2550</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -421,7 +422,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2551</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -435,7 +436,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2552</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -449,7 +450,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2553</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -465,7 +466,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2554</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -479,7 +480,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2555</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -494,7 +495,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2556</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -508,7 +509,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2557</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -522,7 +523,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2558</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -536,7 +537,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2559</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -550,7 +551,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2560</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -564,7 +565,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2561</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -578,7 +579,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2562</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -592,7 +593,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2563</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -606,7 +607,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2564</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -620,7 +621,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2565</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -634,7 +635,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2566</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -648,7 +649,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2567</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -663,7 +664,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2568</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -678,7 +679,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2569</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -693,7 +694,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2570</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -708,7 +709,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2571</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -722,7 +723,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2572</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -736,7 +737,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2573</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -751,7 +752,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2574</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -765,7 +766,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2575</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -780,7 +781,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2576</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -794,7 +795,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2577</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -808,7 +809,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2578</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -823,7 +824,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2579</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -837,7 +838,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2580</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -852,7 +853,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2581</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -866,7 +867,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2582</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -880,7 +881,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2583</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -894,7 +895,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2584</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -908,7 +909,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2585</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -922,7 +923,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2586</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -936,7 +937,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2587</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -950,7 +951,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2588</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -964,7 +965,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2589</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -979,7 +980,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2590</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -993,7 +994,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2591</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1008,7 +1009,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2592</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1022,7 +1023,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2593</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1036,7 +1037,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2594</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1050,7 +1051,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2595</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1065,7 +1066,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2596</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1079,7 +1080,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2597</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1094,7 +1095,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2598</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1108,7 +1109,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2599</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1122,7 +1123,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2600</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1136,7 +1137,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2601</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1150,7 +1151,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2602</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1165,7 +1166,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2603</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1180,7 +1181,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2604</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1195,7 +1196,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2605</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1209,7 +1210,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2606</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1223,7 +1224,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2607</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1238,7 +1239,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2608</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1252,7 +1253,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2609</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1266,7 +1267,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2610</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1280,7 +1281,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2611</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1295,7 +1296,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2612</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1309,7 +1310,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2613</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1323,7 +1324,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2614</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1337,7 +1338,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2615</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1352,7 +1353,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2616</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1366,7 +1367,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2617</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1381,7 +1382,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2618</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1395,7 +1396,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2619</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1410,7 +1411,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2620</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1425,7 +1426,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2621</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1439,7 +1440,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2622</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1454,7 +1455,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2623</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1468,7 +1469,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2624</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1482,7 +1483,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2625</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1496,7 +1497,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2626</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1512,7 +1513,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2627</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1527,7 +1528,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2628</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1542,7 +1543,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2629</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1556,7 +1557,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2630</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1570,7 +1571,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2631</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1584,7 +1585,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2632</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1599,7 +1600,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2633</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1613,7 +1614,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2634</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1627,7 +1628,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2635</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1642,7 +1643,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2636</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1656,7 +1657,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2637</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1670,7 +1671,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2638</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1684,7 +1685,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2639</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1698,7 +1699,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2640</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1713,7 +1714,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2641</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1728,7 +1729,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2642</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1742,7 +1743,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2643</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1756,7 +1757,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2644</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1770,7 +1771,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2645</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1784,7 +1785,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2646</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1798,7 +1799,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2647</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1813,7 +1814,7 @@
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-08-21</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2648</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1827,7 +1828,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2649</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1841,7 +1842,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2650</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1855,7 +1856,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2651</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1869,7 +1870,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2652</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1883,7 +1884,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2653</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1897,7 +1898,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2654</id>
         <role>president</role>
         <name>William J. Clinton</name>

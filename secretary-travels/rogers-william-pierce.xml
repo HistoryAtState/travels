@@ -78,6 +78,7 @@
         <start-date>1969-03-02</start-date>
         <end-date>1969-03-02</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Accompanied President Nixon.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -948,6 +949,7 @@
         <start-date>1971-05-08</start-date>
         <end-date>1971-05-08</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1404,6 +1406,7 @@
         <start-date>1972-07-11</start-date>
         <end-date>1972-07-11</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>

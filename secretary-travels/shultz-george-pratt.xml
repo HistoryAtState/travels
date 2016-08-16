@@ -434,12 +434,12 @@
         <end-date>1983-05-08</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jidda</locale>
+        <remarks>Discussed the proposed Israeli-Lebanon agreement with Foreign Minister Prince
+            Saud.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-        <remark>Discussed the proposed Israeli-Lebanon agreement with Foreign Minister Prince
-                Saud.</remark>
     </trip>
     <trip who="shultz-george-pratt" role="secretary">
         <id>1950</id>
@@ -1914,6 +1914,7 @@
         <start-date>1986-03-29</start-date>
         <end-date>1986-03-29</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>

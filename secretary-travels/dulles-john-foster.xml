@@ -844,6 +844,7 @@
         <start-date>1955-10-23</start-date>
         <end-date>1955-10-23</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Audience with Pope Pius XII.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1542,6 +1543,7 @@
         <start-date>1958-10-19</start-date>
         <end-date>1958-10-19</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Attended funeral ceremonies for Pope Pius XII.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>

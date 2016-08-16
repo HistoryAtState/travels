@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2382</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -14,7 +14,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2383</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -28,7 +28,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2384</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -42,7 +42,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2385</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -56,7 +56,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2386</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -71,7 +71,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2387</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -85,7 +85,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2388</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -99,7 +99,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2389</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -113,7 +113,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2390</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -128,7 +128,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2391</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -142,7 +142,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2392</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -156,7 +156,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2393</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -170,7 +170,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2394</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -185,7 +185,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2395</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -199,7 +199,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2396</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -214,7 +214,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2397</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -229,7 +229,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2398</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -243,7 +243,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2399</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -257,7 +257,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2400</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -272,7 +272,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2401</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -287,7 +287,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2402</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -302,20 +302,21 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2403</id>
         <role>president</role>
         <name>George W. Bush</name>
         <start-date>2002-05-28</start-date>
         <end-date>2002-05-28</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2404</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -329,7 +330,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2405</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -343,7 +344,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2406</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -357,7 +358,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2407</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -371,7 +372,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2408</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -385,7 +386,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2409</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -399,7 +400,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2410</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -414,7 +415,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2411</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -429,7 +430,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2412</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -444,7 +445,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2413</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -459,7 +460,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2414</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -474,7 +475,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2415</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -489,7 +490,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2416</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -504,7 +505,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2417</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -519,7 +520,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2418</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -533,7 +534,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2419</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -547,7 +548,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2420</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -561,7 +562,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2421</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -575,7 +576,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2422</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -589,7 +590,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2423</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -603,7 +604,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2424</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -618,7 +619,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2425</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -632,7 +633,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2426</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -646,7 +647,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2427</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -660,7 +661,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2428</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -674,7 +675,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2429</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -688,7 +689,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2430</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -703,7 +704,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2431</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -717,7 +718,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2432</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -731,20 +732,21 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2433</id>
         <role>president</role>
         <name>George W. Bush</name>
         <start-date>2004-06-04</start-date>
         <end-date>2004-06-04</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Met with Pope John Paul II.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2434</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -758,7 +760,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2435</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -772,7 +774,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2436</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -787,7 +789,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2437</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -801,7 +803,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2438</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -815,7 +817,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2439</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -829,7 +831,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2440</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -843,7 +845,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2441</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -857,7 +859,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2442</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -871,20 +873,21 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2443</id>
         <role>president</role>
         <name>George W. Bush</name>
         <start-date>2005-04-06</start-date>
         <end-date>2005-04-08</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Attended the funeral of Pope John Paul II.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2444</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -898,7 +901,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2445</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -912,7 +915,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2446</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -927,7 +930,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2447</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -941,7 +944,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2448</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -955,7 +958,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2449</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -969,7 +972,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2450</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -983,7 +986,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2451</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -997,7 +1000,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2452</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1011,7 +1014,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2453</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1025,7 +1028,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2454</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1039,7 +1042,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2455</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1053,7 +1056,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2456</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1067,7 +1070,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2457</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1081,7 +1084,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2458</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1095,7 +1098,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2459</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1110,7 +1113,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2460</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1124,7 +1127,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2461</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1138,7 +1141,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2462</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1152,7 +1155,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2463</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1166,7 +1169,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2464</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1180,7 +1183,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2465</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1195,7 +1198,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2466</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1209,7 +1212,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2467</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1224,7 +1227,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2468</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1238,7 +1241,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2469</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1253,7 +1256,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2470</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1267,7 +1270,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2471</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1281,7 +1284,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2472</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1295,7 +1298,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2473</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1309,7 +1312,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2474</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1323,7 +1326,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2475</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1337,7 +1340,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2476</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1351,7 +1354,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2477</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1365,7 +1368,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2478</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1379,7 +1382,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2479</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1393,7 +1396,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2480</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1408,7 +1411,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2481</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1423,7 +1426,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2482</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1437,7 +1440,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2483</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1451,20 +1454,21 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2484</id>
         <role>president</role>
         <name>George W. Bush</name>
         <start-date>2007-06-09</start-date>
         <end-date>2007-06-09</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Audience with Pope Benedict XVI.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2485</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1478,7 +1482,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2486</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1492,7 +1496,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2487</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1507,7 +1511,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2488</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1522,7 +1526,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2489</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1536,7 +1540,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2490</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1550,7 +1554,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2491</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1564,7 +1568,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2492</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1579,7 +1583,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2493</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1594,7 +1598,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2494</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1609,7 +1613,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2495</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1623,7 +1627,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2496</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1637,7 +1641,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2497</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1651,7 +1655,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2498</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1665,7 +1669,7 @@
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-08-21</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2499</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1679,7 +1683,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2500</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1693,7 +1697,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2501</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1707,7 +1711,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2502</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1721,7 +1725,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2503</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1737,7 +1741,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2504</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1751,7 +1755,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2505</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1765,7 +1769,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2506</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1780,7 +1784,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2507</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1794,7 +1798,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2508</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1810,7 +1814,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2509</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1825,7 +1829,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2510</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1839,7 +1843,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2511</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1853,20 +1857,21 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2512</id>
         <role>president</role>
         <name>George W. Bush</name>
         <start-date>2008-06-13</start-date>
         <end-date>2008-06-13</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Met with Pope Benedict XVI.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2513</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1881,7 +1886,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2514</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1897,7 +1902,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2515</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1912,7 +1917,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2516</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1926,7 +1931,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2517</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1940,7 +1945,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2518</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1955,7 +1960,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2519</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1969,7 +1974,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2520</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1984,7 +1989,7 @@
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w">
+    <trip who="bush-george-w" role="president">
         <id>2521</id>
         <role>president</role>
         <name>George W. Bush</name>

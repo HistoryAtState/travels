@@ -992,6 +992,7 @@
         <start-date>1974-07-06</start-date>
         <end-date>1974-07-06</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1543,6 +1544,11 @@
         <end-date>1975-02-13</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
+        <remarks/>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kissinger-henry-a" role="secretary">
         <id>1085</id>
@@ -1935,6 +1941,7 @@
         <start-date>1975-06-03</start-date>
         <end-date>1975-06-03</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Accompanied President Ford.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>

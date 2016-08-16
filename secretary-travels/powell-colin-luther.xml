@@ -1114,6 +1114,7 @@
         <start-date>2002-05-28</start-date>
         <end-date>2002-05-28</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Met with Secretary of State Sodano.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1783,6 +1784,7 @@
         <start-date>2003-06-02</start-date>
         <end-date>2003-06-02</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Briefed Pope John Paul II on the Middle East Summit and relief efforts in
             Iraq.</remarks>
         <created-by>joewiz</created-by>
@@ -2493,6 +2495,7 @@
         <start-date>2004-06-04</start-date>
         <end-date>2004-06-04</end-date>
         <country id="holy-see">Vatican City</country>
+        <locale/>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
