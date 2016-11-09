@@ -10,12 +10,9 @@
         <took-office-date>1789-04-30</took-office-date>
         <left-office-date>1797-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="2">
         <id>adams-john</id>
@@ -25,12 +22,9 @@
         <took-office-date>1797-03-04</took-office-date>
         <left-office-date>1801-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="3">
         <id>jefferson-thomas</id>
@@ -40,12 +34,9 @@
         <took-office-date>1801-03-04</took-office-date>
         <left-office-date>1809-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="4">
         <id>madison-james</id>
@@ -55,12 +46,9 @@
         <took-office-date>1809-03-04</took-office-date>
         <left-office-date>1817-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="5">
         <id>monroe-james</id>
@@ -70,12 +58,9 @@
         <took-office-date>1817-03-04</took-office-date>
         <left-office-date>1825-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="6">
         <id>adams-john-quincy</id>
@@ -85,12 +70,9 @@
         <took-office-date>1825-03-04</took-office-date>
         <left-office-date>1829-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="7">
         <id>jackson-andrew</id>
@@ -100,12 +82,9 @@
         <took-office-date>1829-03-04</took-office-date>
         <left-office-date>1837-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="8">
         <id>buren-martin-van</id>
@@ -115,12 +94,9 @@
         <took-office-date>1837-03-04</took-office-date>
         <left-office-date>1841-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="9">
         <id>harrison-william-henry</id>
@@ -130,12 +106,9 @@
         <took-office-date>1841-03-04</took-office-date>
         <left-office-date>1841-04-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="10">
         <id>tyler-john</id>
@@ -145,12 +118,9 @@
         <took-office-date>1841-04-04</took-office-date>
         <left-office-date>1845-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="11">
         <id>polk-james-k</id>
@@ -160,12 +130,9 @@
         <took-office-date>1845-03-04</took-office-date>
         <left-office-date>1849-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="12">
         <id>taylor-zachary</id>
@@ -175,12 +142,9 @@
         <took-office-date>1849-03-04</took-office-date>
         <left-office-date>1850-07-09</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="13">
         <id>fillmore-millard</id>
@@ -190,12 +154,9 @@
         <took-office-date>1850-07-09</took-office-date>
         <left-office-date>1853-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="14">
         <id>pierce-franklin</id>
@@ -205,12 +166,9 @@
         <took-office-date>1853-03-04</took-office-date>
         <left-office-date>1857-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="15">
         <id>buchanan-james</id>
@@ -220,12 +178,9 @@
         <took-office-date>1857-03-04</took-office-date>
         <left-office-date>1861-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="16">
         <id>lincoln-abraham</id>
@@ -235,12 +190,9 @@
         <took-office-date>1861-03-04</took-office-date>
         <left-office-date>1865-04-15</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="17">
         <id>johnson-andrew</id>
@@ -250,12 +202,9 @@
         <took-office-date>1865-04-15</took-office-date>
         <left-office-date>1869-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="18">
         <id>grant-ulysses-s</id>
@@ -265,12 +214,9 @@
         <took-office-date>1869-03-04</took-office-date>
         <left-office-date>1877-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="19">
         <id>hayes-rutherford-b</id>
@@ -280,12 +226,9 @@
         <took-office-date>1877-03-04</took-office-date>
         <left-office-date>1881-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="20">
         <id>garfield-james-a</id>
@@ -295,12 +238,9 @@
         <took-office-date>1881-03-04</took-office-date>
         <left-office-date>1881-09-19</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="21">
         <id>arthur-chester-a</id>
@@ -310,12 +250,9 @@
         <took-office-date>1881-09-19</took-office-date>
         <left-office-date>1885-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="22">
         <id>cleveland-grover</id>
@@ -325,12 +262,9 @@
         <took-office-date>1885-03-04</took-office-date>
         <left-office-date>1889-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="23">
         <id>harrison-benjamin</id>
@@ -340,12 +274,9 @@
         <took-office-date>1889-03-04</took-office-date>
         <left-office-date>1893-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="24">
         <id>cleveland-grover</id>
@@ -355,12 +286,9 @@
         <took-office-date>1893-03-04</took-office-date>
         <left-office-date>1897-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="25">
         <id>mckinley-william</id>
@@ -370,12 +298,9 @@
         <took-office-date>1897-03-04</took-office-date>
         <left-office-date>1901-09-14</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="26">
         <id>roosevelt-theodore</id>
@@ -385,12 +310,9 @@
         <took-office-date>1901-09-14</took-office-date>
         <left-office-date>1909-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="27">
         <id>taft-william-howard</id>
@@ -400,12 +322,9 @@
         <took-office-date>1909-03-04</took-office-date>
         <left-office-date>1913-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="28">
         <id>wilson-woodrow</id>
@@ -415,12 +334,9 @@
         <took-office-date>1913-03-04</took-office-date>
         <left-office-date>1921-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="29">
         <id>harding-warren-g</id>
@@ -430,12 +346,9 @@
         <took-office-date>1921-03-04</took-office-date>
         <left-office-date>1923-08-02</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="30">
         <id>coolidge-calvin</id>
@@ -445,12 +358,9 @@
         <took-office-date>1923-08-02</took-office-date>
         <left-office-date>1929-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="31">
         <id>hoover-herbert-c</id>
@@ -460,12 +370,9 @@
         <took-office-date>1929-03-04</took-office-date>
         <left-office-date>1933-03-04</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="32">
         <id>roosevelt-franklin-d</id>
@@ -475,12 +382,9 @@
         <took-office-date>1933-03-04</took-office-date>
         <left-office-date>1945-04-12</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="33">
         <id>truman-harry-s</id>
@@ -490,12 +394,9 @@
         <took-office-date>1945-04-12</took-office-date>
         <left-office-date>1953-01-20</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="34">
         <id>eisenhower-dwight-d</id>
@@ -505,12 +406,9 @@
         <took-office-date>1953-01-20</took-office-date>
         <left-office-date>1961-01-20</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="35">
         <id>kennedy-john-f</id>
@@ -520,12 +418,9 @@
         <took-office-date>1961-01-20</took-office-date>
         <left-office-date>1963-11-22</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="36">
         <id>johnson-lyndon-b</id>
@@ -535,12 +430,9 @@
         <took-office-date>1963-11-22</took-office-date>
         <left-office-date>1969-01-20</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="37">
         <id>nixon-richard-m</id>
@@ -550,12 +442,9 @@
         <took-office-date>1969-01-20</took-office-date>
         <left-office-date>1974-08-09</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="38">
         <id>ford-gerald-r</id>
@@ -565,12 +454,9 @@
         <took-office-date>1974-08-09</took-office-date>
         <left-office-date>1977-01-20</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="39">
         <id>carter-jimmy</id>
@@ -580,12 +466,9 @@
         <took-office-date>1977-01-20</took-office-date>
         <left-office-date>1981-01-20</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="40">
         <id>reagan-ronald</id>
@@ -595,12 +478,9 @@
         <took-office-date>1981-01-20</took-office-date>
         <left-office-date>1989-01-20</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="41">
         <id>bush-george-h-w</id>
@@ -610,12 +490,9 @@
         <took-office-date>1989-01-20</took-office-date>
         <left-office-date>1993-01-20</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="42">
         <id>clinton-william-j</id>
@@ -625,12 +502,9 @@
         <took-office-date>1993-01-20</took-office-date>
         <left-office-date>2001-01-20</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="43">
         <id>bush-george-w</id>
@@ -640,12 +514,9 @@
         <took-office-date>2001-01-20</took-office-date>
         <left-office-date>2009-01-20</left-office-date>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
     </president>
     <president n="44">
         <id>obama-barack</id>
@@ -655,11 +526,20 @@
         <took-office-date>2009-01-20</took-office-date>
         <left-office-date still-in-office="true"/>
         <created-by>admin</created-by>
-        <created-datetime>2011-08-18T19:53:07.947-04:00</created-datetime>
+        <created-date>2011-08-18</created-date>
         <last-modified-by>admin</last-modified-by>
-        <last-modified-datetime>2011-08-18T19:53:07.947-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>admin</released-by>
-        <release-datetime>2011-08-18T19:53:07.947-04:00</release-datetime>
+        <last-modified-date>2011-08-18</last-modified-date>
+    </president>
+    <president n="45">
+        <id>trump-donald-j</id>
+        <name>Donald J. Trump</name>
+        <birth-year>1946</birth-year>
+        <death-year still-alive="true"/>
+        <took-office-date>2017-01-20</took-office-date>
+        <left-office-date/>
+        <created-by>wicentowskijc</created-by>
+        <created-date>2016-11-09</created-date>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-date>2016-11-09</last-modified-date>
     </president>
 </presidents>
