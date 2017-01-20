@@ -524,11 +524,11 @@
         <birth-year>1961</birth-year>
         <death-year still-alive="true"/>
         <took-office-date>2009-01-20</took-office-date>
-        <left-office-date still-in-office="true"/>
+        <left-office-date>2017-01-20</left-office-date>
         <created-by>admin</created-by>
         <created-date>2011-08-18</created-date>
-        <last-modified-by>admin</last-modified-by>
-        <last-modified-date>2011-08-18</last-modified-date>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-date>2017-01-20</last-modified-date>
     </president>
     <president n="45">
         <id>trump-donald-j</id>
@@ -536,10 +536,10 @@
         <birth-year>1946</birth-year>
         <death-year still-alive="true"/>
         <took-office-date>2017-01-20</took-office-date>
-        <left-office-date/>
+        <left-office-date still-in-office="true"/>
         <created-by>wicentowskijc</created-by>
         <created-date>2016-11-09</created-date>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-date>2016-11-09</last-modified-date>
+        <last-modified-date>2017-01-20</last-modified-date>
     </president>
 </presidents>
