@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="shultz-george-pratt" role="secretary">
         <id>1919</id>
@@ -122,7 +122,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting and met with European Economic Community
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -207,8 +207,7 @@
         <end-date>1983-02-02</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Nakasone and Foreign Minister
-                Abe.</remarks>
+        <remarks>Nakasone and Foreign Minister Abe.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -237,7 +236,7 @@
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with President Chun and Prime Minister Kim. Visited American and Korean
-                military personnel.</remarks>
+            military personnel.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -252,7 +251,7 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Hong Kong</locale>
         <remarks>Attended a meeting of Chiefs of U.S. Diplomatic Missions in Asia and the
-                Pacific.</remarks>
+            Pacific.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -547,8 +546,7 @@
         <end-date>1983-07-04</end-date>
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad, Peshawar</locale>
-        <remarks>Foreign Minister
-                Yaqub Khan. Visited an Afghan refugee camp.</remarks>
+        <remarks>Foreign Minister Yaqub Khan. Visited an Afghan refugee camp.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -660,8 +658,8 @@
         <end-date>1983-09-09</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
-        <remarks>Attended the final session of the CSCE Follow-up Meeting. Met with Soviet
-                Foreign Minister Gromyko.</remarks>
+        <remarks>Attended the final session of the CSCE Follow-up Meeting. Met with Soviet Foreign
+            Minister Gromyko.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -675,8 +673,7 @@
         <end-date>1983-10-20</end-date>
         <country id="canada">Canada</country>
         <locale>Halifax</locale>
-        <remarks>Signed the Great Lakes (Nova Scotia) Phosphorus Load Reduction
-            Agreement.</remarks>
+        <remarks>Signed the Great Lakes (Nova Scotia) Phosphorus Load Reduction Agreement.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -691,7 +688,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed the Lebanon situation with the Foreign Ministers of France, Italy, and
-                the United Kingdom.</remarks>
+            the United Kingdom.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -817,8 +814,8 @@
         <end-date>1984-01-19</end-date>
         <country id="sweden">Sweden</country>
         <locale>Stockholm</locale>
-        <remarks>Attended the opening session of the Conference on Confidence- and
-                Security-Building Measures and Disarmament in Europe.</remarks>
+        <remarks>Attended the opening session of the Conference on Confidence- and Security-Building
+            Measures and Disarmament in Europe.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -861,7 +858,7 @@
         <country id="venezuela">Venezuela</country>
         <locale>Caracas</locale>
         <remarks>Attended the inauguration of President Lusinchi and met with Central American
-                Foreign Ministers.</remarks>
+            Foreign Ministers.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -889,8 +886,8 @@
         <end-date>1984-02-07</end-date>
         <country id="grenada">Grenada</country>
         <locale>St. George's</locale>
-        <remarks>Met with the Governor General and members of the interim government; attended
-                10th anniversary of independence celebrations.</remarks>
+        <remarks>Met with the Governor General and members of the interim government; attended 10th
+            anniversary of independence celebrations.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -904,8 +901,7 @@
         <end-date>1984-02-08</end-date>
         <country id="barbados">Barbados</country>
         <locale>Bridgetown</locale>
-        <remarks>Met with representatives of the Organization of Eastern Caribbean
-            States.</remarks>
+        <remarks>Met with representatives of the Organization of Eastern Caribbean States.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1228,7 +1224,7 @@
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Discussed future strategic arms negotiations with Soviet Foreign Minister
-                Gromyko.</remarks>
+            Gromyko.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1271,7 +1267,7 @@
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
         <remarks>Attended the inauguration of President Sanguinetti. Returned to Washington March
-                3.</remarks>
+            3.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1329,7 +1325,7 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Accompanied President Reagan to the Economic Summit Meeting and on a State
-                visit.</remarks>
+            visit.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1428,7 +1424,7 @@
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Attended ceremonies commemorating the 30th anniversary of the Austrian State
-                Treaty. Met with Soviet Foreign Minister Gromyko.</remarks>
+            Treaty. Met with Soviet Foreign Minister Gromyko.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1456,8 +1452,8 @@
         <end-date>1985-06-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Prime Minister Thatcher. Attended a conference of U.S. Chiefs of
-                Mission. Returned by way of Bermuda.</remarks>
+        <remarks>Met with Prime Minister Thatcher. Attended a conference of U.S. Chiefs of Mission.
+            Returned by way of Bermuda.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1486,7 +1482,7 @@
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
         <remarks>Met with Prime Minister Prem and senior Thai officials. Also visited Cambodian
-                refugee camps on the Thai border.</remarks>
+            refugee camps on the Thai border.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1557,8 +1553,8 @@
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Attended ceremonies commemorating 10th anniversary of the Final Act of the
-                Conference on Security and Cooperation in Europe. Met with Soviet Foreign Minister
-                Shevardnadze.</remarks>
+            Conference on Security and Cooperation in Europe. Met with Soviet Foreign Minister
+            Shevardnadze.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1615,7 +1611,7 @@
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Met with President Koivisto and Foreign Minister Vayrynen while en route to
-                Moscow.</remarks>
+            Moscow.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1658,7 +1654,7 @@
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Accompanied President Reagan to the Summit Meeting with Soviet General Secretary
-                Gorbachev.</remarks>
+            Gorbachev.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1715,7 +1711,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting and a U.S.-European Community Ministerial
-                Meeting.</remarks>
+            Meeting.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1785,8 +1781,7 @@
         <end-date>1985-12-18</end-date>
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade</locale>
-        <remarks>Met with Prime Minister Planinc and Foreign Affairs Secretary
-            Dizdarevic.</remarks>
+        <remarks>Met with Prime Minister Planinc and Foreign Affairs Secretary Dizdarevic.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1843,7 +1838,7 @@
         <country id="sweden">Sweden</country>
         <locale>Stockholm</locale>
         <remarks>Attended the funeral of Prime Minister Palme and met with Soviet Premier
-                Ryzhkov.</remarks>
+            Ryzhkov.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1871,8 +1866,8 @@
         <end-date>1986-03-25</end-date>
         <country id="turkey">Turkey</country>
         <locale>Istanbul, Ankara</locale>
-        <remarks>Discussed economic and defense matters with Prime Minister Ozal and senior
-                Turkish officials.</remarks>
+        <remarks>Discussed economic and defense matters with Prime Minister Ozal and senior Turkish
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1887,7 +1882,7 @@
         <country id="greece">Greece</country>
         <locale>Athens</locale>
         <remarks>Discussed defense issues with Prime Minister Papandreou and senior Greek
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2041,8 +2036,8 @@
         <end-date>1986-06-28</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Attended ASEAN Post-Ministerial Meeting. Also met with New Zealand Prime
-                Minister Lange.</remarks>
+        <remarks>Attended ASEAN Post-Ministerial Meeting. Also met with New Zealand Prime Minister
+            Lange.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2113,7 +2108,7 @@
         <country id="iceland">Iceland</country>
         <locale>Reykjavik</locale>
         <remarks>Accompanied President Reagan to a meeting with Soviet General Secretary
-                Gorbachev.</remarks>
+            Gorbachev.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2156,7 +2151,7 @@
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Attended the opening of the Follow-up Meeting of the Conference on Security and
-                Cooperation in Europe.</remarks>
+            Cooperation in Europe.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2592,7 +2587,7 @@
         <country id="israel">Israel</country>
         <locale>Jerusalem, Tel Aviv, Rehovot</locale>
         <remarks>Further meetings with Israeli officials. Received an honorary degree from the
-                Weizmann Institute.</remarks>
+            Weizmann Institute.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2705,7 +2700,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended a NATO Ministerial Meeting and met with EEC representatives. Signed the
-                INF Basing Inspection Agreement.</remarks>
+            INF Basing Inspection Agreement.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2846,7 +2841,7 @@
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Met with Prime Minister Shamir and senior Israeli officials. Discussed a Middle
-                East peace initiative.</remarks>
+            East peace initiative.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2860,8 +2855,8 @@
         <end-date>1988-02-27</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Met with President Assad and Foreign Minister Khaddam regarding a Middle East
-                peace initiative.</remarks>
+        <remarks>Met with President Assad and Foreign Minister Khaddam regarding a Middle East peace
+            initiative.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2875,8 +2870,8 @@
         <end-date>1988-02-27</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with Crown Prince Hassan and Prime Minister Rifai regarding a Middle East
-                peace initiative.</remarks>
+        <remarks>Met with Crown Prince Hassan and Prime Minister Rifai regarding a Middle East peace
+            initiative.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2933,7 +2928,7 @@
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Briefed Crown Prince Hassan and senior officials on meetings with other Arab
-                leaders.</remarks>
+            leaders.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2961,8 +2956,7 @@
         <end-date>1988-03-01</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with King Hussein of Jordan regarding a Middle East peace
-            initiative.</remarks>
+        <remarks>Met with King Hussein of Jordan regarding a Middle East peace initiative.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2990,8 +2984,7 @@
         <end-date>1988-03-03</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with King Hussein of Jordan regarding a Middle East peace
-            initiative.</remarks>
+        <remarks>Met with King Hussein of Jordan regarding a Middle East peace initiative.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3188,7 +3181,7 @@
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Attended the signing of an agreement for the withdrawal of Soviet forces from
-                Afghanistan.</remarks>
+            Afghanistan.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3245,7 +3238,7 @@
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Met with Soviet Foreign Minister Shevardnadze; discussed INF verification
-                procedures.</remarks>
+            procedures.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3274,7 +3267,7 @@
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Accompanied President Reagan to meetings with President Koivisto en route to
-                Moscow.</remarks>
+            Moscow.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3415,7 +3408,7 @@
         <country id="guatemala">Guatemala</country>
         <locale>Guatemala City</locale>
         <remarks>Met with President Vicinio Cerezo. Signed an economic assistance agreement. Met
-                with Nicaraguan Resistance leaders.</remarks>
+            with Nicaraguan Resistance leaders.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3429,8 +3422,8 @@
         <end-date>1988-06-30</end-date>
         <country id="el-salvador">El Salvador</country>
         <locale>San Salvador</locale>
-        <remarks>Met with Acting President Castillo Claramount and Salvadoran officials and
-                military officers. Signed an economic assistance agreement.</remarks>
+        <remarks>Met with Acting President Castillo Claramount and Salvadoran officials and military
+            officers. Signed an economic assistance agreement.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3501,7 +3494,7 @@
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
         <remarks>Met with President Suharto and senior Indonesian officials. Signed agreements on
-                double taxation.</remarks>
+            double taxation.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3600,7 +3593,7 @@
         <country id="guatemala">Guatemala</country>
         <locale>Guatemala City</locale>
         <remarks>Met with the Foreign Ministers of Guatemala, Costa Rica, Honduras, and El
-                Salvador.</remarks>
+            Salvador.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

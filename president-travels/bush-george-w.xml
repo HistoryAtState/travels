@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="bush-george-w" role="president">
         <id>2382</id>
@@ -65,7 +65,7 @@
         <country id="sweden">Sweden</country>
         <locale>Goteborg</locale>
         <remarks>Attended U.S.-European Union Summit Meeting; met with King Carl XVI
-        Gustav.</remarks>
+            Gustav.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -266,7 +266,7 @@
         <country id="russia">Russia</country>
         <locale>Moscow, St. Petersburg</locale>
         <remarks>Summit meeting with President Putin. Signed strategic arms reduction
-        treaty.</remarks>
+            treaty.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -281,7 +281,7 @@
         <country id="france">France</country>
         <locale>Paris, St. Mere- Eglise, Colleville</locale>
         <remarks>Met with President Chirac and delivered a Memorial Day address in
-        Normandy.</remarks>
+            Normandy.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -469,7 +469,7 @@
         <country id="france">France</country>
         <locale>Evian-les-Bains</locale>
         <remarks>Attended the G-8 Economic Summit and met with Chinese President Hu
-        Jintao.</remarks>
+            Jintao.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -924,7 +924,7 @@
         <country id="netherlands">Netherlands</country>
         <locale>Maastricht, Valkenburg, Margraten</locale>
         <remarks>Met with Prime Minister Balkenende and gave an address at a U.S. military
-        cemetery.</remarks>
+            cemetery.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1420,7 +1420,7 @@
         <country id="germany">Germany</country>
         <locale>Heiligen-damm</locale>
         <remarks>Attended the G-8 Summit Meeting. Also met with Chinese President Hu
-        Jintao.</remarks>
+            Jintao.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1592,7 +1592,7 @@
         <country id="bahrain">Bahrain</country>
         <locale>Manama</locale>
         <remarks>Met with King Hamad bin Isa al –Khalifa. Addressed U.S. military
-        personnel.</remarks>
+            personnel.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1607,7 +1607,7 @@
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi, Dubai</locale>
         <remarks>Met with President Khalifa bin Zayid al Nuhayyin and Crown Prince Sheikh
-        Mohammed.</remarks>
+            Mohammed.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

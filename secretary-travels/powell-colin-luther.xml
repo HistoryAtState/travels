@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="powell-colin-luther" role="secretary">
         <id>1231</id>
@@ -80,7 +80,7 @@
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City</locale>
         <remarks>Attended ceremonies commemorating the 10th anniversary of the liberation of
-                Kuwait.</remarks>
+            Kuwait.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -136,8 +136,8 @@
         <end-date>2001-04-12</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Contact Group Foreign Ministers, with Russian Foreign Minister Ivanov
-                and with President Chirac.</remarks>
+        <remarks>Met with Contact Group Foreign Ministers, with Russian Foreign Minister Ivanov and
+            with President Chirac.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -152,8 +152,8 @@
         <country id="macedonia">Macedonia, Former Yugoslav Republic of</country>
         <locale>Skopje</locale>
         <remarks>Met with the Foreign Ministers of Croatia, Hungary, Bosnia, Slovenia, Romania,
-                Albania, Greece, and Turkey, and with Macedonian political leaders. Later met with
-                the UN Administrator for Kosovo and with Kosovo political leaders.</remarks>
+            Albania, Greece, and Turkey, and with Macedonian political leaders. Later met with the
+            UN Administrator for Kosovo and with Kosovo political leaders.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -168,7 +168,7 @@
         <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
         <locale>Sarajevo</locale>
         <remarks>Met with the Collective Presidency, Bosnian political leaders, and with NATO and
-                OSCE officials.</remarks>
+            OSCE officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -211,7 +211,7 @@
         <country id="mali">Mali</country>
         <locale>Bamako</locale>
         <remarks>Met with President Konare and toured the Malaria Research and Training Center at
-                the University of Mali.</remarks>
+            the University of Mali.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -241,7 +241,7 @@
         <country id="kenya">Kenya</country>
         <locale>Nairobi</locale>
         <remarks>Met with President Moi, Kenyan civil and political leaders, and UN and NGO
-                representatives.</remarks>
+            representatives.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -340,7 +340,7 @@
         <country id="slovenia">Slovenia</country>
         <locale>Ljubljana</locale>
         <remarks>Accompanied President Bush to meetings with President Kucan, Prime Minister
-                Drnovsek, and Russian President Putin.</remarks>
+            Drnovsek, and Russian President Putin.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -523,7 +523,7 @@
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad</locale>
         <remarks>Discussed cooperation against terrorism with President Musharraf and senior
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -538,7 +538,7 @@
         <country id="india">India</country>
         <locale>New Delhi</locale>
         <remarks>Discussed cooperation against terrorism with Prime Minister Vajpayee and senior
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -595,7 +595,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting; addressed EU Justice and Home Affairs
-                Council.</remarks>
+            Council.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -637,8 +637,7 @@
         <end-date>2001-12-10</end-date>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
-        <remarks>Met with President Putin, Foreign Minister Ivanov, and senior
-            officials.</remarks>
+        <remarks>Met with President Putin, Foreign Minister Ivanov, and senior officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -695,7 +694,7 @@
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad</locale>
         <remarks>Met with President Musharraf and senior officials. Returned to Pakistan after
-                visiting Afghanistan.</remarks>
+            visiting Afghanistan.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -710,7 +709,7 @@
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
         <remarks>Met with leaders of the Afghan Interim Authority. Announced the upgrading of the
-                U.S. Liaison Office to Embassy status.</remarks>
+            U.S. Liaison Office to Embassy status.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -754,7 +753,7 @@
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Attended the International Conference on Reconstruction Assistance to
-                Afghanistan.</remarks>
+            Afghanistan.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -839,8 +838,8 @@
         <end-date>2002-03-23</end-date>
         <country id="peru">Peru</country>
         <locale>Lima</locale>
-        <remarks>Accompanied President Bush to meetings with the Presidents of Peru, Colombia,
-                and Bolivia, and the Vice President of Ecuador.</remarks>
+        <remarks>Accompanied President Bush to meetings with the Presidents of Peru, Colombia, and
+            Bolivia, and the Vice President of Ecuador.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -898,7 +897,7 @@
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Attended U.S.-EU Ministerial Meeting. Met with UN Secretary-General Annan and
-                Russian Foreign Minister Ivanov. Signed Defense Cooperation agreements with
+            Russian Foreign Minister Ivanov. Signed Defense Cooperation agreements with
             Spain.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -928,7 +927,7 @@
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem, Safed</locale>
         <remarks>Met with Prime Minister Sharon, Foreign Minister Peres, and senior Israeli
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1043,8 +1042,8 @@
         <country id="iceland">Iceland</country>
         <locale>Reykjavik</locale>
         <remarks>Attended NATO Foreign Ministers’ Meeting and meetings of the NATO-Ukraine
-                Commission and Euro-Atlantic Partnership Council. Also met with Russian Foreign
-                Minister Ivanov.</remarks>
+            Commission and Euro-Atlantic Partnership Council. Also met with Russian Foreign Minister
+            Ivanov.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1101,7 +1100,7 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Accompanied President Bush to a NATO Summit Meeting and the inauguration of the
-                NATO-Russia Council.</remarks>
+            NATO-Russia Council.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1130,7 +1129,7 @@
         <country id="barbados">Barbados</country>
         <locale>Bridgetown</locale>
         <remarks>Attended OAS General Assembly and signed the Inter-American Convention Against
-                Terrorism.</remarks>
+            Terrorism.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1229,7 +1228,7 @@
         <country id="brunei">Brunei Darussalam</country>
         <locale>Bandar Seri Begawan</locale>
         <remarks>Attended ASEAN Regional Forum and Post-Ministerial Conference. Met with North
-                Korean Foreign Minister Paek Nam Sun.</remarks>
+            Korean Foreign Minister Paek Nam Sun.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1286,7 +1285,7 @@
         <country id="angola">Angola</country>
         <locale>Luanda</locale>
         <remarks>Met with President dos Santos and attended a meeting of the Joint Commission for
-                the Implementation of the Lusaka Protocols.</remarks>
+            the Implementation of the Lusaka Protocols.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1301,7 +1300,7 @@
         <country id="gabon">Gabon</country>
         <locale>Libreville</locale>
         <remarks>Met with President Bongo and Foreign Minister Ping. Visited Pongara National
-                Park.</remarks>
+            Park.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1386,7 +1385,7 @@
         <country id="lithuania">Lithuania</country>
         <locale>Vilnius</locale>
         <remarks>Accompanied President Bush to a meeting with the Presidents of the Baltic
-                States.</remarks>
+            States.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1543,7 +1542,7 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Belfast, Hillsborough (Northern Ireland)</locale>
         <remarks>Accompanied President Bush to meetings with Prime Minister Blair and with Irish
-                Prime Minister Ahern and Northern Irish political leaders.</remarks>
+            Prime Minister Ahern and Northern Irish political leaders.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1571,8 +1570,8 @@
         <end-date>2003-05-02</end-date>
         <country id="albania">Albania</country>
         <locale>Tirana</locale>
-        <remarks>Signed the Adriatic Charter of Partnership with the Foreign Ministers of
-                Albania, Croatia, and Macedonia.</remarks>
+        <remarks>Signed the Adriatic Charter of Partnership with the Foreign Ministers of Albania,
+            Croatia, and Macedonia.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1615,7 +1614,7 @@
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Sharon and senior Israeli officials; attended a Quartet
-                working group meeting.</remarks>
+            working group meeting.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1671,8 +1670,8 @@
         <end-date>2003-05-13</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with Crown Prince Abdullah and visited the Vinnell Compound after a
-                terrorist attack.</remarks>
+        <remarks>Met with Crown Prince Abdullah and visited the Vinnell Compound after a terrorist
+            attack.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1701,7 +1700,7 @@
         <country id="bulgaria">Bulgaria</country>
         <locale>Sofia</locale>
         <remarks>Met with Prime Minister Saxe-Coburg and Foreign Minister Passy; commemorated the
-                100th anniversary of U.S.-Bulgarian relations.</remarks>
+            100th anniversary of U.S.-Bulgarian relations.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1800,8 +1799,8 @@
         <end-date>2003-06-04</end-date>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
-        <remarks>Accompanied President Bush to meetings with the leaders of Bahrain, Egypt,
-                Jordan and Saudi Arabia, and with Palestinian Prime Minister Abbas.</remarks>
+        <remarks>Accompanied President Bush to meetings with the leaders of Bahrain, Egypt, Jordan
+            and Saudi Arabia, and with Palestinian Prime Minister Abbas.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1816,7 +1815,7 @@
         <country id="jordan">Jordan</country>
         <locale>Aqaba</locale>
         <remarks>Accompanied President Bush to meetings with Israeli Prime Minister Sharon and
-                Palestinian Prime Minister Abbas.</remarks>
+            Palestinian Prime Minister Abbas.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1901,7 +1900,7 @@
         <country id="jordan">Jordan</country>
         <locale>Shuneh, Suweima, Petra</locale>
         <remarks>Attended the World Economic Forum, met with Quartet representatives, and visited
-                Petra.</remarks>
+            Petra.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2014,7 +2013,7 @@
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Met with UN Secretary-General Annan and the Foreign Ministers of the Permanent
-                Members of the Security Council.</remarks>
+            Members of the Security Council.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2043,7 +2042,7 @@
         <country id="iraq">Iraq</country>
         <locale>Baghdad, Halabja</locale>
         <remarks>Met with U.S. military and civilian authorities and with the Iraqi Governing
-                Council; also met with Kurdish leaders in Halabja.</remarks>
+            Council; also met with Kurdish leaders in Halabja.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2128,7 +2127,7 @@
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
         <remarks>Attended a ceremony honoring the centennial of Panamanian independence. Greeted
-                Taiwanese President Chen Shu-bian.</remarks>
+            Taiwanese President Chen Shu-bian.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2283,7 +2282,7 @@
         <country id="georgia">Georgia</country>
         <locale>Tbilisi</locale>
         <remarks>Attended the inauguration of President Saakashvili and met with former President
-                Shevardnadze.</remarks>
+            Shevardnadze.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2325,8 +2324,7 @@
         <end-date>2004-03-17</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
-        <remarks>Met with President Karzai and with U.S. military and civilian
-            officials.</remarks>
+        <remarks>Met with President Karzai and with U.S. military and civilian officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2370,7 +2368,7 @@
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
         <remarks>Met with members of the Coalition Provisional Authority and the Iraqi Governing
-                Council.</remarks>
+            Council.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2581,7 +2579,7 @@
         <country id="sudan">Sudan</country>
         <locale>Khartoum, El Fasher, Abu Shouk</locale>
         <remarks>Met with President Bashir and Foreign Minister Ismail. Visited a refugee camp in
-                the Darfur region.</remarks>
+            the Darfur region.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2624,7 +2622,7 @@
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
         <remarks>Met with Foreign Minister Kovacs and addressed a conference of Hungarian
-                ambassadors.</remarks>
+            ambassadors.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2639,7 +2637,7 @@
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak, Prime Minister Aboul Gheit, and Foreign Minister
-                Gheit.</remarks>
+            Gheit.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2654,7 +2652,7 @@
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
         <remarks>Met with Crown Prince Abdullah, Foreign Minister Prince Saud, and Iraqi Prime
-                Minister Allawi.</remarks>
+            Minister Allawi.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2683,7 +2681,7 @@
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
         <remarks>Met with President Yawer and Deputy Prime Minister Salih. Returned to Kuwait
-                afterwards.</remarks>
+            afterwards.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2712,7 +2710,7 @@
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
         <remarks>Met with Foreign Minister Cimoszewicz and attended ceremonies commemorating the
-                60th anniversary of the Warsaw Uprising.</remarks>
+            60th anniversary of the Warsaw Uprising.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2755,7 +2753,7 @@
         <country id="brazil">Brazil</country>
         <locale>Brasilia, Sao Paulo</locale>
         <remarks>Met with President Lula da Silva and Foreign Minister Amorim and addressed the
-                American Chamber of Commerce.</remarks>
+            American Chamber of Commerce.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2840,7 +2838,7 @@
         <country id="chile">Chile</country>
         <locale>Santiago</locale>
         <remarks>Attended APEC Ministerial meetings and accompanied President Bush to the APEC
-                Summit meeting.</remarks>
+            Summit meeting.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2854,8 +2852,8 @@
         <end-date>2004-11-22</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Attended APEC Summit meeting. Met with Prime Minister Sharon and Foreign
-                Minister Shalom.</remarks>
+        <remarks>Attended APEC Summit meeting. Met with Prime Minister Sharon and Foreign Minister
+            Shalom.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2869,8 +2867,8 @@
         <end-date>2004-11-22</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Jericho</locale>
-        <remarks>Met with Prime Minister Qureia, acting President Fattouh, and former Prime
-                Minister Abbas.</remarks>
+        <remarks>Met with Prime Minister Qureia, acting President Fattouh, and former Prime Minister
+            Abbas.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2941,8 +2939,8 @@
         <end-date>2004-12-10</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended North Atlantic Council, NATO-Russia and Euro-Atlantic Partnership
-                Council meetings.</remarks>
+        <remarks>Attended North Atlantic Council, NATO-Russia and Euro-Atlantic Partnership Council
+            meetings.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3012,8 +3010,8 @@
         <end-date>2005-01-07</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta, Banda Aceh</locale>
-        <remarks>Assessed tsunami damage and relief efforts. Attended ASEAN Leaders’ Special
-                Meeting on Tsunami Relief.</remarks>
+        <remarks>Assessed tsunami damage and relief efforts. Attended ASEAN Leaders’ Special Meeting
+            on Tsunami Relief.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

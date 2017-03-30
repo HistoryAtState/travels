@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="byrnes-james-francis" role="secretary">
         <id>487</id>
@@ -23,7 +23,7 @@
         <country id="germany">Germany</country>
         <locale>Potsdam</locale>
         <remarks>Accompanied President Truman to the Tripartite Conference of Berlin (Potsdam
-                Conference).</remarks>
+            Conference).</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -38,7 +38,7 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Plymouth</locale>
         <remarks>Accompanied President Truman to a meeting with King George VI. Returned to U.S.
-                August 7.</remarks>
+            August 7.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -66,8 +66,7 @@
         <end-date>1945-12-27</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Ministers meeting. Left U.S.
-                December 12; returned December 29.</remarks>
+        <remarks>Ministers meeting. Left U.S. December 12; returned December 29.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

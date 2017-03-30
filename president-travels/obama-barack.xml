@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="obama-barack" role="president">
         <id>2961</id>
@@ -1392,7 +1392,8 @@
         <end-date>2015-11-20</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Attended the Trans-Pacific Partnership, Pacific Alliance, and APEC Summit Meetings.</remarks>
+        <remarks>Attended the Trans-Pacific Partnership, Pacific Alliance, and APEC Summit
+            Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

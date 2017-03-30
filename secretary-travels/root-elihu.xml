@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="root-elihu" role="secretary">
         <id>1789</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1905-08-01</start-date>
         <end-date>1905-08-31</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -17,7 +17,7 @@
     <trip who="root-elihu" role="secretary">
         <id>1790</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1906-07-17</start-date>
         <end-date>1906-08-07</end-date>
         <country id="brazil">Brazil</country>
@@ -32,13 +32,13 @@
     <trip who="root-elihu" role="secretary">
         <id>1791</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1906-08-10</start-date>
         <end-date>1906-08-13</end-date>
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
-        <remarks>Met with President Batlle y Ordonez and Foreign Minister Romeu; delivered
-                several public addresses.</remarks>
+        <remarks>Met with President Batlle y Ordonez and Foreign Minister Romeu; delivered several
+            public addresses.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -47,13 +47,13 @@
     <trip who="root-elihu" role="secretary">
         <id>1792</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1906-08-14</start-date>
         <end-date>1906-08-21</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires, Bahia Blanca</locale>
-        <remarks>Met with President Figueroa and Foreign Minister Montes; delivered several
-                public addresses.</remarks>
+        <remarks>Met with President Figueroa and Foreign Minister Montes; delivered several public
+            addresses.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -62,13 +62,13 @@
     <trip who="root-elihu" role="secretary">
         <id>1793</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1906-08-31</start-date>
         <end-date>1906-09-04</end-date>
         <country id="chile">Chile</country>
         <locale>Lota, Santiago, Valparaiso</locale>
         <remarks>Met with President Riesco and Foreign Minister Huneeus; delivered several public
-                addresses.</remarks>
+            addresses.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -77,13 +77,13 @@
     <trip who="root-elihu" role="secretary">
         <id>1794</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1906-09-10</start-date>
         <end-date>1906-09-16</end-date>
         <country id="peru">Peru</country>
         <locale>Callao, Lima</locale>
         <remarks>Met with President Pardo and Foreign Minister Prado; delivered several public
-                addresses.</remarks>
+            addresses.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -92,7 +92,7 @@
     <trip who="root-elihu" role="secretary">
         <id>1795</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1906-09-20</start-date>
         <end-date>1906-09-21</end-date>
         <country id="panama">Panama</country>
@@ -106,7 +106,7 @@
     <trip who="root-elihu" role="secretary">
         <id>1796</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1906-09-24</start-date>
         <end-date>1906-09-24</end-date>
         <country id="colombia">Colombia</country>
@@ -120,7 +120,7 @@
     <trip who="root-elihu" role="secretary">
         <id>1797</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1907-01-18</start-date>
         <end-date>1907-01-22</end-date>
         <country id="canada">Canada</country>
@@ -134,14 +134,13 @@
     <trip who="root-elihu" role="secretary">
         <id>1798</id>
         <role>secretary</role>
-        <name>Elihu  Root</name>
+        <name>Elihu Root</name>
         <start-date>1907-09-29</start-date>
         <end-date>1907-10-16</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F., Cuernavaca, Puebla, Orizaba, Guadalajara, Potosi</locale>
         <remarks>Met with President Diaz, Foreign Minister Mariscal, and Governors of several
-                Mexican States. Delivered several public addresses Left Washington September 26.
-            </remarks>
+            Mexican States. Delivered several public addresses Left Washington September 26. </remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

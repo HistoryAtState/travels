@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="marshall-george-catlett" role="secretary">
         <id>1207</id>
@@ -9,7 +9,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with President Auriol and senior officials. Laid a wreath at the tomb of
-                France's Unknown Soldier. Left U.S. March 5.</remarks>
+            France's Unknown Soldier. Left U.S. March 5.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="roosevelt-theodore" role="president">
         <id>2655</id>
@@ -67,7 +67,7 @@
         <country id="france">France</country>
         <locale>Paris, Chaumont</locale>
         <remarks>Attended Preliminary to the Paris Peace Conference. Departed the U.S. December
-        4.</remarks>
+            4.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -573,7 +573,7 @@
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
         <remarks>Attended session of Inter-American Conference for the Maintenance of
-        Peace.</remarks>
+            Peace.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -772,7 +772,7 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Argentia (Newfoundland)</locale>
         <remarks>Attended conference with Prime Minister Churchill. Announced the Atlantic
-        Charter.</remarks>
+            Charter.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1171,7 +1171,8 @@
         <end-date>1946-08-30</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
-        <remarks>Informal visit; met with the Governor of Bermuda, Admiral Sir Ralph Leatham, K.C.B. and inspected U.S. military facilities.</remarks>
+        <remarks>Informal visit; met with the Governor of Bermuda, Admiral Sir Ralph Leatham, K.C.B.
+            and inspected U.S. military facilities.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-09-25T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1655,7 +1656,7 @@
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
         <remarks>Met with President Nardone. Returned to the U.S. via Buenos Aires and
-        Surinam.</remarks>
+            Surinam.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1699,7 +1700,7 @@
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>State visit; met with President Garcia. Traveled by sea from Manila to
-        Taipei.</remarks>
+            Taipei.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1770,7 +1771,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>State visit; addressed North Atlantic Council and met with President De
-        Gaulle.</remarks>
+            Gaulle.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2125,7 +2126,7 @@
         <country id="mexico">Mexico</country>
         <locale>Ciudad Acuna</locale>
         <remarks>Informal meeting with President Diaz Ordaz. Inspected construction of Arnistad
-        Dam.</remarks>
+            Dam.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2168,7 +2169,7 @@
         <country id="germany">Germany</country>
         <locale>Bonn</locale>
         <remarks>Attended funeral of Chancellor Adenauer and conversed with various heads of
-        state.</remarks>
+            state.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2591,7 +2592,7 @@
         <country id="italy">Italy</country>
         <locale>Rome, Naples</locale>
         <remarks>Official visit; met with President Saragat; visited NATO Southern
-        Command.</remarks>
+            Command.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2966,7 +2967,7 @@
         <country id="mexico">Mexico</country>
         <locale>Nogales, Magdalena de Kino</locale>
         <remarks>Met with President Echeverria and laid a wreath at the tomb of Padre Eusebio
-        Kino.</remarks>
+            Kino.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3009,7 +3010,7 @@
         <country id="russia">U.S.S.R.</country>
         <locale>Vladivostok</locale>
         <remarks>Met with General Secretary Brezhnev and discussed limitations of strategic
-        arms.</remarks>
+            arms.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3053,7 +3054,7 @@
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Met with Generalissimo Franco. Received keys to city from Mayor of
-        Madrid.</remarks>
+            Madrid.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3198,7 +3199,7 @@
         <country id="china">China, People’s Republic of</country>
         <locale>Peking</locale>
         <remarks>Official visit; met with Chairman Mao Tse-tung and Vice Premier Teng
-        Hsiao-ping</remarks>
+            Hsiao-ping</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3259,7 +3260,7 @@
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Official visit; met with President Furgler. Also met with Syrian President
-        Assad.</remarks>
+            Assad.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3288,7 +3289,7 @@
         <country id="iran">Iran</country>
         <locale>Tehran</locale>
         <remarks>Official visit; met with Shah Mohammed Reza Pahlavi and King Hussein of
-        Jordan.</remarks>
+            Jordan.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3389,7 +3390,7 @@
         <country id="brazil">Brazil</country>
         <locale>Brasilia, Rio de Janeiro</locale>
         <remarks>Official visit; met with President Geisel and addressed Brazilian
-        Congress.</remarks>
+            Congress.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3509,7 +3510,7 @@
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>State visit; met with President Lopez Portillo and addressed the Mexican
-        Congress.</remarks>
+            Congress.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3775,7 +3776,7 @@
         <locale>Bridgetown</locale>
         <remarks>Official visit; met April 8 with the Prime Ministers of Barbados, Antigua and
             Barbuda, Dominica, St. Christopher and Nevis, and St. Vincent and the
-        Grenadines.</remarks>
+            Grenadines.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -4055,7 +4056,7 @@
             Normandy. Also present were Prime Minister Trudeau of Canada, Queen Beatrix of the
             Netherlands, King Olav V of Norway, King Baudouin I of Belgium, President Mitterrand of
             France, Queen Elizabeth II of the United Kingdom, and Grand Duke Jean of
-        Luxembourg.</remarks>
+            Luxembourg.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -4264,7 +4265,7 @@
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Official visit; met with Prime Minister Mulroney. Addressed Parliament April
-        6.</remarks>
+            6.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -4281,7 +4282,7 @@
         <remarks>Attended Economic Summit Meeting (June 8-10) of the Heads of State and Government
             of Canada, France, the Federal Republic of Germany, Italy, Japan, and the United
             Kingdom. Met with President Cossiga and Prime Minister Fanfani in Rome on June
-        6.</remarks>
+            6.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -4413,8 +4414,7 @@
         <country id="canada">Canada</country>
         <locale>Toronto</locale>
         <remarks>Attended Economic Summit Meeting of the Heads of State and Government of Canada,
-            France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.
-        </remarks>
+            France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom. </remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

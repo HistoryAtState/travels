@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="dulles-john-foster" role="secretary">
         <id>738</id>
@@ -23,7 +23,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with senior French officials and with representatives of NATO and the
-                Organization for European Economic Cooperation.</remarks>
+            Organization for European Economic Cooperation.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -122,7 +122,7 @@
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Met with Prime Minister Naguib, Foreign Minister Fawzi, and Egyptian military
-                leaders. Attended regional conference of U.S. Ambassadors.</remarks>
+            leaders. Attended regional conference of U.S. Ambassadors.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -320,7 +320,7 @@
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Yoshida while returning to U.S. Announced return of the
-                Amami Islands to Japan. Returned to U.S. August 10.</remarks>
+            Amami Islands to Japan. Returned to U.S. August 10.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -376,8 +376,8 @@
         <end-date>1954-02-18</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Attended Big Four Foreign Ministers Meeting. Sessions of February 1-6, 15, and
-                17 were held in East Berlin.</remarks>
+        <remarks>Attended Big Four Foreign Ministers Meeting. Sessions of February 1-6, 15, and 17
+            were held in East Berlin.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -533,7 +533,7 @@
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Yoshida and Foreign Minister Okazaki en route from
-                Manila.</remarks>
+            Manila.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -787,7 +787,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with the French and British Foreign Ministers and attended a North Atlantic
-                Council meeting.</remarks>
+            Council meeting.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -816,7 +816,7 @@
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Attended meeting of the Joint U.S.-Canadian Commission on Trade and Economic
-                Affairs.</remarks>
+            Affairs.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -831,7 +831,7 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Gronchi and Foreign Minister Martino. Left Washington October
-                21.</remarks>
+            21.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -873,8 +873,8 @@
         <end-date>1955-11-16</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Attended meeting of the Foreign Ministers of the United Kingdom, France, the
-                Soviet Union, and the United States.</remarks>
+        <remarks>Attended meeting of the Foreign Ministers of the United Kingdom, France, the Soviet
+            Union, and the United States.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1113,7 +1113,7 @@
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
         <remarks>Accompanied President Eisenhower to a meeting of the Presidents of the American
-                Republics.</remarks>
+            Republics.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1170,7 +1170,7 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended Tripartite Conference on the Suez Canal with the British and French
-                Foreign Ministers.</remarks>
+            Foreign Ministers.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1227,7 +1227,7 @@
         <country id="australia">Australia</country>
         <locale>Canberra</locale>
         <remarks>Attended Third Meeting of SEATO Council of Ministers. Left Washington March 6;
-                returned March 17.</remarks>
+            returned March 17.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1271,7 +1271,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with Prime Minister Mollet and attended meeting of U.S. Chiefs of Mission to
-                European countries.</remarks>
+            European countries.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1314,8 +1314,7 @@
         <end-date>1957-12-20</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Accompanied President Eisenhower to meeting of NATO Heads of
-            Government.</remarks>
+        <remarks>Accompanied President Eisenhower to meeting of NATO Heads of Government.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1330,7 +1329,7 @@
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Met with Generalissimo Franco and senior Spanish officials while returning from
-                Paris.</remarks>
+            Paris.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1345,7 +1344,7 @@
         <country id="morocco">Morocco</country>
         <locale>Marrakesh</locale>
         <remarks>Met with King Mohammed V, Foreign Minister Balafrej, and senior Moroccan
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1403,7 +1402,7 @@
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
         <remarks>Met with President Chiang and attended a conference of U.S. Chiefs of Mission to
-                Asian countries. Returned March 18.</remarks>
+            Asian countries. Returned March 18.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1445,8 +1444,8 @@
         <end-date>1958-05-10</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended the opening session of a conference of U.S. Chiefs of Mission to
-                European countries.</remarks>
+        <remarks>Attended the opening session of a conference of U.S. Chiefs of Mission to European
+            countries.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1643,7 +1642,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with President De Gaulle, Foreign Minister Couve de Murville, and NATO
-                Secretary General Spaak.</remarks>
+            Secretary General Spaak.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

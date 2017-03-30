@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="hughes-charles-evans" role="secretary">
         <id>935</id>
@@ -22,8 +22,8 @@
         <end-date>1922-09-12</end-date>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
-        <remarks>commemorating centenary of Brazilian independence. Left U.S. August 24;
-                returned September 23.</remarks>
+        <remarks>commemorating centenary of Brazilian independence. Left U.S. August 24; returned
+            September 23.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -52,7 +52,7 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>As President of the American Bar Association, attended an international law
-                convention. Left U.S. July 12.</remarks>
+            convention. Left U.S. July 12.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -80,8 +80,7 @@
         <end-date>1924-08-02</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels, Malines</locale>
-        <remarks>Received honorary degrees from the Universities of Brussels and
-            Louvain.</remarks>
+        <remarks>Received honorary degrees from the Universities of Brussels and Louvain.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -95,8 +94,8 @@
         <end-date>1924-08-04</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with President Ebert and Foreign Minister Stresemann. Returned to U.S.
-                August 14.</remarks>
+        <remarks>Met with President Ebert and Foreign Minister Stresemann. Returned to U.S. August
+            14.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

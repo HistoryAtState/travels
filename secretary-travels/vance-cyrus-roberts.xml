@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="vance-cyrus-roberts" role="secretary">
         <id>2208</id>
@@ -8,8 +8,8 @@
         <end-date>1977-02-17</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Rabin and Foreign Minister Allon; reviewed the Middle
-                East peace process.</remarks>
+        <remarks>Met with Prime Minister Rabin and Foreign Minister Allon; reviewed the Middle East
+            peace process.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -23,8 +23,8 @@
         <end-date>1977-02-18</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Sadat and Foreign Minister Fahmy; reviewed the Middle East
-                peace process.</remarks>
+        <remarks>Met with President Sadat and Foreign Minister Fahmy; reviewed the Middle East peace
+            process.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -67,7 +67,7 @@
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
         <remarks>Met with Crown Prince Fahd and Foreign Minister Prince Saud; reviewed the Middle
-                East peace process.</remarks>
+            East peace process.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -110,7 +110,7 @@
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Presented arms reduction proposal to General Secretary Brezhnev and Foreign
-                Minister Gromyko.</remarks>
+            Minister Gromyko.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -125,7 +125,7 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Briefed Chancellor Schmidt and Foreign Minister Genscher on meetings with Soviet
-                leaders.</remarks>
+            leaders.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -154,7 +154,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Briefed President Giscard d'Estaing and senior French officials on meetings with
-                Soviet leaders.</remarks>
+            Soviet leaders.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -168,9 +168,8 @@
         <end-date>1977-05-11</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Accompanied President Carter to Economic Summit Meeting. Attended NATO
-                Ministerial Meeting (May 10-11). Met May 11 with Israeli Foreign Minister
-            Allon.</remarks>
+        <remarks>Accompanied President Carter to Economic Summit Meeting. Attended NATO Ministerial
+            Meeting (May 10-11). Met May 11 with Israeli Foreign Minister Allon.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -226,9 +225,8 @@
         <end-date>1977-05-21</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Met with Soviet Foreign Minister Gromyko. Signed Convention on the Prohibition
-                of Military or Any Other Hostile Use of Environmental Modification
-            Techniques.</remarks>
+        <remarks>Met with Soviet Foreign Minister Gromyko. Signed Convention on the Prohibition of
+            Military or Any Other Hostile Use of Environmental Modification Techniques.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -313,8 +311,8 @@
         <end-date>1977-08-03</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
-        <remarks>Met with President Sarkis and senior Lebanese officials; reviewed the Middle
-                East peace process.</remarks>
+        <remarks>Met with President Sarkis and senior Lebanese officials; reviewed the Middle East
+            peace process.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -328,8 +326,8 @@
         <end-date>1977-08-05</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Reviewed the Middle East peace process with President Assad. Revisited Syria
-                August 11.</remarks>
+        <remarks>Reviewed the Middle East peace process with President Assad. Revisited Syria August
+            11.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -343,8 +341,8 @@
         <end-date>1977-08-07</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Reviewed the Middle East peace process with King Hussein. Revisited Jordan
-                August 11.</remarks>
+        <remarks>Reviewed the Middle East peace process with King Hussein. Revisited Jordan August
+            11.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -359,7 +357,7 @@
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Taif</locale>
         <remarks>Reviewed the Middle East peace process with King Khalid and senior Saudi
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -374,7 +372,7 @@
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Reviewed the Middle East peace process with Prime Minister Begin and Foreign
-                Minister Dayan.</remarks>
+            Minister Dayan.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -810,8 +808,8 @@
         <end-date>1978-04-16</end-date>
         <country id="tanzania">Tanzania</country>
         <locale>Dar es Salaam</locale>
-        <remarks>Discussed the Rhodesian question with British Foreign Secretary Owen and leaders
-                of Zimbabwe's Patriotic Front.</remarks>
+        <remarks>Discussed the Rhodesian question with British Foreign Secretary Owen and leaders of
+            Zimbabwe's Patriotic Front.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -826,7 +824,7 @@
         <country id="south-africa">South Africa</country>
         <locale>Pretoria</locale>
         <remarks>Discussed Rhodesia and Namibia with Foreign Minister Botha and British Foreign
-                Secretary Owen.</remarks>
+            Secretary Owen.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -841,7 +839,7 @@
         <country id="zimbabwe">Southern Rhodesia (Zimbabwe)</country>
         <locale>Salisbury</locale>
         <remarks>Discussed the Rhodesian question with members of the Transitional Government and
-                British Foreign Secretary Owen.</remarks>
+            British Foreign Secretary Owen.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -883,8 +881,8 @@
         <end-date>1978-05-05</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F., Puerto Vallarta</locale>
-        <remarks>Official visit. Met with President Lopez Portillo and Foreign Relations
-                Secretary Roel.</remarks>
+        <remarks>Official visit. Met with President Lopez Portillo and Foreign Relations Secretary
+            Roel.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -941,7 +939,7 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Frankfurt, Bonn</locale>
         <remarks>Accompanied President Carter on a State visit and to the Economic Summit
-                Meeting.</remarks>
+            Meeting.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -970,7 +968,7 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Hollingbourne</locale>
         <remarks>Discussed the Rhodesia question with Foreign Secretary Owen. Also met with the
-                Egyptian and Israeli Foreign Ministers at Leeds Castle, July 18.</remarks>
+            Egyptian and Israeli Foreign Ministers at Leeds Castle, July 18.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -984,8 +982,8 @@
         <end-date>1978-08-07</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Begin and delivered an invitation to meet with
-                Presidents Carter and Sadat at Camp David.</remarks>
+        <remarks>Met with Prime Minister Begin and delivered an invitation to meet with Presidents
+            Carter and Sadat at Camp David.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -999,8 +997,8 @@
         <end-date>1978-08-09</end-date>
         <country id="egypt">Egypt</country>
         <locale>Alexandria</locale>
-        <remarks>Met with President Sadat and delivered an invitation to meet with President
-                Carter and Prime Minister Begin at Camp David.</remarks>
+        <remarks>Met with President Sadat and delivered an invitation to meet with President Carter
+            and Prime Minister Begin at Camp David.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1099,7 +1097,7 @@
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Discussed SALT negotiations with President Brezhnev and Foreign Minister
-                Gromyko.</remarks>
+            Gromyko.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1141,8 +1139,8 @@
         <end-date>1978-12-15</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Egyptian- Israeli peace process. Visited Cairo December 10-11,
-                12-13, and 14-15.</remarks>
+        <remarks>Discussed the Egyptian- Israeli peace process. Visited Cairo December 10-11, 12-13,
+            and 14-15.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1157,7 +1155,7 @@
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Discussed the Egyptian-Israeli peace process and attended the funeral of former
-                Prime Minister Meir.</remarks>
+            Prime Minister Meir.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1271,7 +1269,7 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Prime Minister Thatcher and Foreign Secretary Lord Carrington. Also met
-                with Israeli Prime Minister Begin May 24.</remarks>
+            with Israeli Prime Minister Begin May 24.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1300,8 +1298,8 @@
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Beersheva, El Arish</locale>
         <remarks>Attended opening session of Egyptian-Israeli autonomy talks on the West Bank and
-                Gaza at Beersheva, and the exchange of ratifications of the Egyptian-Israeli Peace
-                Treaty.</remarks>
+            Gaza at Beersheva, and the exchange of ratifications of the Egyptian-Israeli Peace
+            Treaty.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1371,8 +1369,8 @@
         <end-date>1979-06-18</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Accompanied President Carter to U.S.-Soviet Summit and the signing of the SALT
-                II Treaty.</remarks>
+        <remarks>Accompanied President Carter to U.S.-Soviet Summit and the signing of the SALT II
+            Treaty.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1401,7 +1399,7 @@
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Accompanied President Carter on a State visit and to the Economic Summit
-                Meeting.</remarks>
+            Meeting.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1499,8 +1497,8 @@
         <end-date>1979-12-10</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed international responses to the Iranian hostage crisis with Prime
-                Minister Thatcher and Foreign Secretary Lord Carrington.</remarks>
+        <remarks>Discussed international responses to the Iranian hostage crisis with Prime Minister
+            Thatcher and Foreign Secretary Lord Carrington.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1515,8 +1513,8 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed international responses to the Iranian hostage crisis with President
-                Giscard d'Estaing and Foreign Minister Francois-Poncet. Also met with Japanese
-                Foreign Minister Okita.</remarks>
+            Giscard d'Estaing and Foreign Minister Francois-Poncet. Also met with Japanese Foreign
+            Minister Okita.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1531,7 +1529,7 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Discussed international responses to the Iranian hostage crisis with President
-                Pertini and Prime Minister Cossiga.</remarks>
+            Pertini and Prime Minister Cossiga.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1546,7 +1544,7 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Discussed international responses to the Iranian hostage crisis with Chancellor
-                Schmidt and Foreign Minister Genscher.</remarks>
+            Schmidt and Foreign Minister Genscher.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1560,8 +1558,8 @@
         <end-date>1979-12-14</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting and a special meeting of NATO Foreign and
-                Defense Ministers.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and a special meeting of NATO Foreign and Defense
+            Ministers.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1575,8 +1573,8 @@
         <end-date>1980-02-20</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Discussed responses to Soviet invasion of Afghanistan with Chancellor Schmidt
-                and Foreign Minister Genscher.</remarks>
+        <remarks>Discussed responses to Soviet invasion of Afghanistan with Chancellor Schmidt and
+            Foreign Minister Genscher.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1591,7 +1589,7 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Discussed responses to Soviet invasion of Afghanistan with President Pertini and
-                Foreign Minister Ruffini.</remarks>
+            Foreign Minister Ruffini.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1606,7 +1604,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed responses to Soviet invasion of Afghanistan with Foreign Minister
-                Francois-Poncet.</remarks>
+            Francois-Poncet.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1620,8 +1618,8 @@
         <end-date>1980-02-22</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed responses to Soviet invasion of Afghanistan with Foreign Secretary
-                Lord Carrington.</remarks>
+        <remarks>Discussed responses to Soviet invasion of Afghanistan with Foreign Secretary Lord
+            Carrington.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

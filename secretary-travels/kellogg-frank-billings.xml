@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="kellogg-frank-billings" role="secretary">
         <id>971</id>
@@ -9,7 +9,7 @@
         <country id="canada">Canada</country>
         <locale>Ft. Erie</locale>
         <remarks>Attended dedication of the "Peace Bridge" between Buffalo, New York and Ft.
-                Erie.</remarks>
+            Erie.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -24,7 +24,7 @@
         <country id="cuba">Cuba</country>
         <locale>Havana</locale>
         <remarks>Attended the Sixth International Conference of American States with President
-                Coolidge. Left U.S.January 14; returned January 20.</remarks>
+            Coolidge. Left U.S.January 14; returned January 20.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -52,8 +52,8 @@
         <end-date>1928-08-29</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Negotiated and signed the Treaty on the Renunciation of War (Kellogg-Briand
-                Pact). Left U.S. August 19.</remarks>
+        <remarks>Negotiated and signed the Treaty on the Renunciation of War (Kellogg-Briand Pact).
+            Left U.S. August 19.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

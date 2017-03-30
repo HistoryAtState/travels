@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="bush-george-h-w" role="president">
         <id>2322</id>
@@ -26,7 +26,7 @@
             Kings of Belgium, Jordan, and Spain; the Presidents of Brazil, Egypt, France, the
             Federal Republic of Germany, Israel, Italy, Nigeria, the Philippines, Portugal, and
             Zaire; and the Prime Ministers of Japan, Pakistan, Singapore, Thailand, and
-        Turkey.</remarks>
+            Turkey.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -157,7 +157,7 @@
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
         <remarks>Met with Hungarian officials and delivered an address at Karl Marx
-        University.</remarks>
+            University.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -189,7 +189,7 @@
         <country id="netherlands">Netherlands</country>
         <locale>The Hague, Leiden</locale>
         <remarks>Met with Queen Beatrix and Prime Minister Lubbers and delivered a public
-        address.</remarks>
+            address.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -233,7 +233,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Briefed NATO Heads of State and Government on the U.S.-Soviet Summit
-        Meeting.</remarks>
+            Meeting.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -450,7 +450,7 @@
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
         <remarks>Met with President Lacalle and addressed a Joint Session of the Uruguayan
-        Congress.</remarks>
+            Congress.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -465,7 +465,7 @@
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
         <remarks>Met with President Menem and addressed a Joint Session of the Argentinean
-        Congress.</remarks>
+            Congress.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -480,7 +480,7 @@
         <country id="chile">Chile</country>
         <locale>Santiago</locale>
         <remarks>Met with President Aylwin and addressed a Joint Session of the Chilean
-        Congress.</remarks>
+            Congress.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -508,8 +508,7 @@
         <end-date>1991-03-14</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Met with Prime Minister Mulroney and signed an Air Quality
-        Agreement.</remarks>
+        <remarks>Met with Prime Minister Mulroney and signed an Air Quality Agreement.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -595,7 +594,7 @@
         <country id="greece">Greece</country>
         <locale>Athens, Souda Bay</locale>
         <remarks>Met with Prime Minister Mitsotakis; addressed U.S. and Greek military
-        personnel.</remarks>
+            personnel.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -727,7 +726,7 @@
         <locale>Seoul</locale>
         <remarks>Met with President Roh and senior Korean officials, signed a science and technology
             agreement, addressed the Korean National Assembly, and visited U.S. military
-        personnel.</remarks>
+            personnel.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -742,7 +741,7 @@
         <country id="japan">Japan</country>
         <locale>Kyoto, Kashihara, Tokyo</locale>
         <remarks>Met with Emperor Akihito, Prime Minister Miyazawa, and senior Japanese
-        officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

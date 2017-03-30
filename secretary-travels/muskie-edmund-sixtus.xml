@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="muskie-edmund-sixtus" role="secretary">
         <id>1221</id>
@@ -22,8 +22,8 @@
         <end-date>1980-05-16</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Attended ceremonies for the 25th anniversary of the Austrian State Treaty and
-                met with Soviet Foreign Minister Gromyko.</remarks>
+        <remarks>Attended ceremonies for the 25th anniversary of the Austrian State Treaty and met
+            with Soviet Foreign Minister Gromyko.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -94,8 +94,8 @@
         <end-date>1980-07-10</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Accompanied President Carter to funeral of Prime Minister Ohira. Met with
-                Chinese Premier Hua Guofeng.</remarks>
+        <remarks>Accompanied President Carter to funeral of Prime Minister Ohira. Met with Chinese
+            Premier Hua Guofeng.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

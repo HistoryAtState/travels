@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="rogers-william-pierce" role="secretary">
         <id>1670</id>
@@ -9,7 +9,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Accompanied President Nixon; attended the 23d meeting of the North Atlantic
-                Council.</remarks>
+            Council.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -178,8 +178,8 @@
         <end-date>1969-06-27</end-date>
         <country id="canada">Canada</country>
         <locale>Montreal</locale>
-        <remarks>Accompanied President Nixon to the 10th Anniversary ceremonies of the St.
-                Lawrence Seaway.</remarks>
+        <remarks>Accompanied President Nixon to the 10th Anniversary ceremonies of the St. Lawrence
+            Seaway.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -221,8 +221,8 @@
         <end-date>1969-07-31</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of the Joint Committee on Trade and Economic Development.
-                Signed a space cooperation agreement.</remarks>
+        <remarks>Attended a meeting of the Joint Committee on Trade and Economic Development. Signed
+            a space cooperation agreement.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -335,7 +335,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting. Visited the Commission of the European
-                Communities.</remarks>
+            Communities.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -350,7 +350,7 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Met with Chancellor Brandt, Foreign Minister Scheel, and senior German
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -378,8 +378,8 @@
         <end-date>1969-12-08</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President Pompidou, senior French officials, and with the U.S.
-                delegation to the Vietnam Peace Talks.</remarks>
+        <remarks>Met with President Pompidou, senior French officials, and with the U.S. delegation
+            to the Vietnam Peace Talks.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -394,7 +394,7 @@
         <country id="morocco">Morocco</country>
         <locale>Rabat</locale>
         <remarks>Met with King Hassan II and senior Moroccan officials. Signed an air transport
-                agreement.</remarks>
+            agreement.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -423,7 +423,7 @@
         <country id="ethiopia">Ethiopia</country>
         <locale>Addis Ababa</locale>
         <remarks>Met with Emperor Haile Selassie and senior Ethiopian officials. Addressed the
-                Organization of African Unity February 12.</remarks>
+            Organization of African Unity February 12.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -465,8 +465,8 @@
         <end-date>1970-02-18</end-date>
         <country id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</country>
         <locale>Kinshasa</locale>
-        <remarks>Met with President Mobutu and senior Congolese officials. Attended a conference
-                of U.S. Chiefs of Mission to African countries.</remarks>
+        <remarks>Met with President Mobutu and senior Congolese officials. Attended a conference of
+            U.S. Chiefs of Mission to African countries.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -579,7 +579,7 @@
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
         <remarks>Met with Prime Minister Caetano and senior Portuguese officials. Amended an air
-                transport agreement.</remarks>
+            transport agreement.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -622,8 +622,8 @@
         <end-date>1970-07-10</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of U.S. Chiefs of Mission to Asian countries and met with
-                Prime Minister Sato and senior Japanese officials.</remarks>
+        <remarks>Attended a meeting of U.S. Chiefs of Mission to Asian countries and met with Prime
+            Minister Sato and senior Japanese officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -735,8 +735,7 @@
         <end-date>1970-11-12</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Accompanied President Nixon to the funeral of former President De
-            Gaulle.</remarks>
+        <remarks>Accompanied President Nixon to the funeral of former President De Gaulle.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -751,7 +750,7 @@
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Attended a meeting of the Joint U.S.-Canadian Committee on Trade and Economic
-                Affairs.</remarks>
+            Affairs.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -877,8 +876,8 @@
         <end-date>1971-05-03</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Hussein and senior Jordanian officials. Discussed the Jarring
-                Middle East peace initiative.</remarks>
+        <remarks>Met with King Hussein and senior Jordanian officials. Discussed the Jarring Middle
+            East peace initiative.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -906,8 +905,8 @@
         <end-date>1971-05-06</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Sadat and senior Egyptian officials. Discussed the Jarring
-                peace initiative.</remarks>
+        <remarks>Met with President Sadat and senior Egyptian officials. Discussed the Jarring peace
+            initiative.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -921,8 +920,8 @@
         <end-date>1971-05-08</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv</locale>
-        <remarks>Met with Prime Minister Meir, Foreign Minister Eban, and senior Israeli
-                officials. Discussed the Jarring peace initiative.</remarks>
+        <remarks>Met with Prime Minister Meir, Foreign Minister Eban, and senior Israeli officials.
+            Discussed the Jarring peace initiative.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1021,7 +1020,7 @@
         <country id="portugal">Portugal</country>
         <locale>Terceira Island (Azores)</locale>
         <remarks>Accoompanied President Nixon to meeting with French President Pompidou and
-                Portuguese Prime Minister Caetano.</remarks>
+            Portuguese Prime Minister Caetano.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1035,8 +1034,7 @@
         <end-date>1971-12-21</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
-        <remarks>Accompanied President Nixon to meeting with British Prime Minister
-            Heath.</remarks>
+        <remarks>Accompanied President Nixon to meeting with British Prime Minister Heath.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1093,7 +1091,7 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Pre-summit consultation with Prime Minister Heath and Foreign Secretary Douglas
-                Home.</remarks>
+            Home.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1108,7 +1106,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Met with the Belgian and Dutch Foreign Ministers and with the President of the
-                Commission of the European Community.</remarks>
+            Commission of the European Community.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1122,8 +1120,7 @@
         <end-date>1972-05-06</end-date>
         <country id="luxembourg">Luxembourg</country>
         <locale>Luxembourg</locale>
-        <remarks>Official visit. Met with Grand Duke Jean and senior Luxembourg
-            officials.</remarks>
+        <remarks>Official visit. Met with Grand Duke Jean and senior Luxembourg officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1194,7 +1191,7 @@
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
         <remarks>Accompanied President Nixon on official visit. Signed consular convention with
-                Poland.</remarks>
+            Poland.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1237,7 +1234,7 @@
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
         <remarks>Signed Final Quadripartite Protocol to the Quadripartite Agreement on Berlin.
-                Visited East and West Berlin.</remarks>
+            Visited East and West Berlin.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1350,7 +1347,7 @@
         <country id="romania">Romania</country>
         <locale>Bucharest</locale>
         <remarks>Met with President Ceausescu. Signed consular convention and cultural and
-                scientific exchange agreements.</remarks>
+            scientific exchange agreements.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1365,7 +1362,7 @@
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
         <remarks>Met with First Secretary Kadar. Signed consular convention and scientific and
-                technical exchange agreements.</remarks>
+            technical exchange agreements.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1492,7 +1489,7 @@
         <country id="venezuela">Venezuela</country>
         <locale>Caracas</locale>
         <remarks>Met with President Caldera, Foreign Minister Calvani and senior Venezuelan
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1521,7 +1518,7 @@
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
         <remarks>Met with President Pastrana, Foreign Minister Vasquez, and senior Colombian
-                officials.</remarks>
+            officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1591,8 +1588,7 @@
         <end-date>1973-06-01</end-date>
         <country id="iceland">Iceland</country>
         <locale>Reykjavik</locale>
-        <remarks>Accompanied President Nixon to a meeting with French President
-            Pompidou.</remarks>
+        <remarks>Accompanied President Nixon to a meeting with French President Pompidou.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1649,7 +1645,7 @@
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Attended the first phase of the Conference on Security and Cooperation in
-                Europe.</remarks>
+            Europe.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1678,7 +1674,7 @@
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Attended a meeting of the Joint U.S.-Japan Committee on Trade and Economic
-                Affairs.</remarks>
+            Affairs.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

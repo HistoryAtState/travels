@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="hull-cordell" role="secretary">
         <id>942</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1933-06-08</start-date>
         <end-date>1933-07-27</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Chairman of U.S. Delegation to the Monetary and Economic Conference. Left U.S.
-                May 31; returned August 1.</remarks>
+        <remarks>Chairman of U.S. Delegation to the Monetary and Economic Conference. Left U.S. May
+            31; returned August 1.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -18,14 +18,14 @@
     <trip who="hull-cordell" role="secretary">
         <id>943</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1933-11-24</start-date>
         <end-date>1933-11-25</end-date>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro, Sao Paulo, Santos</locale>
         <remarks>Met with President Vargas and Foreign Minister de Mello Franco en route to
-                Inter-American Conference in Montevideo. Delivered several public addresses. Left
-                U.S. November 17.</remarks>
+            Inter-American Conference in Montevideo. Delivered several public addresses. Left U.S.
+            November 17.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -34,7 +34,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>944</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1933-11-28</start-date>
         <end-date>1933-12-26</end-date>
         <country id="uruguay">Uruguay</country>
@@ -48,13 +48,13 @@
     <trip who="hull-cordell" role="secretary">
         <id>945</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1933-12-27</start-date>
         <end-date>1933-12-31</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
         <remarks>Met with President Justo and addressed the American Club. Toured Argentine Lakes
-                District en route to Chile.</remarks>
+            District en route to Chile.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -63,13 +63,13 @@
     <trip who="hull-cordell" role="secretary">
         <id>946</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1934-01-01</start-date>
         <end-date>1934-01-08</end-date>
         <country id="chile">Chile</country>
         <locale>Santiago, Valparaiso, Antofagasta</locale>
-        <remarks>Met with President Alessandri, addressed the Senate, and delivered several
-                public addresses.</remarks>
+        <remarks>Met with President Alessandri, addressed the Senate, and delivered several public
+            addresses.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -78,13 +78,13 @@
     <trip who="hull-cordell" role="secretary">
         <id>947</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1934-01-09</start-date>
         <end-date>1934-01-13</end-date>
         <country id="peru">Peru</country>
         <locale>Mollendo, Callao, Lima, Talara</locale>
-        <remarks>Met with President Benvenidez and Foreign Minister Solon Polo and delivered
-                several public addresses.</remarks>
+        <remarks>Met with President Benvenidez and Foreign Minister Solon Polo and delivered several
+            public addresses.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -93,7 +93,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>948</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1934-01-13</start-date>
         <end-date>1934-01-14</end-date>
         <country id="ecuador">Ecuador</country>
@@ -107,7 +107,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>949</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1934-01-15</start-date>
         <end-date>1934-01-15</end-date>
         <country id="colombia">Colombia</country>
@@ -121,13 +121,13 @@
     <trip who="hull-cordell" role="secretary">
         <id>950</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1934-01-17</start-date>
         <end-date>1934-01-17</end-date>
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
-        <remarks>Met with President Arias and Foreign Minister Arosemena. Returned to U.S.
-                January 19.</remarks>
+        <remarks>Met with President Arias and Foreign Minister Arosemena. Returned to U.S. January
+            19.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -136,14 +136,13 @@
     <trip who="hull-cordell" role="secretary">
         <id>951</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1936-11-19</start-date>
         <end-date>1936-11-21</end-date>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro, Santos</locale>
         <remarks>Met with President Vargas and Foreign Minister Macedo Soares en route to
-                Inter-American Conference for the Maintenance of Peace. Left U.S. November
-            7.</remarks>
+            Inter-American Conference for the Maintenance of Peace. Left U.S. November 7.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -152,7 +151,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>952</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1936-11-24</start-date>
         <end-date>1936-11-24</end-date>
         <country id="uruguay">Uruguay</country>
@@ -166,7 +165,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>953</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1936-11-25</start-date>
         <end-date>1936-12-26</end-date>
         <country id="argentina">Argentina</country>
@@ -180,7 +179,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>954</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1936-12-29</start-date>
         <end-date>1936-12-31</end-date>
         <country id="brazil">Brazil</country>
@@ -195,7 +194,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>955</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1937-01-08</start-date>
         <end-date>1937-01-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -209,7 +208,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>956</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1937-10-22</start-date>
         <end-date>1937-10-23</end-date>
         <country id="canada">Canada</country>
@@ -223,13 +222,13 @@
     <trip who="hull-cordell" role="secretary">
         <id>957</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1938-11-30</start-date>
         <end-date>1938-12-01</end-date>
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
-        <remarks>Met with President Arosemena and addressed a conference of Foreign Service
-                officers while en route to conference in Lima. Left U.S. November 25.</remarks>
+        <remarks>Met with President Arosemena and addressed a conference of Foreign Service officers
+            while en route to conference in Lima. Left U.S. November 25.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -238,7 +237,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>958</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1938-12-02</start-date>
         <end-date>1938-12-02</end-date>
         <country id="colombia">Colombia</country>
@@ -252,7 +251,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>959</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1938-12-04</start-date>
         <end-date>1938-12-04</end-date>
         <country id="ecuador">Ecuador</country>
@@ -266,7 +265,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>960</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1938-12-07</start-date>
         <end-date>1938-12-27</end-date>
         <country id="peru">Peru</country>
@@ -280,7 +279,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>961</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1938-12-30</start-date>
         <end-date>1938-12-30</end-date>
         <country id="ecuador">Ecuador</country>
@@ -294,7 +293,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>962</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1939-01-01</start-date>
         <end-date>1939-01-01</end-date>
         <country id="colombia">Colombia</country>
@@ -308,7 +307,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>963</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1939-01-03</start-date>
         <end-date>1939-01-03</end-date>
         <country id="panama">Panama</country>
@@ -322,7 +321,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>964</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1940-07-20</start-date>
         <end-date>1940-07-30</end-date>
         <country id="cuba">Cuba</country>
@@ -337,7 +336,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>965</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1943-08-20</start-date>
         <end-date>1943-08-24</end-date>
         <country id="canada">Canada</country>
@@ -351,7 +350,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>966</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1943-10-15</start-date>
         <end-date>1943-10-15</end-date>
         <country id="morocco">Morocco</country>
@@ -365,7 +364,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>967</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1943-10-15</start-date>
         <end-date>1943-10-15</end-date>
         <country id="france">France</country>
@@ -379,13 +378,12 @@
     <trip who="hull-cordell" role="secretary">
         <id>968</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1943-10-16</start-date>
         <end-date>1943-10-16</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with King Farouk, King George of Greece and King Peter of
-            Yugoslavia.</remarks>
+        <remarks>Met with King Farouk, King George of Greece and King Peter of Yugoslavia.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -394,7 +392,7 @@
     <trip who="hull-cordell" role="secretary">
         <id>969</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1943-10-17</start-date>
         <end-date>1943-10-17</end-date>
         <country id="iran">Iran</country>
@@ -409,13 +407,13 @@
     <trip who="hull-cordell" role="secretary">
         <id>970</id>
         <role>secretary</role>
-        <name>Cordell  Hull</name>
+        <name>Cordell Hull</name>
         <start-date>1943-10-18</start-date>
         <end-date>1943-11-03</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Attended Moscow Conference with British Foreign Secretary Eden and Soviet
-                Foreign Minister Molotov. Returned to U.S. November 10. </remarks>
+        <remarks>Attended Moscow Conference with British Foreign Secretary Eden and Soviet Foreign
+            Minister Molotov. Returned to U.S. November 10. </remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

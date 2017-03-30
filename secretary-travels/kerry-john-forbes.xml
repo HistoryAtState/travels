@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="kerry-john-forbes" role="secretary">
         <id>3404</id>
@@ -1253,8 +1253,8 @@
         <end-date>2013-12-18</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila, Tacloban</locale>
-        <remarks>Met with President Benigno Aquino and Foreign Secretary Albert del Rosario.
-            Visited a USAID Forward Operating Base.</remarks>
+        <remarks>Met with President Benigno Aquino and Foreign Secretary Albert del Rosario. Visited
+            a USAID Forward Operating Base.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1268,7 +1268,8 @@
         <end-date>2014-01-05</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Benjamin Netanyahu and Foreign Minister Avigdor Lieberman.</remarks>
+        <remarks>Met with Prime Minister Benjamin Netanyahu and Foreign Minister Avigdor
+            Lieberman.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1545,7 +1546,8 @@
         <end-date>2014-03-14</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed the Ukrainian crisis with Russian Foreign Minister Sergei Lavrov.</remarks>
+        <remarks>Discussed the Ukrainian crisis with Russian Foreign Minister Sergei
+            Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1559,7 +1561,8 @@
         <end-date>2014-03-25</end-date>
         <country id="netherlands">Netherlands</country>
         <locale>The Hagaue</locale>
-        <remarks>Accompanied President Obama to a G-7 Leaders’ Meeting on the Ukrainian crisis.</remarks>
+        <remarks>Accompanied President Obama to a G-7 Leaders’ Meeting on the Ukrainian
+            crisis.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1601,7 +1604,8 @@
         <end-date>2014-03-26</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud Abbas.</remarks>
+        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud
+            Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1760,7 +1764,8 @@
         <end-date>2014-05-02</end-date>
         <country id="south-sudan">South Sudan</country>
         <locale>Juba</locale>
-        <remarks>Met with President Salva Kiir, civil society leaders and UNMISS representatives.</remarks>
+        <remarks>Met with President Salva Kiir, civil society leaders and UNMISS
+            representatives.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1775,7 +1780,8 @@
         <country id="congo-kinshasa">Congo, Democratic Republic of</country>
         <locale>Kinshasa</locale>
         <remarks>Met with Foreign Minister Raymond Tshibanda, participants in the Young Africa
-            Leaders Initiative UN Special Representative Martin Kobler, and President Joseph Kabila.</remarks>
+            Leaders Initiative UN Special Representative Martin Kobler, and President Joseph
+            Kabila.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1997,7 +2003,8 @@
         <end-date>2014-07-10</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
-        <remarks>Attended the Sixth Round of the U.S.-China Strategic and Economic Dialogue.</remarks>
+        <remarks>Attended the Sixth Round of the U.S.-China Strategic and Economic
+            Dialogue.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2026,7 +2033,8 @@
         <end-date>2014-07-15</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Met with Iranian Foreign Minister Javad Zarif and various P5+1 Foreign Ministers.</remarks>
+        <remarks>Met with Iranian Foreign Minister Javad Zarif and various P5+1 Foreign
+            Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2056,7 +2064,8 @@
         <end-date>2014-07-23</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem, Tel Aviv</locale>
-        <remarks>Met with UN Secretary-General Ban Ki-Moon and Prime Minister Benjamin Netanyahu.</remarks>
+        <remarks>Met with UN Secretary-General Ban Ki-Moon and Prime Minister Benjamin
+            Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2350,7 +2359,8 @@
         <end-date>2014-10-22</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with Chancellor Angela Merkel and Foreign Minister Frank-Walter Steinmeier.</remarks>
+        <remarks>Met with Chancellor Angela Merkel and Foreign Minister Frank-Walter
+            Steinmeier.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2539,7 +2549,8 @@
         <end-date>2014-12-12</end-date>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
-        <remarks>Met with President Juan Manuel Santos and Foreign Minister Maria Angela Holguin.</remarks>
+        <remarks>Met with President Juan Manuel Santos and Foreign Minister Maria Angela
+            Holguin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2713,7 +2724,8 @@
         <end-date>2015-01-25</end-date>
         <country id="nigeria">Nigeria</country>
         <locale>Lagos</locale>
-        <remarks>Met with President Goodluck Jonathan and presidential candidate Muhammedu Buhari.</remarks>
+        <remarks>Met with President Goodluck Jonathan and presidential candidate Muhammedu
+            Buhari.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3002,7 +3014,8 @@
         <country id="somalia">Somalia</country>
         <locale>Mogadishu</locale>
         <remarks>Met with President Hassan Sheikh Mahmoud, Prime Minister Omar Abdirashid Ali
-            Sharmarke and regional leaders. Announced plans to re-establish a U.S. Embassy..</remarks>
+            Sharmarke and regional leaders. Announced plans to re-establish a U.S.
+            Embassy..</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3046,7 +3059,8 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended ceremonies commemorating the 70th anniversary of VE-Day, Met with Foreign
-            Minister Laurent Fabius and with the Gulf Cooperation Council Foreign Ministers.</remarks>
+            Minister Laurent Fabius and with the Gulf Cooperation Council Foreign
+            Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

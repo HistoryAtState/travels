@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="seward-william-henry" role="secretary">
         <id>1915</id>
@@ -8,8 +8,8 @@
         <end-date>1866-01-12</end-date>
         <country id="denmark">Denmark</country>
         <locale>St. Thomas, St. Croix, Frederikstadt, Christianstadt (Virgin Islands)</locale>
-        <remarks>Met with Danish colonial officials during a working vacation. Also met with
-                former Mexican President Santa Anna. Departed from Washington January 1.</remarks>
+        <remarks>Met with Danish colonial officials during a working vacation. Also met with former
+            Mexican President Santa Anna. Departed from Washington January 1.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

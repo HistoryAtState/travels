@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="clinton-william-j" role="president">
         <id>2522</id>
@@ -261,7 +261,7 @@
         <locale>Bonn, Oggersheim, Berlin</locale>
         <remarks>Met with Chancellor Kohl and German political leaders. Delivered a public address
             at the Brandenburg Gate and attended deactivation ceremony for the Berlin
-        Brigade.</remarks>
+            Brigade.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -746,7 +746,7 @@
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Summit meeting with Russian President Yeltsin. Also met with President
-        Ahtisaari.</remarks>
+            Ahtisaari.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -775,7 +775,7 @@
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
         <remarks>Attended a Summit Meeting of Presidents of the Central American
-        Republics.</remarks>
+            Republics.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1089,7 +1089,7 @@
         <country id="germany">Germany</country>
         <locale>Berlin, Potsdam, Frankfurt, Eisenach</locale>
         <remarks>Met with Chancellor Kohl; commemorated 50th anniversary of the Berlin
-        Airlift.</remarks>
+            Airlift.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1175,7 +1175,7 @@
         <country id="ireland">Ireland</country>
         <locale>Dublin, Adare, Limerick, Ballybunion</locale>
         <remarks>Met with Prime Minister Ahern; delivered several public addresses; played
-        golf.</remarks>
+            golf.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1345,7 +1345,8 @@
         <start-date>1999-05-04</start-date>
         <end-date>1999-05-06</end-date>
         <country id="germany">Germany</country>
-        <locale>Frankfurt, Ramstein Air Force Base, Spangdahlem Air Force Base, Bonn, Ingelheim</locale>
+        <locale>Frankfurt, Ramstein Air Force Base, Spangdahlem Air Force Base, Bonn,
+            Ingelheim</locale>
         <remarks>Addressed U.S. military personnel; met with Chancellor Schroeder; met with Kosovo
             refugees.</remarks>
         <created-by>joewiz</created-by>
@@ -1376,7 +1377,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed peacekeeping in Kosovo with President Chirac and Prime Minister
-        Jospin.</remarks>
+            Jospin.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1507,7 +1508,7 @@
         <locale>Ottawa, Mont Tremblant</locale>
         <remarks>Working visit. Met with Prime Minister Chretien and Quebec Premier Bouchard,
             attended Federalism Conference at Mont Tremblant, and dedicated new Embassy
-        building.</remarks>
+            building.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1708,7 +1709,7 @@
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
         <remarks>Attended U.S.-European Union Summit Meeting; met with Israeli Prime Minister
-        Barak.</remarks>
+            Barak.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
