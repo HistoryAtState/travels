@@ -3115,7 +3115,7 @@
         <name>John Forbes Kerry</name>
         <start-date>2015-05-17</start-date>
         <end-date>2015-05-18</end-date>
-        <country id="korea">Korea</country>
+        <country id="korea-south">South Korea</country>
         <locale>Seoul</locale>
         <remarks>Met with Foreign Minister Yun Byung-Se and President Park Geun-Hye.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3749,5 +3749,1307 @@
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T14:02:07.012-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3715</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-01-13</start-date>
+        <end-date>2016-01-15</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Discussed the Syrian crisis with Saudi Foreign Ministe Adel al-Jubeir.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3716</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-01-16</start-date>
+        <end-date>2016-01-16</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Discussed the Joint Comprehensive Plan of Action with Iranian Foreign Minister Javad Zarif and EU High Representative Federica Mogherini.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3717</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-01-20</start-date>
+        <end-date>2016-01-22</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Zurich, Davos</locale>
+        <remarks>Discussed the Syrian and Ukrainian crises with Russian Foreign Minister Sergei Lavrov.  Attended the World Economic Forum Annual Meeting. </remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3718</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-01-23</start-date>
+        <end-date>2016-01-25</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with Foreign Minister Adel al-Jubeir, members of the Syrian Opposition’s High Negotiations Committee, and with the Foreign Ministers of the Gulf Cooperation Council states.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3719</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-01-25</start-date>
+        <end-date>2016-01-25</end-date>
+        <country id="laos">Laos</country>
+        <locale>Vientiane</locale>
+        <remarks>Met with Prime Minister Thongsing Thammavong and Foreign Minister Thongloun Sisoulith.  Addressed a YSEALI Interaction Event.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3720</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-01-26</start-date>
+        <end-date>2016-01-26</end-date>
+        <country id="cambodia">Cambodia</country>
+        <locale>Phnom Penh</locale>
+        <remarks>Met with Prime Minister Hun Sen and Foreign Minister Hor Namhong.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3721</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-01-27</start-date>
+        <end-date>2016-01-27</end-date>
+        <country id="">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>Met with President Xi Jinping, Foreign Minister Wang Li, and State Councilor Jang Jiechi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3722</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-01-29</start-date>
+        <end-date>2016-01-29</end-date>
+        <country id="canada">Canada</country>
+        <locale>Quebec City</locale>
+        <remarks>Attended the North American Foreign Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3723</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-02-01</start-date>
+        <end-date>2016-02-02</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Attended a Ministerial Meeting of the Small Group of the Global Coalition to Counter ISIL.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3724</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-02-03</start-date>
+        <end-date>2016-02-04</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended the Fourth Syria Donors Conference.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3725</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-02-10</start-date>
+        <end-date>2016-02-14</end-date>
+        <country id="germany">Germany</country>
+        <locale>Munich</locale>
+        <remarks>Attended the 52nd Munich Security Conference and an International Syria Support Group meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3726</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-02-14</start-date>
+        <end-date>2016-02-14</end-date>
+        <country id="albania">Albania</country>
+        <locale>Tirana</locale>
+        <remarks>Met with Prime Minister Edi Rama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3727</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-02-19</start-date>
+        <end-date>2016-02-20</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Foreign Secretary Philip Hammond.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3728</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-02-20</start-date>
+        <end-date>2016-02-21</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with King Abdullah II, Foreign Minister Nasser Judeh, and Palestinian Authority President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3729</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-03-11</start-date>
+        <end-date>2016-03-12</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Hafr al-Batin</locale>
+        <remarks>Met with King Salman bin Abdulaziz al-Saud, Crown Prince Mohammed bin Nayef, Deputy Crown Prince Mohammad bin Salman al-Saud, and Foreign Minister Adel al-Jubeir.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3730</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-03-12</start-date>
+        <end-date>2016-03-13</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with the Foreign Ministers of France, Germany, Italy, and the United Kingdom, and with EU High Representative Mogherini.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3731</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-03-21</start-date>
+        <end-date>2016-03-22</end-date>
+        <country id="cuba">Cuba</country>
+        <locale>Havana</locale>
+        <remarks>Accompanied President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3732</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-03-23</start-date>
+        <end-date>2016-03-24</end-date>
+        <country id="russia">Russia</country>
+        <locale>Moscow</locale>
+        <remarks>Met with President Vladimir Putin and Foreign Minister Sergei Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3733</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-03-25</start-date>
+        <end-date>2016-03-25</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Met with Belgian and EU officials and expressed condolences following a March 22 terrorist attack.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3734</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-04-06</start-date>
+        <end-date>2016-04-08</end-date>
+        <country id="bahrain">Bahrain</country>
+        <locale>Manama</locale>
+        <remarks>Attended a ministerial meeting of the Gulf Cooperation Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3735</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-04-08</start-date>
+        <end-date>2016-04-08</end-date>
+        <country id="iraq">Iraq</country>
+        <locale>Baghdad</locale>
+        <remarks>Met with Prime Minister Haider al-Abadi, Foreign Minister Ibrahim al-Jaafari, Council of Representatives Speaker Saleem al Jabouri, and Kurdish Regional Government Prime Minister Nechrivan Barzani.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3736</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-04-09</start-date>
+        <end-date>2016-04-09</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Kabul</locale>
+        <remarks>Attended the third meeting of the U.S.-Afghanistan Bilateral Commission.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3737</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-04-10</start-date>
+        <end-date>2016-04-11</end-date>
+        <country id="japan">Japan</country>
+        <locale>Hiroshima</locale>
+        <remarks>Attended a G-7 ministerial meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3738</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-04-20</start-date>
+        <end-date>2016-04-20</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Abdel Fattah al-Sisi and Foreign Minister Sameh Shoukry.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3739</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-04-21</start-date>
+        <end-date>2016-04-21</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Attended a Gulf Cooperation Council Summit Meeting with President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3740</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-05-01</start-date>
+        <end-date>2016-05-02</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Discussed the Syrian conflict with Jordanian Foreign Minister Nasser Judeh, Saudi Arabian Foreign Minister Adel al-Jubeir, and UN Special Envoy Staffan de Mistura.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3741</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-05-09</start-date>
+        <end-date>2016-05-10</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with Foreign Minister Jean-Marc Ayrault.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3742</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-05-10</start-date>
+        <end-date>2016-05-12</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London, Oxford</locale>
+        <remarks>Attended the Anti-Corruption Summit.  Addressed the Oxford Union.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3743</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-05-15</start-date>
+        <end-date>2016-05-15</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jeddah, Al Wajh</locale>
+        <remarks>Met with King Salman bin Abdulaziz al-Saud, Crown Prince Mohammed  bin Nayef, and Deputy Crown Prince Mohammad bin Salman al-Saud.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3744</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-05-16</start-date>
+        <end-date>2016-05-18</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Co-hosted meetings on Libya and of the International Syria Support Group.  Co-hosted a meeting of the Presidents of Armenia and Azerbaijan on the Nagorno Karabakh conflict.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3745</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-05-18</start-date>
+        <end-date>2016-05-18</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Abdel Fattah al-Sisi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3746</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-05-18</start-date>
+        <end-date>2016-05-21</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3747</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-05-22</start-date>
+        <end-date>2016-05-22</end-date>
+        <country id="burma">Burma</country>
+        <locale> Naypyitaw</locale>
+        <remarks>Met with Foreign Minister Daw Aung San Suu Kyi</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3748</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-05-22</start-date>
+        <end-date>2016-05-25</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi, Ho Chi Minh City</locale>
+        <remarks>Accompanied President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3749</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-02</start-date>
+        <end-date>2016-06-04</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended a French-hosted ministerial meeting on Middle East peace, and discussed the Counter-ISIL Coalition ‘s efforts with Foreign Minister Jean-Marc Ayrault.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3750</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-05</start-date>
+        <end-date>2016-06-05</end-date>
+        <country id="mongolia">Mongolia</country>
+        <locale>Ulaanbaatar</locale>
+        <remarks>Met with Foreign Minister Lundeg Purevsuren.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3751</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-05</start-date>
+        <end-date>2016-06-08</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>With Treasury Secretary Jacob J. Lew, attended the 8th U.S.-China Strategic and Economic Dialogue.  Also attended the 7th Annual U.S.-China Consultation on People-to-People Exchange.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3752</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-08</start-date>
+        <end-date>2016-06-09</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with Crown Prince Mohammed bin Zayed and senior officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3753</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-13</start-date>
+        <end-date>2016-06-14</end-date>
+        <country id="dominican-republic">Dominican Republic</country>
+        <locale>Santo Domingo</locale>
+        <remarks>Attended the OAS General Assembly.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3754</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-14</start-date>
+        <end-date>2016-06-16</end-date>
+        <country id="norway">Norway</country>
+        <locale>Oslo, Svalbard</locale>
+        <remarks>Attended the Oslo Forum.  Visited Arctic researchers in Svalbard.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3755</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-16</start-date>
+        <end-date>2016-06-17</end-date>
+        <country id="denmark">Denmark</country>
+        <locale>Copenhagen</locale>
+        <remarks>Met with Prime Minister Lars Lokke Rasmussen and Foreign Minister Kristian Jensen.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3756</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-17</start-date>
+        <end-date>2016-06-17</end-date>
+        <country id="denmark">Denmark (Greenland)</country>
+        <locale>Ilulissat</locale>
+        <remarks>Met with Foreign Minister Vittus Qujaukitsoq and Foreign Minister Jensen.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3757</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-25</start-date>
+        <end-date>2016-06-27</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with Foreign Minister Paolo Gentiloni and Israeli Prime Minister Benjamin Netanyahu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3758</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-27</start-date>
+        <end-date>2016-06-27</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Met with EU High Representative Federica Mogherini and NATO Secretary General Jens Stoltenberg.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3759</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-27</start-date>
+        <end-date>2016-06-27</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Foreign Secretary Philip Hammond.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3760</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-06-28</start-date>
+        <end-date>2016-06-29</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Attended the North American Leaders Summit with President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3761</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-06</start-date>
+        <end-date>2016-07-07</end-date>
+        <country id="georgia">Georgia</country>
+        <locale>Tbilisi</locale>
+        <remarks>Met with President Giorgi Margvelashvili and Prime Minister Giorgi Kirivikashvili and co-chaired a meeting of the U.S.-Georgia Strategic Partnership Commission.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3762</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-07</start-date>
+        <end-date>2016-07-07</end-date>
+        <country id="ukraine">Ukraine</country>
+        <locale>Kyiv</locale>
+        <remarks>Met with President Petro Porochenko and Prime Minister Volodymyr Groysman.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3763</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-08</start-date>
+        <end-date>2016-07-08</end-date>
+        <country id="poland">Poland</country>
+        <locale>Warsaw</locale>
+        <remarks>Accompanied President Obama to the NATO Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3764</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-13</start-date>
+        <end-date>2016-07-14</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended Bastille Day celebrations.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3765</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-14</start-date>
+        <end-date>2016-07-15</end-date>
+        <country id="russia">Russia</country>
+        <locale>Moscow</locale>
+        <remarks>Met with President Vladimir Putin and Foreign Minister Sergei Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3766</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-16</start-date>
+        <end-date>2016-07-17</end-date>
+        <country id="luxembourg">Luxembourg</country>
+        <locale>Luxembourg City</locale>
+        <remarks>Met with Deputy Prime Minister/Foreign Minister Jean Asselborn.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3767</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-17</start-date>
+        <end-date>2016-07-18</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Met with EU Member States Foreign Ministers and with EU High Representative Mogherini.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3768</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-18</start-date>
+        <end-date>2016-07-19</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Foreign Secretary Boris Johnson and UN Special Envoy de Mistura.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3769</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-22</start-date>
+        <end-date>2016-07-22</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Attended the opening of the Extraordinary Meeting of the Parties to the Montreal Protocol. </remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3770</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-22</start-date>
+        <end-date>2016-07-24</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with Palestinian Authority President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3771</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-25</start-date>
+        <end-date>2016-07-26</end-date>
+        <country id="laos">Laos</country>
+        <locale>Vientiane</locale>
+        <remarks>Attended the ASEAN Regional Forum, the East Asian Summit Foreign Ministers’ Meeting, the ASEAN-U.S. Ministerial Meeting and the Lower Mekong Initiative Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3772</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-26</start-date>
+        <end-date>2016-07-27</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Met with President Rodrigo Duterte and Foreign Secretary Perfecto Yasay.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3773</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-07-29</start-date>
+        <end-date>2016-07-31</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with Foreign Minister Jean-Marc Ayrault and Palestinian Authority President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3774</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-08-03</start-date>
+        <end-date>2016-08-04</end-date>
+        <country id="argentina">Argentina</country>
+        <locale>Buenos Aires</locale>
+        <remarks>Met with President Mauricio Macri, opened the U.S.-Argentina High Level Dialogue, and addressed the Argentine-American Chamber of Commerce.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3775</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-08-05</start-date>
+        <end-date>2016-08-06</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Rio de Janeiro</locale>
+        <remarks>Met with Foreign Minister Jose Serra and attended the Opening Ceremony of the 2016 Summer Olympic Games.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3776</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-08-22</start-date>
+        <end-date>2016-08-22</end-date>
+        <country id="kenya">Kenya</country>
+        <locale>Nairobi</locale>
+        <remarks>Met with President Uhuru Kenyatta and Foreign Minister Amina Mohamed and regional Foreign Ministers.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3777</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-08-23</start-date>
+        <end-date>2016-08-24</end-date>
+        <country id="nigeria">Nigeria</country>
+        <locale>Sokoto, Abuja</locale>
+        <remarks>Met with local civic and religious leaders in Sokoto, and with President Muhammedu Buhari, Foreign Minister Geoffrey Onyeama, and northern governors.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3778</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-08-24</start-date>
+        <end-date>2016-08-25</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jeddah</locale>
+        <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council and of the United Kingdom, and the UN Special Envoy for Yemen.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3779</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>3016-08-25</start-date>
+        <end-date>3016-08-28</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Met with Russian Foreign Minister Sergey Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3780</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-08-29</start-date>
+        <end-date>2016-08-29</end-date>
+        <country id="bangladesh">Bangladesh</country>
+        <locale>Dhaka</locale>
+        <remarks>Met with Prime Minister Sheikh Hasina, Foreign Minister Mahmood Ali, and Nationalist Party Chairperson Khaleda Zia.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3781</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-08-29</start-date>
+        <end-date>2016-09-01</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi</locale>
+        <remarks>Met with President Narendra Modi.  With Commerce Secretary Penny Pritzker, co-chaired the second U.S.-India Strategic and Commercial Dialogue.  Met with Egyptian President Abdel Fattah al-Sisi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3782</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-09-03</start-date>
+        <end-date>2016-09-06</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Hangzhou</locale>
+        <remarks>Attended the G-20 Summit Meeting with President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3783</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-09-08</start-date>
+        <end-date>2016-09-09</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Discussed the Syrian conflict with Russian Foreign Minister Sergey Lavrov and UN Special Envoy Staffan de Mistura.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3784</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-09-26</start-date>
+        <end-date>2016-09-26</end-date>
+        <country id="colombia">Colombia</country>
+        <locale>Bogota</locale>
+        <remarks>Attended the signing of the Colombian Peace Accord.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3785</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-10-04</start-date>
+        <end-date>2016-10-05</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended the Brussels Conference on Afghanistan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3786</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-10-13</start-date>
+        <end-date>2016-10-14</end-date>
+        <country id="rwanda">Rwanda</country>
+        <locale>Kigali</locale>
+        <remarks>With EPA Administrator Gina McCarthy, attended the 28th Meeting of the Parties to the Montreal Protocol.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3787</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-10-15</start-date>
+        <end-date>2016-10-15</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Lausanne</locale>
+        <remarks>Met with the Foreign Ministers of Russia, Saudi Arabia, Qatar, Turkey, Egypt, Iraq, Jordan, and Iran, and UN Special Envoy de Mistura.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3788</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-10-16</start-date>
+        <end-date>2016-10-16</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Foreign Secretary Boris Johnson and UN Special Envoy for Yemen Ismail Ouldh Cheikh Ahmed.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3789</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-10-30</start-date>
+        <end-date>2016-10-30</end-date>
+        <country id="ireland">Ireland</country>
+        <locale>Tipperary</locale>
+        <remarks>Met with Foreign Minister Charles Flanagan and received the Tipperary International Peace Award.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3790</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-10-31</start-date>
+        <end-date>2016-10-31</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended a Libya Ministerial Meeting and received the Benjamin Franklin House Medal for Leadership and the Chatham House Prize.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3791</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-11-10</start-date>
+        <end-date>2016-11-12</end-date>
+        <country id="antarctica">Antarctica</country>
+        <locale>McMurdo Sound, South Pole</locale>
+        <remarks>Visited the McMurdo Station and the Amundsen-Scott South Pole Station.  First visit of a Secretary of State to Antarctica.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3792</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-11-12</start-date>
+        <end-date>2016-11-13</end-date>
+        <country id="new-zealand">New Zealand</country>
+        <locale>Wellington</locale>
+        <remarks>Met with Prime Minister John Key and Foreign Minister Murray McCully.  Dedicated the site of the United States Memorial.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3793</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-11-14</start-date>
+        <end-date>2016-11-14</end-date>
+        <country id="oman">Oman</country>
+        <locale>Muscat</locale>
+        <remarks>Discussed the Yemen conflict with Sultan Qaboos and Foreign Minister Yusuf bin Alawi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3794</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-11-15</start-date>
+        <end-date>2016-11-15</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with Crown Prince Mohammed bin Zayed.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3795</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-11-15</start-date>
+        <end-date>2016-11-16</end-date>
+        <country id="morocco">Morocco</country>
+        <locale>Marrakesh</locale>
+        <remarks>Attended and addressed the 22nd Conference of the Parties to the UN Framework Convention on Climate Change.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3796</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-11-16</start-date>
+        <end-date>2016-11-16</end-date>
+        <country id="peru">Peru</country>
+        <locale>Lima</locale>
+        <remarks>Attended an APEC Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3797</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-12-02</start-date>
+        <end-date>2016-12-03</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with Foreign Minister Paolo Gentiloni and attended the Rome Mediterranean Dialogues.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3798</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-12-02</start-date>
+        <end-date>2016-12-02</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Met with Secretary of State Cardinal Pietro Parolin.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3799</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-12-04</start-date>
+        <end-date>2016-12-05</end-date>
+        <country id="germany">Germany</country>
+        <locale>Berlin</locale>
+        <remarks>Met with Foreign Minister Frank-Walter Steinmeier.  Received the Federal Cross of Merit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3800</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-12-06</start-date>
+        <end-date>2016-12-07</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a NATO Ministerial Meeting.  Met with EU High Representative Mogherini.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3801</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-12-07</start-date>
+        <end-date>2016-12-08</end-date>
+        <country id="germany">Germany</country>
+        <locale>Hamburg</locale>
+        <remarks>Attended an OSCE Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3802</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-12-08</start-date>
+        <end-date>2016-12-11</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Discussed the Syrian conflict with the Foreign Ministers of France, Germany, and Qatar.  Received the Legion of Honor.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3803</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2016-12-17</start-date>
+        <end-date>2016-12-19</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with King Salman bin Abdulaziz al-Saud and with the Foreign Ministers of Saudi Arabia and Oman.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3804</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2017-01-13</start-date>
+        <end-date>2017-01-14</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi, Ho Chi Minh City, Camau Province</locale>
+        <remarks>Met with Prime Minister Nguyen Xuan Phuc and Acting Foreign Minister Bui Thanh Son.  Delivered a speech at the Ho Chi Minh University of Technology and Education.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3805</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2017-01-15</start-date>
+        <end-date>2017-01-15</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended a Middle East Peace Conference.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3806</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2017-01-16</start-date>
+        <end-date>2017-01-16</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Foreign Secretary Boris Johnson.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="president">
+        <id>3807</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2017-01-17</start-date>
+        <end-date>2017-01-18</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Davos</locale>
+        <remarks>Attended the World Economic Forum.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
 </trips>
