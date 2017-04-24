@@ -3750,7 +3750,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T14:02:07.012-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3715</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3764,7 +3764,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3716</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3778,7 +3778,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3717</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3792,7 +3792,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3718</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3806,7 +3806,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3719</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3820,7 +3820,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3720</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3834,13 +3834,13 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3721</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
         <start-date>2016-01-27</start-date>
         <end-date>2016-01-27</end-date>
-        <country id="">China, People’s Republic of</country>
+        <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
         <remarks>Met with President Xi Jinping, Foreign Minister Wang Li, and State Councilor Jang Jiechi.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3848,7 +3848,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3722</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3862,7 +3862,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3723</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3876,7 +3876,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3724</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3890,7 +3890,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3725</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3904,7 +3904,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3726</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3918,7 +3918,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3727</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3932,7 +3932,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3728</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3946,7 +3946,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3729</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3960,7 +3960,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3730</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3974,7 +3974,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3731</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -3988,7 +3988,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3732</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4002,7 +4002,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3733</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4016,7 +4016,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3734</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4030,7 +4030,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3735</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4044,7 +4044,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3736</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4058,7 +4058,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3737</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4072,7 +4072,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3738</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4086,7 +4086,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3739</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4100,7 +4100,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3740</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4114,7 +4114,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3741</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4128,7 +4128,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3742</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4142,7 +4142,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3743</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4156,7 +4156,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3744</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4170,7 +4170,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3745</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4184,7 +4184,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3746</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4198,7 +4198,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3747</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4212,7 +4212,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3748</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4226,7 +4226,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3749</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4240,7 +4240,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3750</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4254,7 +4254,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3751</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4268,7 +4268,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3752</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4282,7 +4282,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3753</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4296,7 +4296,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3754</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4310,7 +4310,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3755</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4324,7 +4324,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3756</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4338,7 +4338,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3757</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4352,7 +4352,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3758</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4366,7 +4366,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3759</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4380,7 +4380,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3760</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4394,7 +4394,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3761</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4408,7 +4408,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3762</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4422,7 +4422,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3763</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4436,7 +4436,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3764</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4450,7 +4450,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3765</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4464,7 +4464,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3766</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4478,7 +4478,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3767</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4492,7 +4492,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3768</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4506,7 +4506,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3769</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4520,7 +4520,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3770</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4534,7 +4534,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3771</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4548,7 +4548,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3772</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4562,7 +4562,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3773</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4576,7 +4576,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3774</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4590,7 +4590,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3775</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4604,7 +4604,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3776</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4618,7 +4618,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3777</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4632,7 +4632,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3778</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4646,12 +4646,12 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3779</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
-        <start-date>3016-08-25</start-date>
-        <end-date>3016-08-28</end-date>
+        <start-date>2016-08-25</start-date>
+        <end-date>2016-08-28</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Met with Russian Foreign Minister Sergey Lavrov.</remarks>
@@ -4660,7 +4660,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3780</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4674,7 +4674,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3781</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4688,7 +4688,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3782</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4702,7 +4702,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3783</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4716,7 +4716,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3784</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4730,7 +4730,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3785</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4744,7 +4744,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3786</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4758,7 +4758,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3787</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4772,7 +4772,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3788</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4786,7 +4786,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3789</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4800,7 +4800,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3790</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4814,7 +4814,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3791</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4828,7 +4828,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3792</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4842,7 +4842,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3793</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4856,7 +4856,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3794</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4870,7 +4870,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3795</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4884,7 +4884,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3796</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4898,7 +4898,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3797</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4912,7 +4912,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3798</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4926,7 +4926,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3799</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4940,7 +4940,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3800</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4954,7 +4954,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3801</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4968,7 +4968,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3802</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4982,7 +4982,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3803</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -4996,7 +4996,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3804</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -5010,7 +5010,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3805</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -5024,7 +5024,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3806</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -5038,7 +5038,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip who="kerry-john-forbes" role="president">
+    <trip who="kerry-john-forbes" role="secretary">
         <id>3807</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
