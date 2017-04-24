@@ -906,6 +906,34 @@
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
     <trip who="obama-barack" role="president">
+        <id>3808</id>
+        <role>president</role>
+        <name>Barack Obama</name>
+        <start-date>2013-09-05</start-date>
+        <end-date>2013-09-06</end-date>
+        <country id="russia">Russia</country>
+        <locale>St. Petersberg</locale>
+        <remarks>Attended the G-20 Economic Summit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-24T10:13:29.995-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-24T10:13:29.995-04:00</last-modified-datetime>
+    </trip>
+    <trip who="obama-barack" role="president">
+        <id>3809</id>
+        <role>president</role>
+        <name>Barack Obama</name>
+        <start-date>2013-09-05</start-date>
+        <end-date>2013-09-06</end-date>
+        <country id="south-africa">South Africa</country>
+        <locale>Johannesburg</locale>
+        <remarks>Attended memorial service for former President Nelson Mandela.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-24T10:13:29.995-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2017-04-24T10:13:29.995-04:00</last-modified-datetime>
+    </trip>
+    <trip who="obama-barack" role="president">
         <id>3489</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1027,8 +1055,8 @@
         <id>3497</id>
         <role>president</role>
         <name>Barack Obama</name>
-        <start-date>2013-04-25</start-date>
-        <end-date>2013-04-26</end-date>
+        <start-date>2014-04-25</start-date>
+        <end-date>2014-04-26</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with President Park Geun-hye, attended a wreath-laying ceremony at the National
@@ -1036,7 +1064,7 @@
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
+        <last-modified-datetime>2017-04-24T13:39:08.656-04:00</last-modified-datetime>
     </trip>
     <trip who="obama-barack" role="president">
         <id>3498</id>
