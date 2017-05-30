@@ -136,7 +136,7 @@
         <end-date>2009-06-04</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Abdullah</remarks>
+        <remarks>Met with King Abdullah.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1477,7 +1477,7 @@
         <end-date>2016-03-24</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires, San Carlos de Bariloche</locale>
-        <remarks>Met with President Mauricio Macri.  Toured Llao Llao Park.</remarks>
+        <remarks>Met with President Mauricio Macri. Toured Llao Llao Park.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1505,7 +1505,8 @@
         <end-date>2016-04-21</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Salman bin Abd-al Aziz Al Saud and attended the U.S.-Gulf Cooperation Council Summit.</remarks>
+        <remarks>Met with King Salman bin Abd-al Aziz Al Saud and attended the U.S.-Gulf Cooperation
+            Council Summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1533,7 +1534,8 @@
         <end-date>2016-04-25</end-date>
         <country id="germany">Germany</country>
         <locale>Hannover</locale>
-        <remarks>Met with Chancellor Angela Merkel, French President Francois Hollande, Italian Prime Minister Matteo Renzi, and British Prime Minister David W. D. Cameron.</remarks>
+        <remarks>Met with Chancellor Angela Merkel, French President Francois Hollande, Italian
+            Prime Minister Matteo Renzi, and British Prime Minister David W. D. Cameron.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1575,7 +1577,8 @@
         <end-date>2016-05-29</end-date>
         <country id="japan">Japan</country>
         <locale>Shima City, Ise, Iwakuni, and Hiroshima</locale>
-        <remarks>Attended the G-7 Economic Summit.  Attended ceremonies at the Hiroshima Peace Memorial Park. </remarks>
+        <remarks>Attended the G-7 Economic Summit. Attended ceremonies at the Hiroshima Peace
+            Memorial Park. .</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1603,7 +1606,8 @@
         <end-date>2016-07-09</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Attended a NATO Summit Meeting and a NATO leaders’ meeting on Afghanistan.</remarks>
+        <remarks>Attended a NATO Summit Meeting and a NATO leaders’ meeting on
+            Afghanistan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1617,7 +1621,8 @@
         <end-date>2016-07-10</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid, Torrejon Air Base, Rota</locale>
-        <remarks>Met with Spanish political leaders at Torrejon Air Base and visited Naval Station Rota.</remarks>
+        <remarks>Met with Spanish political leaders at Torrejon Air Base and visited Naval Station
+            Rota.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1645,7 +1650,8 @@
         <end-date>2016-09-09</end-date>
         <country id="laos">Laos</country>
         <locale>Vientiane, Luang Prabang</locale>
-        <remarks>Met with President Bounnyang Vorachit and attended an East Asia Summit Meeting.</remarks>
+        <remarks>Met with President Bounnyang Vorachit and attended an East Asia Summit
+            Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1687,7 +1693,8 @@
         <end-date>2016-11-16</end-date>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
-        <remarks>Met with President Prokopios Pavlopoulis and Prime Minister Alexios Tsipras.</remarks>
+        <remarks>Met with President Prokopios Pavlopoulis and Prime Minister Alexios
+            Tsipras.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1701,7 +1708,9 @@
         <end-date>2016-11-18</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with Chancellor Angela Merkel, French President Francois Hollande, Spanish Prime Minister Mariano Rajoy, Italian Prime Minister Matteo Renzi, and British Prime Minister Theresa May.</remarks>
+        <remarks>Met with Chancellor Angela Merkel, French President Francois Hollande, Spanish
+            Prime Minister Mariano Rajoy, Italian Prime Minister Matteo Renzi, and British Prime
+            Minister Theresa May.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1715,7 +1724,8 @@
         <end-date>2016-11-20</end-date>
         <country id="peru">Peru</country>
         <locale>Lima</locale>
-        <remarks>Met with President Pedro Pablo Kuczynski and attended Trans-Pacific Partnership and APEC Summit Meetings.</remarks>
+        <remarks>Met with President Pedro Pablo Kuczynski and attended Trans-Pacific Partnership and
+            APEC Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

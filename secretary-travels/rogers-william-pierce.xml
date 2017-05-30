@@ -62,14 +62,14 @@
         <role>secretary</role>
         <name>William Pierce Rogers</name>
         <start-date>1969-02-27</start-date>
-        <end-date>1969-02-28</end-date>
+        <end-date>1969-03-02</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Accompanied President Nixon.March 2, 1969</remarks>
+        <remarks>Accompanied President Nixon.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2017-05-30T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="rogers-william-pierce" role="secretary">
         <id>1675</id>
@@ -991,7 +991,7 @@
         <end-date>1971-11-01</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
-        <remarks>Vacation</remarks>
+        <remarks>Vacation.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1390,7 +1390,7 @@
         <end-date>1972-07-11</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with President Leone and senior Italian officials</remarks>
+        <remarks>Met with President Leone and senior Italian officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

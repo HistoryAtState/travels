@@ -324,7 +324,7 @@
         <end-date>2002-06-27</end-date>
         <country id="canada">Canada</country>
         <locale>Kananaskis (Alberta)</locale>
-        <remarks>Attended the G-8 Economic Summit</remarks>
+        <remarks>Attended the G-8 Economic Summit.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -598,7 +598,7 @@
         <end-date>2003-10-18</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with Prime Minister Koizumi</remarks>
+        <remarks>Met with Prime Minister Koizumi.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -966,7 +966,7 @@
         <end-date>2005-07-06</end-date>
         <country id="denmark">Denmark</country>
         <locale>Kastrup, Fredensborg, Copenhagen</locale>
-        <remarks>Met with Queen Margrethe II and Prime Minister Rasmussen</remarks>
+        <remarks>Met with Queen Margrethe II and Prime Minister Rasmussen.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1490,7 +1490,7 @@
         <end-date>2007-06-11</end-date>
         <country id="bulgaria">Bulgaria</country>
         <locale>Sofia</locale>
-        <remarks>Met with President Parvanov and Prime Minister Stanishev. </remarks>
+        <remarks>Met with President Parvanov and Prime Minister Stanishev.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1635,7 +1635,7 @@
         <end-date>2008-01-16</end-date>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
-        <remarks>Met with President Mubarak</remarks>
+        <remarks>Met with President Mubarak.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1663,7 +1663,7 @@
         <end-date>2008-02-19</end-date>
         <country id="tanzania">Tanzania</country>
         <locale>Dar es Salaam, Arusha</locale>
-        <remarks>Met with President Kikwete, signed Millennium Challenge agreement</remarks>
+        <remarks>Met with President Kikwete, signed Millennium Challenge agreement.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>

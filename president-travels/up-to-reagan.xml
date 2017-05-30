@@ -9,7 +9,7 @@
         <country id="panama">Panama</country>
         <locale>Colon, Panama City</locale>
         <remarks>To inspect construction of Panama Canal. First visit abroad by any President or
-            President-elect. Departed the U.S. November 9; returned to U.S. November 26. </remarks>
+            President-elect. Departed the U.S. November 9; returned to U.S. November 26.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -38,7 +38,7 @@
         <end-date>1909-10-16</end-date>
         <country id="mexico">Mexico</country>
         <locale>Ciudad Juarez</locale>
-        <remarks>Part of an exchange of visits with President Diaz across the border. </remarks>
+        <remarks>Part of an exchange of visits with President Diaz across the border.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -179,7 +179,7 @@
         <end-date>1919-06-28</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended Paris Peace Conference. Returned to U.S. July 8. </remarks>
+        <remarks>Attended Paris Peace Conference. Returned to U.S. July 8.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -221,7 +221,7 @@
         <end-date>1923-07-26</end-date>
         <country id="canada">Canada</country>
         <locale>Vancouver</locale>
-        <remarks>Official reception during return from Alaska. </remarks>
+        <remarks>Official reception during return from Alaska.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -375,7 +375,7 @@
         <end-date>1928-12-23</end-date>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
-        <remarks>Good will trip. [Visit made as President-elect.] </remarks>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1114,7 +1114,7 @@
         <country id="france">France</country>
         <locale>Algiers (Algeria)</locale>
         <remarks>Briefed U.S. Ambassadors to the United Kingdom, France, and Italy on the Yalta
-            Conference. </remarks>
+            Conference.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1714,7 +1714,7 @@
         <end-date>1960-06-19</end-date>
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
-        <remarks>Met with President Chiang Kai-shek</remarks>
+        <remarks>Met with President Chiang Kai-shek.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1742,7 +1742,7 @@
         <end-date>1960-10-24</end-date>
         <country id="mexico">Mexico</country>
         <locale>Ciudad Acuna</locale>
-        <remarks>Informal visit; met with President Lopez Mateos. </remarks>
+        <remarks>Informal visit; met with President Lopez Mateos.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1968,7 +1968,7 @@
         <end-date>1963-07-02</end-date>
         <country id="holy-see">Vatican City</country>
         <locale/>
-        <remarks>Audience with Pope Paul VI. </remarks>
+        <remarks>Audience with Pope Paul VI.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2353,7 +2353,7 @@
         <end-date>1968-07-08</end-date>
         <country id="guatemala">Guatemala</country>
         <locale>Guatemala City</locale>
-        <remarks>Informal visit; met with President Mendez. </remarks>
+        <remarks>Informal visit; met with President Mendez.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2952,7 +2952,7 @@
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow, Minsk, Oreanda</locale>
         <remarks>Official visit; met with General Secretary Brezhnev, President Podgorny, and
-            Premier Kosygin. </remarks>
+            Premier Kosygin.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3199,7 +3199,7 @@
         <country id="china">China, People’s Republic of</country>
         <locale>Peking</locale>
         <remarks>Official visit; met with Chairman Mao Tse-tung and Vice Premier Teng
-            Hsiao-ping</remarks>
+            Hsiao-ping.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3227,7 +3227,7 @@
         <end-date>1975-12-07</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Official visit; met with President Marcos. </remarks>
+        <remarks>Official visit; met with President Marcos.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3686,7 +3686,7 @@
         <locale>Tokyo</locale>
         <remarks>Official visit; attended memorial services for former Prime Minister Ohira; met
             with Emperor Hirohito, President Ziaur Rahman of Bangladesh, Prime Minister Fraser of
-            Australia, Prime Minister Prem of Thailand, and Premier Hua Guofeng of China. </remarks>
+            Australia, Prime Minister Prem of Thailand, and Premier Hua Guofeng of China.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -4414,7 +4414,7 @@
         <country id="canada">Canada</country>
         <locale>Toronto</locale>
         <remarks>Attended Economic Summit Meeting of the Heads of State and Government of Canada,
-            France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom. </remarks>
+            France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

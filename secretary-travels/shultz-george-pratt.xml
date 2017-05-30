@@ -672,8 +672,8 @@
         <start-date>1983-10-17</start-date>
         <end-date>1983-10-20</end-date>
         <country id="canada">Canada</country>
-        <locale>Halifax</locale>
-        <remarks>Signed the Great Lakes (Nova Scotia) Phosphorus Load Reduction Agreement.</remarks>
+        <locale>Halifax (Nova Scotia)</locale>
+        <remarks>Signed the Great Lakes Phosphorus Load Reduction Agreement.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1979,8 +1979,8 @@
         <start-date>1986-05-29</start-date>
         <end-date>1986-05-30</end-date>
         <country id="canada">Canada</country>
-        <locale>Halifax</locale>
-        <remarks>Attended NATO Ministerial (Nova Scotia) M</remarks>
+        <locale>Halifax (Nova Scotia)</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3817,7 +3817,7 @@
         <end-date>1989-01-18</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Attended the closing session of the CSCE Follow-up Meeting. </remarks>
+        <remarks>Attended the closing session of the CSCE Follow-up Meeting.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

@@ -334,7 +334,7 @@
         <country id="czechoslovakia">Czechoslovakia</country>
         <locale>Prague</locale>
         <remarks>Attended ceremonies commemorating the first anniversary of the "Velvet Revolution."
-            Addressed the Federal Assembly. </remarks>
+            Addressed the Federal Assembly.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -406,7 +406,7 @@
         <end-date>1990-11-23</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Discussed the Persian Gulf crisis with Syrian President Assad. </remarks>
+        <remarks>Discussed the Persian Gulf crisis with Syrian President Assad.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -579,11 +579,12 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada,
-            France, Germany, Italy, Japan, and the United Kingdom. Also met with Soviet</remarks>
+            France, Germany, Italy, Japan, and the United Kingdom. Also met with Soviet President
+            Gorbachev.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2017-05-30T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
         <id>2362</id>
@@ -828,7 +829,7 @@
         <end-date>1992-12-31</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Fahd</remarks>
+        <remarks>Met with King Fahd.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
