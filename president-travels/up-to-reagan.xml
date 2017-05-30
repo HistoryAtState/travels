@@ -936,7 +936,7 @@
         <id>2721</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
-        <start-date>1943-11-22</start-date>
+        <start-date>1943-11-20</start-date>
         <end-date>1943-11-21</end-date>
         <country id="tunisia">Tunisia</country>
         <locale>Tunis</locale>
@@ -3210,7 +3210,7 @@
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-12-05</start-date>
-        <end-date>1975-12-04</end-date>
+        <end-date>1975-12-06</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
         <remarks>Official visit; met with President Suharto.</remarks>
@@ -4111,7 +4111,7 @@
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1985-05-06</start-date>
-        <end-date>1985-05-04</end-date>
+        <end-date>1985-05-08</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>State visit; met with King Juan Carlos I and President Gonzalez.</remarks>
