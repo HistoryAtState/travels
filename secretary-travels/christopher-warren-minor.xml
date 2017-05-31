@@ -1792,11 +1792,11 @@
         <end-date>1994-11-17</end-date>
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
-        <remarks/>
+        <remarks>Met with senior Thai officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2017-05-31T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="christopher-warren-minor" role="secretary">
         <id>620</id>

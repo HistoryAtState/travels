@@ -386,11 +386,11 @@
         <end-date>1997-07-12</end-date>
         <country id="slovenia">Slovenia</country>
         <locale>Ljubljana</locale>
-        <remarks/>
+        <remarks>Met with Foreign Minister Thaler.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2017-05-31T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
         <id>28</id>
@@ -456,11 +456,11 @@
         <end-date>1997-07-30</end-date>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
-        <remarks/>
+        <remarks>Stopped while returning to the U.S.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2017-05-31T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
         <id>33</id>
@@ -754,11 +754,11 @@
         <end-date>1997-11-19</end-date>
         <country id="india">India</country>
         <locale>New Delhi</locale>
-        <remarks/>
+        <remarks>Met with senior Indian officials.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2017-05-31T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
         <id>54</id>
