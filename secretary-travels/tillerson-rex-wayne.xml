@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3820</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-02-15</start-date>
+        <end-date>2017-02-17</end-date>
+        <country id="germany">Germany</country>
+        <locale>Bonn</locale>
+        <remarks>Attended a G-20 Foreign Ministers’ Meeting.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3821</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-02-22</start-date>
+        <end-date>2017-02-23</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico City</locale>
+        <remarks>Discussed bilateral relations with President Enrique Pena Nieto and Foreign
+            Minister Luis Videgaray. Was joined by Secretary of Homeland Security John
+            Kelly.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3822</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-03-15</start-date>
+        <end-date>2017-03-16</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Prime Minister Shinzo Abe and Foreign Minister Fumio Kishida.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3823</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-03-17</start-date>
+        <end-date>2017-03-18</end-date>
+        <country id="korea">Korea</country>
+        <locale>Seoul</locale>
+        <remarks>Met with Acting President Hwang Kyo-ahn and Foreign Minister Yun Byung-se. Visited
+            the Demilitarized Zone.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3824</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-03-18</start-date>
+        <end-date>2017-03-19</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>Met with Xi Jinping, Foreign Minister Wang Yi and State Counselor Yang
+            Jiechi.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3825</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-03-30</start-date>
+        <end-date>2017-03-31</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Ankara</locale>
+        <remarks>Met with President Recep Erdogan, Prime Minister Binali Yilderim, and Foreign
+            Minister Mevlut Cavusoglu.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3826</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-03-31</start-date>
+        <end-date>2017-03-31</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a NATO Ministerial Meeting.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3827</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-04-09</start-date>
+        <end-date>2017-04-11</end-date>
+        <country id="italy">Italy</country>
+        <locale>Lucca</locale>
+        <remarks>Attended a G-7 Foreign Ministers’ Meeting.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3828</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-04-11</start-date>
+        <end-date>2017-04-13</end-date>
+        <country id="russia">Russia</country>
+        <locale>Moscow</locale>
+        <remarks>Met with Foreign Minister Sergey Lavrov and President Vladimir Putin.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3829</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-05-20</start-date>
+        <end-date>2017-05-22</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Accompanied President Trump.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3820</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-05-22</start-date>
+        <end-date>2017-05-23</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Accompanied President Trump.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3821</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-05-23</start-date>
+        <end-date>2017-05-23</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Bethlehem</locale>
+        <remarks>Accompanied President Trump.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3822</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-05-23</start-date>
+        <end-date>2017-05-24</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Accompanied President Trump.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3823</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-05-24</start-date>
+        <end-date>2017-05-24</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Accompanied President Trump.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3824</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-05-25</start-date>
+        <end-date>2017-05-26</end-date>
+        <country id="italy">Italy</country>
+        <locale>Taormina</locale>
+        <remarks>Accompanied President Trump to the G-7 Economic Summit.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3825</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-05-26</start-date>
+        <end-date>2017-05-26</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Foreign Secretary Boris Johnson. Signed book of condolences for the
+            Manchester terrorist attack.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3826</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-06-05</start-date>
+        <end-date>2017-06-06</end-date>
+        <country id="australia">Australia</country>
+        <locale>Sydney</locale>
+        <remarks>Attended the Australia-U.S. Ministerial Consultations.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3827</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-06-06</start-date>
+        <end-date>2017-06-07</end-date>
+        <country id="new-zealand">New Zealand</country>
+        <locale>Wellington</locale>
+        <remarks>Met with Prime Minister Bill English and Foreign Minister Gerry Brownlee.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3828</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-07-05</start-date>
+        <end-date>2017-07-09</end-date>
+        <country id="germany">Germany</country>
+        <locale>Hamburg</locale>
+        <remarks>Accompanied President Trump to the G-20 Summit.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3829</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-07-09</start-date>
+        <end-date>2017-07-09</end-date>
+        <country id="ukraine">Ukraine</country>
+        <locale>Kyiv</locale>
+        <remarks>Met with President Petro Poroshenko.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3820</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-07-09</start-date>
+        <end-date>2017-07-10</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul</locale>
+        <remarks>Met with President Recep Erdogan and Foreign Minister Mevlut Cavusoglu.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3821</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-07-10</start-date>
+        <end-date>2017-07-11</end-date>
+        <country id="kuwait">Kuwait</country>
+        <locale>Kuwait City</locale>
+        <remarks>Met with Emir Sheikh Sabah al-Ahmad al-Sabah and senior Kuwaiti
+            officials.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3822</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-07-11</start-date>
+        <end-date>2017-07-11</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Emir Sheikh Tamim bin Hamad al-Thani and Foreign Minister Sheikh Mohammed
+            bin Abdulrahman al-Thani. Signed MOU to prevent financing of terrorism.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3823</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-07-11</start-date>
+        <end-date>2017-07-12</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jeddah</locale>
+        <remarks>Met with King Salman bin Abdulaziz al-Saud, Crown Prince Mohammed bin Salman, and
+            the Foreign Ministers of Saudi Arabia, Bahrain, the United Arab Emirates, and
+            Egypt.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3824</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-07-12</start-date>
+        <end-date>2017-07-13</end-date>
+        <country id="kuwait">Kuwait</country>
+        <locale>Kuwait City</locale>
+        <remarks>Met with Foreign Minister Sabah al-Khalid al-Sabah.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3825</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-07-13</start-date>
+        <end-date>2017-07-13</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Emir Tamim bin Hamad al-Thani.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2017-10-20T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+</trips>
