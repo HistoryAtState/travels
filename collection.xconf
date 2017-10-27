@@ -17,11 +17,18 @@
             <text qname="locale"/>
             <text qname="remarks"/>
         </lucene>
-
-        <!-- Range index configuration on the id attribute -->
-        <create qname="id" type="xs:string"/>
-        <create qname="country" type="xs:string"/>
-
+        
+        <!-- Range index configuration -->
+        <range>
+            <create match="//trip">
+                <field name="trip-who" match="@who" type="xs:string"/>
+            </create>
+            <create qname="country" type="xs:string"/>
+            <create match="//president">
+                <field name="president-id" match="id" type="xs:string"/>
+            </create>
+        </range>
+        
     </index>
     <!-- Replication -->
     <triggers>
