@@ -374,4 +374,312 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-10-20T14:29:13.672-04:00</last-modified-datetime>
     </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3830</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-08-06</start-date>
+        <end-date>2017-08-08</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Attended the U.S.-ASEAN Ministerial Meeting.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3831</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-08-08</start-date>
+        <end-date>2017-08-08</end-date>
+        <country id="thailand">Thailand</country>
+        <locale>Bangkok</locale>
+        <remarks>Met with Prime Minister Prayut Chan-o-Cha and Foreign Minister Don Pramudwinai.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3832</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-08-08</start-date>
+        <end-date>2017-08-09</end-date>
+        <country id="malaysia">Malaysia</country>
+        <locale>Kuala Lumpur</locale>
+        <remarks>Met with Prime Minister Zahid Hamidi.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3833</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-09-14</start-date>
+        <end-date>2017-09-14</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended a Six-Party Ministerial meeting on Libya.  Met with Prime Minister Theresa May.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3834</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-09-30</start-date>
+        <end-date>2017-10-01</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>Met with President Xi Jinping, Foreign Minister Wang Yi, and State Councilor Yang Jiechi.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3835</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-10-21</start-date>
+        <end-date>2017-10-22</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with King Salman bin Abdulaziz al-Saud, Crown Prince Mohammed bin Salman, and Foreign Minister Adel al-Jubeir.  Attended the first meeting of the Saudi Arabia-Iraq Coordination Council.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3836</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-10-22</start-date>
+        <end-date>2017-10-23</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Emir Sheikh Tamim bin Hamad al-Thani and Foreign Minister Sheikh Mohammed bin Abdulrahman bin Jassim al-Thani.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3837</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-10-23</start-date>
+        <end-date>2017-10-23</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Bagram</locale>
+        <remarks>Met with President Ashraf Ghani.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3838</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-10-23</start-date>
+        <end-date>2017-10-23</end-date>
+        <country id="iraq">Iraq</country>
+        <locale>Baghdad</locale>
+        <remarks>Met with Prime Minister Haidar al-Abadi.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3839</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-10-24</start-date>
+        <end-date>2017-10-24</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale>Islamabad</locale>
+        <remarks>Met with senior Pakistani officials.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3840</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-10-25</start-date>
+        <end-date>2017-10-25</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi</locale>
+        <remarks>Met with Prime Minister Narendra Modi and Foreign Minister Sushma Swaraj.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3841</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-10-26</start-date>
+        <end-date>2017-10-26</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Met with UN Special Envoy Staffan de Mistura, UN High Commissioner for Refugees Filippo Grandi, and International Committee of the Red Cross President Peter Maurer.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3842</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-11-05</start-date>
+        <end-date>2017-11-07</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Accompanied President Trump.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3843</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-11-05</start-date>
+        <end-date>2017-11-08</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Accompanied President Trump.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3844</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-11-08</start-date>
+        <end-date>2017-11-10</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>Accompanied President Trump.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3845</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-11-10</start-date>
+        <end-date>2017-11-12</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Danang, Hanoi</locale>
+        <remarks>Accompanied President Trump to an APEC Meeting.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3846</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-11-12</start-date>
+        <end-date>2017-11-14</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Accompanied President Trump to ASEAN Summit Meetings.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3847</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-11-15</start-date>
+        <end-date>2017-11-15</end-date>
+        <country id="burma">Burma</country>
+        <locale>Naypyidaw</locale>
+        <remarks>Met with State Councilor Aung San Suu Kyi and Commander-in-Chief Min Aung Hlang.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3848</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-12-04</start-date>
+        <end-date>2017-12-06</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a NATO Foreign Ministers Meeting and met with EU Foreign Ministers.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3849</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-12-07</start-date>
+        <end-date>2017-12-07</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Attended an OSCE Ministerial Council Meeting.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3850</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-12-08</start-date>
+        <end-date>2017-12-08</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended the International Support Group for Lebanon Ministerial Meeting and met with President Emmanuel Macron and Foreign Minister Jean-Yves Le Drian.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
+    <trip who="tillerson-rex-wayne" role="secretary">
+        <id>3851</id>
+        <role>secretary</role>
+        <name>Rex Wayne Tillerson</name>
+        <start-date>2017-12-19</start-date>
+        <end-date>2017-12-19</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Met with President Justin Trudeau and Foreign Minister Chrystia Freedland.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </trip>
 </trips>
