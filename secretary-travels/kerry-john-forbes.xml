@@ -300,7 +300,7 @@
         <name>John Forbes Kerry</name>
         <start-date>2013-04-12</start-date>
         <end-date>2013-04-13</end-date>
-        <country id="korea-south">Korea, South</country>
+        <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with President Park Gyeun-hye and Prime Minister Yun Byun-se. Addressed the
             American Chamber of Commerce.</remarks>
@@ -1395,7 +1395,7 @@
         <name>John Forbes Kerry</name>
         <start-date>2014-02-13</start-date>
         <end-date>2014-02-14</end-date>
-        <country id="korea-south">South Korea</country>
+        <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with President Park Geun-Hye and Foreign Minister Yun Byung-Se.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1943,7 +1943,7 @@
         <start-date>2014-06-24</start-date>
         <end-date>2014-06-26</end-date>
         <country id="belgium">Belgium</country>
-        <locale>Brusssels</locale>
+        <locale>Brussels</locale>
         <remarks>Attended a NATO Foreign Ministers’ Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
@@ -3115,7 +3115,7 @@
         <name>John Forbes Kerry</name>
         <start-date>2015-05-17</start-date>
         <end-date>2015-05-18</end-date>
-        <country id="korea-south">South Korea</country>
+        <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with Foreign Minister Yun Byung-Se and President Park Geun-Hye.</remarks>
         <created-by>wicentowskijc</created-by>
