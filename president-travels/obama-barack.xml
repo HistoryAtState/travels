@@ -912,7 +912,7 @@
         <start-date>2013-09-05</start-date>
         <end-date>2013-09-06</end-date>
         <country id="russia">Russia</country>
-        <locale>St. Petersberg</locale>
+        <locale>St. Petersburg</locale>
         <remarks>Attended the G-20 Economic Summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-24T10:13:29.995-04:00</created-datetime>
@@ -1029,7 +1029,7 @@
         <start-date>2014-03-29</start-date>
         <end-date>2014-03-29</end-date>
         <country id="germany">Germany</country>
-        <locale>Ramstein AFB</locale>
+        <locale>Ramstein Air Force Base</locale>
         <remarks>Visited wounded U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
@@ -1117,7 +1117,7 @@
         <start-date>2014-05-26</start-date>
         <end-date>2014-05-26</end-date>
         <country id="germany">Germany</country>
-        <locale>Ramstein AFB</locale>
+        <locale>Ramstein Air Force Base</locale>
         <remarks>Stopped while returning to Washington.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
@@ -1490,7 +1490,7 @@
         <start-date>2016-04-19</start-date>
         <end-date>2016-04-19</end-date>
         <country id="germany">Germany</country>
-        <locale>Ramstein AFB</locale>
+        <locale>Ramstein Air Force Base</locale>
         <remarks>Stopped en route to Saudi Arabia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
@@ -1548,7 +1548,7 @@
         <start-date>2016-05-22</start-date>
         <end-date>2016-05-22</end-date>
         <country id="japan">Japan</country>
-        <locale>Yokota AFB</locale>
+        <locale>Yokota Air Force Base</locale>
         <remarks>Stopped en route to Vietnam.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
@@ -1576,7 +1576,7 @@
         <start-date>2016-05-25</start-date>
         <end-date>2016-05-29</end-date>
         <country id="japan">Japan</country>
-        <locale>Shima City, Ise, Iwakuni, and Hiroshima</locale>
+        <locale>Shima City, Ise, Iwakuni, Hiroshima</locale>
         <remarks>Attended the G-7 Economic Summit. Attended ceremonies at the Hiroshima Peace
             Memorial Park. .</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1664,7 +1664,7 @@
         <start-date>2016-09-09</start-date>
         <end-date>2016-09-09</end-date>
         <country id="japan">Japan</country>
-        <locale>Yokota AFB</locale>
+        <locale>Yokota Air Force Base</locale>
         <remarks>Stopped while returning to the United States.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
