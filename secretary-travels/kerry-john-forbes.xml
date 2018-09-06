@@ -3028,12 +3028,12 @@
         <start-date>2015-05-06</start-date>
         <end-date>2015-05-06</end-date>
         <country id="djibouti">Djibouti</country>
-        <locale>Djibouti</locale>
+        <locale>Djibouti City</locale>
         <remarks>President Ismail Omar Guelleh and Foreign Minister Mahamoud Ali Youssouf.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2016-05-05T14:02:07.012-04:00</last-modified-datetime>
+        <last-modified-datetime>2018-09-06T11:07:07.012-04:00</last-modified-datetime>
     </trip>
     <trip who="kerry-john-forbes" role="secretary">
         <id>3646</id>
