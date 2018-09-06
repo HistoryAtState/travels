@@ -218,4 +218,89 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3892</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2018-01-24</start-date>
+        <end-date>2018-01-26</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Davos</locale>
+        <remarks>Attended the 2018 World Economic Forum.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3893</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2018-06-09</start-date>
+        <end-date>2018-06-09</end-date>
+        <country id="canada">Canada</country>
+        <locale>Charlevoix</locale>
+        <remarks>Attended the G7 meetings.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3894</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2018-06-10</start-date>
+        <end-date>2018-06-13</end-date>
+        <country id="singapore">Singapore</country>
+        <locale>Singapore</locale>
+        <remarks>Participated in the summit with North Korean leader Kim Jong Un and bilateral
+            events with Singaporean Prime Minister Lee Hsien Loong.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3895</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2018-07-10</start-date>
+        <end-date>2018-07-12</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brusssels</locale>
+        <remarks>Attended NATO Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3896</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2018-07-12</start-date>
+        <end-date>2018-07-13</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Queen Elizabeth II and Prime Minister Theresa May.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3897</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2018-07-16</start-date>
+        <end-date>2018-07-16</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Bilateral meeting with Russian President Vladimir Putin.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
+    </trip>
 </trips>
