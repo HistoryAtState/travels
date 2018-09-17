@@ -3560,11 +3560,11 @@
         <country id="samoa">Samoa</country>
         <locale>Apia</locale>
         <remarks>Met with representatives of the Pacific Island Forum nations. (Crossed
-            International Date Line.).</remarks>
+            International Date Line.)</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-10-20T19:28:16.345-04:00</last-modified-datetime>
+        <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>3126</id>

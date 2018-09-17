@@ -546,11 +546,12 @@
         <end-date>1983-07-04</end-date>
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad, Peshawar</locale>
-        <remarks>Foreign Minister Yaqub Khan. Visited an Afghan refugee camp.</remarks>
+        <remarks>Met with President Zia and Foreign Minister Yaqub Khan. Visited an Afghan refugee
+            camp.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
     </trip>
     <trip who="shultz-george-pratt" role="secretary">
         <id>1958</id>
