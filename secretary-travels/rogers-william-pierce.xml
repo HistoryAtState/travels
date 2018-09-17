@@ -72,6 +72,20 @@
         <last-modified-datetime>2017-05-30T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="rogers-william-pierce" role="secretary">
+        <id>3892</id>
+        <role>secretary</role>
+        <name>William Pierce Rogers</name>
+        <start-date>1969-02-28</start-date>
+        <end-date>1969-03-02</end-date>
+        <country id="france">France</country>
+        <locale>Rome</locale>
+        <remarks>Accompanied President Nixon.</remarks>
+        <created-by>joewiz</created-by>
+        <created-datetime>2018-09-14T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2018-09-14T12:35:48.889-06:00</last-modified-datetime>
+    </trip>
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1675</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>

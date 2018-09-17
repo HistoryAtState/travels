@@ -37,11 +37,12 @@
         <end-date>1931-07-14</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Prime Minister Mussolini and Foreign Minister Grandi. Left U.S. June 27.</remarks>
+        <remarks>Discussed the European debt crisis and disarmament with Prime Minister Mussolini
+            and Foreign Minister Grandi. Left U.S. June 27.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
     </trip>
     <trip who="stimson-henry-lewis" role="secretary">
         <id>2202</id>
