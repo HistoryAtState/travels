@@ -486,13 +486,13 @@
         <id>bush-george-h-w</id>
         <name>George H. W. Bush</name>
         <birth-year>1924</birth-year>
-        <death-year still-alive="true"/>
+        <death-year>2018</death-year>
         <took-office-date>1989-01-20</took-office-date>
         <left-office-date>1993-01-20</left-office-date>
         <created-by>admin</created-by>
         <created-date>2011-08-18</created-date>
-        <last-modified-by>admin</last-modified-by>
-        <last-modified-date>2011-08-18</last-modified-date>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-date>2018-12-03</last-modified-date>
     </president>
     <president n="42">
         <id>clinton-william-j</id>
