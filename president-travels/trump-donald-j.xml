@@ -303,4 +303,33 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3898</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2018-11-10</start-date>
+        <end-date>2018-11-11</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Commemorated the 100th anniversary of the end of the WWI and met with French
+            President Emmanuel Macron.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3899</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2018-11-29</start-date>
+        <end-date>2018-12-01</end-date>
+        <country id="argentina">Argentina</country>
+        <locale>Buenos Aires</locale>
+        <remarks>Participated in the G20 Leaders’ Summit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </trip>
 </trips>
