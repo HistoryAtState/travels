@@ -240,7 +240,7 @@
         <end-date>2018-06-09</end-date>
         <country id="canada">Canada</country>
         <locale>Charlevoix</locale>
-        <remarks>Attended the G7 meetings.</remarks>
+        <remarks>Attended the G–7 meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -254,7 +254,7 @@
         <end-date>2018-06-13</end-date>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
-        <remarks>Participated in the summit with North Korean leader Kim Jong Un and bilateral
+        <remarks>Participated in the summit with North Korean leader Kim Jong-un and bilateral
             events with Singaporean Prime Minister Lee Hsien Loong.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
@@ -268,7 +268,7 @@
         <start-date>2018-07-10</start-date>
         <end-date>2018-07-12</end-date>
         <country id="belgium">Belgium</country>
-        <locale>Brusssels</locale>
+        <locale>Brussels</locale>
         <remarks>Attended NATO Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
@@ -326,7 +326,7 @@
         <end-date>2018-12-01</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
-        <remarks>Participated in the G20 Leaders’ Summit.</remarks>
+        <remarks>Participated in the G–20 Leaders’ Summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

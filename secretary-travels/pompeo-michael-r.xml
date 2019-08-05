@@ -49,8 +49,8 @@
         <end-date>2018-04-30</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Abdullah II and Foreign Minister Ayman Safadi. Also met with Japanese
-            Foreign Minister Taro Kono.</remarks>
+        <remarks>Met with King Abdullah II and Jordanian Foreign Minister Ayman al-Safadi. Also met
+            with Japanese Foreign Minister Taro Kono.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -64,7 +64,7 @@
         <end-date>2018-05-09</end-date>
         <country id="korea-north">Korea, North</country>
         <locale>Pyongyang</locale>
-        <remarks>Met with Chairman Kim Jong Un and other North Korean Government officials. Also
+        <remarks>Met with Chairman Kim Jong-un and other North Korean Government officials. Also
             secured the release of three Americans.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
@@ -79,7 +79,7 @@
         <end-date>2018-06-09</end-date>
         <country id="canada">Canada</country>
         <locale>Charlevoix</locale>
-        <remarks>Accompanied President Trump to the G7 meetings.</remarks>
+        <remarks>Accompanied President Trump to the G–7 meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -93,7 +93,7 @@
         <end-date>2018-06-13</end-date>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
-        <remarks>Participated in the President’s summit with North Korean leader Kim Jong Un and
+        <remarks>Participated in the President’s summit with North Korean leader Kim Jong-un and
             bilateral events with Singaporean Prime Minister Lee Hsien Loong.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
@@ -139,8 +139,8 @@
         <end-date>2018-07-07</end-date>
         <country id="korea-north">Korea, North</country>
         <locale>Pyongyang</locale>
-        <remarks>Continued consultations and implement the forward progress made by President Trump
-            and Chairman Kim in Singapore.</remarks>
+        <remarks>Continued consultations and implementation of the forward progress made by
+            President Trump and Chairman Kim in Singapore.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -216,7 +216,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Accompanied President Trump to the NATO Summit and also participated in the U.S.-EU
-            Energy Council and co-hosted a meeting of Foreign Ministers of the Global Coalition to
+            Energy Council and co-hosted a meeting of foreign ministers of the Global Coalition to
             Defeat ISIS.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
@@ -231,7 +231,7 @@
         <end-date>2018-07-13</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico City</locale>
-        <remarks>Met with President Enrique Pena Nieto, Foreign Secretary Videgaray and
+        <remarks>Met with President Enrique Peña Nieto, Foreign Secretary Luis Videgaray Caso, and
             President-elect Andres Manuel Lopez Obrador.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
@@ -307,7 +307,7 @@
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad</locale>
         <remarks>Met with Prime Minister Imran Khan, Foreign Minister Qureshi, and Chief of Army
-            Staff Bajwa to discuss U.S.-Pakistan bilateral relations.</remarks>
+            Staff Qamar Javed Bajwa to discuss U.S.-Pakistan bilateral relations.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -321,7 +321,7 @@
         <end-date>2018-09-06</end-date>
         <country id="india">India</country>
         <locale>New Delhi</locale>
-        <remarks>Participated in the inaugural U.S.-India “2+2” Dialogue and met with senior
+        <remarks>Participated in the inaugural U.S.-India “2+2” dialogue and met with senior
             officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
@@ -336,7 +336,7 @@
         <end-date>2018-10-07</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with Prime Minister Abe and Foreign Minister Taro Kono.</remarks>
+        <remarks>Met with Prime Minister Shinzo Abe and Foreign Minister Taro Kono.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -350,7 +350,7 @@
         <end-date>2018-10-07</end-date>
         <country id="korea-north">Korea, North</country>
         <locale>Pyongyang</locale>
-        <remarks>Met with Chairman Kim Jong Un.</remarks>
+        <remarks>Met with Chairman Kim Jong-un.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -393,8 +393,8 @@
         <end-date>2018-10-17</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with Crown Prince Mohammed bin Salman and Foreign Minister al-Jubeir regarding
-            the investigation into the disappearance of Jamal Khashoggi.</remarks>
+        <remarks>Met with Crown Prince Mohammed bin Salman and Foreign Minister Adel al-Jubeir
+            regarding the investigation into the disappearance of Jamal Khashoggi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -439,8 +439,8 @@
         <end-date>2018-11-11</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Joined President Trump in commemorating the 100th anniversary of the end of the WWI
-            and also participated in the President’s meeting with French President Emmanuel
+        <remarks>Joined President Trump in commemorating the 100th anniversary of the end of the
+            WWI. Also participated in the President’s meeting with French President Emmanuel
             Macron.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
@@ -470,7 +470,7 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Participated in the semi-annual meeting of NATO Foreign Ministers and also met with
-            Belgian Prime Minister Michel.</remarks>
+            Belgian Prime Minister Charles Michel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
