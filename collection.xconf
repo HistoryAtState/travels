@@ -1,14 +1,6 @@
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
-        <!-- Disable the standard full text index -->
-        <fulltext default="none" attributes="false"/>
-
-        <!-- Lucene index configuration -->
-        <!-- attribute boost can be used to give matches in the
-            collection a higher score. It can also be specified on a
-            single index definition. -->
         <lucene>
-            <!-- Use the standard analyzer will ignore stopwords like 'the', 'and' -->
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
             <text qname="trip"/>
             <text qname="name"/>
@@ -17,8 +9,6 @@
             <text qname="locale"/>
             <text qname="remarks"/>
         </lucene>
-        
-        <!-- Range index configuration -->
         <range>
             <create match="//trip">
                 <field name="trip-who" match="@who" type="xs:string"/>
@@ -28,8 +18,7 @@
                 <field name="president-id" match="id" type="xs:string"/>
             </create>
         </range>
-        
-    </index>
+    </index>    
     <!-- Replication -->
 <!-- 
     <triggers>
