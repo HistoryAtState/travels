@@ -411,11 +411,11 @@
         <end-date>2017-08-09</end-date>
         <country id="malaysia">Malaysia</country>
         <locale>Kuala Lumpur</locale>
-        <remarks>Met with Prime Minister Zahid Hamidi.</remarks>
+        <remarks>Met with Deputy Prime Minister Zahid Hamidi.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
-        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+        <last-modified-datetime>2019-11-20T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="tillerson-rex-wayne" role="secretary">
         <id>3833</id>
