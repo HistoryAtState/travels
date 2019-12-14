@@ -18,5 +18,19 @@
                 <field name="president-id" match="id" type="xs:string"/>
             </create>
         </range>
-    </index>    
+    </index>
+
+    <!-- Replication -->
+    <triggers>
+        <trigger class="org.exist.jms.replication.publish.ReplicationTrigger">
+
+            <parameter name="java.naming.factory.initial" value="org.apache.activemq.jndi.ActiveMQInitialContextFactory"/>
+
+            <parameter name="java.naming.provider.url" value="@provider-url@"/>
+
+            <parameter name="connection-factory" value="ConnectionFactory"/>
+
+            <parameter name="destination" value="@destination@"/>
+        </trigger>
+    </triggers>
 </collection>
