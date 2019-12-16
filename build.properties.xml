@@ -4,7 +4,7 @@
         <name>travels</name>
         <url>http://history.state.gov/ns/data/travels</url>
         <title>Travels (data)</title>
-        <version>0.3</version>
+        <version>0.4</version>
     </app>
     <trigger>
         <provider-url>
