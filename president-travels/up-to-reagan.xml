@@ -608,6 +608,20 @@
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
+        <id>3900</id>
+        <role>president</role>
+        <name>Franklin D. Roosevelt</name>
+        <start-date>1937-09-30</start-date>
+        <end-date>1937-09-30</end-date>
+        <country id="canada">Canada</country>
+        <locale>Victoria</locale>
+        <remarks>Met with the Lieutenant Governor of British Columbia Eric W. Hamber.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2020-01-23T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2020-01-23T12:35:48.889-06:00</last-modified-datetime>
+    </trip>
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2698</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
