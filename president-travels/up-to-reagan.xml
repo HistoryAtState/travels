@@ -2995,11 +2995,11 @@
         <end-date>1974-11-22</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo, Kyoto</locale>
-        <remarks>State visit; met with Prime Minister Tanalca.</remarks>
+        <remarks>State visit; met with Prime Minister Tanaka.</remarks>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2020-03-23</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
         <id>2864</id>
