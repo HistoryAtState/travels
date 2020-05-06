@@ -484,7 +484,7 @@
         <end-date>2019-02-11</end-date>
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
-        <remarks>Met with Prime Minister Orban and Foreign Minister Szijjarto.</remarks>
+        <remarks>Met with Prime Minister Orbán and Foreign Minister Szijjártó.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -499,7 +499,7 @@
         <country id="slovakia">Slovakia</country>
         <locale>Bratislava</locale>
         <remarks>Met with President Kiska, Prime Minister Pellegrini, and Foreign Minister
-            Lajcak.</remarks>
+            Lajčák.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -526,7 +526,7 @@
         <start-date>2019-02-13</start-date>
         <end-date>2019-02-14</end-date>
         <country id="belgium">Belgium</country>
-        <locale>Brusssels</locale>
+        <locale>Brussels</locale>
         <remarks>Met with EU High Representative for Foreign Affairs and Security Policy Federica
             Mogherini.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -542,7 +542,7 @@
         <end-date>2019-02-15</end-date>
         <country id="iceland">Iceland</country>
         <locale>Reykjavik</locale>
-        <remarks>Met with Prime Minister Jakobsdottir and Foreign Minister Thordarson.</remarks>
+        <remarks>Met with Prime Minister Jakobsdóttir and Foreign Minister Thórdarson.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -614,7 +614,7 @@
         <end-date>2019-03-23</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
-        <remarks>Met with Lebanese leaders to discuss the political, security, economic, and
+        <remarks>Met with Lebanese leaders to discuss political, security, economic, and
             humanitarian challenges.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
@@ -629,7 +629,7 @@
         <end-date>2019-04-12</end-date>
         <country id="chile">Chile</country>
         <locale>Santiago</locale>
-        <remarks>Met with President Pinera and Foreign Minister Ampuero.</remarks>
+        <remarks>Met with President Piñera and Foreign Minister Ampuero.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -643,7 +643,7 @@
         <end-date>2019-04-13</end-date>
         <country id="paraguay">Paraguay</country>
         <locale>Asuncion</locale>
-        <remarks>Met with President Abdo Benitez and Foreign Minister Castiglioni.</remarks>
+        <remarks>Met with President Abdo Benítez and Foreign Minister Castiglioni.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -671,7 +671,7 @@
         <end-date>2019-04-14</end-date>
         <country id="colombia">Colombia</country>
         <locale>Cucuta</locale>
-        <remarks>Visited entities supporting Venezuelan refugees and assess the challenges due to
+        <remarks>Visited entities supporting Venezuelan refugees and assessed the challenges due to
             the closed border.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
@@ -701,7 +701,7 @@
         <end-date>2019-05-07</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
-        <remarks>Met with Iraqi Prime Minister Adil Abd al-Mahdi and Iraqi President Barhan
+        <remarks>Met with Iraqi Prime Minister Adil Abd al-Mahdi and Iraqi President Barham
             Salih.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
@@ -716,8 +716,9 @@
         <end-date>2019-05-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Prime Minister Theresa May and Foreign Secretary Hunt to discuss shared
-            global priorities, and gave a speech on the U.S.‑UK Special Relationship.</remarks>
+        <remarks>Met with Prime Minister Theresa May and Foreign Secretary Jeremy Hunt to discuss
+            shared global priorities, and gave a speech on the U.S.‑UK Special
+            Relationship.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -761,7 +762,7 @@
         <end-date>2019-06-01</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with Chancellor Angela Merkel and Foreign Minister Maas.</remarks>
+        <remarks>Met with Chancellor Angela Merkel and Foreign Minister Heiko Maas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -774,9 +775,9 @@
         <start-date>2019-06-01</start-date>
         <end-date>2019-06-03</end-date>
         <country id="switzerland">Switzerland</country>
-        <locale>Berne, Bellinzona</locale>
-        <remarks>Met with Foreign Minister Cassis, Swiss business leaders, and World Health
-            Organization Director General Dr. Tedros Ghebreyesus.</remarks>
+        <locale>Bern, Bellinzona</locale>
+        <remarks>Met with Foreign Minister Ignazio Cassis, Swiss business leaders, and World Health
+            Organization Director General Dr. Tedros Adhanom Ghebreyesus.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -791,7 +792,7 @@
         <country id="netherlands">Netherlands</country>
         <locale>The Hague</locale>
         <remarks>Participated in the opening of the Global Entrepreneurship Summit with Prime
-            Minister Mark Rutte and met with Foreign Minister Blok.</remarks>
+            Minister Mark Rutte and met with Foreign Minister Stef Blok.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -848,8 +849,9 @@
         <end-date>2019-06-25</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
-        <remarks>Met with President Ashraf Ghani, Chief Executive Abdullah, former President Karzai,
-            and others to discuss next steps in the Afghan Peace Process.</remarks>
+        <remarks>Met with President Ashraf Ghani, Chief Executive Abdullah Abdullah, former
+            President Hamid Karzai, and others to discuss next steps in the Afghan Peace
+            Process.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -878,7 +880,7 @@
         <end-date>2019-06-30</end-date>
         <country id="japan">Japan</country>
         <locale>Osaka</locale>
-        <remarks>Participated in the G-20 Leaders’ Summit.</remarks>
+        <remarks>Participated in the G–20 Leaders’ Summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -921,7 +923,7 @@
         <end-date>2019-07-20</end-date>
         <country id="ecuador">Ecuador</country>
         <locale>Guayaquil</locale>
-        <remarks>Met with President Moreno and Foreign Minister Valencia.</remarks>
+        <remarks>Met with President Lenín Moreno and Foreign Minister José Valencia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -935,7 +937,7 @@
         <end-date>2019-07-21</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico City</locale>
-        <remarks>Met with Foreign Secretary Ebrard.</remarks>
+        <remarks>Met with Foreign Secretary Marcelo Ebrard.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -949,7 +951,7 @@
         <end-date>2019-07-21</end-date>
         <country id="el-salvador">El Salvador</country>
         <locale>San Salvador</locale>
-        <remarks>Met with President Bukele.</remarks>
+        <remarks>Met with President Nayib Bukele.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -979,7 +981,7 @@
         <country id="australia">Australia</country>
         <locale>Sydney</locale>
         <remarks>Led the U.S. delegation to the Australia-United States Ministerial Consultations
-            and met with Prime Minister Morrison.</remarks>
+            and met with Prime Minister Scott Morrison.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1041,7 +1043,7 @@
         <end-date>2019-09-18</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Met with Saudi Crown Prince Mohammed bin Salman.</remarks>
+        <remarks>Met with Saudi Crown Prince Mohammed bin Salman Al Saud.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1069,8 +1071,8 @@
         <end-date>2019-10-02</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with President Mattarella, Prime Minister Conte, and Foreign Minister Di
-            Maio.</remarks>
+        <remarks>Met with President Sergio Mattarella, Prime Minister Giuseppe Conte, and Foreign
+            Minister Luigi Di Maio.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1085,7 +1087,7 @@
         <country id="holy-see">Holy See</country>
         <locale/>
         <remarks>Audience with His Holiness Pope Francis and met with Secretary of State Cardinal
-            Parolin.</remarks>
+            Pietro Parolin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1099,8 +1101,8 @@
         <end-date>2019-10-04</end-date>
         <country id="montenegro">Montenegro</country>
         <locale>Podgorica</locale>
-        <remarks>Met with President Djukanovic, Prime Minister Markovic, and Foreign Minister
-            Darmanovic.</remarks>
+        <remarks>Met with President Milo Djukanovic, Prime Minister Dusko Markovic, and Foreign Minister
+            Srdjan Darmanovic.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1114,8 +1116,8 @@
         <end-date>2019-10-05</end-date>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
-        <remarks>Met with Prime Minister Mitsotakis, Foreign Minister Dendias, and Defense Minister
-            Panagiotopoulos.</remarks>
+        <remarks>Met with Prime Minister Kyriakos Mitsotakis, Foreign Minister Nikos Dendias, and Defense Minister
+            Nikolaos Panagiotopoulos.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1130,7 +1132,7 @@
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
         <remarks>Participated in a meeting with Vice President Mike Pence and Turkish President
-            Recep Tayyip Erdogan to discuss the situation in northeast Syria.</remarks>
+            Recep Tayyip Erdoğan to discuss the situation in northeast Syria.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1232,7 +1234,7 @@
         <end-date>2019-12-05</end-date>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
-        <remarks>Met with Prime Minister Antonio Costa and Foreign Minister Augusto Santos
+        <remarks>Met with Prime Minister António Costa and Foreign Minister Augusto Santos
             Silva.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
