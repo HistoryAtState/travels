@@ -94,7 +94,7 @@
         <end-date>2017-05-27</end-date>
         <country id="italy">Italy</country>
         <locale>Taormina, Sigonella</locale>
-        <remarks>Attended the G-7 Summit Meeting. Stopped at NAS Sigonella while returning to the
+        <remarks>Attended the G–7 Summit Meeting. Stopped at NAS Sigonella while returning to the
             United States.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
@@ -124,7 +124,7 @@
         <end-date>2017-07-08</end-date>
         <country id="germany">Germany</country>
         <locale>Hamburg</locale>
-        <remarks>Attended the G-20 Summit.</remarks>
+        <remarks>Attended the G–20 Summit.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
@@ -153,7 +153,7 @@
         <end-date>2017-11-07</end-date>
         <country id="japan">Japan</country>
         <locale>Kawagoe, Tokyo</locale>
-        <remarks>Met with Prime Minister Shinzo Abe and Emperor Akihito.</remarks>
+        <remarks>Met with Prime Minister Shinzō Abe and Emperor Akihito.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
@@ -167,7 +167,7 @@
         <end-date>2017-11-08</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Osan, Seoul</locale>
-        <remarks>Met with President Moon Jae-In. Visited U.S. Military personnel at Garrisons
+        <remarks>Met with President Moon Jae-in. Visited U.S. Military personnel at Garrisons
             Humphreys and Yongsan.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
@@ -331,5 +331,131 @@
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3965</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2019-02-27</start-date>
+        <end-date>2019-02-28</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi</locale>
+        <remarks>Attended the second North Korea-U.S. summit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3966</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2019-05-25</start-date>
+        <end-date>2019-05-28</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>State Visit following the enthronement of Emperor Naruhito.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3967</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2019-06-03</start-date>
+        <end-date>2019-06-05</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>State Visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3968</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2019-06-06</start-date>
+        <end-date>2019-06-06</end-date>
+        <country id="france">France</country>
+        <locale>Colleville-sur-Mer, Caen</locale>
+        <remarks>Attended remembrance ceremony on the 75th Anniversary of D-Day.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3969</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2019-06-28</start-date>
+        <end-date>2019-06-30</end-date>
+        <country id="japan">Japan</country>
+        <locale>Osaka</locale>
+        <remarks>Participated in the G–20 Leaders’ Summit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3970</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2019-06-30</start-date>
+        <end-date>2019-06-30</end-date>
+        <country id="korea-south">Korea, South</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Moon Jae-in.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3971</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2019-08-24</start-date>
+        <end-date>2019-08-26</end-date>
+        <country id="france">France</country>
+        <locale>Biarritz</locale>
+        <remarks>Attended the G–7 Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3972</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2019-11-28</start-date>
+        <end-date>2019-11-28</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Bagram</locale>
+        <remarks>Visited U.S. troops at Bagram Airfield.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3973</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2019-12-03</start-date>
+        <end-date>2019-12-04</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Led U.S. delegation to attend the NATO Leaders Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
 </trips>
