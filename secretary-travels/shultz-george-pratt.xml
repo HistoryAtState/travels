@@ -3289,6 +3289,20 @@
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="shultz-george-pratt" role="secretary">
+        <id>3965</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-02</start-date>
+        <end-date>1988-06-02</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Briefed NATO Foreign Ministers on the Moscow Summit.</remarks>
+        <created-by>bottsjd</created-by>
+        <created-datetime>2020-10-28T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2020-10-28T12:35:48.889-06:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
         <id>2151</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
