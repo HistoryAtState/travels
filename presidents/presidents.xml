@@ -536,10 +536,22 @@
         <birth-year>1946</birth-year>
         <death-year still-alive="true"/>
         <took-office-date>2017-01-20</took-office-date>
-        <left-office-date still-in-office="true"/>
+        <left-office-date>2021-01-20</left-office-date>
         <created-by>wicentowskijc</created-by>
         <created-date>2016-11-09</created-date>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-date>2017-01-20</last-modified-date>
+        <last-modified-date>2020-11-07</last-modified-date>
+    </president>
+    <president n="46">
+        <id>biden-joseph-r</id>
+        <name>Joseph R. Biden</name>
+        <birth-year>1942</birth-year>
+        <death-year still-alive="true"/>
+        <took-office-date>2021-01-20</took-office-date>
+        <left-office-date still-in-office="true"/>
+        <created-by>wicentowskijc</created-by>
+        <created-date>2020-11-07</created-date>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-date>2020-11-07</last-modified-date>
     </president>
 </presidents>
