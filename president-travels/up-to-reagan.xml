@@ -10,9 +10,9 @@
         <locale>Colon, Panama City</locale>
         <remarks>To inspect construction of Panama Canal. First visit abroad by any President or
             President-elect. Departed the U.S. November 9; returned to U.S. November 26.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="taft-william-howard" role="president">
@@ -25,9 +25,9 @@
         <locale>Colon, Panama City</locale>
         <remarks>Inspected construction of Panama Canal. Met with President Obaldia. [Visit made as
             President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="taft-william-howard" role="president">
@@ -39,9 +39,9 @@
         <country id="mexico">Mexico</country>
         <locale>Ciudad Juarez</locale>
         <remarks>Part of an exchange of visits with President Diaz across the border.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -53,9 +53,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Vacation. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -68,9 +68,9 @@
         <locale>Paris, Chaumont</locale>
         <remarks>Attended Preliminary to the Paris Peace Conference. Departed the U.S. December
             4.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -82,9 +82,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Carlisle, Manchester</locale>
         <remarks>Met with Prime Minister Lloyd George and King George V.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -96,9 +96,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Stopover en route to Italy.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -110,9 +110,9 @@
         <country id="italy">Italy</country>
         <locale>Rome, Genoa, Milan, Turin</locale>
         <remarks>Met with King Victor Emnanuel III and Prime Minister Orlando.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -124,9 +124,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Benedict XV.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -138,9 +138,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended Paris Peace Conference. Arrived In the U.S. February 24.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -152,9 +152,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended Paris Peace Conference. Departed the U.S. March 5.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -166,9 +166,9 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels, Charleroi, Malines, Louvain</locale>
         <remarks>Met with King Albert, addressed Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
@@ -180,9 +180,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended Paris Peace Conference. Returned to U.S. July 8.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="harding-warren-g" role="president">
@@ -194,9 +194,9 @@
         <country id="panama">Panama</country>
         <locale>Colon, Baihos</locale>
         <remarks>Informal visit to Canal Zone. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="harding-warren-g" role="president">
@@ -208,9 +208,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Kingston (Jamaica)</locale>
         <remarks>Stopped while returning to the U.S. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="harding-warren-g" role="president">
@@ -222,9 +222,9 @@
         <country id="canada">Canada</country>
         <locale>Vancouver</locale>
         <remarks>Official reception during return from Alaska.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="coolidge-calvin" role="president">
@@ -236,9 +236,9 @@
         <country id="cuba">Cuba</country>
         <locale>Havana</locale>
         <remarks>Addressed the Sixth International Conference of American States.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -250,9 +250,9 @@
         <country id="honduras">Honduras</country>
         <locale>Amapala</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -264,9 +264,9 @@
         <country id="el-salvador">El Salvador</country>
         <locale>Cutuco</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -278,9 +278,9 @@
         <country id="nicaragua">Nicaragua</country>
         <locale>Corinto</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -292,9 +292,9 @@
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -306,9 +306,9 @@
         <country id="ecuador">Ecuador</country>
         <locale>Guayaquil</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -320,9 +320,9 @@
         <country id="peru">Peru</country>
         <locale>Lima</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -334,9 +334,9 @@
         <country id="chile">Chile</country>
         <locale>Antofagasta, Santiago</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -348,9 +348,9 @@
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -362,9 +362,9 @@
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hoover-herbert-c" role="president">
@@ -376,9 +376,9 @@
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
         <remarks>Good will trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -390,9 +390,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>The Bahamas</locale>
         <remarks>Fishing trip. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -404,9 +404,9 @@
         <country id="canada">Canada</country>
         <locale>Campobello Island</locale>
         <remarks>Vacation.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -418,9 +418,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>The Bahamas</locale>
         <remarks>Fishing trip.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -432,9 +432,9 @@
         <country id="haiti">Haiti</country>
         <locale>Cap Haitien</locale>
         <remarks>Informal visit en route to vacation in Hawaii.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -446,9 +446,9 @@
         <country id="colombia">Colombia</country>
         <locale>Cartagena</locale>
         <remarks>Informal visit en route to vacation in Hawaii.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -460,9 +460,9 @@
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
         <remarks>Informal visit en route to vacation in Hawaii.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -474,9 +474,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>The Bahamas</locale>
         <remarks>Fishing trip.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -489,9 +489,9 @@
         <locale>Balboa</locale>
         <remarks>Informal visit with President Arias while returning to Washington, D.C. from West
             Coast.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -503,9 +503,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>The Bahamas</locale>
         <remarks>Fishing trip.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -517,9 +517,9 @@
         <country id="canada">Canada</country>
         <locale>Campobello Island</locale>
         <remarks>Vacation.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -531,9 +531,9 @@
         <country id="canada">Canada</country>
         <locale>Quebec</locale>
         <remarks>Official visit; met with Governor General Lord Tweedsmuir.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -545,9 +545,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Trinidad</locale>
         <remarks>Stopped on the way to South America.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -559,9 +559,9 @@
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
         <remarks>Addressed Brazilian Congress.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -574,9 +574,9 @@
         <locale>Buenos Aires</locale>
         <remarks>Attended session of Inter-American Conference for the Maintenance of
             Peace.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -588,9 +588,9 @@
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
         <remarks>Official visit; met with President Terra.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -602,9 +602,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Trinidad</locale>
         <remarks>Stopped while returning to the United States.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -630,9 +630,9 @@
         <country id="panama">Panama</country>
         <locale>Balboa</locale>
         <remarks>Informal visit with President Arosemena during vacation in the Caribbean.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -645,9 +645,9 @@
         <locale>Kingston</locale>
         <remarks>Received honorary degree from Queens University and dedicated Thousand Islands
             Bridge.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -659,9 +659,9 @@
         <country id="canada">Canada</country>
         <locale>Campobello Island (Nova Scotia), Sydney (Nova Scotia)</locale>
         <remarks>Fishing trip.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -673,9 +673,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bay of Islands (Newfoundland), Bonne Bay (Newfoundland)</locale>
         <remarks>Fishing trip.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -687,9 +687,9 @@
         <country id="canada">Canada</country>
         <locale>Halifax</locale>
         <remarks>Stopped while returning to the United States.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -701,9 +701,9 @@
         <country id="panama">Panama</country>
         <locale>Cristobal, Balboa</locale>
         <remarks>Met informally with President Boyd during vacation.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -715,9 +715,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Jamaica</locale>
         <remarks>Inspected British base sites for possible American use.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -729,9 +729,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>St. Lucia</locale>
         <remarks>Inspected British base sites for possible American use.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -743,9 +743,9 @@
         <country id="france">France</country>
         <locale>Martinique</locale>
         <remarks>Conferred with U.S. officials.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -757,9 +757,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Antigua</locale>
         <remarks>Inspected British base sites for possible American use.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -772,9 +772,9 @@
         <locale>The Bahamas</locale>
         <remarks>Inspected British base sites for possible American use. Met with the Duke of
             Windsor at Eleutheria Island, December 13. Returned to the U.S. December 14.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -787,9 +787,9 @@
         <locale>Argentia (Newfoundland)</locale>
         <remarks>Attended conference with Prime Minister Churchill. Announced the Atlantic
             Charter.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -801,9 +801,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Trinidad</locale>
         <remarks>Overnight stop en route to Casablanca.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -815,9 +815,9 @@
         <country id="brazil">Brazil</country>
         <locale>Belem</locale>
         <remarks>Overnight stop en route to Casablanca.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -829,9 +829,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bathurst (The Gambia)</locale>
         <remarks>Overnight stop en route to Casablanca.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -843,9 +843,9 @@
         <country id="morocco">Morocco</country>
         <locale>Casablanca</locale>
         <remarks>Casablanca Conference with British Prime Minister Churchill.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -857,9 +857,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bathurst (The Gambia)</locale>
         <remarks>Overnight stop en route from Casablanca.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -871,9 +871,9 @@
         <country id="liberia">Liberia</country>
         <locale>Monrovia</locale>
         <remarks>Informal visit; met with President Barclay.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -885,9 +885,9 @@
         <country id="brazil">Brazil</country>
         <locale>Natal</locale>
         <remarks>Informal visit; met with President Vargas.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -899,9 +899,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Trinidad</locale>
         <remarks>Overnight stop en route from Casablanca.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -913,9 +913,9 @@
         <country id="mexico">Mexico</country>
         <locale>Monterrey</locale>
         <remarks>Part of an exchange of visits with President Avila across the border.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -927,9 +927,9 @@
         <country id="canada">Canada</country>
         <locale>Quebec, Ottawa</locale>
         <remarks>Attended First Quebec Conference with British Prime Minister Churchill.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -941,9 +941,9 @@
         <country id="france">France</country>
         <locale>Oran (Algeria)</locale>
         <remarks>Disembarked en route to Cairo.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -955,9 +955,9 @@
         <country id="tunisia">Tunisia</country>
         <locale>Tunis</locale>
         <remarks>Overnight stop en route to Cairo.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -970,9 +970,9 @@
         <locale>Cairo</locale>
         <remarks>Attended First Cairo Conference with British Prime Minister Churchill and Chinese
             Generalissimo Chiang Kai-shek.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -985,9 +985,9 @@
         <locale>Tehran</locale>
         <remarks>Attended Tehran Conference with Soviet Premier Stalin and British Prime Minister
             Churchill.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1000,9 +1000,9 @@
         <locale>Cairo</locale>
         <remarks>Attended Second Cairo Conference with British Prime Minister Churchill and Turkish
             President Inonu.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1014,9 +1014,9 @@
         <country id="tunisia">Tunisia</country>
         <locale>Tunis</locale>
         <remarks>Conferred with General Eisenhower.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1028,9 +1028,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Malta</locale>
         <remarks>Visited Allied military installations.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1042,9 +1042,9 @@
         <country id="italy">Italy</country>
         <locale>Castel Ventrano (Sicily)</locale>
         <remarks>Visited Allied military installations.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1056,9 +1056,9 @@
         <country id="france">France</country>
         <locale>Dakar (Senegal)</locale>
         <remarks>Re-embarked for the U.S.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1070,9 +1070,9 @@
         <country id="canada">Canada</country>
         <locale>Quebec</locale>
         <remarks>Attended Second Quebec Conference with British Prime Minister Churchill.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1084,9 +1084,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Malta</locale>
         <remarks>Attended Malta Conference with Prime Minister Churchill.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1099,9 +1099,9 @@
         <locale>Yalta</locale>
         <remarks>Attended Yalta Conference with Soviet Premier Stalin and British Prime Minister
             Churchill.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1114,9 +1114,9 @@
         <locale>Great Bitter Lake, Suez Canal, Alexandria</locale>
         <remarks>Met with King Farouk, Ethiopian Emperor Haile Selassie, Saudi Arabian King Ibn
             Saud, and British Prime Minister Churchill.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
@@ -1129,9 +1129,9 @@
         <locale>Algiers (Algeria)</locale>
         <remarks>Briefed U.S. Ambassadors to the United Kingdom, France, and Italy on the Yalta
             Conference.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
@@ -1143,9 +1143,9 @@
         <country id="belgium">Belgium</country>
         <locale>Antwerp, Brussels</locale>
         <remarks>Disembarked en route to Potsdam.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
@@ -1158,9 +1158,9 @@
         <locale>Potsdam</locale>
         <remarks>Potsdam Conference with British Prime Ministers Churchill and Attlee and Soviet
             Premier Stalin.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
@@ -1172,9 +1172,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Plymouth</locale>
         <remarks>Informal meeting with King George VI.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
@@ -1201,9 +1201,9 @@
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>State visit; met with President Alerman.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
@@ -1216,9 +1216,9 @@
         <locale>Ottawa</locale>
         <remarks>Official visit; met with Governor General Alexander and Prime Minister Mackenzie
             King.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
@@ -1231,9 +1231,9 @@
         <locale>Rio de Janeiro</locale>
         <remarks>State visit; addressed Rio de Janiero Conference for the Maintenance of Continental
             Peace and Security and the Brazilian Congress.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1245,9 +1245,9 @@
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Visit to Korean combat zone. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1259,9 +1259,9 @@
         <country id="mexico">Mexico</country>
         <locale>Nuevo Guerrero</locale>
         <remarks>Dedicated Falcon Dam.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1273,9 +1273,9 @@
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>State visit; addressed joint session of Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1288,9 +1288,9 @@
         <locale>Bermuda</locale>
         <remarks>Attended Bermuda Conference with Prime Minister Churchill and French President
             Laniel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1303,9 +1303,9 @@
         <locale>Geneva</locale>
         <remarks>Summit conference with British Prime Minister Eden, French Premier Faure, and
             Soviet Premier Bulganin.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1317,9 +1317,9 @@
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
         <remarks>Attended a meeting of the Presidents of the American Republics.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1331,9 +1331,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Met with Prime Minister Macmillan.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1345,9 +1345,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended meeting of NATO Heads of Government.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1359,9 +1359,9 @@
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Informal visit; addressed joint session of Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1373,9 +1373,9 @@
         <country id="mexico">Mexico</country>
         <locale>Acapulco</locale>
         <remarks>Informal meeting with President Lopez Mateos.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1387,9 +1387,9 @@
         <country id="canada">Canada</country>
         <locale>Montreal</locale>
         <remarks>Joined Queen Elizabeth II in ceremony opening St. Lawrence Seaway.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1401,9 +1401,9 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Informal meeting with Chancellor Adenauer and President Heuss.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1415,9 +1415,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Balmoral, Chequers</locale>
         <remarks>Informal visit; met Prime Minister Macmillan and Queen Elizabeth II.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1430,9 +1430,9 @@
         <locale>Paris</locale>
         <remarks>Informal meeting with President De Gaulle and Italian Premier Segni. Addressed
             North Atlantic Council.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1444,9 +1444,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Culzean Castle</locale>
         <remarks>Rested before returning to the United States.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1458,9 +1458,9 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Informal visit; met with President Gronchi.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1472,9 +1472,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope John XXIII.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1486,9 +1486,9 @@
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
         <remarks>Informal visit; met with President Bayar.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1500,9 +1500,9 @@
         <country id="pakistan">Pakistan</country>
         <locale>Karachi</locale>
         <remarks>Informal visit; met with President Ayub Khan.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1514,9 +1514,9 @@
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
         <remarks>Informal visit; met with King Mohammed Zahir.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1528,9 +1528,9 @@
         <country id="india">India</country>
         <locale>New Delhi, Agra</locale>
         <remarks>Met with President Prasad and Prime Minister Nehru. Addressed Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1542,9 +1542,9 @@
         <country id="iran">Iran</country>
         <locale>Tehran</locale>
         <remarks>Met with Shah Mohammed Reza Pahlavi and addressed Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1557,9 +1557,9 @@
         <locale>Athens</locale>
         <remarks>Official visit; met with King Paul, Prime Minister Karamanlis, and addressed
             Parliament. Traveled by sea from Athens to Tunis.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1571,9 +1571,9 @@
         <country id="tunisia">Tunisia</country>
         <locale>Tunis</locale>
         <remarks>Met with President Bourguiba.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1586,9 +1586,9 @@
         <locale>Toulon, Paris</locale>
         <remarks>Conference with President De Gaulle, British Prime Minister Macmillan, and German
             Chancellor Adenauer.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1600,9 +1600,9 @@
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Met with Generalissimo Franco.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1614,9 +1614,9 @@
         <country id="morocco">Morocco</country>
         <locale>Casablanca</locale>
         <remarks>Met with King Mohammed V.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1628,9 +1628,9 @@
         <country id="brazil">Brazil</country>
         <locale>Brasilia, Rio de Janeiro, Sao Paulo</locale>
         <remarks>Met with President Kubitschek and addressed Brazilian Congress.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1642,9 +1642,9 @@
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires, Mar del Plata, San Carlos de Bariloche</locale>
         <remarks>Met with President Frondizi.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1656,9 +1656,9 @@
         <country id="chile">Chile</country>
         <locale>Santiago</locale>
         <remarks>Met with President Alessandri.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1671,9 +1671,9 @@
         <locale>Montevideo</locale>
         <remarks>Met with President Nardone. Returned to the U.S. via Buenos Aires and
             Surinam.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1686,9 +1686,9 @@
         <locale>Paris</locale>
         <remarks>Conference with President De Gaulle, British Prime Minister Macmillan, and Soviet
             Premier Khrushchev.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1700,9 +1700,9 @@
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
         <remarks>Official visit; met with President Thomaz.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1715,9 +1715,9 @@
         <locale>Manila</locale>
         <remarks>State visit; met with President Garcia. Traveled by sea from Manila to
             Taipei.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1729,9 +1729,9 @@
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
         <remarks>Met with President Chiang Kai-shek.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1743,9 +1743,9 @@
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with Prime Minister Chung and addressed the National Assembly.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
@@ -1757,9 +1757,9 @@
         <country id="mexico">Mexico</country>
         <locale>Ciudad Acuna</locale>
         <remarks>Informal visit; met with President Lopez Mateos.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1771,9 +1771,9 @@
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>State visit; addressed joint session of Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1786,9 +1786,9 @@
         <locale>Paris</locale>
         <remarks>State visit; addressed North Atlantic Council and met with President De
             Gaulle.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1800,9 +1800,9 @@
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Met with President Sehaerf and held talks with Soviet Premier Khrushchev.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1814,9 +1814,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Private visit; met with Queen Elizabeth II and Prime Minister Macmillan.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1828,9 +1828,9 @@
         <country id="venezuela">Venezuela</country>
         <locale>Caracas</locale>
         <remarks>Met with President Betancourt.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1842,9 +1842,9 @@
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
         <remarks>Met with President Lleras Camargo.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1856,9 +1856,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Met with Prime Minister Macmillan.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1870,9 +1870,9 @@
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>State visit; met with President Lopez Mateos.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1885,9 +1885,9 @@
         <locale>Nassau (The Bahamas)</locale>
         <remarks>Conferred with Prime Minister Macmillan; concluded Nassau agreement on nuclear
             defense systems.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1899,9 +1899,9 @@
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
         <remarks>Attended Conference of Presidents of the Central American Republics.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1913,9 +1913,9 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn, Cologne, Frankfurt, Wiesbaden</locale>
         <remarks>Met with Chancellor Adenauer and other officials.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1927,9 +1927,9 @@
         <country id="germany">Germany</country>
         <locale>West Berlin</locale>
         <remarks>Delivered several public addresses.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1941,9 +1941,9 @@
         <country id="ireland">Ireland</country>
         <locale>Dublin, Wexford, Cork, Galway, Limerick</locale>
         <remarks>Addressed Parliament and visited ancestral home.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1955,9 +1955,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Birch Grove, Sussex</locale>
         <remarks>Informal visit with Prime Minister Macmillan at his home.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1969,9 +1969,9 @@
         <country id="italy">Italy</country>
         <locale>Rome, Naples</locale>
         <remarks>Met with President Segni, Italian and NATO officials.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kennedy-john-f" role="president">
@@ -1983,9 +1983,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -1998,9 +1998,9 @@
         <locale>Vancouver</locale>
         <remarks>Informal visit; met with Prime Minister Pearson in ceremonies related to the
             Columbia River Treaty.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2012,9 +2012,9 @@
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>Informal visit; met with President Gustavo Diaz Ordaz.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2027,9 +2027,9 @@
         <locale>Campobello Island, Chamcook</locale>
         <remarks>Laid cornerstone at Roosevelt-Campobello International Park and conferred
             informally with Prime Minister Pearson.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2041,9 +2041,9 @@
         <country id="new-zealand">New Zealand</country>
         <locale>Wellington</locale>
         <remarks>State visit; met with Prime Minister Holyoake.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2055,9 +2055,9 @@
         <country id="australia">Australia</country>
         <locale>Canberra, Melbourne, Sydney, Brisbane, Townsville</locale>
         <remarks>State visit; met with Governor General Casey and Prime Minister Holt.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2070,9 +2070,9 @@
         <locale>Manila, Los Banos, Corregidor</locale>
         <remarks>Attended summit conference with the Heads of State and Government of Australia,
             Korea, New Zealand, the Philippines, Thailand, and Vietnam.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2084,9 +2084,9 @@
         <country id="vietnam">Vietnam</country>
         <locale>Cam Ranh Bay</locale>
         <remarks>Visited U.S. military personnel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2098,9 +2098,9 @@
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
         <remarks>State visit; met with King Bhumibol Adulyadej.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2112,9 +2112,9 @@
         <country id="malaysia">Malaysia</country>
         <locale>Kuala Lumpur</locale>
         <remarks>State visit; met with Prime Minister Rahrman.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2126,9 +2126,9 @@
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul, Suwon</locale>
         <remarks>State visit; met with President Park and Prime Minister Chung.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2141,9 +2141,9 @@
         <locale>Ciudad Acuna</locale>
         <remarks>Informal meeting with President Diaz Ordaz. Inspected construction of Arnistad
             Dam.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2155,9 +2155,9 @@
         <country id="uruguay">Uruguay</country>
         <locale>Punta del Este</locale>
         <remarks>Summit meeting with Latin American chiefs of state.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2169,9 +2169,9 @@
         <country id="suriname">Suriname</country>
         <locale>Paramaribo</locale>
         <remarks>Refueling stop en route from Uruguay.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2184,9 +2184,9 @@
         <locale>Bonn</locale>
         <remarks>Attended funeral of Chancellor Adenauer and conversed with various heads of
             state.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2198,9 +2198,9 @@
         <country id="canada">Canada</country>
         <locale>Montreal, Ottawa</locale>
         <remarks>Attended Expo 67 and conferred informally with Prime Minister Pearson.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2213,9 +2213,9 @@
         <locale>Ciudad Juarez</locale>
         <remarks>Attended transfer of El Chamizal from the US. to Mexico and conferred with
             President Diaz Ordaz.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2228,9 +2228,9 @@
         <locale>Canberra</locale>
         <remarks>Attended funeral of Prime Minister Holt and conferred with other attending heads of
             state.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2242,9 +2242,9 @@
         <country id="thailand">Thailand</country>
         <locale>Khorat</locale>
         <remarks>Visited US. military personnel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2256,9 +2256,9 @@
         <country id="vietnam">Vietnam</country>
         <locale>Cam Ranh Bay</locale>
         <remarks>Visited U.S. military personnel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2270,9 +2270,9 @@
         <country id="pakistan">Pakistan</country>
         <locale>Karachi</locale>
         <remarks>Met with President Ayub Khan.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2284,9 +2284,9 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Saragat and Prime Minister Moro.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2298,9 +2298,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2312,9 +2312,9 @@
         <country id="el-salvador">El Salvador</country>
         <locale>San Salvador</locale>
         <remarks>Attended meeting of the Presidents of Central American Republics.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2326,9 +2326,9 @@
         <country id="nicaragua">Nicaragua</country>
         <locale>Managua</locale>
         <remarks>Informal visit; met with President Somoza.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2340,7 +2340,7 @@
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
         <remarks>Informal visit; met with President Trejos.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-04-10T12:35:48.889-06:00</last-modified-datetime>
@@ -2354,9 +2354,9 @@
         <country id="honduras">Honduras</country>
         <locale>San Pedro Sula</locale>
         <remarks>Informal visit; met with President Lopez Arrelano.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
@@ -2368,9 +2368,9 @@
         <country id="guatemala">Guatemala</country>
         <locale>Guatemala City</locale>
         <remarks>Informal visit; met with President Mendez.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2382,9 +2382,9 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended 23d meeting of North Atlantic Council; met with King Baudouin I.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2396,9 +2396,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Informal visit; held conversations with Prime Minister Wilson. Received by Queen Elizabeth II.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2410,7 +2410,7 @@
         <country id="germany">Germany</country>
         <locale>West Berlin</locale>
         <remarks>Addressed the Bundestag on February 26.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-08-29</last-modified-datetime>
@@ -2424,9 +2424,9 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Saragat, Prime Minister Rumor, and other officials.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2438,9 +2438,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with President De Gaulle.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2452,9 +2452,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2466,9 +2466,9 @@
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>State visit; met with President Marcos.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2480,9 +2480,9 @@
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
         <remarks>State visit; met with President Suharto.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2494,9 +2494,9 @@
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
         <remarks>State visit; met with King Bhumibol Adulyadej.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2508,9 +2508,9 @@
         <country id="vietnam">Vietnam</country>
         <locale>Saigon, Di An</locale>
         <remarks>Met with President Thieu and visited U.S. military personnel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2522,9 +2522,9 @@
         <country id="india">India</country>
         <locale>New Delhi</locale>
         <remarks>State visit; met with Acting President Hidayatullah.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2536,9 +2536,9 @@
         <country id="pakistan">Pakistan</country>
         <locale>Lahore</locale>
         <remarks>State visit; met with President Yahya Khan.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2550,9 +2550,9 @@
         <country id="romania">Romania</country>
         <locale>Bucharest</locale>
         <remarks>Official visit; met with President Ceausescu.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2564,9 +2564,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Mildenhall Air Force Base</locale>
         <remarks>Informal meeting with Prime Minister Wilson.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2578,9 +2578,9 @@
         <country id="mexico">Mexico</country>
         <locale>Ciudad Acuna</locale>
         <remarks>Dedicated Aimistad Dam.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2592,9 +2592,9 @@
         <country id="mexico">Mexico</country>
         <locale>Puerto Vallarta</locale>
         <remarks>Official visit; met with President Diaz Ordaz.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2607,9 +2607,9 @@
         <locale>Rome, Naples</locale>
         <remarks>Official visit; met with President Saragat; visited NATO Southern
             Command.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2621,9 +2621,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2635,9 +2635,9 @@
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade</locale>
         <remarks>State visit; met with President Tito.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2649,9 +2649,9 @@
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>State visit; met with Generalissimo Franco.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2663,9 +2663,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Chequers</locale>
         <remarks>Met informally with Queen Elizabeth II and Prime Minister Heath.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2677,9 +2677,9 @@
         <country id="ireland">Ireland</country>
         <locale>Limerick, Timahoe, Dublin</locale>
         <remarks>State visit; met with Prime Minister Lynch.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2691,9 +2691,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended memorial services for former President De Gaulle.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2706,9 +2706,9 @@
         <locale>Terceira Island (Azores)</locale>
         <remarks>Discussed international monetary problems with French President Pompidou and
             Portuguese Prime Minister Caetano.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2720,9 +2720,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Met with British Prime Minister Heath.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2734,9 +2734,9 @@
         <country id="china">China, People’s Republic of</country>
         <locale>Shanghai, Peking, Hangchow</locale>
         <remarks>State visit; met with Chairman Mao Tse-tung and Premier Chou En-lai.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2749,9 +2749,9 @@
         <locale>Ottawa</locale>
         <remarks>State visit; met with Governor General Michener and Prime Minister Trudeau;
             addressed Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2763,9 +2763,9 @@
         <country id="austria">Austria</country>
         <locale>Salzburg</locale>
         <remarks>Informal visit; met with Chancellor Kreisky.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2778,9 +2778,9 @@
         <locale>Moscow, Leningrad, Kiev</locale>
         <remarks>State visit; met with Premier Kosygin and General Secretary Brezhnev. Signed SALT I
             and ABM Treaties.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2792,9 +2792,9 @@
         <country id="iran">Iran</country>
         <locale>Tehran</locale>
         <remarks>Official visit; met with Shah Mohammed Reza Pahlavi.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2806,9 +2806,9 @@
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
         <remarks>Official visit; met with First Secretary Gierek.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2821,9 +2821,9 @@
         <locale>Reykjavik</locale>
         <remarks>Met with President Eldjarn and Prime Minister Johanneson, and French President
             Pompidou.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2838,9 +2838,9 @@
             interim President Poher, Italian Prime Minister Leone, British Prime Minister Wilson,
             West German Chancellor Brandt, Danish Prime Minister Hartling, Soviet President
             Podgorny, and Japanese Prime Minister Tanaka.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2852,9 +2852,9 @@
         <country id="austria">Austria</country>
         <locale>Salzburg</locale>
         <remarks>Met with Chancellor Kreisky.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2866,9 +2866,9 @@
         <country id="egypt">Egypt</country>
         <locale>Cairo, Alexandria</locale>
         <remarks>Met with President Sadat.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2880,9 +2880,9 @@
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jidda</locale>
         <remarks>Met with King Faisal.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2894,9 +2894,9 @@
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Met with President Assad.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2908,9 +2908,9 @@
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Met with President Katzir and Prime Minister Rabin.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2922,9 +2922,9 @@
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>State visit; met with King Hussein.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2936,9 +2936,9 @@
         <country id="portugal">Portugal</country>
         <locale>Lajes Field (The Azores)</locale>
         <remarks>Met with President Spinola.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2952,9 +2952,9 @@
         <remarks>Attended North Atlantic Council meeting, and met separately with King Baudonin and
             Queen Fabiola, Prime Minister Tindemans; and with German Chancellor Schmidt, British
             Prime Minister Wilson, and Italian Prime Minister Rumor.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="nixon-richard-m" role="president">
@@ -2967,9 +2967,9 @@
         <locale>Moscow, Minsk, Oreanda</locale>
         <remarks>Official visit; met with General Secretary Brezhnev, President Podgorny, and
             Premier Kosygin.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -2982,9 +2982,9 @@
         <locale>Nogales, Magdalena de Kino</locale>
         <remarks>Met with President Echeverria and laid a wreath at the tomb of Padre Eusebio
             Kino.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -2996,7 +2996,7 @@
         <country id="japan">Japan</country>
         <locale>Tokyo, Kyoto</locale>
         <remarks>State visit; met with Prime Minister Tanaka.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
         <last-modified-datetime>2020-03-23</last-modified-datetime>
@@ -3010,9 +3010,9 @@
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with President Park.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3025,9 +3025,9 @@
         <locale>Vladivostok</locale>
         <remarks>Met with General Secretary Brezhnev and discussed limitations of strategic
             arms.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3039,9 +3039,9 @@
         <country id="france">France</country>
         <locale>Martinique</locale>
         <remarks>Met with President Giscard d'Estaing.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3054,9 +3054,9 @@
         <locale>Brussels</locale>
         <remarks>Attended NATO summit meeting, addressed the North Atlantic Council, and met
             separately with NATO Heads of State and Government.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3069,9 +3069,9 @@
         <locale>Madrid</locale>
         <remarks>Met with Generalissimo Franco. Received keys to city from Mayor of
             Madrid.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3083,9 +3083,9 @@
         <country id="austria">Austria</country>
         <locale>Salzburg</locale>
         <remarks>Met with Chancellor Kreisky and with Egyptian President Sadat.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3097,9 +3097,9 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Leone and Prime Minister Moro.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3111,9 +3111,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3125,9 +3125,9 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn, Linz</locale>
         <remarks>Met with President Scheel and Chancellor Schmidt.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3139,9 +3139,9 @@
         <country id="poland">Poland</country>
         <locale>Warsaw, Krakow</locale>
         <remarks>Official visit; met with First Secretary Gierek.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3156,9 +3156,9 @@
             Met with the Heads of State and Government of Finland, Great Britain, Turkey, West
             Germany, France, Italy, and Spain. Also met with Soviet General Secretary Brezhnev.
             Signed the Final Act of the Conference on August 1.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3170,9 +3170,9 @@
         <country id="romania">Romania</country>
         <locale>Bucharest, Sinaia</locale>
         <remarks>Official visit; met with President Ceausescu.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3184,9 +3184,9 @@
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade</locale>
         <remarks>Official visit; met with President Tito and Prime Minister Bijedic.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3199,9 +3199,9 @@
         <locale>Rambouillet</locale>
         <remarks>Attended Economic Summit meeting of the Heads of State and Government of France,
             the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3214,9 +3214,9 @@
         <locale>Peking</locale>
         <remarks>Official visit; met with Chairman Mao Tse-tung and Vice Premier Teng
             Hsiao-ping.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3228,9 +3228,9 @@
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
         <remarks>Official visit; met with President Suharto.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="ford-gerald-r" role="president">
@@ -3242,9 +3242,9 @@
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Official visit; met with President Marcos.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3260,9 +3260,9 @@
             Also met with the Prime Ministers of Greece, Belgium, Turkey, Norway, the Netherlands,
             and Luxembourg, and with the President of Portugal. Addressed NATO Ministers meeting on
             May 10.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3275,9 +3275,9 @@
         <locale>Geneva</locale>
         <remarks>Official visit; met with President Furgler. Also met with Syrian President
             Assad.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3289,9 +3289,9 @@
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
         <remarks>Official visit; met with First Secretary Gierek.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3304,9 +3304,9 @@
         <locale>Tehran</locale>
         <remarks>Official visit; met with Shah Mohammed Reza Pahlavi and King Hussein of
             Jordan.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3318,9 +3318,9 @@
         <country id="india">India</country>
         <locale>New Delhi, Daulatpur-Nasirabad</locale>
         <remarks>Met with President Reddy and Prime Minister Desai. Addressed Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3332,9 +3332,9 @@
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
         <remarks>Met with King Khalid and Crown Prince Fahd.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3346,9 +3346,9 @@
         <country id="egypt">Egypt</country>
         <locale>Aswan</locale>
         <remarks>Met with President Sadat and German Chancellor Schmidt.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3360,9 +3360,9 @@
         <country id="france">France</country>
         <locale>Paris, Normandy, Bayeux, Versailles</locale>
         <remarks>Met with President Giscard d'Estaing and Prime Minister Barre.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3375,9 +3375,9 @@
         <locale>Brussels</locale>
         <remarks>Met with King Baudouin and Prime Minister Tindemans; attended meetings of the
             Commission of the European Communities and the North Atlantic Council.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3390,9 +3390,9 @@
         <locale>Caracas</locale>
         <remarks>Met with President Perez, addressed Congress, and signed maritime boundary
             agreement.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3405,9 +3405,9 @@
         <locale>Brasilia, Rio de Janeiro</locale>
         <remarks>Official visit; met with President Geisel and addressed Brazilian
             Congress.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3420,9 +3420,9 @@
         <locale>Lagos</locale>
         <remarks>Met with President Obasanjo; first State visit of a U.S. President to sub-Saharan
             Africa.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3434,9 +3434,9 @@
         <country id="liberia">Liberia</country>
         <locale>Monrovia</locale>
         <remarks>Met with President Tolbert.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3451,9 +3451,9 @@
             exchange of documents ratifying Panama Canal treaties. Also met informally with
             Presidents Perez of Venezuela, Lopez Michelson of Colombia, Lopez Portillo of Mexico,
             Carazo of Costa Rica, and Prime Minister Manley of Jamaica.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3466,9 +3466,9 @@
         <locale>Bonn, Wiesbaden-Erbenheim Air Base, Frankfurt</locale>
         <remarks>State visit; met with President Scheel and Chancellor Schmidt. Addressed U.S. and
             German military personnel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3480,9 +3480,9 @@
         <country id="germany">Germany</country>
         <locale>West Berlin</locale>
         <remarks>Spoke at the Airlift Memorial.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3495,9 +3495,9 @@
         <locale>Bonn</locale>
         <remarks>Attended Economic Summit Meeting of the Heads of State and Government of France,
             the Federal Republic of Germany, Canada, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3510,9 +3510,9 @@
         <locale>Guadeloupe</locale>
         <remarks>Met informally with President Giscard d'Estaing, German Chancellor Schmidt, and
             British Prime Minister Callaghan.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3525,9 +3525,9 @@
         <locale>Mexico, D.F.</locale>
         <remarks>State visit; met with President Lopez Portillo and addressed the Mexican
             Congress.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3539,9 +3539,9 @@
         <country id="egypt">Egypt</country>
         <locale>Cairo, Alexandria, Giza</locale>
         <remarks>State visit; met with President Sadat and addressed People's Assembly.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3554,9 +3554,9 @@
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>State visit; met with President Navon and Prime Minister Begin. Addressed the
             Knesset.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3568,9 +3568,9 @@
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Met with President Sadat.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3583,9 +3583,9 @@
         <locale>Vienna</locale>
         <remarks>State visit; met with President Kirchschlaeger and Chancellor Kreisky. Met with
             Soviet General Secretary Brezhnev to sign SALT II Treaty June 16-18.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-11-09T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3599,9 +3599,9 @@
         <remarks>State visit; met with Emperor Hirohito and Prime Minister Ohira. Attended Economic
             Summit Meeting June 28-29 of the Heads of State and Government of Canada, France, the
             Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3613,9 +3613,9 @@
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>State visit; met with President Park and Prime Minister Choi.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3629,9 +3629,9 @@
         <remarks>State visit; met with President Pertini. Attended Economic Summit Conference June
             21-24 of the Heads of State and Government of Canada, France, the Federal Republic of
             Germany, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3643,9 +3643,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3657,9 +3657,9 @@
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade</locale>
         <remarks>Official visit; met with President Mijatovic.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3671,9 +3671,9 @@
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Official visit; met with King Juan Carlos I and Prime Minister Suarez.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3685,9 +3685,9 @@
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
         <remarks>Official visit; met with President Eanes and Prime Minister Sa Carneiro.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
@@ -3701,9 +3701,9 @@
         <remarks>Official visit; attended memorial services for former Prime Minister Ohira; met
             with Emperor Hirohito, President Ziaur Rahman of Bangladesh, Prime Minister Fraser of
             Australia, Prime Minister Prem of Thailand, and Premier Hua Guofeng of China.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3715,9 +3715,9 @@
         <country id="mexico">Mexico</country>
         <locale>Ciudad Juarez</locale>
         <remarks>Met with President Lopez Portillo. [Visit made as President-elect.]</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3729,9 +3729,9 @@
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>State visit; met with Prime Minister Trudeau and addressed Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3744,9 +3744,9 @@
         <locale>Ottawa</locale>
         <remarks>Attended Economic Summit Conference of the Heads of State and Government of Canada,
             France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3761,9 +3761,9 @@
             Heads of State and Government of Algeria, Bangladesh, Canada, China, France, Guyana,
             India, Japan, Mexico, Nigeria, the Philippines, Saudi Arabia, Sweden, Tanzania, the
             United Kingdom, Venezuela, and Yugoslavia.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3775,9 +3775,9 @@
         <country id="jamaica">Jamaica</country>
         <locale>Kingston</locale>
         <remarks>Official visit; met with Prime Minister Seaga.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3791,9 +3791,9 @@
         <remarks>Official visit; met April 8 with the Prime Ministers of Barbados, Antigua and
             Barbuda, Dominica, St. Christopher and Nevis, and St. Vincent and the
             Grenadines.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3805,9 +3805,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>State visit; met with President Mitterrand and Prime Minister Mauroy.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3820,9 +3820,9 @@
         <locale>Versailles</locale>
         <remarks>Attended Economic Summit Meeting of the Heads of State and Government of Canada,
             France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3834,9 +3834,9 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>State visit; met with President Pertini and Premier Spadolini.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3848,9 +3848,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3863,9 +3863,9 @@
         <locale>London, Windsor Castle</locale>
         <remarks>State visit; met with Queen Elizabeth II and Prime Minister Thatcher. Addressed
             Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3878,9 +3878,9 @@
         <locale>Bonn</locale>
         <remarks>State visit; met with Chancellor Schmidt and President Carstens; addressed the
             Bundestag; and attended a meeting of the North Atlantic Council.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3892,9 +3892,9 @@
         <country id="germany">Germany</country>
         <locale>West Berlin</locale>
         <remarks>Met with Chancellor Schmidt.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3906,9 +3906,9 @@
         <country id="mexico">Mexico</country>
         <locale>Tijuana</locale>
         <remarks>Exchange of visits with President-elect de la Madrid.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3920,9 +3920,9 @@
         <country id="brazil">Brazil</country>
         <locale>Brasilia, Sao Paulo</locale>
         <remarks>Official working visit; met with President Figueiredo.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3934,9 +3934,9 @@
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
         <remarks>Official working visit; met with President Betancur.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3949,9 +3949,9 @@
         <locale>San Jose</locale>
         <remarks>Official working visit; met with President Monge and President Magana of El
             Salvador.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3964,9 +3964,9 @@
         <locale>San Pedro Sula</locale>
         <remarks>Official working visit; met with President Suazo and with Guatemalan President Rios
             Montt.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3978,9 +3978,9 @@
         <country id="mexico">Mexico</country>
         <locale>La Paz (Baja California)</locale>
         <remarks>Informal meeting with President de la Madrid.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -3993,9 +3993,9 @@
         <locale>Tokyo</locale>
         <remarks>State visit; met with Emperor Hirhito and Prime Minister Nakasone, and addressed
             the Diet.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4008,9 +4008,9 @@
         <locale>Seoul, Demilitarized Zone</locale>
         <remarks>State visit; met with President Chun, addressed the National Assembly, and visited
             U.S. troops.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4022,9 +4022,9 @@
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing, Xian, Shanghai</locale>
         <remarks>State visit; met with President Li and Premier Zhao.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4037,9 +4037,9 @@
         <locale>Shannon, Galway, Ballyporeen, Dublin</locale>
         <remarks>Met with President Hillery and Prime Minister FitzGerald; visited ancestral home;
             addressed Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4053,9 +4053,9 @@
         <remarks>Met with Queen Elizabeth II and Prime Minister Thatcher. Attended Economic Summit
             Meeting June 7-9 of the Heads of State and Government of Canada, France, the Federal
             Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4071,9 +4071,9 @@
             Netherlands, King Olav V of Norway, King Baudouin I of Belgium, President Mitterrand of
             France, Queen Elizabeth II of the United Kingdom, and Grand Duke Jean of
             Luxembourg.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4085,9 +4085,9 @@
         <country id="canada">Canada</country>
         <locale>Quebec</locale>
         <remarks>Met with Prime Minister Mulroney.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4100,9 +4100,9 @@
         <locale>Bonn</locale>
         <remarks>Attended Economic Summit Meeting of the Heads of State and Government of Canada,
             France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4115,9 +4115,9 @@
         <locale>Bonn, Bergen-Belsen, Bitburg, Hambach Castle</locale>
         <remarks>State visit; attended ceremonies commemorating 40th anniversary of the end of World
             War II in Europe.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4129,9 +4129,9 @@
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>State visit; met with King Juan Carlos I and President Gonzalez.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4143,9 +4143,9 @@
         <country id="france">France</country>
         <locale>Strasbourg</locale>
         <remarks>Addressed the European Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4158,9 +4158,9 @@
         <locale>Lisbon</locale>
         <remarks>State visit; met with President Eanes and Prime Minister Scares; addressed the
             National Assembly.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4173,9 +4173,9 @@
         <locale>Geneva</locale>
         <remarks>Attended Summit Meeting (November 19-21) with Soviet General Secretary Gorbachev.
             Met also with Swiss President Furgler.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4189,9 +4189,9 @@
         <remarks>Briefed North Atlantic Council on Soviet summit Present were the Heads of State and
             Government of Belgium, Canada, Denmark, Federal Republic of Germany, Italy, the
             Netherlands, Norway, Luxembourg, Portugal, Turkey, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4203,9 +4203,9 @@
         <country id="mexico">Mexico</country>
         <locale>Mexicali</locale>
         <remarks>Informal meeting with President de La Madrid.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4220,9 +4220,9 @@
             Ministers of Dominica, Jamaica, St. Lucia, St. Christopher and Nevis, St. Vincent and
             the Grenadines, Antigua and Barbuda, Trinidad and Tobago, and Barbados. Dedicated a
             memorial to U.S. servicemen.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4235,9 +4235,9 @@
         <locale>Bali</locale>
         <remarks>Attended an ASEAN Ministerial meeting; met with Indonesian President Soeharto and
             Philippine Vice President Laurel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4250,9 +4250,9 @@
         <locale>Tokyo</locale>
         <remarks>Attended Economic Summit Meeting of the Heads of State and Government of Canada,
             France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4265,9 +4265,9 @@
         <locale>Reykjavik</locale>
         <remarks>Pre-Summit meeting (October 10-11) with Soviet General Secretary Gorbachev. Met
             with President Finnbogadottir October 10.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4280,9 +4280,9 @@
         <locale>Ottawa</locale>
         <remarks>Official visit; met with Prime Minister Mulroney. Addressed Parliament April
             6.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4297,9 +4297,9 @@
             of Canada, France, the Federal Republic of Germany, Italy, Japan, and the United
             Kingdom. Met with President Cossiga and Prime Minister Fanfani in Rome on June
             6.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4311,9 +4311,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4325,9 +4325,9 @@
         <country id="germany">Germany</country>
         <locale>West Berlin</locale>
         <remarks>Attended 750th Anniversary celebrations; met with Chancellor Kohl.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4339,9 +4339,9 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Met with Chancellor Kohl.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4353,9 +4353,9 @@
         <country id="mexico">Mexico</country>
         <locale>Mazatlan</locale>
         <remarks>Informal meeting with President de la Madrid. Signed textile agreement.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4369,9 +4369,9 @@
         <remarks>Attended NATO Summit Meeting. Present were the Heads of State and Government of
             Canada, Denmark, France, Federal Republic of Germany, Greece, Iceland, Italy,
             Luxembourg, Norway, Portugal, Spain, Turkey, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4384,9 +4384,9 @@
         <locale>Helsinki</locale>
         <remarks>Met with President Koivisto and Prime Minister Holkeri; rested en route to
             U.S.-Soviet Summit.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4399,9 +4399,9 @@
         <locale>Moscow</locale>
         <remarks>Summit meeting with General Secretary Gorbachev. Exchanged ratifications of the INF
             Treaty.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4414,9 +4414,9 @@
         <locale>London</locale>
         <remarks>Met with Queen Elizabeth II, Prime Minister Thatcher, and Japanese Prime Minister
             Takeshita.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="reagan-ronald" role="president">
@@ -4429,9 +4429,9 @@
         <locale>Toronto</locale>
         <remarks>Attended Economic Summit Meeting of the Heads of State and Government of Canada,
             France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>

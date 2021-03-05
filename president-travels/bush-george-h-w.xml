@@ -9,9 +9,9 @@
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Working visit; met with Prime Minister Mulroney.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -27,9 +27,9 @@
             Federal Republic of Germany, Israel, Italy, Nigeria, the Philippines, Portugal, and
             Zaire; and the Prime Ministers of Japan, Pakistan, Singapore, Thailand, and
             Turkey.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -42,9 +42,9 @@
         <locale>Beijing</locale>
         <remarks>Met with President Yang and Prime Minister Li. Also met with Prince Sihanouk of
             Cambodia.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -56,9 +56,9 @@
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Official visit; addressed the National Assembly.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -70,9 +70,9 @@
         <country id="italy">Italy</country>
         <locale>Rome, Nettuno</locale>
         <remarks>Met with President Cossiga and Prime Minister De Mita.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -84,9 +84,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -100,9 +100,9 @@
         <remarks>Attended NATO Summit Meeting. Present were the Heads of State and Government of
             Canada, Denmark, France, Federal Republic of Germany, Greece, Iceland, Italy,
             Luxembourg, Norway, Portugal, Spain, Turkey, and the United Kingdom.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -114,9 +114,9 @@
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn, Mainz</locale>
         <remarks>Met with Chancellor Kohl.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -128,9 +128,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Queen Elizabeth II and Prime Minister Thatcher.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -143,9 +143,9 @@
         <locale>Warsaw, Gdansk</locale>
         <remarks>Met with government and Solidarity leaders. Addressed the National Assembly on July
             10.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -158,9 +158,9 @@
         <locale>Budapest</locale>
         <remarks>Met with Hungarian officials and delivered an address at Karl Marx
             University.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -175,9 +175,9 @@
             France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom. Also
             attended ceremonies for the Bicentennial of the French Revolution, and met with Ivorian
             President Houphouet-Boigny.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -190,9 +190,9 @@
         <locale>The Hague, Leiden</locale>
         <remarks>Met with Queen Beatrix and Prime Minister Lubbers and delivered a public
             address.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -204,9 +204,9 @@
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
         <remarks>Attended Hemispheric Summit Meeting.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -219,9 +219,9 @@
         <locale>Valletta, Marsaxlokk Bay</locale>
         <remarks>Attended Summit Meeting (December 2-3) with Soviet Chairman Gorbachev. Met also
             with Maltese Prime Minister Fenech Adami.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -234,9 +234,9 @@
         <locale>Brussels</locale>
         <remarks>Briefed NATO Heads of State and Government on the U.S.-Soviet Summit
             Meeting.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -248,9 +248,9 @@
         <country id="france">France</country>
         <locale>St. Martin Island (French West Indies)</locale>
         <remarks>Informal meeting with President Mitterrand.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -263,9 +263,9 @@
         <locale>Cartagena</locale>
         <remarks>Attended Summit Meeting on the control of illicit drug trafficking, with the
             Presidents of Colombia, Bolivia, and Peru.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -277,9 +277,9 @@
         <country id="canada">Canada</country>
         <locale>Toronto</locale>
         <remarks>Informal meeting with Prime Minister Mulroney.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -291,9 +291,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Informal meeting with Prime Minister Thatcher.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -305,9 +305,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended NATO Summit Meeting.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -320,9 +320,9 @@
         <locale>Helsinki</locale>
         <remarks>Summit Meeting with Soviet President Gorbachev. Issued joint statement on the
             Persian Gulf crisis. Also met with President Koivisto.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -335,9 +335,9 @@
         <locale>Prague</locale>
         <remarks>Attended ceremonies commemorating the first anniversary of the "Velvet Revolution."
             Addressed the Federal Assembly.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -349,9 +349,9 @@
         <country id="germany">Germany</country>
         <locale>Speyer, Ludwigshafen</locale>
         <remarks>Met with Chancellor Kohl.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -364,9 +364,9 @@
         <locale>Paris</locale>
         <remarks>Attended CSCE Summit Meeting and the signing of the Treaty on Conventional Armed
             Forces in Europe.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -379,9 +379,9 @@
         <locale>Jeddah, Dhahran</locale>
         <remarks>Met with King Fahd and the Amir of Kuwait. Addressed U.S. and British military
             personnel in eastern Saudi Arabia.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -393,9 +393,9 @@
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Persian Gulf crisis with President Mubarak.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -407,9 +407,9 @@
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Discussed the Persian Gulf crisis with Syrian President Assad.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -421,9 +421,9 @@
         <country id="mexico">Mexico</country>
         <locale>Monterrey, Agualeguas</locale>
         <remarks>State Visit.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -436,9 +436,9 @@
         <locale>Brasilia</locale>
         <remarks>Met with President Collor de Mello and addressed a Joint Session of the Brazilian
             Congress.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -451,9 +451,9 @@
         <locale>Montevideo</locale>
         <remarks>Met with President Lacalle and addressed a Joint Session of the Uruguayan
             Congress.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -466,9 +466,9 @@
         <locale>Buenos Aires</locale>
         <remarks>Met with President Menem and addressed a Joint Session of the Argentinean
             Congress.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -481,9 +481,9 @@
         <locale>Santiago</locale>
         <remarks>Met with President Aylwin and addressed a Joint Session of the Chilean
             Congress.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -495,9 +495,9 @@
         <country id="venezuela">Venezuela</country>
         <locale>Caracas</locale>
         <remarks>Met with President Perez.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -509,9 +509,9 @@
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Met with Prime Minister Mulroney and signed an Air Quality Agreement.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -523,9 +523,9 @@
         <country id="france">France</country>
         <locale>Martinique, West Indies</locale>
         <remarks>Discussed the Middle East peace process with President Mitterrand.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -537,9 +537,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Major.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -551,9 +551,9 @@
         <country id="canada">Canada</country>
         <locale>Toronto</locale>
         <remarks>Informal meeting with Prime Minister Mulroney.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -565,9 +565,9 @@
         <country id="france">France</country>
         <locale>Rambouillet</locale>
         <remarks>Discussed further sanctions against Iraq with President Mitterrand.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -581,9 +581,9 @@
         <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada,
             France, Germany, Italy, Japan, and the United Kingdom. Also met with Soviet President
             Gorbachev.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-05-30T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -596,9 +596,9 @@
         <locale>Athens, Souda Bay</locale>
         <remarks>Met with Prime Minister Mitsotakis; addressed U.S. and Greek military
             personnel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -610,9 +610,9 @@
         <country id="turkey">Turkey</country>
         <locale>Ankara, Istanbul</locale>
         <remarks>Met with President Ozal.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -625,9 +625,9 @@
         <locale>Moscow, Kiev</locale>
         <remarks>Attended U.S.-Soviet Summit Meeting. Signed Strategic Arms Reduction Treaty.
             Addressed the Ukrainian Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -640,9 +640,9 @@
         <locale>Madrid</locale>
         <remarks>Met with Prime Minister Gonzalez, Soviet President Gorbachev and attended the
             opening session of the Middle East Peace Conference.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -654,9 +654,9 @@
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Attended NATO Summit Meeting.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -668,9 +668,9 @@
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -682,9 +682,9 @@
         <country id="netherlands">Netherlands</country>
         <locale>The Hague</locale>
         <remarks>Attended European Community Summit Meeting.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -697,9 +697,9 @@
         <locale>Sydney, Canberra, Melbourne</locale>
         <remarks>Met with Prime Minister Keating and senior Australian officials; addressed the
             Australian Parliament.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -712,9 +712,9 @@
         <locale>Singapore</locale>
         <remarks>Met with President Wee and Prime Minister Goh; attended a meeting of the ASEAN
             Business Council.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -728,9 +728,9 @@
         <remarks>Met with President Roh and senior Korean officials, signed a science and technology
             agreement, addressed the Korean National Assembly, and visited U.S. military
             personnel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -743,9 +743,9 @@
         <locale>Kyoto, Kashihara, Tokyo</locale>
         <remarks>Met with Emperor Akihito, Prime Minister Miyazawa, and senior Japanese
             officials.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -757,9 +757,9 @@
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
         <remarks>Met with President Endara and delivered public addresses.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -771,9 +771,9 @@
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
         <remarks>Attended the Earth Summit Meeting.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -786,9 +786,9 @@
         <locale>Warsaw</locale>
         <remarks>Met with President Walesa and attended a memorial service for former Prime Minister
             Paderewski.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -802,9 +802,9 @@
         <remarks>Attended an Economic Summit Meeting with the Heads of State and Government of
             Canada, France, Germany, Italy, Japan, and the United Kingdom. Also met with Russian
             President Yeltsin.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -816,9 +816,9 @@
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Attended a CSCE Summit Meeting.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -830,9 +830,9 @@
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
         <remarks>Met with King Fahd.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -844,9 +844,9 @@
         <country id="somalia">Somalia</country>
         <locale>Mogadishu, Baidoa, Baledogle</locale>
         <remarks>Visited international relief workers and U.S. military personnel.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -858,9 +858,9 @@
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
         <remarks>Signed START II Treaty.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="bush-george-h-w" role="president">
@@ -872,9 +872,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed the Bosnian crisis with President Mitterrand.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>

@@ -9,9 +9,9 @@
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Vacation. Left U.S. February 15; returned March 6.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
@@ -24,9 +24,9 @@
         <locale>Rio de Janeiro</locale>
         <remarks>U.S. Special Mission to Brazil. Attended ceremonies commemorating centenary of
             Brazilian independence. Left U.S. August 24; returned September 23.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
@@ -38,9 +38,9 @@
         <country id="canada">Canada</country>
         <locale>Montreal</locale>
         <remarks>Addressed meeting of Canadian Bar Association.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
@@ -53,9 +53,9 @@
         <locale>London</locale>
         <remarks>As President of the American Bar Association, attended an international law
             convention. Left U.S. July 12.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
@@ -67,9 +67,9 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Visited with French international lawyers.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
@@ -81,9 +81,9 @@
         <country id="belgium">Belgium</country>
         <locale>Brussels, Malines</locale>
         <remarks>Received honorary degrees from the Universities of Brussels and Louvain.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
@@ -96,9 +96,9 @@
         <locale>Berlin</locale>
         <remarks>Met with President Ebert and Foreign Minister Stresemann. Returned to U.S. August
             14.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>

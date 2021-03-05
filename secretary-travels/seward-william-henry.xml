@@ -10,9 +10,9 @@
         <locale>St. Thomas, St. Croix, Frederikstadt, Christianstadt (Virgin Islands)</locale>
         <remarks>Met with Danish colonial officials during a working vacation. Also met with former
             Mexican President Santa Anna. Departed from Washington January 1.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="seward-william-henry" role="secretary">
@@ -24,9 +24,9 @@
         <country id="dominican-republic">Dominican Republic</country>
         <locale>Santo Domingo</locale>
         <remarks>Met with President Baez and his Cabinet.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="seward-william-henry" role="secretary">
@@ -38,9 +38,9 @@
         <country id="haiti">Haiti</country>
         <locale>Port-au-Prince</locale>
         <remarks>Met with President Geffrand and his Cabinet.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="seward-william-henry" role="secretary">
@@ -52,9 +52,9 @@
         <country id="spain">Spain</country>
         <locale>Havana (Cuba)</locale>
         <remarks>Met with Spanish colonial officials. Returned to U.S. January 28.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>

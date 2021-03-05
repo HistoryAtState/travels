@@ -10,9 +10,9 @@
         <locale>Bridgetown (Barbados)</locale>
         <remarks>Met with British colonial officials during a refueling stop en route to South
             America. Left U.S. December 4.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
@@ -24,9 +24,9 @@
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
         <remarks>Official visit; repaid visit by President Pessoa.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
@@ -39,9 +39,9 @@
         <locale>Montevideo</locale>
         <remarks>Official visit; repaid 1918 visit by President (then Foreign Minister)
             Brum.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
@@ -53,9 +53,9 @@
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
         <remarks>Official visit.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
@@ -68,9 +68,9 @@
         <locale>Port-of-Spain</locale>
         <remarks>Met with British colonial (Trinidad) officials while returning from South America.
             Returned to U.S. January 26.</remarks>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>
