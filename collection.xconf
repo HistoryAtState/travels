@@ -2,12 +2,10 @@
     <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
-            <text qname="trip"/>
-            <text qname="name"/>
-            <text qname="role"/>
-            <text qname="country"/>
-            <text qname="locale"/>
-            <text qname="remarks"/>
+            <text qname="trips">
+                <field name="within" expression="'department'"/>
+                <field name="content" expression="(trip/name, trip/country, trip/remarks, trip/locale)"/>
+            </text>
         </lucene>
         <range>
             <create match="//trip">
