@@ -1,0 +1,26 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:frus="http://history.state.gov/frus/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <lucene>
+            <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer">
+                <!-- Specify stop words - or remove them entirely -->
+                <param name="stopwords" type="org.apache.lucene.analysis.util.CharArraySet">
+                    <!--<value>the</value>-->
+                </param>
+            </analyzer>
+            <text qname="trips" index="no">
+                <!-- start required facets and fields -->
+                <facet dimension="hsg-category" expression="'department'"/>
+                <facet dimension="hsg-publication" expression="'travels'"/>
+                <field name="hsg-fulltext" expression="trip/name, trip/country, trip/remarks, trip/locale"/>
+                <field name="hsg-url" expression="'/departmenthistory/travels/secretary/' || util:document-name(.) =&gt; substring-before('.xml')"/>
+                <!-- end required facets and fields -->
+            </text>
+        </lucene>
+        <range>
+            <create match="//trip">
+                <field name="trip-who" match="@who" type="xs:string"/>
+            </create>
+            <create qname="country" type="xs:string"/>
+        </range>
+    </index>
+</collection>
