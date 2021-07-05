@@ -3,3 +3,4 @@ build/*
 .DS_Store
 expath-pkg.xml
 repo.xml
+.idea/*
