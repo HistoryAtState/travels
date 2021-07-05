@@ -11,7 +11,7 @@
                 <!-- start required facets and fields -->
                 <facet dimension="hsg-category" expression="'department'"/>
                 <facet dimension="hsg-publication" expression="'travels'"/>
-                <field name="hsg-fulltext" expression="trip/name, trip/country, trip/remarks, trip/locale"/>
+                <field name="hsg-fulltext" store="no" expression="trip/name, trip/country, trip/remarks, trip/locale"/>
                 <field name="hsg-url" expression="'/departmenthistory/travels/secretary/' || util:document-name(.) =&gt; substring-before('.xml')"/>
                 <!-- end required facets and fields -->
             </text>
