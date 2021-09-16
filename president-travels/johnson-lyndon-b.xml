@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2793</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1964-09-16</start-date>
+        <end-date>1964-09-16</end-date>
+        <country id="canada">Canada</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2794</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-04-14</start-date>
+        <end-date>1966-04-15</end-date>
+        <country id="mexico">Mexico</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2795</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-08-21</start-date>
+        <end-date>1966-08-22</end-date>
+        <country id="canada">Canada</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2796</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-10-19</start-date>
+        <end-date>1966-10-20</end-date>
+        <country id="new-zealand">New Zealand</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2797</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-10-20</start-date>
+        <end-date>1966-10-23</end-date>
+        <country id="australia">Australia</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2798</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-10-24</start-date>
+        <end-date>1966-10-26</end-date>
+        <country id="philippines">Philippines</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2799</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-10-26</start-date>
+        <end-date>1966-10-26</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2800</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-10-27</start-date>
+        <end-date>1966-10-30</end-date>
+        <country id="thailand">Thailand</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2801</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-10-30</start-date>
+        <end-date>1966-10-31</end-date>
+        <country id="malaysia">Malaysia</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2802</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-10-31</start-date>
+        <end-date>1966-11-02</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2803</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1966-12-03</start-date>
+        <end-date>1966-12-03</end-date>
+        <country id="mexico">Mexico</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2804</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-04-11</start-date>
+        <end-date>1967-04-14</end-date>
+        <country id="uruguay">Uruguay</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2805</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-04-14</start-date>
+        <end-date>1967-04-14</end-date>
+        <country id="suriname">Suriname</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2806</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-04-23</start-date>
+        <end-date>1967-04-26</end-date>
+        <country id="germany">Germany</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2807</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-05-25</start-date>
+        <end-date>1967-05-25</end-date>
+        <country id="canada">Canada</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2808</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-10-28</start-date>
+        <end-date>1967-10-28</end-date>
+        <country id="mexico">Mexico</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2809</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-12-21</start-date>
+        <end-date>1967-12-22</end-date>
+        <country id="australia">Australia</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2810</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-12-23</start-date>
+        <end-date>1967-12-23</end-date>
+        <country id="thailand">Thailand</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2811</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-12-23</start-date>
+        <end-date>1967-12-23</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2812</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-12-23</start-date>
+        <end-date>1967-12-23</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2813</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-12-23</start-date>
+        <end-date>1967-12-23</end-date>
+        <country id="italy">Italy</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2814</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1967-12-23</start-date>
+        <end-date>1967-12-23</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2815</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1968-07-08</start-date>
+        <end-date>1968-07-08</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2816</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1968-07-08</start-date>
+        <end-date>1968-07-08</end-date>
+        <country id="nicaragua">Nicaragua</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2817</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1968-07-08</start-date>
+        <end-date>1968-07-08</end-date>
+        <country id="costa-rica">Costa Rica</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2818</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1968-07-08</start-date>
+        <end-date>1968-07-08</end-date>
+        <country id="honduras">Honduras</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="johnson-lyndon-b" role="president">
+        <id>2819</id>
+        <role>president</role>
+        <name>Lyndon B. Johnson</name>
+        <start-date>1968-07-08</start-date>
+        <end-date>1968-07-08</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+</trips>

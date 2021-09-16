@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="carter-jimmy" role="president">
+        <id>2881</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1977-05-05</start-date>
+        <end-date>1977-05-10</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2882</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1977-05-09</start-date>
+        <end-date>1977-05-09</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2883</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1977-12-29</start-date>
+        <end-date>1977-12-31</end-date>
+        <country id="poland">Poland</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2884</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1977-12-31</start-date>
+        <end-date>1978-01-01</end-date>
+        <country id="iran">Iran</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2885</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-01</start-date>
+        <end-date>1978-01-03</end-date>
+        <country id="india">India</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2886</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-03</start-date>
+        <end-date>1978-01-04</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2887</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-04</start-date>
+        <end-date>1978-01-04</end-date>
+        <country id="egypt">Egypt</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2888</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-04</start-date>
+        <end-date>1978-01-06</end-date>
+        <country id="france">France</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2889</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-06</start-date>
+        <end-date>1978-01-06</end-date>
+        <country id="belgium">Belgium</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2890</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-03-28</start-date>
+        <end-date>1978-03-29</end-date>
+        <country id="venezuela">Venezuela</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2891</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-03-29</start-date>
+        <end-date>1978-03-31</end-date>
+        <country id="brazil">Brazil</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2892</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-03-31</start-date>
+        <end-date>1978-04-03</end-date>
+        <country id="nigeria">Nigeria</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2893</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-04-03</start-date>
+        <end-date>1978-04-03</end-date>
+        <country id="liberia">Liberia</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2894</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-06-16</start-date>
+        <end-date>1978-06-17</end-date>
+        <country id="panama">Panama</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2895</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-07-14</start-date>
+        <end-date>1978-07-15</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2896</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-07-15</start-date>
+        <end-date>1978-07-15</end-date>
+        <country id="germany">Germany</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2897</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-07-16</start-date>
+        <end-date>1978-07-17</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2898</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-01-04</start-date>
+        <end-date>1979-01-09</end-date>
+        <country id="france">France</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2899</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-02-14</start-date>
+        <end-date>1979-02-16</end-date>
+        <country id="mexico">Mexico</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2900</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-03-07</start-date>
+        <end-date>1979-03-10</end-date>
+        <country id="egypt">Egypt</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2901</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-03-10</start-date>
+        <end-date>1979-03-13</end-date>
+        <country id="israel">Israel</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2902</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-03-13</start-date>
+        <end-date>1979-03-13</end-date>
+        <country id="egypt">Egypt</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2903</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-06-14</start-date>
+        <end-date>1979-06-18</end-date>
+        <country id="austria">Austria</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2904</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-06-24</start-date>
+        <end-date>1979-06-29</end-date>
+        <country id="japan">Japan</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2905</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-06-29</start-date>
+        <end-date>1979-07-01</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2906</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-19</start-date>
+        <end-date>1980-06-24</end-date>
+        <country id="italy">Italy</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2907</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-21</start-date>
+        <end-date>1980-06-21</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2908</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-24</start-date>
+        <end-date>1980-06-25</end-date>
+        <country id="yugoslavia">Yugoslavia</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2909</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-25</start-date>
+        <end-date>1980-06-26</end-date>
+        <country id="spain">Spain</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2910</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-26</start-date>
+        <end-date>1980-06-26</end-date>
+        <country id="portugal">Portugal</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2911</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-07-09</start-date>
+        <end-date>1980-07-10</end-date>
+        <country id="japan">Japan</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+</trips>

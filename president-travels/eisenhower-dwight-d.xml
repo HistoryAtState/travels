@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2740</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1952-12-02</start-date>
+        <end-date>1952-12-05</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2741</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1953-10-19</start-date>
+        <end-date>1953-10-19</end-date>
+        <country id="mexico">Mexico</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2742</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1953-11-13</start-date>
+        <end-date>1953-11-15</end-date>
+        <country id="canada">Canada</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2743</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1953-12-04</start-date>
+        <end-date>1953-12-08</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2744</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1955-07-16</start-date>
+        <end-date>1955-07-23</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2745</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1956-07-21</start-date>
+        <end-date>1956-07-23</end-date>
+        <country id="panama">Panama</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2746</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1957-03-20</start-date>
+        <end-date>1957-03-24</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2747</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1957-12-14</start-date>
+        <end-date>1957-12-19</end-date>
+        <country id="france">France</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2748</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1958-07-08</start-date>
+        <end-date>1958-07-11</end-date>
+        <country id="canada">Canada</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2749</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-02-19</start-date>
+        <end-date>1959-02-20</end-date>
+        <country id="mexico">Mexico</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2750</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-06-26</start-date>
+        <end-date>1959-06-26</end-date>
+        <country id="canada">Canada</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2751</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-08-26</start-date>
+        <end-date>1959-08-27</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2752</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-08-27</start-date>
+        <end-date>1959-09-02</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2753</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-09-02</start-date>
+        <end-date>1959-09-04</end-date>
+        <country id="france">France</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2754</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-09-04</start-date>
+        <end-date>1959-09-07</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2755</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-04</start-date>
+        <end-date>1959-12-06</end-date>
+        <country id="italy">Italy</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2756</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-06</start-date>
+        <end-date>1959-12-06</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2757</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-06</start-date>
+        <end-date>1959-12-07</end-date>
+        <country id="turkey">Turkey</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2758</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-07</start-date>
+        <end-date>1959-12-09</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2759</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-09</start-date>
+        <end-date>1959-12-09</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2760</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-09</start-date>
+        <end-date>1959-12-14</end-date>
+        <country id="india">India</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2761</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-14</start-date>
+        <end-date>1959-12-14</end-date>
+        <country id="iran">Iran</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2762</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-14</start-date>
+        <end-date>1959-12-15</end-date>
+        <country id="greece">Greece</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2763</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-17</start-date>
+        <end-date>1959-12-17</end-date>
+        <country id="tunisia">Tunisia</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2764</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-18</start-date>
+        <end-date>1959-12-21</end-date>
+        <country id="france">France</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2765</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-21</start-date>
+        <end-date>1959-12-22</end-date>
+        <country id="spain">Spain</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2766</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1959-12-22</start-date>
+        <end-date>1959-12-22</end-date>
+        <country id="morocco">Morocco</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2767</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-02-23</start-date>
+        <end-date>1960-02-26</end-date>
+        <country id="brazil">Brazil</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2768</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-02-26</start-date>
+        <end-date>1960-02-29</end-date>
+        <country id="argentina">Argentina</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2769</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-02-29</start-date>
+        <end-date>1960-03-02</end-date>
+        <country id="chile">Chile</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2770</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-03-02</start-date>
+        <end-date>1960-03-03</end-date>
+        <country id="uruguay">Uruguay</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2771</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-05-15</start-date>
+        <end-date>1960-05-19</end-date>
+        <country id="france">France</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2772</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-05-19</start-date>
+        <end-date>1960-05-20</end-date>
+        <country id="portugal">Portugal</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2773</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-06-14</start-date>
+        <end-date>1960-06-16</end-date>
+        <country id="philippines">Philippines</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2774</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-06-18</start-date>
+        <end-date>1960-06-19</end-date>
+        <country id="taiwan">Republic of China</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2775</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-06-19</start-date>
+        <end-date>1960-06-20</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="eisenhower-dwight-d" role="president">
+        <id>2776</id>
+        <role>president</role>
+        <name>Dwight D. Eisenhower</name>
+        <start-date>1960-10-24</start-date>
+        <end-date>1960-10-24</end-date>
+        <country id="mexico">Mexico</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+</trips>

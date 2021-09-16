@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="coolidge-calvin" role="president">
+        <id>2671</id>
+        <role>president</role>
+        <name>Calvin Coolidge</name>
+        <start-date>1928-01-15</start-date>
+        <end-date>1928-01-17</end-date>
+        <country id="cuba">Cuba</country>
+        <locale/>
+        <remarks/>
+        <created-by/>
+        <created-datetime/>
+        <last-modified-by/>
+        <last-modified-datetime/>
+    </trip>
+</trips>
