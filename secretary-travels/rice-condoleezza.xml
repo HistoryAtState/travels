@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="rice-condoleezza" role="secretary">
         <id>1445</id>
@@ -716,7 +716,7 @@
         <end-date>2005-07-22</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
-        <remarks>Met with Prime Minister Seniora and Lebanese political leaders.&#160; Laid a wreath
+        <remarks>Met with Prime Minister Seniora and Lebanese political leaders.  Laid a wreath
             on the grave of former Prime Minister Hariri.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -802,7 +802,7 @@
         <end-date>2005-10-12</end-date>
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad</locale>
-        <remarks>Met with President Musharraf and Prime Minister Aziz.&#160; Discussed disaster
+        <remarks>Met with President Musharraf and Prime Minister Aziz.  Discussed disaster
             relief.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1275,7 +1275,7 @@
         <end-date>2006-03-15</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
-        <remarks>Met with President Yudhoyono and Foreign Minister Wirajuda.&#160; Addressed
+        <remarks>Met with President Yudhoyono and Foreign Minister Wirajuda.  Addressed
             Indonesia Council on World Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1973,7 +1973,7 @@
         <end-date>2007-01-15</end-date>
         <country id="egypt">Egypt</country>
         <locale>Luxor</locale>
-        <remarks>Met with President Mubarak and Foreign Minister Aboul Gheit.&#160; Proposed an
+        <remarks>Met with President Mubarak and Foreign Minister Aboul Gheit.  Proposed an
             Israeli-Palestinian summit meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2074,7 +2074,7 @@
         <end-date>2007-02-20</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Olmert and Foreign Minister Livni.&#160; Met with Prime
+        <remarks>Met with Prime Minister Olmert and Foreign Minister Livni.  Met with Prime
             Minister Olmert and Palestinian President Abbas on February 19.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2132,7 +2132,7 @@
         <end-date>2007-03-09</end-date>
         <country id="brazil">Brazil</country>
         <locale>Sao Paulo</locale>
-        <remarks>Accompanied President Bush.&#160; Signed memorandum of understanding on biofuels
+        <remarks>Accompanied President Bush.  Signed memorandum of understanding on biofuels
             cooperation.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2273,7 +2273,7 @@
         <end-date>2007-05-04</end-date>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
-        <remarks>Attended the International Compact with Iraq meeting.&#160; Met with Syrian Foreign
+        <remarks>Attended the International Compact with Iraq meeting.  Met with Syrian Foreign
             Minister al-Moualem.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2360,7 +2360,7 @@
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with President Sarkozy, Foreign Minister Kouchner, and Lebanese Prime Minister
-            Siniora.&#160; Attended a meeting of the International Contact Group on
+            Siniora.  Attended a meeting of the International Contact Group on
             Sudan/Darfur.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2504,7 +2504,7 @@
         <end-date>2007-10-15</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Olmert.&#160; Also met with religious leaders.</remarks>
+        <remarks>Met with Prime Minister Olmert.  Also met with religious leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2546,7 +2546,7 @@
         <end-date>2007-10-17</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Bethlehem, Ramallah</locale>
-        <remarks>Visited the Church of the Nativity and met with civil leaders.&#160; Met with
+        <remarks>Visited the Church of the Nativity and met with civil leaders.  Met with
             President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2589,7 +2589,7 @@
         <end-date>2007-11-03</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Istanbul</locale>
-        <remarks>Met with President Gul, Prime Minister Erdogan, and Foreign Minister Babacan.&#160;
+        <remarks>Met with President Gul, Prime Minister Erdogan, and Foreign Minister Babacan. 
             Attended an expanded ministerial meeting of countries adjoining Iraq in
             Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2606,7 +2606,7 @@
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Discussed proposed Middle East peace conference with Prime Minister Olmert and
-            Foreign Minister Livni.&#160; Addressed the Saban Forum.</remarks>
+            Foreign Minister Livni.  Addressed the Saban Forum.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2664,7 +2664,7 @@
         <end-date>2007-12-18</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended a Quartet meeting and the Palestinian Donors’ Conference.&#160; Met with
+        <remarks>Attended a Quartet meeting and the Palestinian Donors’ Conference.  Met with
             President Sarkozy.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2765,7 +2765,7 @@
         <end-date>2008-01-15</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Accompanied President Bush.&#160; Met with Foreign Minister Prince Saud.</remarks>
+        <remarks>Accompanied President Bush.  Met with Foreign Minister Prince Saud.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2851,7 +2851,7 @@
         <end-date>2008-02-07</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kandahar, Kabul</locale>
-        <remarks>Accompanied British Foreign Secretary Miliband.&#160; Met with President
+        <remarks>Accompanied British Foreign Secretary Miliband.  Met with President
             Karzai.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3038,7 +3038,7 @@
         <end-date>2008-03-07</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO and EU Ministerial Meetings.&#160; Addressed Women Leaders Working
+        <remarks>Attended NATO and EU Ministerial Meetings.  Addressed Women Leaders Working
             Group.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3053,7 +3053,7 @@
         <end-date>2008-03-14</end-date>
         <country id="brazil">Brazil</country>
         <locale>Brasilia, Salvador da Bahia</locale>
-        <remarks>Met with President Lula da Silva and Foreign Minister Amorim.&#160; In Salvador da
+        <remarks>Met with President Lula da Silva and Foreign Minister Amorim.  In Salvador da
             Bahia, met with the president of Neoenergia and with the state governor.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
