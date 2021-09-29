@@ -10,9 +10,9 @@
         <locale>Antwerp,Brussels</locale>
         <remarks>Disembarked en route to Potsdam.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2735</id>
@@ -25,9 +25,9 @@
         <remarks>Potsdam Conference with British Prime Ministers Churchill and Attlee and Soviet
             Premier Stalin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2736</id>
@@ -39,9 +39,9 @@
         <locale>Plymouth</locale>
         <remarks>Informal meeting with King George VI.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>3203</id>
@@ -54,9 +54,9 @@
         <remarks>Informal visit; met with the Governor of Bermuda, Admiral Sir Ralph Leatham, K.C.B.
             and inspected U.S. military facilities.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2012-09-25T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2012-09-25T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2012-09-25T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2012-09-25T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2737</id>
@@ -68,9 +68,9 @@
         <locale>Mexico, D.F.</locale>
         <remarks>State visit; met with President Alerman.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2738</id>
@@ -83,9 +83,9 @@
         <remarks>Official visit; met with Governor General Alexander and Prime Minister Mackenzie
             King.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="truman-harry-s" role="president">
         <id>2739</id>
@@ -98,8 +98,8 @@
         <remarks>State visit; addressed Rio de Janiero Conference for the Maintenance of Continental
             Peace and Security and the Brazilian Congress.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
 </trips>
