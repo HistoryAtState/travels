@@ -7,12 +7,12 @@
         <start-date>1952-12-02</start-date>
         <end-date>1952-12-05</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Seoul</locale>
+        <remarks>Visit to Korean combat zone. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2741</id>
@@ -21,12 +21,12 @@
         <start-date>1953-10-19</start-date>
         <end-date>1953-10-19</end-date>
         <country id="mexico">Mexico</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Nuevo Guerrero</locale>
+        <remarks>Dedicated Falcon Dam.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2742</id>
@@ -35,12 +35,12 @@
         <start-date>1953-11-13</start-date>
         <end-date>1953-11-15</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Ottawa</locale>
+        <remarks>State visit; addressed joint session of Parliament.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2743</id>
@@ -49,12 +49,13 @@
         <start-date>1953-12-04</start-date>
         <end-date>1953-12-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Bermuda</locale>
+        <remarks>Attended Bermuda Conference with Prime Minister Churchill and French President
+            Laniel.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2744</id>
@@ -63,12 +64,13 @@
         <start-date>1955-07-16</start-date>
         <end-date>1955-07-23</end-date>
         <country id="switzerland">Switzerland</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Geneva</locale>
+        <remarks>Summit conference with British Prime Minister Eden, French Premier Faure, and
+            Soviet Premier Bulganin.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2745</id>
@@ -77,12 +79,12 @@
         <start-date>1956-07-21</start-date>
         <end-date>1956-07-23</end-date>
         <country id="panama">Panama</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Panama City</locale>
+        <remarks>Attended a meeting of the Presidents of the American Republics.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2746</id>
@@ -91,12 +93,12 @@
         <start-date>1957-03-20</start-date>
         <end-date>1957-03-24</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Bermuda</locale>
+        <remarks>Met with Prime Minister Macmillan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2747</id>
@@ -105,12 +107,12 @@
         <start-date>1957-12-14</start-date>
         <end-date>1957-12-19</end-date>
         <country id="france">France</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Paris</locale>
+        <remarks>Attended meeting of NATO Heads of Government.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2748</id>
@@ -119,12 +121,12 @@
         <start-date>1958-07-08</start-date>
         <end-date>1958-07-11</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Ottawa</locale>
+        <remarks>Informal visit; addressed joint session of Parliament.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2749</id>
@@ -133,12 +135,12 @@
         <start-date>1959-02-19</start-date>
         <end-date>1959-02-20</end-date>
         <country id="mexico">Mexico</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Acapulco</locale>
+        <remarks>Informal meeting with President Lopez Mateos.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2750</id>
@@ -147,12 +149,12 @@
         <start-date>1959-06-26</start-date>
         <end-date>1959-06-26</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Montreal</locale>
+        <remarks>Joined Queen Elizabeth II in ceremony opening St. Lawrence Seaway.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2751</id>
@@ -161,12 +163,12 @@
         <start-date>1959-08-26</start-date>
         <end-date>1959-08-27</end-date>
         <country id="germany">Germany, Federal Republic of</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Bonn</locale>
+        <remarks>Informal meeting with Chancellor Adenauer and President Heuss.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2752</id>
@@ -175,12 +177,12 @@
         <start-date>1959-08-27</start-date>
         <end-date>1959-09-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>London,Balmoral,Chequers</locale>
+        <remarks>Informal visit; met Prime Minister Macmillan and Queen Elizabeth II.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2753</id>
@@ -189,12 +191,13 @@
         <start-date>1959-09-02</start-date>
         <end-date>1959-09-04</end-date>
         <country id="france">France</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Paris</locale>
+        <remarks>Informal meeting with President De Gaulle and Italian Premier Segni. Addressed
+            North Atlantic Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2754</id>
@@ -203,12 +206,12 @@
         <start-date>1959-09-04</start-date>
         <end-date>1959-09-07</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Culzean Castle</locale>
+        <remarks>Rested before returning to the United States.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2755</id>
@@ -217,12 +220,12 @@
         <start-date>1959-12-04</start-date>
         <end-date>1959-12-06</end-date>
         <country id="italy">Italy</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Rome</locale>
+        <remarks>Informal visit; met with President Gronchi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2756</id>
@@ -232,11 +235,11 @@
         <end-date>1959-12-06</end-date>
         <country id="holy-see">Vatican City</country>
         <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <remarks>Audience with Pope John XXIII.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2757</id>
@@ -245,12 +248,12 @@
         <start-date>1959-12-06</start-date>
         <end-date>1959-12-07</end-date>
         <country id="turkey">Turkey</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Ankara</locale>
+        <remarks>Informal visit; met with President Bayar.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2758</id>
@@ -259,12 +262,12 @@
         <start-date>1959-12-07</start-date>
         <end-date>1959-12-09</end-date>
         <country id="pakistan">Pakistan</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Karachi</locale>
+        <remarks>Informal visit; met with President Ayub Khan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2759</id>
@@ -273,12 +276,12 @@
         <start-date>1959-12-09</start-date>
         <end-date>1959-12-09</end-date>
         <country id="afghanistan">Afghanistan</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Kabul</locale>
+        <remarks>Informal visit; met with King Mohammed Zahir.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2760</id>
@@ -287,12 +290,12 @@
         <start-date>1959-12-09</start-date>
         <end-date>1959-12-14</end-date>
         <country id="india">India</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>New Delhi,Agra</locale>
+        <remarks>Met with President Prasad and Prime Minister Nehru. Addressed Parliament.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2761</id>
@@ -301,12 +304,12 @@
         <start-date>1959-12-14</start-date>
         <end-date>1959-12-14</end-date>
         <country id="iran">Iran</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Tehran</locale>
+        <remarks>Met with Shah Mohammed Reza Pahlavi and addressed Parliament.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2762</id>
@@ -315,12 +318,13 @@
         <start-date>1959-12-14</start-date>
         <end-date>1959-12-15</end-date>
         <country id="greece">Greece</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Athens</locale>
+        <remarks>Official visit; met with King Paul, Prime Minister Karamanlis, and addressed
+            Parliament. Traveled by sea from Athens to Tunis.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2763</id>
@@ -329,12 +333,12 @@
         <start-date>1959-12-17</start-date>
         <end-date>1959-12-17</end-date>
         <country id="tunisia">Tunisia</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Tunis</locale>
+        <remarks>Met with President Bourguiba.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2764</id>
@@ -343,12 +347,13 @@
         <start-date>1959-12-18</start-date>
         <end-date>1959-12-21</end-date>
         <country id="france">France</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Toulon,Paris</locale>
+        <remarks>Conference with President De Gaulle, British Prime Minister Macmillan, and German
+            Chancellor Adenauer.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2765</id>
@@ -357,12 +362,12 @@
         <start-date>1959-12-21</start-date>
         <end-date>1959-12-22</end-date>
         <country id="spain">Spain</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Madrid</locale>
+        <remarks>Met with Generalissimo Franco.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2766</id>
@@ -371,12 +376,12 @@
         <start-date>1959-12-22</start-date>
         <end-date>1959-12-22</end-date>
         <country id="morocco">Morocco</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Casablanca</locale>
+        <remarks>Met with King Mohammed V.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2767</id>
@@ -385,12 +390,12 @@
         <start-date>1960-02-23</start-date>
         <end-date>1960-02-26</end-date>
         <country id="brazil">Brazil</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Brasilia,Rio de Janeiro,Sao Paulo</locale>
+        <remarks>Met with President Kubitschek and addressed Brazilian Congress.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2768</id>
@@ -399,12 +404,12 @@
         <start-date>1960-02-26</start-date>
         <end-date>1960-02-29</end-date>
         <country id="argentina">Argentina</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Buenos Aires,Mar del Plata,San Carlos de Bariloche</locale>
+        <remarks>Met with President Frondizi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2769</id>
@@ -413,12 +418,12 @@
         <start-date>1960-02-29</start-date>
         <end-date>1960-03-02</end-date>
         <country id="chile">Chile</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Santiago</locale>
+        <remarks>Met with President Alessandri.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2770</id>
@@ -427,12 +432,13 @@
         <start-date>1960-03-02</start-date>
         <end-date>1960-03-03</end-date>
         <country id="uruguay">Uruguay</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Montevideo</locale>
+        <remarks>Met with President Nardone. Returned to the U.S. via Buenos Aires and
+            Surinam.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2771</id>
@@ -441,12 +447,13 @@
         <start-date>1960-05-15</start-date>
         <end-date>1960-05-19</end-date>
         <country id="france">France</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Paris</locale>
+        <remarks>Conference with President De Gaulle, British Prime Minister Macmillan, and Soviet
+            Premier Khrushchev.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2772</id>
@@ -455,12 +462,12 @@
         <start-date>1960-05-19</start-date>
         <end-date>1960-05-20</end-date>
         <country id="portugal">Portugal</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Lisbon</locale>
+        <remarks>Official visit; met with President Thomaz.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2773</id>
@@ -469,12 +476,13 @@
         <start-date>1960-06-14</start-date>
         <end-date>1960-06-16</end-date>
         <country id="philippines">Philippines</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Manila</locale>
+        <remarks>State visit; met with President Garcia. Traveled by sea from Manila to
+            Taipei.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2774</id>
@@ -483,12 +491,12 @@
         <start-date>1960-06-18</start-date>
         <end-date>1960-06-19</end-date>
         <country id="taiwan">Republic of China</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Taipei</locale>
+        <remarks>Met with President Chiang Kai-shek.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2775</id>
@@ -497,12 +505,12 @@
         <start-date>1960-06-19</start-date>
         <end-date>1960-06-20</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Seoul</locale>
+        <remarks>Met with Prime Minister Chung and addressed the National Assembly.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
         <id>2776</id>
@@ -511,11 +519,11 @@
         <start-date>1960-10-24</start-date>
         <end-date>1960-10-24</end-date>
         <country id="mexico">Mexico</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Ciudad Acuna</locale>
+        <remarks>Informal visit; met with President Lopez Mateos.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>

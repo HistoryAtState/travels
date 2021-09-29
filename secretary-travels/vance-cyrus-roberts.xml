@@ -751,7 +751,7 @@
         <start-date>1978-03-29</start-date>
         <end-date>1978-03-31</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia, Rio de Janeiro</locale>
+        <locale>Brasilia,Rio de Janeiro</locale>
         <remarks>Accompanied President Carter on an official visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -880,7 +880,7 @@
         <start-date>1978-05-03</start-date>
         <end-date>1978-05-05</end-date>
         <country id="mexico">Mexico</country>
-        <locale>Mexico, D.F., Puerto Vallarta</locale>
+        <locale>Mexico, D.F.,Puerto Vallarta</locale>
         <remarks>Official visit. Met with President Lopez Portillo and Foreign Relations Secretary
             Roel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -937,7 +937,7 @@
         <start-date>1978-07-14</start-date>
         <end-date>1978-07-17</end-date>
         <country id="germany">Germany, Federal Republic of</country>
-        <locale>Frankfurt, Bonn</locale>
+        <locale>Frankfurt,Bonn</locale>
         <remarks>Accompanied President Carter on a State visit and to the Economic Summit
             Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -966,7 +966,7 @@
         <start-date>1978-07-17</start-date>
         <end-date>1978-07-20</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London, Hollingbourne</locale>
+        <locale>London,Hollingbourne</locale>
         <remarks>Discussed the Rhodesia question with Foreign Secretary Owen. Also met with the
             Egyptian and Israeli Foreign Ministers at Leeds Castle, July 18.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1153,7 +1153,7 @@
         <start-date>1978-12-11</start-date>
         <end-date>1978-12-12</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem</locale>
+        <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Discussed the Egyptian-Israeli peace process and attended the funeral of former
             Prime Minister Meir.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1224,7 +1224,7 @@
         <start-date>1979-03-07</start-date>
         <end-date>1979-03-10</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Cairo, Alexandria</locale>
+        <locale>Cairo,Alexandria</locale>
         <remarks>Accompanied President Carter on a State visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1296,7 +1296,7 @@
         <start-date>1979-05-25</start-date>
         <end-date>1979-05-27</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Beersheva, El Arish</locale>
+        <locale>Tel Aviv,Beersheva,El Arish</locale>
         <remarks>Attended opening session of Egyptian-Israeli autonomy talks on the West Bank and
             Gaza at Beersheva, and the exchange of ratifications of the Egyptian-Israeli Peace
             Treaty.</remarks>

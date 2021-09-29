@@ -7,12 +7,12 @@
         <start-date>1933-02-06</start-date>
         <end-date>1933-02-14</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>The Bahamas</locale>
+        <remarks>Fishing trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2683</id>
@@ -21,12 +21,12 @@
         <start-date>1933-06-29</start-date>
         <end-date>1933-07-01</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Campobello Island</locale>
+        <remarks>Vacation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2684</id>
@@ -35,12 +35,12 @@
         <start-date>1934-03-29</start-date>
         <end-date>1934-04-11</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>The Bahamas</locale>
+        <remarks>Fishing trip.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2685</id>
@@ -49,12 +49,12 @@
         <start-date>1934-07-05</start-date>
         <end-date>1934-07-06</end-date>
         <country id="haiti">Haiti</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Cap Haitien</locale>
+        <remarks>Informal visit en route to vacation in Hawaii.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2686</id>
@@ -63,12 +63,12 @@
         <start-date>1934-07-10</start-date>
         <end-date>1934-07-10</end-date>
         <country id="colombia">Colombia</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Cartagena</locale>
+        <remarks>Informal visit en route to vacation in Hawaii.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2687</id>
@@ -77,12 +77,12 @@
         <start-date>1934-07-11</start-date>
         <end-date>1934-07-12</end-date>
         <country id="panama">Panama</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Panama City</locale>
+        <remarks>Informal visit en route to vacation in Hawaii.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2688</id>
@@ -91,12 +91,12 @@
         <start-date>1935-03-27</start-date>
         <end-date>1935-04-06</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>The Bahamas</locale>
+        <remarks>Fishing trip.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2689</id>
@@ -105,12 +105,13 @@
         <start-date>1935-10-16</start-date>
         <end-date>1935-10-16</end-date>
         <country id="panama">Panama</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Balboa</locale>
+        <remarks>Informal visit with President Arias while returning to Washington, D.C. from West
+            Coast.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2690</id>
@@ -119,12 +120,12 @@
         <start-date>1936-03-24</start-date>
         <end-date>1936-04-07</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>The Bahamas</locale>
+        <remarks>Fishing trip.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2691</id>
@@ -133,12 +134,12 @@
         <start-date>1936-07-28</start-date>
         <end-date>1936-07-30</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Campobello Island</locale>
+        <remarks>Vacation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2692</id>
@@ -147,12 +148,12 @@
         <start-date>1936-07-31</start-date>
         <end-date>1936-07-31</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Quebec</locale>
+        <remarks>Official visit; met with Governor General Lord Tweedsmuir.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2693</id>
@@ -161,12 +162,12 @@
         <start-date>1936-11-21</start-date>
         <end-date>1936-11-21</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Trinidad</locale>
+        <remarks>Stopped on the way to South America.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2694</id>
@@ -175,12 +176,12 @@
         <start-date>1936-11-27</start-date>
         <end-date>1936-11-27</end-date>
         <country id="brazil">Brazil</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Rio de Janeiro</locale>
+        <remarks>Addressed Brazilian Congress.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2695</id>
@@ -189,12 +190,13 @@
         <start-date>1936-11-30</start-date>
         <end-date>1936-12-02</end-date>
         <country id="argentina">Argentina</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Buenos Aires</locale>
+        <remarks>Attended session of Inter-American Conference for the Maintenance of
+            Peace.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2696</id>
@@ -203,12 +205,12 @@
         <start-date>1936-12-03</start-date>
         <end-date>1936-12-03</end-date>
         <country id="uruguay">Uruguay</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Montevideo</locale>
+        <remarks>Official visit; met with President Terra.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2697</id>
@@ -217,12 +219,12 @@
         <start-date>1936-12-11</start-date>
         <end-date>1936-12-11</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Trinidad</locale>
+        <remarks>Stopped while returning to the United States.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>3974</id>
@@ -231,12 +233,12 @@
         <start-date>1937-09-30</start-date>
         <end-date>1937-09-30</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Victoria</locale>
+        <remarks>Met with the Lieutenant Governor of British Columbia Eric W. Hamber.</remarks>
+        <created-by>faithti</created-by>
+        <created-datetime>2020-01-23T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2020-01-23T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2698</id>
@@ -245,12 +247,12 @@
         <start-date>1938-08-04</start-date>
         <end-date>1938-08-05</end-date>
         <country id="panama">Panama</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Balboa</locale>
+        <remarks>Informal visit with President Arosemena during vacation in the Caribbean.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2699</id>
@@ -259,12 +261,13 @@
         <start-date>1938-08-18</start-date>
         <end-date>1938-08-18</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Kingston</locale>
+        <remarks>Received honorary degree from Queens University and dedicated Thousand Islands
+            Bridge.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2700</id>
@@ -273,12 +276,12 @@
         <start-date>1939-08-14</start-date>
         <end-date>1939-08-16</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Campobello Island (Nova Scotia),Sydney (Nova Scotia)</locale>
+        <remarks>Fishing trip.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2701</id>
@@ -287,12 +290,12 @@
         <start-date>1939-08-17</start-date>
         <end-date>1939-08-20</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Bay of Islands (Newfoundland),Bonne Bay (Newfoundland)</locale>
+        <remarks>Fishing trip.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2702</id>
@@ -301,12 +304,12 @@
         <start-date>1939-08-21</start-date>
         <end-date>1939-08-23</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Halifax</locale>
+        <remarks>Stopped while returning to the United States.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2703</id>
@@ -315,12 +318,12 @@
         <start-date>1940-02-27</start-date>
         <end-date>1940-02-27</end-date>
         <country id="panama">Panama</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Cristobal,Balboa</locale>
+        <remarks>Met informally with President Boyd during vacation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2704</id>
@@ -329,12 +332,12 @@
         <start-date>1940-12-05</start-date>
         <end-date>1940-12-05</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Jamaica</locale>
+        <remarks>Inspected British base sites for possible American use.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2705</id>
@@ -343,12 +346,12 @@
         <start-date>1940-12-08</start-date>
         <end-date>1940-12-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>St. Lucia</locale>
+        <remarks>Inspected British base sites for possible American use.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2706</id>
@@ -357,12 +360,12 @@
         <start-date>1940-12-08</start-date>
         <end-date>1940-12-08</end-date>
         <country id="france">France</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Martinique</locale>
+        <remarks>Conferred with U.S. officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2707</id>
@@ -371,12 +374,12 @@
         <start-date>1940-12-09</start-date>
         <end-date>1940-12-09</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Antigua</locale>
+        <remarks>Inspected British base sites for possible American use.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2708</id>
@@ -385,12 +388,13 @@
         <start-date>1940-12-12</start-date>
         <end-date>1940-12-13</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>The Bahamas</locale>
+        <remarks>Inspected British base sites for possible American use. Met with the Duke of
+            Windsor at Eleutheria Island, December 13. Returned to the U.S. December 14.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2709</id>
@@ -399,12 +403,13 @@
         <start-date>1941-08-09</start-date>
         <end-date>1941-08-12</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Argentia (Newfoundland)</locale>
+        <remarks>Attended conference with Prime Minister Churchill. Announced the Atlantic
+            Charter.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2710</id>
@@ -413,12 +418,12 @@
         <start-date>1943-01-11</start-date>
         <end-date>1943-01-11</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Trinidad</locale>
+        <remarks>Overnight stop en route to Casablanca.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2711</id>
@@ -427,12 +432,12 @@
         <start-date>1943-01-12</start-date>
         <end-date>1943-01-12</end-date>
         <country id="brazil">Brazil</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Belem</locale>
+        <remarks>Overnight stop en route to Casablanca.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2712</id>
@@ -441,12 +446,12 @@
         <start-date>1943-01-13</start-date>
         <end-date>1943-01-13</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Bathurst (The Gambia)</locale>
+        <remarks>Overnight stop en route to Casablanca.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2713</id>
@@ -455,12 +460,12 @@
         <start-date>1943-01-14</start-date>
         <end-date>1943-01-25</end-date>
         <country id="morocco">Morocco</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Casablanca</locale>
+        <remarks>Casablanca Conference with British Prime Minister Churchill.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2714</id>
@@ -469,12 +474,12 @@
         <start-date>1943-01-25</start-date>
         <end-date>1943-01-25</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Bathurst (The Gambia)</locale>
+        <remarks>Overnight stop en route from Casablanca.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2715</id>
@@ -483,12 +488,12 @@
         <start-date>1943-01-26</start-date>
         <end-date>1943-01-27</end-date>
         <country id="liberia">Liberia</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Monrovia</locale>
+        <remarks>Informal visit; met with President Barclay.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2716</id>
@@ -497,12 +502,12 @@
         <start-date>1943-01-28</start-date>
         <end-date>1943-01-28</end-date>
         <country id="brazil">Brazil</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Natal</locale>
+        <remarks>Informal visit; met with President Vargas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2717</id>
@@ -511,12 +516,12 @@
         <start-date>1943-01-29</start-date>
         <end-date>1943-01-29</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Trinidad</locale>
+        <remarks>Overnight stop en route from Casablanca.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2718</id>
@@ -525,12 +530,12 @@
         <start-date>1943-04-20</start-date>
         <end-date>1943-04-20</end-date>
         <country id="mexico">Mexico</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Monterrey</locale>
+        <remarks>Part of an exchange of visits with President Avila across the border.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2719</id>
@@ -539,12 +544,12 @@
         <start-date>1943-08-17</start-date>
         <end-date>1943-08-25</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Quebec,Ottawa</locale>
+        <remarks>Attended First Quebec Conference with British Prime Minister Churchill.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2720</id>
@@ -553,12 +558,12 @@
         <start-date>1943-11-20</start-date>
         <end-date>1943-11-20</end-date>
         <country id="france">France</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Oran (Algeria)</locale>
+        <remarks>Disembarked en route to Cairo.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2721</id>
@@ -567,12 +572,12 @@
         <start-date>1943-11-20</start-date>
         <end-date>1943-11-21</end-date>
         <country id="tunisia">Tunisia</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Tunis</locale>
+        <remarks>Overnight stop en route to Cairo.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2722</id>
@@ -581,12 +586,13 @@
         <start-date>1943-11-22</start-date>
         <end-date>1943-11-26</end-date>
         <country id="egypt">Egypt</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Cairo</locale>
+        <remarks>Attended First Cairo Conference with British Prime Minister Churchill and Chinese
+            Generalissimo Chiang Kai-shek.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2723</id>
@@ -595,12 +601,13 @@
         <start-date>1943-11-27</start-date>
         <end-date>1943-12-02</end-date>
         <country id="iran">Iran</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Tehran</locale>
+        <remarks>Attended Tehran Conference with Soviet Premier Stalin and British Prime Minister
+            Churchill.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2724</id>
@@ -609,12 +616,13 @@
         <start-date>1943-12-02</start-date>
         <end-date>1943-12-07</end-date>
         <country id="egypt">Egypt</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Cairo</locale>
+        <remarks>Attended Second Cairo Conference with British Prime Minister Churchill and Turkish
+            President Inonu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2725</id>
@@ -623,12 +631,12 @@
         <start-date>1943-12-07</start-date>
         <end-date>1943-12-09</end-date>
         <country id="tunisia">Tunisia</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Tunis</locale>
+        <remarks>Conferred with General Eisenhower.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2726</id>
@@ -637,12 +645,12 @@
         <start-date>1943-12-08</start-date>
         <end-date>1943-12-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Malta</locale>
+        <remarks>Visited Allied military installations.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2727</id>
@@ -651,12 +659,12 @@
         <start-date>1943-12-08</start-date>
         <end-date>1943-12-08</end-date>
         <country id="italy">Italy</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Castel Ventrano (Sicily)</locale>
+        <remarks>Visited Allied military installations.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2728</id>
@@ -665,12 +673,12 @@
         <start-date>1943-12-09</start-date>
         <end-date>1943-12-09</end-date>
         <country id="france">France</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Dakar (Senegal)</locale>
+        <remarks>Re-embarked for the U.S.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2729</id>
@@ -679,12 +687,12 @@
         <start-date>1944-09-11</start-date>
         <end-date>1944-09-16</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Quebec</locale>
+        <remarks>Attended Second Quebec Conference with British Prime Minister Churchill.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2730</id>
@@ -693,12 +701,12 @@
         <start-date>1945-02-02</start-date>
         <end-date>1945-02-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Malta</locale>
+        <remarks>Attended Malta Conference with Prime Minister Churchill.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2731</id>
@@ -707,12 +715,13 @@
         <start-date>1945-02-03</start-date>
         <end-date>1945-02-12</end-date>
         <country id="russia">U.S.S.R.</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Yalta</locale>
+        <remarks>Attended Yalta Conference with Soviet Premier Stalin and British Prime Minister
+            Churchill.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2732</id>
@@ -721,12 +730,13 @@
         <start-date>1945-02-13</start-date>
         <end-date>1945-02-15</end-date>
         <country id="egypt">Egypt</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Great Bitter Lake,Suez Canal,Alexandria</locale>
+        <remarks>Met with King Farouk, Ethiopian Emperor Haile Selassie, Saudi Arabian King Ibn
+            Saud, and British Prime Minister Churchill.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="roosevelt-franklin-d" role="president">
         <id>2733</id>
@@ -735,11 +745,12 @@
         <start-date>1945-02-18</start-date>
         <end-date>1945-02-18</end-date>
         <country id="france">France</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Algiers (Algeria)</locale>
+        <remarks>Briefed U.S. Ambassadors to the United Kingdom, France, and Italy on the Yalta
+            Conference.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>

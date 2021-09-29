@@ -108,7 +108,7 @@
         <start-date>1959-08-27</start-date>
         <end-date>1959-09-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London, Chequers</locale>
+        <locale>London,Chequers</locale>
         <remarks>Accompanied President Eisenhower on an informal visit. Also met with Spanish
             Foreign Minister Castiella.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -153,7 +153,7 @@
         <start-date>1960-02-23</start-date>
         <end-date>1960-02-26</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia, Rio de Janeiro, Sao Paulo</locale>
+        <locale>Brasilia,Rio de Janeiro,Sao Paulo</locale>
         <remarks>Accompanied President Eisenhower on a good will tour.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -167,7 +167,7 @@
         <start-date>1960-02-26</start-date>
         <end-date>1960-02-29</end-date>
         <country id="argentina">Argentina</country>
-        <locale>Buenos Aires, Mar del Plata, San Carlos de Bariloche</locale>
+        <locale>Buenos Aires,Mar del Plata,San Carlos de Bariloche</locale>
         <remarks>Accompanied President Eisenhower on a good will tour.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>

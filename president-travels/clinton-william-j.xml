@@ -139,7 +139,7 @@
         <start-date>1994-06-02</start-date>
         <end-date>1994-06-04</end-date>
         <country id="italy">Italy</country>
-        <locale>Rome, Nettuno</locale>
+        <locale>Rome,Nettuno</locale>
         <remarks>Met with Prime Minister Berlusconi and President Scalfaro. Visited U.S. Military
             Cemetery.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -168,7 +168,7 @@
         <start-date>1994-06-04</start-date>
         <end-date>1994-06-05</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>Cambridge, London, Portsmouth</locale>
+        <locale>Cambridge,London,Portsmouth</locale>
         <remarks>Visited U.S. Military Cemetery. Met with Prime Minister Major. Attended state
             dinner with Queen Elizabeth II and heads of state and government of Canada, Poland, the
             Czech Republic, Slovakia, Australia, New Zealand, Norway, and Belgium. Attended D-Day
@@ -185,7 +185,7 @@
         <start-date>1994-06-06</start-date>
         <end-date>1994-06-08</end-date>
         <country id="france">France</country>
-        <locale>Colleville, Paris</locale>
+        <locale>Colleville,Paris</locale>
         <remarks>Attended D-Day memorial ceremonies. Met with President Mitterrand and senior French
             officials. Addressed the French National Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -258,7 +258,7 @@
         <start-date>1994-07-10</start-date>
         <end-date>1994-07-12</end-date>
         <country id="germany">Germany</country>
-        <locale>Bonn, Oggersheim, Berlin</locale>
+        <locale>Bonn,Oggersheim,Berlin</locale>
         <remarks>Met with Chancellor Kohl and German political leaders. Delivered a public address
             at the Brandenburg Gate and attended deactivation ceremony for the Berlin
             Brigade.</remarks>
@@ -288,7 +288,7 @@
         <start-date>1994-10-26</start-date>
         <end-date>1994-10-27</end-date>
         <country id="jordan">Jordan</country>
-        <locale>Aqaba, Wadi Arava, Amman</locale>
+        <locale>Aqaba,Wadi Arava,Amman</locale>
         <remarks>Attended signing of the Israel-Jordan peace agreement and addressed the Jordanian
             Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -359,7 +359,7 @@
         <start-date>1994-11-12</start-date>
         <end-date>1994-11-13</end-date>
         <country id="philippines">Philippines</country>
-        <locale>Manila, Corregidor</locale>
+        <locale>Manila,Corregidor</locale>
         <remarks>State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -373,7 +373,7 @@
         <start-date>1994-11-13</start-date>
         <end-date>1994-11-16</end-date>
         <country id="indonesia">Indonesia</country>
-        <locale>Jakarta, Bogor</locale>
+        <locale>Jakarta,Bogor</locale>
         <remarks>Attended APEC Summit Meeting, followed by State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -487,7 +487,7 @@
         <start-date>1995-11-28</start-date>
         <end-date>1995-12-01</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London, Belfast, Londonderry</locale>
+        <locale>London,Belfast,Londonderry</locale>
         <remarks>Met with Queen Elizabeth and Prime Minister Major; addressed Parliament, and
             delivered several public addresses in Northern Ireland.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -628,7 +628,7 @@
         <start-date>1996-03-13</start-date>
         <end-date>1996-03-14</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem, Tel Aviv</locale>
+        <locale>Jerusalem,Tel Aviv</locale>
         <remarks>Discussed cooperation against terrorism with senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -671,7 +671,7 @@
         <start-date>1996-04-18</start-date>
         <end-date>1996-04-21</end-date>
         <country id="russia">Russia</country>
-        <locale>St. Petersburg, Moscow</locale>
+        <locale>St. Petersburg,Moscow</locale>
         <remarks>Attended G-7 summit on nuclear safety and held a summit meeting with President
             Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -686,7 +686,7 @@
         <start-date>1996-06-27</start-date>
         <end-date>1996-06-29</end-date>
         <country id="france">France</country>
-        <locale>Lyon, Perouges, Paris</locale>
+        <locale>Lyon,Perouges,Paris</locale>
         <remarks>Attended the G-7 Economic Summit Meeting and met with Russian Prime Minister
             Chernomyrdin and UN Secretary-General Boutrous-Ghali.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -701,7 +701,7 @@
         <start-date>1996-11-19</start-date>
         <end-date>1996-11-23</end-date>
         <country id="australia">Australia</country>
-        <locale>Sydney, Canberra, Port Douglas</locale>
+        <locale>Sydney,Canberra,Port Douglas</locale>
         <remarks>State Visit. Addressed joint meeting of Parliament and visited the Great Barrier
             Reef.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -716,7 +716,7 @@
         <start-date>1996-11-24</start-date>
         <end-date>1996-11-25</end-date>
         <country id="philippines">Philippines</country>
-        <locale>Manila, Subic Bay</locale>
+        <locale>Manila,Subic Bay</locale>
         <remarks>Attended APEC Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -759,7 +759,7 @@
         <start-date>1997-05-05</start-date>
         <end-date>1997-05-07</end-date>
         <country id="mexico">Mexico</country>
-        <locale>Mexico, D.F., Tlaxcala</locale>
+        <locale>Mexico, D.F.,Tlaxcala</locale>
         <remarks>State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -816,7 +816,7 @@
         <start-date>1997-05-27</start-date>
         <end-date>1997-05-28</end-date>
         <country id="netherlands">Netherlands</country>
-        <locale>The Hague, Rotterdam</locale>
+        <locale>The Hague,Rotterdam</locale>
         <remarks>Attended U.S.-EU Summit Meeting and commemorated the 50th anniversary of the
             Marshall Plan.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -845,7 +845,7 @@
         <start-date>1997-07-04</start-date>
         <end-date>1997-07-10</end-date>
         <country id="spain">Spain</country>
-        <locale>Palma de Majorca, Madrid, Granada</locale>
+        <locale>Palma de Majorca,Madrid,Granada</locale>
         <remarks>Vacationed with King Juan Carlos I and Queen Sophia and attended a NATO Summit
             Meeting in Madrid.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -916,7 +916,7 @@
         <start-date>1997-10-13</start-date>
         <end-date>1997-10-15</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia, Sao Paulo, Rio de Janeiro</locale>
+        <locale>Brasilia,Sao Paulo,Rio de Janeiro</locale>
         <remarks>Met with President Cardosa; delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -930,7 +930,7 @@
         <start-date>1997-10-15</start-date>
         <end-date>1997-10-18</end-date>
         <country id="argentina">Argentina</country>
-        <locale>Buenos Aires, San Carlos de Bariloche</locale>
+        <locale>Buenos Aires,San Carlos de Bariloche</locale>
         <remarks>Met with President Menem; delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -972,7 +972,7 @@
         <start-date>1997-12-22</start-date>
         <end-date>1997-12-22</end-date>
         <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
-        <locale>Sarajevo, Tuzla</locale>
+        <locale>Sarajevo,Tuzla</locale>
         <remarks>Met with the Bosnian Collective Presidency and with Bosnian Serb President Plavsic;
             visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1001,7 +1001,7 @@
         <start-date>1998-03-23</start-date>
         <end-date>1998-03-25</end-date>
         <country id="uganda">Uganda</country>
-        <locale>Kampala, Kisowera, Mukono, Wanyange, Entebbe</locale>
+        <locale>Kampala,Kisowera,Mukono,Wanyange,Entebbe</locale>
         <remarks>Met with President Museveni and with the Presidents of Ethiopia, Rwanda, Tanzania,
             Kenya, and the Congo.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1030,7 +1030,7 @@
         <start-date>1998-03-25</start-date>
         <end-date>1998-03-29</end-date>
         <country id="south-africa">South Africa</country>
-        <locale>Cape Town, Johannesburg</locale>
+        <locale>Cape Town,Johannesburg</locale>
         <remarks>Met with President Mandela; addressed joint session of Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1044,7 +1044,7 @@
         <start-date>1998-03-29</start-date>
         <end-date>1998-03-31</end-date>
         <country id="botswana">Botswana</country>
-        <locale>Gaborone, Kasame</locale>
+        <locale>Gaborone,Kasame</locale>
         <remarks>Met with President Masire; visited Chobe National Park.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1058,7 +1058,7 @@
         <start-date>1998-03-31</start-date>
         <end-date>1998-04-02</end-date>
         <country id="senegal">Senegal</country>
-        <locale>Dakar, Thies, Goree Island</locale>
+        <locale>Dakar,Thies,Goree Island</locale>
         <remarks>Met with President Diouf; visited Senegalese peacekeeping troops; delivered several
             public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1087,7 +1087,7 @@
         <start-date>1998-05-12</start-date>
         <end-date>1998-05-14</end-date>
         <country id="germany">Germany</country>
-        <locale>Berlin, Potsdam, Frankfurt, Eisenach</locale>
+        <locale>Berlin,Potsdam,Frankfurt,Eisenach</locale>
         <remarks>Met with Chancellor Kohl; commemorated 50th anniversary of the Berlin
             Airlift.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1102,7 +1102,7 @@
         <start-date>1998-05-14</start-date>
         <end-date>1998-05-18</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>Birmingham, Weston-Under-Lizard, London</locale>
+        <locale>Birmingham,Weston-Under-Lizard,London</locale>
         <remarks>Attended G-8 Economic Summit and U.S.-EU Summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1130,7 +1130,7 @@
         <start-date>1998-06-24</start-date>
         <end-date>1998-07-03</end-date>
         <country id="china">China, People’s Republic of</country>
-        <locale>Xian, Beijing, Shanghai, Guilin, Hong Kong</locale>
+        <locale>Xian,Beijing,Shanghai,Guilin,Hong Kong</locale>
         <remarks>State visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1158,7 +1158,7 @@
         <start-date>1998-09-03</start-date>
         <end-date>1998-09-03</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>Belfast, Armagh, Omagh</locale>
+        <locale>Belfast,Armagh,Omagh</locale>
         <remarks>Met with Prime Minister Blair and Northern Irish political leaders; addressed the
             Northern Ireland Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1173,7 +1173,7 @@
         <start-date>1998-09-03</start-date>
         <end-date>1998-09-05</end-date>
         <country id="ireland">Ireland</country>
-        <locale>Dublin, Adare, Limerick, Ballybunion</locale>
+        <locale>Dublin,Adare,Limerick,Ballybunion</locale>
         <remarks>Met with Prime Minister Ahern; delivered several public addresses; played
             golf.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1203,7 +1203,7 @@
         <start-date>1998-11-20</start-date>
         <end-date>1998-11-22</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale>Seoul, Osan</locale>
+        <locale>Seoul,Osan</locale>
         <remarks>Met with President Kim Dae Jung; addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1217,7 +1217,7 @@
         <start-date>1998-12-12</start-date>
         <end-date>1998-12-15</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem, Masada</locale>
+        <locale>Jerusalem,Masada</locale>
         <remarks>Met with Prime Minister Netanyahu and senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1231,7 +1231,7 @@
         <start-date>1998-12-14</start-date>
         <end-date>1998-12-15</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
-        <locale>Gaza, Bethlehem, Erez</locale>
+        <locale>Gaza,Bethlehem,Erez</locale>
         <remarks>Addressed Palestine National Council; attended a meeting with Prime Minister
             Netanyahu and Chairman Arafat at Erez.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1274,7 +1274,7 @@
         <start-date>1999-03-08</start-date>
         <end-date>1999-03-08</end-date>
         <country id="nicaragua">Nicaragua</country>
-        <locale>Managua, Posoltega, El Porvenir</locale>
+        <locale>Managua,Posoltega,El Porvenir</locale>
         <remarks>Discussed reconstruction aid with President Aleman.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1288,7 +1288,7 @@
         <start-date>1999-03-08</start-date>
         <end-date>1999-03-09</end-date>
         <country id="honduras">Honduras</country>
-        <locale>Soto Cano Air Base, Tegucigalpa</locale>
+        <locale>Soto Cano Air Base,Tegucigalpa</locale>
         <remarks>Discussed reconstruction aid with President Flores; addressed U.S. military
             personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1317,7 +1317,7 @@
         <start-date>1999-03-10</start-date>
         <end-date>1999-03-11</end-date>
         <country id="guatemala">Guatemala</country>
-        <locale>Guatemala City, Antigua</locale>
+        <locale>Guatemala City,Antigua</locale>
         <remarks>Attended Central American Summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1345,8 +1345,7 @@
         <start-date>1999-05-04</start-date>
         <end-date>1999-05-06</end-date>
         <country id="germany">Germany</country>
-        <locale>Frankfurt, Ramstein Air Force Base, Spangdahlem Air Force Base, Bonn,
-            Ingelheim</locale>
+        <locale>Frankfurt,Ramstein Air Force Base,Spangdahlem Air Force Base,Bonn,Ingelheim</locale>
         <remarks>Addressed U.S. military personnel; met with Chancellor Schroeder; met with Kosovo
             refugees.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1390,7 +1389,7 @@
         <start-date>1999-06-17</start-date>
         <end-date>1999-06-21</end-date>
         <country id="germany">Germany</country>
-        <locale>Cologne, Bonn</locale>
+        <locale>Cologne,Bonn</locale>
         <remarks>Attended G-8 Economic Summit meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1491,7 +1490,7 @@
         <start-date>1999-09-11</start-date>
         <end-date>1999-09-15</end-date>
         <country id="new-zealand">New Zealand</country>
-        <locale>Auckland, Queenstown, Christchurch</locale>
+        <locale>Auckland,Queenstown,Christchurch</locale>
         <remarks>Attended Asia-Pacific Economic Cooperation Leaders meeting; State visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1505,7 +1504,7 @@
         <start-date>1999-10-07</start-date>
         <end-date>1999-10-08</end-date>
         <country id="canada">Canada</country>
-        <locale>Ottawa, Mont Tremblant</locale>
+        <locale>Ottawa,Mont Tremblant</locale>
         <remarks>Working visit. Met with Prime Minister Chretien and Quebec Premier Bouchard,
             attended Federalism Conference at Mont Tremblant, and dedicated new Embassy
             building.</remarks>
@@ -1536,7 +1535,7 @@
         <start-date>1999-11-15</start-date>
         <end-date>1999-11-19</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Ankara, Izmit, Ephesus, Istanbul</locale>
+        <locale>Ankara,Izmit,Ephesus,Istanbul</locale>
         <remarks>State visit and attended Organization for Security and Cooperation in Europe Summit
             meeting in Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1593,7 +1592,7 @@
         <start-date>1999-11-23</start-date>
         <end-date>1999-11-23</end-date>
         <country id="kosovo">Serbia-Montenegro (Kosovo)</country>
-        <locale>Pristina, Urosevac, Camp Bondsteel</locale>
+        <locale>Pristina,Urosevac,Camp Bondsteel</locale>
         <remarks>Met with Kosovar Transisional Council; addressed the Albanian community and U.S.
             military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1636,7 +1635,7 @@
         <start-date>2000-03-19</start-date>
         <end-date>2000-03-25</end-date>
         <country id="india">India</country>
-        <locale>New Delhi, Agra, Jaipur, Hyderabad, Bombay</locale>
+        <locale>New Delhi,Agra,Jaipur,Hyderabad,Bombay</locale>
         <remarks>Met with President Narayanan; signed Joint Statement on Energy and the Environment;
             addressed the Indian Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1722,7 +1721,7 @@
         <start-date>2000-06-01</start-date>
         <end-date>2000-06-03</end-date>
         <country id="germany">Germany</country>
-        <locale>Berlin, Aachen</locale>
+        <locale>Berlin,Aachen</locale>
         <remarks>Met with President Rau and Chancellor Schroeder; received Charlemagne Prize, and
             attended a Third Way Conference.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1793,7 +1792,7 @@
         <start-date>2000-08-26</start-date>
         <end-date>2000-08-28</end-date>
         <country id="nigeria">Nigeria</country>
-        <locale>Abuja, Ushafa</locale>
+        <locale>Abuja,Ushafa</locale>
         <remarks>Met with President Obasanjo and addressed the National Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1813,7 +1812,7 @@
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-08-21</last-modified-datetime>
+        <last-modified-datetime>2013-08-20T22:00:00-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2648</id>
@@ -1878,7 +1877,7 @@
         <start-date>2000-11-16</start-date>
         <end-date>2000-11-19</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Hanoi, Tien Chau, Ho Chi Minh City</locale>
+        <locale>Hanoi,Tien Chau,Ho Chi Minh City</locale>
         <remarks>Met with President Tran and delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1892,7 +1891,7 @@
         <start-date>2000-12-12</start-date>
         <end-date>2000-12-12</end-date>
         <country id="ireland">Ireland</country>
-        <locale>Dublin, Dundalk</locale>
+        <locale>Dublin,Dundalk</locale>
         <remarks>Met with Prime Minister Ahern and delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1906,7 +1905,7 @@
         <start-date>2000-12-12</start-date>
         <end-date>2000-12-14</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>Belfast, London, Coventry</locale>
+        <locale>Belfast,London,Coventry</locale>
         <remarks>Met with Prime Minister Blair and Northern Irish political leaders in Belfast, met
             with Queen Elizabeth II, and made a speech at the University of Warwick.</remarks>
         <created-by>wicentowskijc</created-by>

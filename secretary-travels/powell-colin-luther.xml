@@ -36,7 +36,7 @@
         <start-date>2001-02-24</start-date>
         <end-date>2001-02-25</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem</locale>
+        <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Met with Prime Minister-elect Sharon and senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -925,7 +925,7 @@
         <start-date>2002-04-12</start-date>
         <end-date>2002-04-15</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem, Safed</locale>
+        <locale>Tel Aviv,Jerusalem,Safed</locale>
         <remarks>Met with Prime Minister Sharon, Foreign Minister Peres, and senior Israeli
             officials.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1070,7 +1070,7 @@
         <start-date>2002-05-23</start-date>
         <end-date>2002-05-26</end-date>
         <country id="russia">Russia</country>
-        <locale>Moscow, St. Petersburg</locale>
+        <locale>Moscow,St. Petersburg</locale>
         <remarks>Accompanied President Bush to a Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1255,7 +1255,7 @@
         <start-date>2002-08-02</start-date>
         <end-date>2002-08-03</end-date>
         <country id="philippines">Philippines</country>
-        <locale>Manila, Cebu</locale>
+        <locale>Manila,Cebu</locale>
         <remarks>Met with President Arroyo and senior officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1540,7 +1540,7 @@
         <start-date>2003-04-07</start-date>
         <end-date>2003-04-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>Belfast, Hillsborough (Northern Ireland)</locale>
+        <locale>Belfast,Hillsborough (Northern Ireland)</locale>
         <remarks>Accompanied President Bush to meetings with Prime Minister Blair and with Irish
             Prime Minister Ahern and Northern Irish political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1898,7 +1898,7 @@
         <start-date>2003-06-19</start-date>
         <end-date>2003-06-23</end-date>
         <country id="jordan">Jordan</country>
-        <locale>Shuneh, Suweima, Petra</locale>
+        <locale>Shuneh,Suweima,Petra</locale>
         <remarks>Attended the World Economic Forum, met with Quartet representatives, and visited
             Petra.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1941,7 +1941,7 @@
         <start-date>2003-07-08</start-date>
         <end-date>2003-07-08</end-date>
         <country id="senegal">Senegal</country>
-        <locale>Dakar, Goree</locale>
+        <locale>Dakar,Goree</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2040,7 +2040,7 @@
         <start-date>2003-09-14</start-date>
         <end-date>2003-09-15</end-date>
         <country id="iraq">Iraq</country>
-        <locale>Baghdad, Halabja</locale>
+        <locale>Baghdad,Halabja</locale>
         <remarks>Met with U.S. military and civilian authorities and with the Iraqi Governing
             Council; also met with Kurdish leaders in Halabja.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2083,7 +2083,7 @@
         <start-date>2003-10-21</start-date>
         <end-date>2003-10-22</end-date>
         <country id="kenya">Kenya</country>
-        <locale>Nairobi, Naivasha</locale>
+        <locale>Nairobi,Naivasha</locale>
         <remarks>Attended Sudanese peace talks and met with President Kibaki.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2479,7 +2479,7 @@
         <start-date>2004-05-15</start-date>
         <end-date>2004-05-16</end-date>
         <country id="jordan">Jordan</country>
-        <locale>Amman, South Shuneh</locale>
+        <locale>Amman,South Shuneh</locale>
         <remarks>Attended the World Economic Forum.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2521,7 +2521,7 @@
         <start-date>2004-06-05</start-date>
         <end-date>2004-06-06</end-date>
         <country id="france">France</country>
-        <locale>Paris, Colleville, Arromanches, Caen</locale>
+        <locale>Paris,Colleville,Arromanches,Caen</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2563,7 +2563,7 @@
         <start-date>2004-06-26</start-date>
         <end-date>2004-06-29</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Ankara, Istanbul</locale>
+        <locale>Ankara,Istanbul</locale>
         <remarks>Accompanied President Bush to the NATO Summit meeting in Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2577,7 +2577,7 @@
         <start-date>2004-06-29</start-date>
         <end-date>2004-06-30</end-date>
         <country id="sudan">Sudan</country>
-        <locale>Khartoum, El Fasher, Abu Shouk</locale>
+        <locale>Khartoum,El Fasher,Abu Shouk</locale>
         <remarks>Met with President Bashir and Foreign Minister Ismail. Visited a refugee camp in
             the Darfur region.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2751,7 +2751,7 @@
         <start-date>2004-10-04</start-date>
         <end-date>2004-10-06</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia, Sao Paulo</locale>
+        <locale>Brasilia,Sao Paulo</locale>
         <remarks>Met with President Lula da Silva and Foreign Minister Amorim and addressed the
             American Chamber of Commerce.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2995,7 +2995,7 @@
         <start-date>2005-01-03</start-date>
         <end-date>2005-01-04</end-date>
         <country id="thailand">Thailand</country>
-        <locale>Bangkok, Phuket</locale>
+        <locale>Bangkok,Phuket</locale>
         <remarks>Assessed tsunami damage and relief efforts.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3009,7 +3009,7 @@
         <start-date>2005-01-04</start-date>
         <end-date>2005-01-07</end-date>
         <country id="indonesia">Indonesia</country>
-        <locale>Jakarta, Banda Aceh</locale>
+        <locale>Jakarta,Banda Aceh</locale>
         <remarks>Assessed tsunami damage and relief efforts. Attended ASEAN Leaders’ Special Meeting
             on Tsunami Relief.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3024,7 +3024,7 @@
         <start-date>2005-01-07</start-date>
         <end-date>2005-01-07</end-date>
         <country id="sri-lanka">Sri Lanka</country>
-        <locale>Colombo, Galle</locale>
+        <locale>Colombo,Galle</locale>
         <remarks>Assessed tsunami damage and relief efforts.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>

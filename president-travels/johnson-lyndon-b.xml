@@ -7,12 +7,13 @@
         <start-date>1964-09-16</start-date>
         <end-date>1964-09-16</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Vancouver</locale>
+        <remarks>Informal visit; met with Prime Minister Pearson in ceremonies related to the
+            Columbia River Treaty.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2794</id>
@@ -21,12 +22,12 @@
         <start-date>1966-04-14</start-date>
         <end-date>1966-04-15</end-date>
         <country id="mexico">Mexico</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Mexico, D.F.</locale>
+        <remarks>Informal visit; met with President Gustavo Diaz Ordaz.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2795</id>
@@ -35,12 +36,13 @@
         <start-date>1966-08-21</start-date>
         <end-date>1966-08-22</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Campobello Island,Chamcook</locale>
+        <remarks>Laid cornerstone at Roosevelt-Campobello International Park and conferred
+            informally with Prime Minister Pearson.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2796</id>
@@ -49,12 +51,12 @@
         <start-date>1966-10-19</start-date>
         <end-date>1966-10-20</end-date>
         <country id="new-zealand">New Zealand</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Wellington</locale>
+        <remarks>State visit; met with Prime Minister Holyoake.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2797</id>
@@ -63,12 +65,12 @@
         <start-date>1966-10-20</start-date>
         <end-date>1966-10-23</end-date>
         <country id="australia">Australia</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Canberra,Melbourne,Sydney,Brisbane,Townsville</locale>
+        <remarks>State visit; met with Governor General Casey and Prime Minister Holt.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2798</id>
@@ -77,12 +79,13 @@
         <start-date>1966-10-24</start-date>
         <end-date>1966-10-26</end-date>
         <country id="philippines">Philippines</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Manila,Los Banos,Corregidor</locale>
+        <remarks>Attended summit conference with the Heads of State and Government of Australia,
+            Korea, New Zealand, the Philippines, Thailand, and Vietnam.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2799</id>
@@ -91,12 +94,12 @@
         <start-date>1966-10-26</start-date>
         <end-date>1966-10-26</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Cam Ranh Bay</locale>
+        <remarks>Visited U.S. military personnel.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2800</id>
@@ -105,12 +108,12 @@
         <start-date>1966-10-27</start-date>
         <end-date>1966-10-30</end-date>
         <country id="thailand">Thailand</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Bangkok</locale>
+        <remarks>State visit; met with King Bhumibol Adulyadej.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2801</id>
@@ -119,12 +122,12 @@
         <start-date>1966-10-30</start-date>
         <end-date>1966-10-31</end-date>
         <country id="malaysia">Malaysia</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Kuala Lumpur</locale>
+        <remarks>State visit; met with Prime Minister Rahrman.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2802</id>
@@ -133,12 +136,12 @@
         <start-date>1966-10-31</start-date>
         <end-date>1966-11-02</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Seoul,Suwon</locale>
+        <remarks>State visit; met with President Park and Prime Minister Chung.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2803</id>
@@ -147,12 +150,13 @@
         <start-date>1966-12-03</start-date>
         <end-date>1966-12-03</end-date>
         <country id="mexico">Mexico</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Ciudad Acuna</locale>
+        <remarks>Informal meeting with President Diaz Ordaz. Inspected construction of Arnistad
+            Dam.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2804</id>
@@ -161,12 +165,12 @@
         <start-date>1967-04-11</start-date>
         <end-date>1967-04-14</end-date>
         <country id="uruguay">Uruguay</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Punta del Este</locale>
+        <remarks>Summit meeting with Latin American chiefs of state.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2805</id>
@@ -175,12 +179,12 @@
         <start-date>1967-04-14</start-date>
         <end-date>1967-04-14</end-date>
         <country id="suriname">Suriname</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Paramaribo</locale>
+        <remarks>Refueling stop en route from Uruguay.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2806</id>
@@ -189,12 +193,13 @@
         <start-date>1967-04-23</start-date>
         <end-date>1967-04-26</end-date>
         <country id="germany">Germany</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Bonn</locale>
+        <remarks>Attended funeral of Chancellor Adenauer and conversed with various heads of
+            state.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2807</id>
@@ -203,12 +208,12 @@
         <start-date>1967-05-25</start-date>
         <end-date>1967-05-25</end-date>
         <country id="canada">Canada</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Montreal,Ottawa</locale>
+        <remarks>Attended Expo 67 and conferred informally with Prime Minister Pearson.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2808</id>
@@ -217,12 +222,13 @@
         <start-date>1967-10-28</start-date>
         <end-date>1967-10-28</end-date>
         <country id="mexico">Mexico</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Ciudad Juarez</locale>
+        <remarks>Attended transfer of El Chamizal from the US. to Mexico and conferred with
+            President Diaz Ordaz.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2809</id>
@@ -231,12 +237,13 @@
         <start-date>1967-12-21</start-date>
         <end-date>1967-12-22</end-date>
         <country id="australia">Australia</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Canberra</locale>
+        <remarks>Attended funeral of Prime Minister Holt and conferred with other attending heads of
+            state.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2810</id>
@@ -245,12 +252,12 @@
         <start-date>1967-12-23</start-date>
         <end-date>1967-12-23</end-date>
         <country id="thailand">Thailand</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Khorat</locale>
+        <remarks>Visited US. military personnel.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2811</id>
@@ -259,12 +266,12 @@
         <start-date>1967-12-23</start-date>
         <end-date>1967-12-23</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Cam Ranh Bay</locale>
+        <remarks>Visited U.S. military personnel.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2812</id>
@@ -273,12 +280,12 @@
         <start-date>1967-12-23</start-date>
         <end-date>1967-12-23</end-date>
         <country id="pakistan">Pakistan</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Karachi</locale>
+        <remarks>Met with President Ayub Khan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2813</id>
@@ -287,12 +294,12 @@
         <start-date>1967-12-23</start-date>
         <end-date>1967-12-23</end-date>
         <country id="italy">Italy</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Rome</locale>
+        <remarks>Met with President Saragat and Prime Minister Moro.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2814</id>
@@ -302,11 +309,11 @@
         <end-date>1967-12-23</end-date>
         <country id="holy-see">Vatican City</country>
         <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <remarks>Audience with Pope Paul VI.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2815</id>
@@ -315,12 +322,12 @@
         <start-date>1968-07-08</start-date>
         <end-date>1968-07-08</end-date>
         <country id="el-salvador">El Salvador</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>San Salvador</locale>
+        <remarks>Attended meeting of the Presidents of Central American Republics.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2816</id>
@@ -329,12 +336,12 @@
         <start-date>1968-07-08</start-date>
         <end-date>1968-07-08</end-date>
         <country id="nicaragua">Nicaragua</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Managua</locale>
+        <remarks>Informal visit; met with President Somoza.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2817</id>
@@ -343,12 +350,12 @@
         <start-date>1968-07-08</start-date>
         <end-date>1968-07-08</end-date>
         <country id="costa-rica">Costa Rica</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>San Jose</locale>
+        <remarks>Informal visit; met with President Trejos.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-04-10T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2818</id>
@@ -357,12 +364,12 @@
         <start-date>1968-07-08</start-date>
         <end-date>1968-07-08</end-date>
         <country id="honduras">Honduras</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>San Pedro Sula</locale>
+        <remarks>Informal visit; met with President Lopez Arrelano.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
         <id>2819</id>
@@ -371,11 +378,11 @@
         <start-date>1968-07-08</start-date>
         <end-date>1968-07-08</end-date>
         <country id="guatemala">Guatemala</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Guatemala City</locale>
+        <remarks>Informal visit; met with President Mendez.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>

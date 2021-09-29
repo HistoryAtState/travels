@@ -50,7 +50,7 @@
         <start-date>1982-11-30</start-date>
         <end-date>1982-12-03</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia, Sao Paulo</locale>
+        <locale>Brasilia,Sao Paulo</locale>
         <remarks>Accompanied President Reagan on an official working visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -447,7 +447,7 @@
         <start-date>1983-05-08</start-date>
         <end-date>1983-05-08</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem, Tel Aviv</locale>
+        <locale>Jerusalem,Tel Aviv</locale>
         <remarks>Discussed the proposed Israeli-Lebanon agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -531,7 +531,7 @@
         <start-date>1983-06-30</start-date>
         <end-date>1983-07-02</end-date>
         <country id="india">India</country>
-        <locale>Agra, New Delhi</locale>
+        <locale>Agra,New Delhi</locale>
         <remarks>Attended a meeting of the U.S.-Indian Joint Commission.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -545,13 +545,13 @@
         <start-date>1983-07-02</start-date>
         <end-date>1983-07-04</end-date>
         <country id="pakistan">Pakistan</country>
-        <locale>Islamabad, Peshawar</locale>
+        <locale>Islamabad,Peshawar</locale>
         <remarks>Met with President Zia and Foreign Minister Yaqub Khan. Visited an Afghan refugee
             camp.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
+        <last-modified-datetime>2018-09-17T07:06:57.03-06:00</last-modified-datetime>
     </trip>
     <trip who="shultz-george-pratt" role="secretary">
         <id>1958</id>
@@ -929,7 +929,7 @@
         <start-date>1984-04-26</start-date>
         <end-date>1984-05-01</end-date>
         <country id="china">China</country>
-        <locale>Beijing, Xian, Shanghai</locale>
+        <locale>Beijing,Xian,Shanghai</locale>
         <remarks>Accompanied President Reagan on a State visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1381,7 +1381,7 @@
         <start-date>1985-05-10</start-date>
         <end-date>1985-05-12</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem</locale>
+        <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Foreign Minister Shamir.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1510,7 +1510,7 @@
         <start-date>1985-07-13</start-date>
         <end-date>1985-07-16</end-date>
         <country id="australia">Australia</country>
-        <locale>Perth, Canberra</locale>
+        <locale>Perth,Canberra</locale>
         <remarks>Attended ANZUS Ministerial Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1866,7 +1866,7 @@
         <start-date>1986-03-22</start-date>
         <end-date>1986-03-25</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Istanbul, Ankara</locale>
+        <locale>Istanbul,Ankara</locale>
         <remarks>Discussed economic and defense matters with Prime Minister Ozal and senior Turkish
             officials.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2347,7 +2347,7 @@
         <start-date>1987-03-01</start-date>
         <end-date>1987-03-06</end-date>
         <country id="china">China</country>
-        <locale>Beijing, Guelin, Dalian, Shanghai, Qufu</locale>
+        <locale>Beijing,Guelin,Dalian,Shanghai,Qufu</locale>
         <remarks>Met with Chairman Deng, Premier Zhao, and Chinese officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2558,7 +2558,7 @@
         <start-date>1987-10-16</start-date>
         <end-date>1987-10-17</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem, Tel Aviv</locale>
+        <locale>Jerusalem,Tel Aviv</locale>
         <remarks>Met with Prime Minister Shamir and Foreign Minister Peres.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2586,7 +2586,7 @@
         <start-date>1987-10-17</start-date>
         <end-date>1987-10-19</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem, Tel Aviv, Rehovot</locale>
+        <locale>Jerusalem,Tel Aviv,Rehovot</locale>
         <remarks>Further meetings with Israeli officials. Received an honorary degree from the
             Weizmann Institute.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2840,7 +2840,7 @@
         <start-date>1988-02-25</start-date>
         <end-date>1988-02-27</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem</locale>
+        <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Met with Prime Minister Shamir and senior Israeli officials. Discussed a Middle
             East peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2885,7 +2885,7 @@
         <start-date>1988-02-28</start-date>
         <end-date>1988-02-28</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem</locale>
+        <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Briefed Israeli officials on his visits to Jordan and Syria.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2913,7 +2913,7 @@
         <start-date>1988-02-28</start-date>
         <end-date>1988-02-28</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem</locale>
+        <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Discussed a Middle East peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2942,7 +2942,7 @@
         <start-date>1988-02-29</start-date>
         <end-date>1988-03-01</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem</locale>
+        <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Discussed a Middle East peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3068,7 +3068,7 @@
         <start-date>1988-04-03</start-date>
         <end-date>1988-04-04</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem</locale>
+        <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Discussed a Middle East peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3209,7 +3209,7 @@
         <start-date>1988-04-21</start-date>
         <end-date>1988-04-24</end-date>
         <country id="russia">U.S.S.R.</country>
-        <locale>Moscow, Kiev, Tblisi</locale>
+        <locale>Moscow,Kiev,Tblisi</locale>
         <remarks>Discussed preparations for the U.S.-Soviet Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3337,7 +3337,7 @@
         <start-date>1988-06-05</start-date>
         <end-date>1988-06-05</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv, Jerusalem</locale>
+        <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Discussed a Middle East peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3379,7 +3379,7 @@
         <start-date>1988-06-06</start-date>
         <end-date>1988-06-07</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Luxor, Cairo</locale>
+        <locale>Luxor,Cairo</locale>
         <remarks>Discussed a Middle East peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3451,7 +3451,7 @@
         <start-date>1988-06-30</start-date>
         <end-date>1988-06-30</end-date>
         <country id="honduras">Honduras</country>
-        <locale>Tegucigalpa, Palmerola Air Force Base</locale>
+        <locale>Tegucigalpa,Palmerola Air Force Base</locale>
         <remarks>Met with President Azcona. Signed a health sector project agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -3649,7 +3649,7 @@
         <start-date>1988-08-04</start-date>
         <end-date>1988-08-08</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Rio de Janeiro, Brasilia</locale>
+        <locale>Rio de Janeiro,Brasilia</locale>
         <remarks>Met with President Sarney and senior Brazilian officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>

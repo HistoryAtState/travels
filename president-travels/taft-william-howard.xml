@@ -7,12 +7,13 @@
         <start-date>1909-01-29</start-date>
         <end-date>1909-02-07</end-date>
         <country id="panama">Panama</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Colon,Panama City</locale>
+        <remarks>Inspected construction of Panama Canal. Met with President Obaldia. [Visit made as
+            President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="taft-william-howard" role="president">
         <id>2657</id>
@@ -21,11 +22,11 @@
         <start-date>1909-10-16</start-date>
         <end-date>1909-10-16</end-date>
         <country id="mexico">Mexico</country>
-        <locale/>
-        <remarks/>
-        <created-by/>
-        <created-datetime/>
-        <last-modified-by/>
-        <last-modified-datetime/>
+        <locale>Ciudad Juarez</locale>
+        <remarks>Part of an exchange of visits with President Diaz across the border.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>

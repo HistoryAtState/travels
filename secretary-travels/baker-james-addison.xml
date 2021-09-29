@@ -419,7 +419,7 @@
         <start-date>1989-07-09</start-date>
         <end-date>1989-07-11</end-date>
         <country id="poland">Poland</country>
-        <locale>Warsaw, Gdansk</locale>
+        <locale>Warsaw,Gdansk</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -518,7 +518,7 @@
         <start-date>1989-11-01</start-date>
         <end-date>1989-11-08</end-date>
         <country id="australia">Australia</country>
-        <locale>Sydney, Canberra</locale>
+        <locale>Sydney,Canberra</locale>
         <remarks>Attended U.S.-Australian Bilateral Ministerial Meeting and Conference on Asia
             Pacific Economic Cooperation.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -533,7 +533,7 @@
         <start-date>1989-12-01</start-date>
         <end-date>1989-12-03</end-date>
         <country id="malta">Malta</country>
-        <locale>Valletta, Marsaxlokk Bay</locale>
+        <locale>Valletta,Marsaxlokk Bay</locale>
         <remarks>Accompanied President Bush to meetings with Soviet President Gorbachev.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -765,7 +765,7 @@
         <start-date>1990-03-22</start-date>
         <end-date>1990-03-23</end-date>
         <country id="south-africa">South Africa</country>
-        <locale>Cape Town, Johannesburg, Soweto</locale>
+        <locale>Cape Town,Johannesburg,Soweto</locale>
         <remarks>Met with President De Klerk, South African officials, and leaders of the African
             National Congress (ANC).</remarks>
         <created-by>wicentowskijc</created-by>
@@ -851,7 +851,7 @@
         <start-date>1990-05-15</start-date>
         <end-date>1990-05-19</end-date>
         <country id="russia">U.S.S.R.</country>
-        <locale>Moscow, Zagorsk, Radonezsh</locale>
+        <locale>Moscow,Zagorsk,Radonezsh</locale>
         <remarks>Attended pre-summit and arms reduction negotiations with senior Soviet officials.
             Also met with Egyptian President Mubarak and Lithuanian Prime Minister
             Prunskiene.</remarks>
@@ -895,7 +895,7 @@
         <start-date>1990-06-17</start-date>
         <end-date>1990-06-19</end-date>
         <country id="guatemala">Guatemala</country>
-        <locale>Guatemala City, Antigua Guatemala</locale>
+        <locale>Guatemala City,Antigua Guatemala</locale>
         <remarks>Met with Presidents of the Central American Republics.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1078,7 +1078,7 @@
         <start-date>1990-09-06</start-date>
         <end-date>1990-09-07</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Jeddah, Taif</locale>
+        <locale>Jeddah,Taif</locale>
         <remarks>Met with King Fahd and with Emir al-Sabah of Kuwait; discussed financing of U.S.
             military presence. Visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1107,7 +1107,7 @@
         <start-date>1990-09-07</start-date>
         <end-date>1990-09-08</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Cairo, Alexandria</locale>
+        <locale>Cairo,Alexandria</locale>
         <remarks>Met with President Mubarak. Discussed increased Egyptian military commitment in the
             Persian Gulf.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1196,7 +1196,7 @@
         <start-date>1990-09-15</start-date>
         <end-date>1990-09-15</end-date>
         <country id="germany">Germany, Federal Republic of</country>
-        <locale>Bonn, Ludwigshafen</locale>
+        <locale>Bonn,Ludwigshafen</locale>
         <remarks>Met with Chancellor Kohl and Foreign Minister Genscher.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -1224,7 +1224,7 @@
         <start-date>1990-11-04</start-date>
         <end-date>1990-11-06</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Jeddah, Taif</locale>
+        <locale>Jeddah,Taif</locale>
         <remarks>Met with King Fahd, Foreign Minister Prince Saud, and the Emir of Kuwait. Addressed
             U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1588,7 +1588,7 @@
         <start-date>1991-01-12</start-date>
         <end-date>1991-01-13</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Incirlik, Ankara</locale>
+        <locale>Incirlik,Ankara</locale>
         <remarks>Discussed the Persian Gulf crisis with President Ozal and Foreign Minister
             Alptemocin.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1631,7 +1631,7 @@
         <start-date>1991-03-08</start-date>
         <end-date>1991-03-10</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Taif, Riyadh</locale>
+        <locale>Taif,Riyadh</locale>
         <remarks>Met with the Amir of Kuwait and with the Foreign Ministers of Egypt, Syria, and the
             Gulf Cooperation Council.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1660,7 +1660,7 @@
         <start-date>1991-03-11</start-date>
         <end-date>1991-03-13</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem, Karmeil</locale>
+        <locale>Jerusalem,Karmeil</locale>
         <remarks>Discussed the Middle East peace process with President Herzog, Prime Minister
             Shamir, Foreign Minister Levy, and Palestinian representatives.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1718,7 +1718,7 @@
         <start-date>1991-04-07</start-date>
         <end-date>1991-04-08</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Ankara, Diyarbakir, Cukurca, Uzumlu</locale>
+        <locale>Ankara,Diyarbakir,Cukurca,Uzumlu</locale>
         <remarks>Discussed emergency aid to Kurdish refugees with President Ozal; visited refugee
             camps.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2024,7 +2024,7 @@
         <start-date>1991-06-17</start-date>
         <end-date>1991-06-21</end-date>
         <country id="germany">Germany</country>
-        <locale>Berlin, Halle</locale>
+        <locale>Berlin,Halle</locale>
         <remarks>Attended CSCE Foreign Ministers' Meeting and discussed strategic arms reductions
             with Soviet Foreign Minister Bessmertnykh.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2098,7 +2098,7 @@
         <start-date>1991-07-19</start-date>
         <end-date>1991-07-20</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Cairo, Alexandria</locale>
+        <locale>Cairo,Alexandria</locale>
         <remarks>Discussed a Middle East peace conference with President Mubarak.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2301,7 +2301,7 @@
         <start-date>1991-09-10</start-date>
         <end-date>1991-09-16</end-date>
         <country id="russia">U.S.S.R.</country>
-        <locale>Moscow, St. Petersburg, Alma Ata</locale>
+        <locale>Moscow,St. Petersburg,Alma Ata</locale>
         <remarks>Met with senior officials of the Soviet Union, the Russian Republic, and
             Kazakhstan. Attended the CSCE Conference on the Human Dimension.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2846,7 +2846,7 @@
         <start-date>1992-02-14</start-date>
         <end-date>1992-02-15</end-date>
         <country id="russia">U.S.S.R.</country>
-        <locale>Yekaterinburg, Chelyabinsk-70</locale>
+        <locale>Yekaterinburg,Chelyabinsk-70</locale>
         <remarks>Met with former Soviet nuclear scientists.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
@@ -2860,7 +2860,7 @@
         <start-date>1992-02-15</start-date>
         <end-date>1992-02-16</end-date>
         <country id="uzbekistan">Uzbekistan</country>
-        <locale>Tashkent, Samarkand</locale>
+        <locale>Tashkent,Samarkand</locale>
         <remarks>Met with President Karimov and Uzbek political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
