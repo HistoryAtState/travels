@@ -11,9 +11,9 @@
         <remarks>Attended dedication of the "Peace Bridge" between Buffalo, New York and Ft.
             Erie.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
         <id>972</id>
@@ -26,9 +26,9 @@
         <remarks>Attended the Sixth International Conference of American States with President
             Coolidge. Left U.S. January 14; returned January 20.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
+        <last-modified-datetime>2018-09-17T07:06:57.03-06:00</last-modified-datetime>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
         <id>973</id>
@@ -40,9 +40,9 @@
         <locale>Ottawa</locale>
         <remarks>Official visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
         <id>974</id>
@@ -55,9 +55,9 @@
         <remarks>Negotiated and signed the Treaty on the Renunciation of War (Kellogg-Briand Pact).
             Left U.S. August 19.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
         <id>975</id>
@@ -69,9 +69,9 @@
         <locale>Kingstown,Dublin</locale>
         <remarks>Official visit while returning from Paris.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
         <id>976</id>
@@ -83,8 +83,8 @@
         <locale>Cherbourg</locale>
         <remarks>Embarked for the U.S.; returned September 10.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>
