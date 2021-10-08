@@ -548,7 +548,7 @@
         <birth-year>1942</birth-year>
         <death-year still-alive="true"/>
         <took-office-date>2021-01-20</took-office-date>
-        <left-office-date still-in-office="true"/>
+        <left-office-date/>
         <created-by>wicentowskijc</created-by>
         <created-date>2020-11-07</created-date>
         <last-modified-by>wicentowskijc</last-modified-by>
