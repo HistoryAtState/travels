@@ -10,9 +10,9 @@
         <locale>San Cristobal</locale>
         <remarks>Meeting with President Fox.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2383</id>
@@ -24,9 +24,9 @@
         <locale>Quebec</locale>
         <remarks>Attended the Summit of the Americas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2384</id>
@@ -38,9 +38,9 @@
         <locale>Madrid</locale>
         <remarks>Met with King Juan Carlos I and President Aznar.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2385</id>
@@ -52,9 +52,9 @@
         <locale>Brussels</locale>
         <remarks>Attended NATO Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2386</id>
@@ -67,9 +67,9 @@
         <remarks>Attended U.S.-European Union Summit Meeting; met with King Carl XVI
             Gustav.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2387</id>
@@ -81,9 +81,9 @@
         <locale>Warsaw</locale>
         <remarks>State visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2388</id>
@@ -95,9 +95,9 @@
         <locale>Kranj</locale>
         <remarks>Met with Prime Minister Drnovsek and Russian President Putin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2389</id>
@@ -109,9 +109,9 @@
         <locale>London,Chequers,Halton,Brize Norton</locale>
         <remarks>Met with Prime Minister Blain and Queen Elizabeth II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2390</id>
@@ -124,9 +124,9 @@
         <remarks>Attended the G-8 Economic Summit. Met with Pope John Paul II at Castel Gandolfo and
             with Prime Minister Berlusconi and President Ciampi in Rome.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2391</id>
@@ -138,9 +138,9 @@
         <locale>Camp Bondsteel</locale>
         <remarks>Addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2392</id>
@@ -152,9 +152,9 @@
         <locale>Shanghai</locale>
         <remarks>Attended the APEC Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2393</id>
@@ -166,9 +166,9 @@
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Koizumi and Emperor Akihito. Addressed the Diet.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2394</id>
@@ -181,9 +181,9 @@
         <remarks>Met with President Kin Dae-Jung, visited the Demilitarized Zone, addressed U.S.
             military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2395</id>
@@ -195,9 +195,9 @@
         <locale>Beijing</locale>
         <remarks>Met with President Jiang and Premier Zhu.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2396</id>
@@ -210,9 +210,9 @@
         <remarks>Attended the International Conference on Financing for Development and met with
             President Fox.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2397</id>
@@ -225,9 +225,9 @@
         <remarks>Met with the Presidents of Peru, Colombia, and Bolivia, and with the Vice President
             of Ecuador.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2398</id>
@@ -239,9 +239,9 @@
         <locale>San Salvador</locale>
         <remarks>Attended a summit meeting with Central American heads of state.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2399</id>
@@ -253,9 +253,9 @@
         <locale>Berlin</locale>
         <remarks>Met with Chancellor Schroeder and addressed the Bundestag.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2400</id>
@@ -268,9 +268,9 @@
         <remarks>Summit meeting with President Putin. Signed strategic arms reduction
             treaty.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2401</id>
@@ -283,9 +283,9 @@
         <remarks>Met with President Chirac and delivered a Memorial Day address in
             Normandy.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2402</id>
@@ -298,9 +298,9 @@
         <remarks>Met with President Ciampi and Prime Minister Berlusconi. Attended NATO Summit
             Meeting and inaugurated the NATO-Russia Council.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2403</id>
@@ -312,9 +312,9 @@
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2404</id>
@@ -326,9 +326,9 @@
         <locale>Kananaskis (Alberta)</locale>
         <remarks>Attended the G-8 Economic Summit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2405</id>
@@ -340,9 +340,9 @@
         <locale>Los Cabos</locale>
         <remarks>Attended APEC Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2406</id>
@@ -354,9 +354,9 @@
         <locale>Prague</locale>
         <remarks>Attended NATO and EAPC Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2407</id>
@@ -368,9 +368,9 @@
         <locale>St. Petersburg</locale>
         <remarks>Met with President Putin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2408</id>
@@ -382,9 +382,9 @@
         <locale>Vilnius</locale>
         <remarks>Met with the Presidents of the Baltic States.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2409</id>
@@ -396,9 +396,9 @@
         <locale>Bucharest</locale>
         <remarks>Met with President Iliescu.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2410</id>
@@ -411,9 +411,9 @@
         <remarks>Discussed the Iraq crisis with British Prime Minister Blair, Spanish President
             Aznar, and Portuguese Prime Minister Durao.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2411</id>
@@ -426,9 +426,9 @@
         <remarks>Met with Prime Minister Blair to discuss the reconstruction of Iraq. Also met with
             Irish Prime Minister Ahern and Northern Irish political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2412</id>
@@ -441,9 +441,9 @@
         <remarks>Met with President Kwasniewski and Prime Minister Miller; visited former Nazi
             concentration camps.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2413</id>
@@ -456,9 +456,9 @@
         <remarks>Met with President Putin and attended ceremonies commemorating the city’s 300th
             anniversary.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2414</id>
@@ -471,9 +471,9 @@
         <remarks>Attended the G-8 Economic Summit and met with Chinese President Hu
             Jintao.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2415</id>
@@ -486,9 +486,9 @@
         <remarks>Attended “Red Sea Summit” with the leaders of Bahrain, Egypt, Jordan, and Saudi
             Arabia, and with Palestinian Prime Minister Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2416</id>
@@ -501,9 +501,9 @@
         <remarks>Attended meetings with Israeli Prime Minister Sharon and Palestinian Prime Minister
             Abbas. Met with King Abdullah II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2417</id>
@@ -516,9 +516,9 @@
         <remarks>Met with Emir Hamad Thani, visited U.S. Central Command headquarters and addressed
             U.S. military personnel. Overflew Baghdad en route to Qatar.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2418</id>
@@ -530,9 +530,9 @@
         <locale>Dakar,Goree Island</locale>
         <remarks>Met with President Wade.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2419</id>
@@ -544,9 +544,9 @@
         <locale>Pretoria</locale>
         <remarks>Met with President Mbeki.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2420</id>
@@ -558,9 +558,9 @@
         <locale>Gaborone</locale>
         <remarks>Met with President Mogae. Toured Mokoldi Nature Reserve.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2421</id>
@@ -572,9 +572,9 @@
         <locale>Kampala</locale>
         <remarks>Met with President Musaveni.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2422</id>
@@ -586,9 +586,9 @@
         <locale>Abuja</locale>
         <remarks>Met with President Obasanjo.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2423</id>
@@ -600,9 +600,9 @@
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Koizumi.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2424</id>
@@ -615,9 +615,9 @@
         <remarks>Addressed a joint session of the Philippine Congress and met with President
             Arroyo-Macapagal.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2425</id>
@@ -629,9 +629,9 @@
         <locale>Bangkok</locale>
         <remarks>Attended the APEC Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2426</id>
@@ -643,9 +643,9 @@
         <locale>Singapore</locale>
         <remarks>Met with Prime Minister Goh Chok Tong.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2427</id>
@@ -657,9 +657,9 @@
         <locale>Denpasar (Bali)</locale>
         <remarks>Met with President Sukarnoputri and Muslim religious leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2428</id>
@@ -671,9 +671,9 @@
         <locale>Canberra</locale>
         <remarks>Met with Prime Minister Howard and addressed Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2429</id>
@@ -685,9 +685,9 @@
         <locale>London,Sedgefield</locale>
         <remarks>State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2430</id>
@@ -700,9 +700,9 @@
         <remarks>Met with members of the Coalition Provisional Authority and the Iraqi Governing
             Council and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2431</id>
@@ -714,9 +714,9 @@
         <locale>Monterrey</locale>
         <remarks>Attended the Special Summit of the Americas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2432</id>
@@ -728,9 +728,9 @@
         <locale>Rome</locale>
         <remarks>Met with President Ciampi and Prime Minister Berlusconi.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2433</id>
@@ -742,9 +742,9 @@
         <locale/>
         <remarks>Met with Pope John Paul II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2434</id>
@@ -756,9 +756,9 @@
         <locale>Paris,Colleville,Caen,Arromanches</locale>
         <remarks>Met with President Chirac and commemorated the 60th anniversary of D-Day.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2435</id>
@@ -770,9 +770,9 @@
         <locale>Shannon,Dromoland Castle</locale>
         <remarks>Attended U.S.-EU Summit meeting and met with Prime Minister Ahern.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2436</id>
@@ -785,9 +785,9 @@
         <remarks>Met with President Sezer and Prime Minister Erdogan and attended NATO Summit
             meeting in Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2437</id>
@@ -799,9 +799,9 @@
         <locale>Santiago</locale>
         <remarks>Attended APEC Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2438</id>
@@ -813,9 +813,9 @@
         <locale>Cartagena</locale>
         <remarks>Met with President Uribe.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2439</id>
@@ -827,9 +827,9 @@
         <locale>Ottawa,Gatineau,Halifax</locale>
         <remarks>Met with Prime Minister Martin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2440</id>
@@ -841,9 +841,9 @@
         <locale>Brussels</locale>
         <remarks>Attended NATO and EU Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2441</id>
@@ -855,9 +855,9 @@
         <locale>Mainz,Wiesbaden</locale>
         <remarks>Met with Chancellor Schroeder and visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2442</id>
@@ -869,9 +869,9 @@
         <locale>Bratislava</locale>
         <remarks>Met with President Dzurinda and Russian President Putin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2443</id>
@@ -883,9 +883,9 @@
         <locale/>
         <remarks>Attended the funeral of Pope John Paul II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2444</id>
@@ -897,9 +897,9 @@
         <locale>Rome</locale>
         <remarks>Met with President Ciampi and Prime Minister Berlusconi.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2445</id>
@@ -911,9 +911,9 @@
         <locale>Riga</locale>
         <remarks>Met with the presidents of the Baltic States.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2446</id>
@@ -926,9 +926,9 @@
         <remarks>Met with Prime Minister Balkenende and gave an address at a U.S. military
             cemetery.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2447</id>
@@ -940,9 +940,9 @@
         <locale>Moscow</locale>
         <remarks>Met with President Putin and attended ceremonies commemorating VE Day.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2448</id>
@@ -954,9 +954,9 @@
         <locale>Tbilisi</locale>
         <remarks>Met with President Saakashvili.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2449</id>
@@ -968,9 +968,9 @@
         <locale>Kastrup,Fredensborg,Copenhagen</locale>
         <remarks>Met with Queen Margrethe II and Prime Minister Rasmussen.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2450</id>
@@ -982,9 +982,9 @@
         <locale>Gleneagles (Scotland)</locale>
         <remarks>Attended the G-8 Economic Summit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2451</id>
@@ -996,9 +996,9 @@
         <locale>Mar del Plata</locale>
         <remarks>Attended the Summit of the Americas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2452</id>
@@ -1010,9 +1010,9 @@
         <locale>Brasilia</locale>
         <remarks>Met with President Lula da Silva.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2453</id>
@@ -1024,9 +1024,9 @@
         <locale>Panama City</locale>
         <remarks>Met with President Martin Torrijos.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2454</id>
@@ -1038,9 +1038,9 @@
         <locale>Kyoto</locale>
         <remarks>Met with Prime Minister Koizumi.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2455</id>
@@ -1052,9 +1052,9 @@
         <locale>Pusan,Gyeongju,Osan</locale>
         <remarks>Attended APEC Summit meeting and met with Russian President Putin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2456</id>
@@ -1066,9 +1066,9 @@
         <locale>Beijing</locale>
         <remarks>Met with President Hu and Prime Minister Wen.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2457</id>
@@ -1080,9 +1080,9 @@
         <locale>Ulaanbaatar</locale>
         <remarks>Met with President Enkhbayar and Prime Minister Elbegdorj.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2458</id>
@@ -1094,9 +1094,9 @@
         <locale>Shannon</locale>
         <remarks>Met with U.S. Marines who were en route to Iraq.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2459</id>
@@ -1109,9 +1109,9 @@
         <remarks>Met with President Karzai, dedicated new U.S. Embassy, and addressed U.S. military
             personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2460</id>
@@ -1123,9 +1123,9 @@
         <locale>New Delhi,Hyderabad</locale>
         <remarks>Met with Prime Minister Singh. Signed nuclear cooperation agreement.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2461</id>
@@ -1137,9 +1137,9 @@
         <locale>Islamabad</locale>
         <remarks>Met with President Musharraf.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2462</id>
@@ -1151,9 +1151,9 @@
         <locale>Cancun,Chichen-Itza</locale>
         <remarks>Met with President Fox and Canadian Prime Minister Harper.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2463</id>
@@ -1165,9 +1165,9 @@
         <locale>Baghdad</locale>
         <remarks>Met with Prime Minister Maliki and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2464</id>
@@ -1179,9 +1179,9 @@
         <locale>Vienna</locale>
         <remarks>Attended the U.S.-EU Summit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2465</id>
@@ -1194,9 +1194,9 @@
         <remarks>Met with President Solyom, Prime Minister Gyurcsany and commemorated the 50th
             anniversary of the Hungarian Uprising.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2466</id>
@@ -1208,9 +1208,9 @@
         <locale>Stralsund,Trinwillershagen</locale>
         <remarks>Met with Chancellor Merkel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2467</id>
@@ -1223,9 +1223,9 @@
         <remarks>Attended the G-8 Economic Summit. Met with President Hu of China, July 16; and
             President Lula of Brazil and Prime Minister Singh of India, July 17.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2468</id>
@@ -1237,9 +1237,9 @@
         <locale>Moscow</locale>
         <remarks>Met with President Putin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2469</id>
@@ -1252,9 +1252,9 @@
         <remarks>Met with Acting President Pillay and Prime Minister Lee. Addressed National
             Singapore University.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2470</id>
@@ -1266,9 +1266,9 @@
         <locale>Hanoi,Ho Chi Minh City</locale>
         <remarks>Attended APEC Leaders’ Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2471</id>
@@ -1280,9 +1280,9 @@
         <locale>Jakarta,Bogor</locale>
         <remarks>Met with President Yudhoyono.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2472</id>
@@ -1294,9 +1294,9 @@
         <locale>Tallinn</locale>
         <remarks>Met with President Ilves.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2473</id>
@@ -1308,9 +1308,9 @@
         <locale>Riga</locale>
         <remarks>Attended NATO Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2474</id>
@@ -1322,9 +1322,9 @@
         <locale>Amman</locale>
         <remarks>Met with King Abdullah II and Iraqi Prime Minister al-Maliki.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2475</id>
@@ -1336,9 +1336,9 @@
         <locale>Sao Paulo</locale>
         <remarks>Met with President Lula da Silva.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2476</id>
@@ -1350,9 +1350,9 @@
         <locale>Montevideo</locale>
         <remarks>Met with President Tabare Vazquez.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2477</id>
@@ -1364,9 +1364,9 @@
         <locale>Bogota</locale>
         <remarks>Met with President Uribe.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2478</id>
@@ -1378,9 +1378,9 @@
         <locale>Guatemala City,Santa Cruz Balanya,Iximche</locale>
         <remarks>Met with President Berger.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2479</id>
@@ -1392,9 +1392,9 @@
         <locale>Merida,Uxmal</locale>
         <remarks>Met with President Calderon. Visited Mayan ruins.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2480</id>
@@ -1407,9 +1407,9 @@
         <remarks>Met with President Klaus and Prime Minister Topolanek. Addressed Conference on
             Democracy and Security.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2481</id>
@@ -1422,9 +1422,9 @@
         <remarks>Attended the G-8 Summit Meeting. Also met with Chinese President Hu
             Jintao.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2482</id>
@@ -1436,9 +1436,9 @@
         <locale>Gdansk,Jurata Hel.</locale>
         <remarks>Met with President Kaczynski.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2483</id>
@@ -1450,9 +1450,9 @@
         <locale>Rome</locale>
         <remarks>Met with Prime Minister Prodi and President Napolitano.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2484</id>
@@ -1464,9 +1464,9 @@
         <locale/>
         <remarks>Audience with Pope Benedict XVI.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2485</id>
@@ -1478,9 +1478,9 @@
         <locale>Tirana</locale>
         <remarks>Met with President Moisu and Prime Minister Berisha.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2486</id>
@@ -1492,9 +1492,9 @@
         <locale>Sofia</locale>
         <remarks>Met with President Parvanov and Prime Minister Stanishev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2487</id>
@@ -1507,9 +1507,9 @@
         <remarks>Attended North American Leaders’ Summit with Mexican President Calderon and
             Canadian Prime Minister Harper.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2488</id>
@@ -1522,9 +1522,9 @@
         <remarks>Met with Gen. Petraeus, Secretary of State Rice, Secretary of Defense Gates, senior
             U.S. officials, and Iraqi political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2489</id>
@@ -1536,9 +1536,9 @@
         <locale>Sydney</locale>
         <remarks>Attended APEC Leaders’ Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2490</id>
@@ -1550,9 +1550,9 @@
         <locale>Tel Aviv,Jerusalem</locale>
         <remarks>Met with Prime Minister Olmert and President Peres. Visited Yad Vashem.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2491</id>
@@ -1564,9 +1564,9 @@
         <locale>Ramallah,Bethlehem</locale>
         <remarks>Met with President Abbas and visited the Church of the Nativity.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2492</id>
@@ -1579,9 +1579,9 @@
         <remarks>Attended Roundtable on Democracy and Development. Met with Gen. Petraeus and
             Ambassador Crocker at Camp Arifjan and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2493</id>
@@ -1594,9 +1594,9 @@
         <remarks>Met with King Hamad bin Isa al –Khalifa. Addressed U.S. military
             personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2494</id>
@@ -1609,9 +1609,9 @@
         <remarks>Met with President Khalifa bin Zayid al Nuhayyin and Crown Prince Sheikh
             Mohammed.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2495</id>
@@ -1623,9 +1623,9 @@
         <locale>Riyadh,Al-Janadriyah</locale>
         <remarks>Met with King Abdullah.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2496</id>
@@ -1637,9 +1637,9 @@
         <locale>Sharm el-Sheikh</locale>
         <remarks>Met with President Mubarak.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2497</id>
@@ -1651,9 +1651,9 @@
         <locale>Porto Novo</locale>
         <remarks>Met with President Boni.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2498</id>
@@ -1665,9 +1665,9 @@
         <locale>Dar es Salaam,Arusha</locale>
         <remarks>Met with President Kikwete, signed Millennium Challenge agreement.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-08-21T00:00:00-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2499</id>
@@ -1679,9 +1679,9 @@
         <locale>Kigali</locale>
         <remarks>Met with President Kagame and dedicated new Embassy.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2500</id>
@@ -1693,9 +1693,9 @@
         <locale>Accra</locale>
         <remarks>Met with President Kufuor.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2501</id>
@@ -1707,9 +1707,9 @@
         <locale>Liberia</locale>
         <remarks>Met with President Johnson Sirleaf.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2502</id>
@@ -1721,9 +1721,9 @@
         <locale>Kyiv</locale>
         <remarks>Met with President Yushchenko and Prime Minister Tymoshenko.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2503</id>
@@ -1737,9 +1737,9 @@
             Euro-Atlantic Partnership Council, NATO-Ukraine Commission, and NATO-Russia Council
             Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2504</id>
@@ -1751,9 +1751,9 @@
         <locale>Zagreb</locale>
         <remarks>Met with President Mesic.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2505</id>
@@ -1765,9 +1765,9 @@
         <locale>Sochi</locale>
         <remarks>Met with President Putin and President-elect Medvedev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2506</id>
@@ -1780,9 +1780,9 @@
         <remarks>Met with President Peres and Prime Minister Olmert. Addressed the Knesset.
             Commemorated Israel’s 60th anniversary.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2507</id>
@@ -1794,9 +1794,9 @@
         <locale>Riyadh,Al-Janadriyah</locale>
         <remarks>Met with King Abdullah.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2508</id>
@@ -1810,9 +1810,9 @@
             President Abbas and Prime Minister Fayyad, Afghan President Karzai and Pakistani Prime
             Minister Gilan. Addressed the World Economic Forum.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2509</id>
@@ -1825,9 +1825,9 @@
         <remarks>Met with President Turk and Prime Minister Jansa. Attended the EU-US Summit
             Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2510</id>
@@ -1839,9 +1839,9 @@
         <locale>Meseberg</locale>
         <remarks>Met with Chancellor Merkel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2511</id>
@@ -1853,9 +1853,9 @@
         <locale>Rome</locale>
         <remarks>Met with President Napolitano and Prime Minister Berlusconi.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2512</id>
@@ -1867,9 +1867,9 @@
         <locale/>
         <remarks>Met with Pope Benedict XVI.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2513</id>
@@ -1882,9 +1882,9 @@
         <remarks>Met with President Sarkozy. Addressed the OECD. Attended wreath-laying ceremonies
             at Suresnes and Mont Valerien.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2514</id>
@@ -1898,9 +1898,9 @@
             Quartet Representative Blair. In Belfast, met with First Minister Robertson and Deputy
             First Minister McGuinness.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2515</id>
@@ -1913,9 +1913,9 @@
         <remarks>Attended the G-8 Economic Summit. Also met with Tanzanian President Kikwete, Indian
             Prime Minister Singh, Chinese President Hu, and South Korean President Lee.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2516</id>
@@ -1927,9 +1927,9 @@
         <locale>Seoul,Yongsan</locale>
         <remarks>Met with President Lee and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2517</id>
@@ -1941,9 +1941,9 @@
         <locale>Bangkok</locale>
         <remarks>Met with Prime Minister Samak and addressed Burmese activists.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2518</id>
@@ -1956,9 +1956,9 @@
         <remarks>Attended opening ceremonies of the Olympic Games. Dedicated a new U.S. Embassy. Met
             with President Hu and Russian Prime Minister Putin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2519</id>
@@ -1970,9 +1970,9 @@
         <locale>Lima</locale>
         <remarks>Attended the APEC Summit Meeting and met with President Garcia.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2520</id>
@@ -1985,9 +1985,9 @@
         <remarks>Met with President Talabani and Prime Minister Maliki. Signed Strategic Framework
             and Security Agreements. Visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="bush-george-w" role="president">
         <id>2521</id>
@@ -1999,8 +1999,8 @@
         <locale>Kabul</locale>
         <remarks>Met with President Karzai and visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
 </trips>

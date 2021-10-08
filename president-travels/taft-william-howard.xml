@@ -11,9 +11,9 @@
         <remarks>Inspected construction of Panama Canal. Met with President Obaldia. [Visit made as
             President-elect.]</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="taft-william-howard" role="president">
         <id>2657</id>
@@ -25,8 +25,8 @@
         <locale>Ciudad Juarez</locale>
         <remarks>Part of an exchange of visits with President Diaz across the border.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
 </trips>

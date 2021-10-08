@@ -10,9 +10,9 @@
         <locale>Marrakesh</locale>
         <remarks>Preparations for the Malta and Yalta Conferences. Left U.S. January 25.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
         <id>2190</id>
@@ -25,9 +25,9 @@
         <remarks>Discussed postwar issues and policy toward Italy with Presidential adviser Harry
             Hopkins.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
         <id>2191</id>
@@ -39,9 +39,9 @@
         <locale>Malta</locale>
         <remarks>Attended the Malta Conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
         <id>2192</id>
@@ -54,9 +54,9 @@
         <remarks>Accompanied President Roosevelt to the Crimea Conference. Met afterward (February
             11-14) with Soviet Foreign Minister Molotov.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
         <id>2193</id>
@@ -68,9 +68,9 @@
         <locale>Cairo,Alexandria</locale>
         <remarks>Met with Haile Selassie; conferred with President Roosevelt.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
         <id>2194</id>
@@ -82,9 +82,9 @@
         <locale>Monrovia</locale>
         <remarks>Met with President Tubman.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
         <id>2195</id>
@@ -96,9 +96,9 @@
         <locale>Rio de Janeiro</locale>
         <remarks>Met with President Vargas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
         <id>2196</id>
@@ -111,9 +111,9 @@
         <remarks>Met with the Presidential Triumvirate and Secretary of Foreign Relations Munoz
             Meany.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
         <id>2197</id>
@@ -125,9 +125,9 @@
         <locale>Chapultepec</locale>
         <remarks>Attended Inter-American Conference on the Problems of War and Peace.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
         <id>2198</id>
@@ -139,8 +139,8 @@
         <locale>Havana</locale>
         <remarks>Official visit. Returned to U.S. March 10.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
 </trips>

@@ -11,9 +11,9 @@
         <remarks>Met with British colonial officials during a refueling stop en route to South
             America. Left U.S. December 4.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
         <id>734</id>
@@ -25,9 +25,9 @@
         <locale>Rio de Janeiro</locale>
         <remarks>Official visit; repaid visit by President Pessoa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
         <id>735</id>
@@ -40,9 +40,9 @@
         <remarks>Official visit; repaid 1918 visit by President (then Foreign Minister)
             Brum.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
         <id>736</id>
@@ -54,9 +54,9 @@
         <locale>Buenos Aires</locale>
         <remarks>Official visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
         <id>737</id>
@@ -69,8 +69,8 @@
         <remarks>Met with British colonial (Trinidad) officials while returning from South America.
             Returned to U.S. January 26.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime/>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
 </trips>
