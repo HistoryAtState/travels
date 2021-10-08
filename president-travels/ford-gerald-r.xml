@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2862-president</id>
+        <id>2862</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1974-10-21</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2863-president</id>
+        <id>2863</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1974-11-18</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2864-president</id>
+        <id>2864</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1974-11-22</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2865-president</id>
+        <id>2865</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1974-11-23</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2866-president</id>
+        <id>2866</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1974-12-14</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2867-president</id>
+        <id>2867</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-05-28</start-date>
@@ -88,7 +88,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2868-president</id>
+        <id>2868</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-05-31</start-date>
@@ -103,7 +103,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2869-president</id>
+        <id>2869</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-06-01</start-date>
@@ -117,7 +117,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2870-president</id>
+        <id>2870</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-06-03</start-date>
@@ -131,7 +131,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2871-president</id>
+        <id>2871</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-06-03</start-date>
@@ -145,7 +145,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2872-president</id>
+        <id>2872</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-07-26</start-date>
@@ -159,7 +159,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2873-president</id>
+        <id>2873</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-07-28</start-date>
@@ -173,7 +173,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2874-president</id>
+        <id>2874</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-07-29</start-date>
@@ -190,7 +190,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2875-president</id>
+        <id>2875</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-08-02</start-date>
@@ -204,7 +204,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2876-president</id>
+        <id>2876</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-08-03</start-date>
@@ -218,7 +218,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2877-president</id>
+        <id>2877</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-11-15</start-date>
@@ -233,7 +233,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2878-president</id>
+        <id>2878</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-12-01</start-date>
@@ -248,7 +248,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2879-president</id>
+        <id>2879</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-12-05</start-date>
@@ -262,7 +262,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="ford-gerald-r" role="president">
-        <id>Travel-2880-president</id>
+        <id>2880</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
         <start-date>1975-12-06</start-date>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2881-president</id>
+        <id>2881</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1977-05-05</start-date>
@@ -19,7 +19,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2882-president</id>
+        <id>2882</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1977-05-09</start-date>
@@ -34,7 +34,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2883-president</id>
+        <id>2883</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1977-12-29</start-date>
@@ -48,7 +48,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2884-president</id>
+        <id>2884</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1977-12-31</start-date>
@@ -63,7 +63,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2885-president</id>
+        <id>2885</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-01-01</start-date>
@@ -77,7 +77,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2886-president</id>
+        <id>2886</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-01-03</start-date>
@@ -91,7 +91,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2887-president</id>
+        <id>2887</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-01-04</start-date>
@@ -105,7 +105,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2888-president</id>
+        <id>2888</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-01-04</start-date>
@@ -119,7 +119,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2889-president</id>
+        <id>2889</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-01-06</start-date>
@@ -134,7 +134,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2890-president</id>
+        <id>2890</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-03-28</start-date>
@@ -149,7 +149,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2891-president</id>
+        <id>2891</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-03-29</start-date>
@@ -164,7 +164,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2892-president</id>
+        <id>2892</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-03-31</start-date>
@@ -179,7 +179,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2893-president</id>
+        <id>2893</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-04-03</start-date>
@@ -193,7 +193,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2894-president</id>
+        <id>2894</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-06-16</start-date>
@@ -210,7 +210,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2895-president</id>
+        <id>2895</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-07-14</start-date>
@@ -225,7 +225,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2896-president</id>
+        <id>2896</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-07-15</start-date>
@@ -239,7 +239,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2897-president</id>
+        <id>2897</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1978-07-16</start-date>
@@ -254,7 +254,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2898-president</id>
+        <id>2898</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1979-01-04</start-date>
@@ -269,7 +269,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2899-president</id>
+        <id>2899</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1979-02-14</start-date>
@@ -284,7 +284,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2900-president</id>
+        <id>2900</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1979-03-07</start-date>
@@ -298,7 +298,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2901-president</id>
+        <id>2901</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1979-03-10</start-date>
@@ -313,7 +313,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2902-president</id>
+        <id>2902</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1979-03-13</start-date>
@@ -327,7 +327,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2903-president</id>
+        <id>2903</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1979-06-14</start-date>
@@ -342,7 +342,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2904-president</id>
+        <id>2904</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1979-06-24</start-date>
@@ -358,7 +358,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2905-president</id>
+        <id>2905</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1979-06-29</start-date>
@@ -372,7 +372,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2906-president</id>
+        <id>2906</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1980-06-19</start-date>
@@ -388,7 +388,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2907-president</id>
+        <id>2907</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1980-06-21</start-date>
@@ -402,7 +402,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2908-president</id>
+        <id>2908</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1980-06-24</start-date>
@@ -416,7 +416,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2909-president</id>
+        <id>2909</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1980-06-25</start-date>
@@ -430,7 +430,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2910-president</id>
+        <id>2910</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1980-06-26</start-date>
@@ -444,7 +444,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="carter-jimmy" role="president">
-        <id>Travel-2911-president</id>
+        <id>2911</id>
         <role>president</role>
         <name>James E. Carter</name>
         <start-date>1980-07-09</start-date>

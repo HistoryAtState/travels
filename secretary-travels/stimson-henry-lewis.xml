@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="stimson-henry-lewis" role="secretary">
-        <id>Travel-2199-secretary</id>
+        <id>2199</id>
         <role>secretary</role>
         <name>Henry Lewis Stimson</name>
         <start-date>1930-01-25</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stimson-henry-lewis" role="secretary">
-        <id>Travel-2200-secretary</id>
+        <id>2200</id>
         <role>secretary</role>
         <name>Henry Lewis Stimson</name>
         <start-date>1930-06-12</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stimson-henry-lewis" role="secretary">
-        <id>Travel-2201-secretary</id>
+        <id>2201</id>
         <role>secretary</role>
         <name>Henry Lewis Stimson</name>
         <start-date>1931-07-09</start-date>
@@ -45,7 +45,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stimson-henry-lewis" role="secretary">
-        <id>Travel-2202-secretary</id>
+        <id>2202</id>
         <role>secretary</role>
         <name>Henry Lewis Stimson</name>
         <start-date>1931-07-15</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stimson-henry-lewis" role="secretary">
-        <id>Travel-2203-secretary</id>
+        <id>2203</id>
         <role>secretary</role>
         <name>Henry Lewis Stimson</name>
         <start-date>1931-07-19</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stimson-henry-lewis" role="secretary">
-        <id>Travel-2204-secretary</id>
+        <id>2204</id>
         <role>secretary</role>
         <name>Henry Lewis Stimson</name>
         <start-date>1931-07-25</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stimson-henry-lewis" role="secretary">
-        <id>Travel-2205-secretary</id>
+        <id>2205</id>
         <role>secretary</role>
         <name>Henry Lewis Stimson</name>
         <start-date>1931-07-27</start-date>
@@ -101,7 +101,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stimson-henry-lewis" role="secretary">
-        <id>Travel-2206-secretary</id>
+        <id>2206</id>
         <role>secretary</role>
         <name>Henry Lewis Stimson</name>
         <start-date>1931-07-28</start-date>
@@ -116,7 +116,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stimson-henry-lewis" role="secretary">
-        <id>Travel-2207-secretary</id>
+        <id>2207</id>
         <role>secretary</role>
         <name>Henry Lewis Stimson</name>
         <start-date>1932-04-16</start-date>

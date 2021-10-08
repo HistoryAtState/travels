@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1207-secretary</id>
+        <id>1207</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1947-03-06</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1208-secretary</id>
+        <id>1208</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1947-03-07</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1209-secretary</id>
+        <id>1209</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1947-03-10</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1210-secretary</id>
+        <id>1210</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1947-04-25</start-date>
@@ -58,7 +58,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1211-secretary</id>
+        <id>1211</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1947-08-15</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1212-secretary</id>
+        <id>1212</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1947-11-25</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1213-secretary</id>
+        <id>1213</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1948-03-30</start-date>
@@ -101,7 +101,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1214-secretary</id>
+        <id>1214</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1948-09-20</start-date>
@@ -116,7 +116,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1215-secretary</id>
+        <id>1215</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1948-10-12</start-date>
@@ -130,7 +130,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1216-secretary</id>
+        <id>1216</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1948-10-16</start-date>
@@ -144,7 +144,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1217-secretary</id>
+        <id>1217</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1948-10-19</start-date>
@@ -159,7 +159,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1218-secretary</id>
+        <id>1218</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1948-10-19</start-date>
@@ -173,7 +173,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1219-secretary</id>
+        <id>1219</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1948-10-29</start-date>
@@ -187,7 +187,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="marshall-george-catlett" role="secretary">
-        <id>Travel-1220-secretary</id>
+        <id>1220</id>
         <role>secretary</role>
         <name>George Catlett Marshall</name>
         <start-date>1948-11-01</start-date>

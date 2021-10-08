@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3810-president</id>
+        <id>3810</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-20</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3811-president</id>
+        <id>3811</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-22</start-date>
@@ -31,7 +31,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3812-president</id>
+        <id>3812</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-23</start-date>
@@ -45,7 +45,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3813-president</id>
+        <id>3813</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-23</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3814-president</id>
+        <id>3814</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-24</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3815-president</id>
+        <id>3815</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-24</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3816-president</id>
+        <id>3816</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-25</start-date>
@@ -102,7 +102,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3817-president</id>
+        <id>3817</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-07-05</start-date>
@@ -117,7 +117,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3818-president</id>
+        <id>3818</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-07-06</start-date>
@@ -131,7 +131,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3819-president</id>
+        <id>3819</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-07-13</start-date>
@@ -146,7 +146,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3975-president</id>
+        <id>3975</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-05</start-date>
@@ -160,7 +160,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3976-president</id>
+        <id>3976</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-07</start-date>
@@ -175,7 +175,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3977-president</id>
+        <id>3977</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-08</start-date>
@@ -189,7 +189,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3978-president</id>
+        <id>3978</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-10</start-date>
@@ -204,7 +204,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3979-president</id>
+        <id>3979</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-12</start-date>
@@ -219,7 +219,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3980-president</id>
+        <id>3980</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-01-24</start-date>
@@ -233,7 +233,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3893-president</id>
+        <id>3893</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-06-09</start-date>
@@ -247,7 +247,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3894-president</id>
+        <id>3894</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-06-10</start-date>
@@ -262,7 +262,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3895-president</id>
+        <id>3895</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-07-10</start-date>
@@ -276,7 +276,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3896-president</id>
+        <id>3896</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-07-12</start-date>
@@ -290,7 +290,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3897-president</id>
+        <id>3897</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-07-16</start-date>
@@ -304,7 +304,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3898-president</id>
+        <id>3898</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-11-10</start-date>
@@ -319,7 +319,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3899-president</id>
+        <id>3899</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-11-29</start-date>
@@ -333,7 +333,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3981-president</id>
+        <id>3981</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-02-27</start-date>
@@ -347,7 +347,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3966-president</id>
+        <id>3966</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-05-25</start-date>
@@ -361,7 +361,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3967-president</id>
+        <id>3967</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-06-03</start-date>
@@ -375,7 +375,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3968-president</id>
+        <id>3968</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-06-06</start-date>
@@ -389,7 +389,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3969-president</id>
+        <id>3969</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-06-28</start-date>
@@ -403,7 +403,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3970-president</id>
+        <id>3970</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-06-30</start-date>
@@ -418,7 +418,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3971-president</id>
+        <id>3971</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-08-24</start-date>
@@ -432,7 +432,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3972-president</id>
+        <id>3972</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-11-28</start-date>
@@ -446,7 +446,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>Travel-3973-president</id>
+        <id>3973</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-12-03</start-date>

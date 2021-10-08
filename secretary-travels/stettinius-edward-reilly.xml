@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2189-secretary</id>
+        <id>2189</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-01-26</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2190-secretary</id>
+        <id>2190</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-01-30</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2191-secretary</id>
+        <id>2191</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-01-31</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2192-secretary</id>
+        <id>2192</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-02-03</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2193-secretary</id>
+        <id>2193</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-02-14</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2194-secretary</id>
+        <id>2194</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-02-16</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2195-secretary</id>
+        <id>2195</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-02-17</start-date>
@@ -101,7 +101,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2196-secretary</id>
+        <id>2196</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-02-20</start-date>
@@ -116,7 +116,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2197-secretary</id>
+        <id>2197</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-02-20</start-date>
@@ -130,7 +130,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="stettinius-edward-reilly" role="secretary">
-        <id>Travel-2198-secretary</id>
+        <id>2198</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
         <start-date>1945-03-09</start-date>

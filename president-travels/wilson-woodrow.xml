@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2658-president</id>
+        <id>2658</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1912-11-18</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2659-president</id>
+        <id>2659</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1918-12-14</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2660-president</id>
+        <id>2660</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1918-12-26</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2661-president</id>
+        <id>2661</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1918-12-31</start-date>
@@ -58,7 +58,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2662-president</id>
+        <id>2662</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1919-01-01</start-date>
@@ -72,7 +72,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2663-president</id>
+        <id>2663</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1919-01-04</start-date>
@@ -86,7 +86,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2664-president</id>
+        <id>2664</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1919-01-07</start-date>
@@ -100,7 +100,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2665-president</id>
+        <id>2665</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1919-03-14</start-date>
@@ -114,7 +114,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2666-president</id>
+        <id>2666</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1919-06-18</start-date>
@@ -128,7 +128,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="wilson-woodrow" role="president">
-        <id>Travel-2667-president</id>
+        <id>2667</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
         <start-date>1919-06-20</start-date>

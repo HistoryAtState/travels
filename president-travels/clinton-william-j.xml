@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2522-president</id>
+        <id>2522</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1993-04-03</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2523-president</id>
+        <id>2523</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1993-07-06</start-date>
@@ -32,7 +32,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2524-president</id>
+        <id>2524</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1993-07-10</start-date>
@@ -47,7 +47,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2525-president</id>
+        <id>2525</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-01-09</start-date>
@@ -61,7 +61,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2526-president</id>
+        <id>2526</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-01-11</start-date>
@@ -76,7 +76,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2527-president</id>
+        <id>2527</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-01-12</start-date>
@@ -90,7 +90,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2528-president</id>
+        <id>2528</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-01-12</start-date>
@@ -105,7 +105,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2529-president</id>
+        <id>2529</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-01-15</start-date>
@@ -119,7 +119,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2530-president</id>
+        <id>2530</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-01-15</start-date>
@@ -133,7 +133,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2531-president</id>
+        <id>2531</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-06-02</start-date>
@@ -148,7 +148,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2532-president</id>
+        <id>2532</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-06-02</start-date>
@@ -162,7 +162,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2533-president</id>
+        <id>2533</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-06-04</start-date>
@@ -179,7 +179,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2534-president</id>
+        <id>2534</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-06-06</start-date>
@@ -194,7 +194,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2535-president</id>
+        <id>2535</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-06-08</start-date>
@@ -208,7 +208,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2536-president</id>
+        <id>2536</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-07-06</start-date>
@@ -222,7 +222,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2537-president</id>
+        <id>2537</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-07-06</start-date>
@@ -237,7 +237,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2538-president</id>
+        <id>2538</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-07-07</start-date>
@@ -252,7 +252,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2539-president</id>
+        <id>2539</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-07-10</start-date>
@@ -268,7 +268,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2540-president</id>
+        <id>2540</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-10-25</start-date>
@@ -282,7 +282,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2541-president</id>
+        <id>2541</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-10-26</start-date>
@@ -297,7 +297,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2542-president</id>
+        <id>2542</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-10-27</start-date>
@@ -311,7 +311,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2543-president</id>
+        <id>2543</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-10-27</start-date>
@@ -325,7 +325,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2544-president</id>
+        <id>2544</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-10-28</start-date>
@@ -339,7 +339,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2545-president</id>
+        <id>2545</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-10-28</start-date>
@@ -353,7 +353,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2546-president</id>
+        <id>2546</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-11-12</start-date>
@@ -367,7 +367,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2547-president</id>
+        <id>2547</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-11-13</start-date>
@@ -381,7 +381,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2548-president</id>
+        <id>2548</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1994-12-05</start-date>
@@ -395,7 +395,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2549-president</id>
+        <id>2549</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-02-23</start-date>
@@ -409,7 +409,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2550-president</id>
+        <id>2550</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-03-31</start-date>
@@ -423,7 +423,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2551-president</id>
+        <id>2551</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-05-09</start-date>
@@ -437,7 +437,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2552-president</id>
+        <id>2552</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-05-11</start-date>
@@ -451,7 +451,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2553-president</id>
+        <id>2553</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-06-15</start-date>
@@ -467,7 +467,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2554-president</id>
+        <id>2554</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-11-05</start-date>
@@ -481,7 +481,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2555-president</id>
+        <id>2555</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-11-28</start-date>
@@ -496,7 +496,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2556-president</id>
+        <id>2556</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-12-01</start-date>
@@ -510,7 +510,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2557-president</id>
+        <id>2557</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-12-02</start-date>
@@ -524,7 +524,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2558-president</id>
+        <id>2558</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-12-02</start-date>
@@ -538,7 +538,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2559-president</id>
+        <id>2559</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1995-12-14</start-date>
@@ -552,7 +552,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2560-president</id>
+        <id>2560</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-01-13</start-date>
@@ -566,7 +566,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2561-president</id>
+        <id>2561</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-01-13</start-date>
@@ -580,7 +580,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2562-president</id>
+        <id>2562</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-01-13</start-date>
@@ -594,7 +594,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2563-president</id>
+        <id>2563</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-01-13</start-date>
@@ -608,7 +608,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2564-president</id>
+        <id>2564</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-03-13</start-date>
@@ -622,7 +622,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2565-president</id>
+        <id>2565</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-03-13</start-date>
@@ -636,7 +636,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2566-president</id>
+        <id>2566</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-04-15</start-date>
@@ -650,7 +650,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2567-president</id>
+        <id>2567</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-04-16</start-date>
@@ -665,7 +665,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2568-president</id>
+        <id>2568</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-04-18</start-date>
@@ -680,7 +680,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2569-president</id>
+        <id>2569</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-06-27</start-date>
@@ -695,7 +695,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2570-president</id>
+        <id>2570</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-11-19</start-date>
@@ -710,7 +710,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2571-president</id>
+        <id>2571</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-11-24</start-date>
@@ -724,7 +724,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2572-president</id>
+        <id>2572</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1996-11-25</start-date>
@@ -738,7 +738,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2573-president</id>
+        <id>2573</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-03-20</start-date>
@@ -753,7 +753,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2574-president</id>
+        <id>2574</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-05-05</start-date>
@@ -767,7 +767,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2575-president</id>
+        <id>2575</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-05-07</start-date>
@@ -782,7 +782,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2576-president</id>
+        <id>2576</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-05-09</start-date>
@@ -796,7 +796,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2577-president</id>
+        <id>2577</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-05-26</start-date>
@@ -810,7 +810,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2578-president</id>
+        <id>2578</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-05-27</start-date>
@@ -825,7 +825,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2579-president</id>
+        <id>2579</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-05-28</start-date>
@@ -839,7 +839,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2580-president</id>
+        <id>2580</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-07-04</start-date>
@@ -854,7 +854,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2581-president</id>
+        <id>2581</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-07-10</start-date>
@@ -868,7 +868,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2582-president</id>
+        <id>2582</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-07-11</start-date>
@@ -882,7 +882,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2583-president</id>
+        <id>2583</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-07-11</start-date>
@@ -896,7 +896,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2584-president</id>
+        <id>2584</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-10-12</start-date>
@@ -910,7 +910,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2585-president</id>
+        <id>2585</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-10-13</start-date>
@@ -924,7 +924,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2586-president</id>
+        <id>2586</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-10-15</start-date>
@@ -938,7 +938,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2587-president</id>
+        <id>2587</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-11-23</start-date>
@@ -952,7 +952,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2588-president</id>
+        <id>2588</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-12-22</start-date>
@@ -966,7 +966,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2589-president</id>
+        <id>2589</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1997-12-22</start-date>
@@ -981,7 +981,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2590-president</id>
+        <id>2590</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-03-23</start-date>
@@ -995,7 +995,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2591-president</id>
+        <id>2591</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-03-23</start-date>
@@ -1010,7 +1010,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2592-president</id>
+        <id>2592</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-03-25</start-date>
@@ -1024,7 +1024,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2593-president</id>
+        <id>2593</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-03-25</start-date>
@@ -1038,7 +1038,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2594-president</id>
+        <id>2594</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-03-29</start-date>
@@ -1052,7 +1052,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2595-president</id>
+        <id>2595</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-03-31</start-date>
@@ -1067,7 +1067,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2596-president</id>
+        <id>2596</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-04-16</start-date>
@@ -1081,7 +1081,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2597-president</id>
+        <id>2597</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-05-12</start-date>
@@ -1096,7 +1096,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2598-president</id>
+        <id>2598</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-05-14</start-date>
@@ -1110,7 +1110,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2599-president</id>
+        <id>2599</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-05-18</start-date>
@@ -1124,7 +1124,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2600-president</id>
+        <id>2600</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-06-24</start-date>
@@ -1138,7 +1138,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2601-president</id>
+        <id>2601</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-09-01</start-date>
@@ -1152,7 +1152,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2602-president</id>
+        <id>2602</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-09-03</start-date>
@@ -1167,7 +1167,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2603-president</id>
+        <id>2603</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-09-03</start-date>
@@ -1182,7 +1182,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2604-president</id>
+        <id>2604</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-11-19</start-date>
@@ -1197,7 +1197,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2605-president</id>
+        <id>2605</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-11-20</start-date>
@@ -1211,7 +1211,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2606-president</id>
+        <id>2606</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-12-12</start-date>
@@ -1225,7 +1225,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2607-president</id>
+        <id>2607</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1998-12-14</start-date>
@@ -1240,7 +1240,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2608-president</id>
+        <id>2608</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-02-08</start-date>
@@ -1254,7 +1254,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2609-president</id>
+        <id>2609</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-02-14</start-date>
@@ -1268,7 +1268,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2610-president</id>
+        <id>2610</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-03-08</start-date>
@@ -1282,7 +1282,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2611-president</id>
+        <id>2611</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-03-08</start-date>
@@ -1297,7 +1297,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2612-president</id>
+        <id>2612</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-03-10</start-date>
@@ -1311,7 +1311,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2613-president</id>
+        <id>2613</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-03-10</start-date>
@@ -1325,7 +1325,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2614-president</id>
+        <id>2614</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-05-04</start-date>
@@ -1339,7 +1339,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2615-president</id>
+        <id>2615</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-05-04</start-date>
@@ -1354,7 +1354,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2616-president</id>
+        <id>2616</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-06-16</start-date>
@@ -1368,7 +1368,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2617-president</id>
+        <id>2617</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-06-16</start-date>
@@ -1383,7 +1383,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2618-president</id>
+        <id>2618</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-06-17</start-date>
@@ -1397,7 +1397,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2619-president</id>
+        <id>2619</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-06-21</start-date>
@@ -1412,7 +1412,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2620-president</id>
+        <id>2620</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-06-22</start-date>
@@ -1427,7 +1427,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2621-president</id>
+        <id>2621</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-06-22</start-date>
@@ -1441,7 +1441,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2622-president</id>
+        <id>2622</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-07-25</start-date>
@@ -1456,7 +1456,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2623-president</id>
+        <id>2623</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-07-29</start-date>
@@ -1470,7 +1470,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2624-president</id>
+        <id>2624</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-07-30</start-date>
@@ -1484,7 +1484,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2625-president</id>
+        <id>2625</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-09-11</start-date>
@@ -1498,7 +1498,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2626-president</id>
+        <id>2626</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-10-07</start-date>
@@ -1514,7 +1514,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2627-president</id>
+        <id>2627</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-11-01</start-date>
@@ -1529,7 +1529,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2628-president</id>
+        <id>2628</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-11-15</start-date>
@@ -1544,7 +1544,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2629-president</id>
+        <id>2629</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-11-19</start-date>
@@ -1558,7 +1558,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2630-president</id>
+        <id>2630</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-11-20</start-date>
@@ -1572,7 +1572,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2631-president</id>
+        <id>2631</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-11-21</start-date>
@@ -1586,7 +1586,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2632-president</id>
+        <id>2632</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-11-23</start-date>
@@ -1601,7 +1601,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2633-president</id>
+        <id>2633</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-01-29</start-date>
@@ -1615,7 +1615,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2634-president</id>
+        <id>2634</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-03-18</start-date>
@@ -1629,7 +1629,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2635-president</id>
+        <id>2635</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-03-19</start-date>
@@ -1644,7 +1644,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2636-president</id>
+        <id>2636</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-03-20</start-date>
@@ -1658,7 +1658,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2637-president</id>
+        <id>2637</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-03-25</start-date>
@@ -1672,7 +1672,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2638-president</id>
+        <id>2638</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-03-25</start-date>
@@ -1686,7 +1686,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2639-president</id>
+        <id>2639</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-03-25</start-date>
@@ -1700,7 +1700,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2640-president</id>
+        <id>2640</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-05-30</start-date>
@@ -1715,7 +1715,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2641-president</id>
+        <id>2641</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-06-01</start-date>
@@ -1730,7 +1730,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2642-president</id>
+        <id>2642</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-06-03</start-date>
@@ -1744,7 +1744,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2643-president</id>
+        <id>2643</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-06-05</start-date>
@@ -1758,7 +1758,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2644-president</id>
+        <id>2644</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-06-08</start-date>
@@ -1772,7 +1772,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2645-president</id>
+        <id>2645</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-07-21</start-date>
@@ -1786,7 +1786,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2646-president</id>
+        <id>2646</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-08-26</start-date>
@@ -1800,7 +1800,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2647-president</id>
+        <id>2647</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-08-28</start-date>
@@ -1815,7 +1815,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2648-president</id>
+        <id>2648</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-08-29</start-date>
@@ -1829,7 +1829,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2649-president</id>
+        <id>2649</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-08-30</start-date>
@@ -1843,7 +1843,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2650-president</id>
+        <id>2650</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-10-16</start-date>
@@ -1857,7 +1857,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2651-president</id>
+        <id>2651</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-11-14</start-date>
@@ -1871,7 +1871,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2652-president</id>
+        <id>2652</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-11-16</start-date>
@@ -1885,7 +1885,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2653-president</id>
+        <id>2653</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-12-12</start-date>
@@ -1899,7 +1899,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="clinton-william-j" role="president">
-        <id>Travel-2654-president</id>
+        <id>2654</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>2000-12-12</start-date>

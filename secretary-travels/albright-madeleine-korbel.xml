@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-1-secretary</id>
+        <id>1</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-02-16</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-2-secretary</id>
+        <id>2</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-02-16</start-date>
@@ -29,7 +29,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-3-secretary</id>
+        <id>3</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-02-17</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-4-secretary</id>
+        <id>4</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-02-18</start-date>
@@ -58,7 +58,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-5-secretary</id>
+        <id>5</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-02-18</start-date>
@@ -72,7 +72,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-6-secretary</id>
+        <id>6</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-02-19</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-7-secretary</id>
+        <id>7</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-02-21</start-date>
@@ -102,7 +102,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-8-secretary</id>
+        <id>8</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-02-23</start-date>
@@ -116,7 +116,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-9-secretary</id>
+        <id>9</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-02-24</start-date>
@@ -130,7 +130,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-10-secretary</id>
+        <id>10</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-03-20</start-date>
@@ -145,7 +145,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-11-secretary</id>
+        <id>11</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-01</start-date>
@@ -159,7 +159,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-12-secretary</id>
+        <id>12</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-04</start-date>
@@ -174,7 +174,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-13-secretary</id>
+        <id>13</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-05</start-date>
@@ -189,7 +189,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-14-secretary</id>
+        <id>14</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-07</start-date>
@@ -204,7 +204,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-15-secretary</id>
+        <id>15</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-09</start-date>
@@ -219,7 +219,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-16-secretary</id>
+        <id>16</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-26</start-date>
@@ -234,7 +234,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-17-secretary</id>
+        <id>17</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-27</start-date>
@@ -249,7 +249,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-18-secretary</id>
+        <id>18</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-29</start-date>
@@ -265,7 +265,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-19-secretary</id>
+        <id>19</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-30</start-date>
@@ -279,7 +279,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-20-secretary</id>
+        <id>20</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-05-31</start-date>
@@ -293,7 +293,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-21-secretary</id>
+        <id>21</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-06-01</start-date>
@@ -308,7 +308,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-22-secretary</id>
+        <id>22</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-06-26</start-date>
@@ -323,7 +323,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-23-secretary</id>
+        <id>23</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-06-29</start-date>
@@ -337,7 +337,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-24-secretary</id>
+        <id>24</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-07-07</start-date>
@@ -351,7 +351,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-25-secretary</id>
+        <id>25</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-07-10</start-date>
@@ -365,7 +365,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-26-secretary</id>
+        <id>26</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-07-11</start-date>
@@ -379,7 +379,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-27-secretary</id>
+        <id>27</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-07-12</start-date>
@@ -393,7 +393,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-28-secretary</id>
+        <id>28</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-07-12</start-date>
@@ -407,7 +407,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-29-secretary</id>
+        <id>29</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-07-13</start-date>
@@ -421,7 +421,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-30-secretary</id>
+        <id>30</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-07-13</start-date>
@@ -435,7 +435,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-31-secretary</id>
+        <id>31</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-07-26</start-date>
@@ -449,7 +449,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-32-secretary</id>
+        <id>32</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-07-29</start-date>
@@ -463,7 +463,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-33-secretary</id>
+        <id>33</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-08-31</start-date>
@@ -478,7 +478,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-34-secretary</id>
+        <id>34</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-09-09</start-date>
@@ -492,7 +492,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-35-secretary</id>
+        <id>35</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-09-11</start-date>
@@ -506,7 +506,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-36-secretary</id>
+        <id>36</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-09-12</start-date>
@@ -520,7 +520,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-37-secretary</id>
+        <id>37</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-09-12</start-date>
@@ -534,7 +534,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-38-secretary</id>
+        <id>38</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-09-13</start-date>
@@ -549,7 +549,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-39-secretary</id>
+        <id>39</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-09-14</start-date>
@@ -563,7 +563,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-40-secretary</id>
+        <id>40</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-09-15</start-date>
@@ -577,7 +577,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-41-secretary</id>
+        <id>41</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-09-15</start-date>
@@ -592,7 +592,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-42-secretary</id>
+        <id>42</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-10-12</start-date>
@@ -606,7 +606,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-43-secretary</id>
+        <id>43</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-10-13</start-date>
@@ -620,7 +620,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-44-secretary</id>
+        <id>44</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-10-15</start-date>
@@ -634,7 +634,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-45-secretary</id>
+        <id>45</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-10-17</start-date>
@@ -648,7 +648,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-46-secretary</id>
+        <id>46</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-14</start-date>
@@ -663,7 +663,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-47-secretary</id>
+        <id>47</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-15</start-date>
@@ -677,7 +677,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-48-secretary</id>
+        <id>48</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-15</start-date>
@@ -691,7 +691,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-49-secretary</id>
+        <id>49</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-16</start-date>
@@ -705,7 +705,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-50-secretary</id>
+        <id>50</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-16</start-date>
@@ -719,7 +719,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-51-secretary</id>
+        <id>51</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-16</start-date>
@@ -733,7 +733,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-52-secretary</id>
+        <id>52</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-17</start-date>
@@ -747,7 +747,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-53-secretary</id>
+        <id>53</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-18</start-date>
@@ -761,7 +761,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-54-secretary</id>
+        <id>54</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-19</start-date>
@@ -776,7 +776,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-55-secretary</id>
+        <id>55</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-11-21</start-date>
@@ -790,7 +790,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-56-secretary</id>
+        <id>56</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-05</start-date>
@@ -804,7 +804,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-57-secretary</id>
+        <id>57</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-06</start-date>
@@ -818,7 +818,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-58-secretary</id>
+        <id>58</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-06</start-date>
@@ -833,7 +833,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-59-secretary</id>
+        <id>59</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-08</start-date>
@@ -847,7 +847,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-60-secretary</id>
+        <id>60</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-10</start-date>
@@ -862,7 +862,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-61-secretary</id>
+        <id>61</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-11</start-date>
@@ -876,7 +876,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-62-secretary</id>
+        <id>62</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-11</start-date>
@@ -890,7 +890,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-63-secretary</id>
+        <id>63</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-12</start-date>
@@ -904,7 +904,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-64-secretary</id>
+        <id>64</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-12</start-date>
@@ -918,7 +918,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-65-secretary</id>
+        <id>65</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-14</start-date>
@@ -932,7 +932,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-66-secretary</id>
+        <id>66</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-15</start-date>
@@ -948,7 +948,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-67-secretary</id>
+        <id>67</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-17</start-date>
@@ -962,7 +962,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-68-secretary</id>
+        <id>68</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-18</start-date>
@@ -976,7 +976,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-69-secretary</id>
+        <id>69</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-21</start-date>
@@ -991,7 +991,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-70-secretary</id>
+        <id>70</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-22</start-date>
@@ -1005,7 +1005,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-71-secretary</id>
+        <id>71</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1997-12-22</start-date>
@@ -1019,7 +1019,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-72-secretary</id>
+        <id>72</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-01-29</start-date>
@@ -1033,7 +1033,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-73-secretary</id>
+        <id>73</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-01-30</start-date>
@@ -1047,7 +1047,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-74-secretary</id>
+        <id>74</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-01-30</start-date>
@@ -1062,7 +1062,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-75-secretary</id>
+        <id>75</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-01-31</start-date>
@@ -1076,7 +1076,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-76-secretary</id>
+        <id>76</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-02-01</start-date>
@@ -1090,7 +1090,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-77-secretary</id>
+        <id>77</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-02-01</start-date>
@@ -1104,7 +1104,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-78-secretary</id>
+        <id>78</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-02-01</start-date>
@@ -1118,7 +1118,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-79-secretary</id>
+        <id>79</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-02-02</start-date>
@@ -1132,7 +1132,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-80-secretary</id>
+        <id>80</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-02-03</start-date>
@@ -1147,7 +1147,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-81-secretary</id>
+        <id>81</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-06</start-date>
@@ -1161,7 +1161,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-82-secretary</id>
+        <id>82</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-06</start-date>
@@ -1176,7 +1176,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-83-secretary</id>
+        <id>83</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-07</start-date>
@@ -1190,7 +1190,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-84-secretary</id>
+        <id>84</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-08</start-date>
@@ -1204,7 +1204,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-85-secretary</id>
+        <id>85</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-08</start-date>
@@ -1218,7 +1218,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-86-secretary</id>
+        <id>86</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-08</start-date>
@@ -1232,7 +1232,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-87-secretary</id>
+        <id>87</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-09</start-date>
@@ -1246,7 +1246,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-88-secretary</id>
+        <id>88</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-09</start-date>
@@ -1260,7 +1260,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-89-secretary</id>
+        <id>89</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-24</start-date>
@@ -1274,7 +1274,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-90-secretary</id>
+        <id>90</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-24</start-date>
@@ -1289,7 +1289,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-91-secretary</id>
+        <id>91</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-03-24</start-date>
@@ -1303,7 +1303,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-92-secretary</id>
+        <id>92</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-04-04</start-date>
@@ -1318,7 +1318,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-93-secretary</id>
+        <id>93</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-04-04</start-date>
@@ -1332,7 +1332,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-94-secretary</id>
+        <id>94</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-04-16</start-date>
@@ -1347,7 +1347,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-95-secretary</id>
+        <id>95</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-04-28</start-date>
@@ -1362,7 +1362,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-96-secretary</id>
+        <id>96</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-04-29</start-date>
@@ -1377,7 +1377,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-97-secretary</id>
+        <id>97</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-05-01</start-date>
@@ -1391,7 +1391,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-98-secretary</id>
+        <id>98</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-05-02</start-date>
@@ -1406,7 +1406,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-99-secretary</id>
+        <id>99</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-05-03</start-date>
@@ -1421,7 +1421,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-100-secretary</id>
+        <id>100</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-05-17</start-date>
@@ -1435,7 +1435,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-101-secretary</id>
+        <id>101</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-05-18</start-date>
@@ -1449,7 +1449,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-102-secretary</id>
+        <id>102</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-05-28</start-date>
@@ -1463,7 +1463,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-103-secretary</id>
+        <id>103</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-06-01</start-date>
@@ -1477,7 +1477,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-104-secretary</id>
+        <id>104</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-06-04</start-date>
@@ -1492,7 +1492,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-105-secretary</id>
+        <id>105</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-06-12</start-date>
@@ -1507,7 +1507,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-106-secretary</id>
+        <id>106</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-06-25</start-date>
@@ -1521,7 +1521,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-107-secretary</id>
+        <id>107</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-07-03</start-date>
@@ -1535,7 +1535,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-108-secretary</id>
+        <id>108</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-07-26</start-date>
@@ -1550,7 +1550,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-109-secretary</id>
+        <id>109</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-07-29</start-date>
@@ -1565,7 +1565,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-110-secretary</id>
+        <id>110</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-07-29</start-date>
@@ -1579,7 +1579,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-111-secretary</id>
+        <id>111</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-08-01</start-date>
@@ -1593,7 +1593,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-112-secretary</id>
+        <id>112</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-08-07</start-date>
@@ -1608,7 +1608,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-113-secretary</id>
+        <id>113</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-08-12</start-date>
@@ -1623,7 +1623,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-114-secretary</id>
+        <id>114</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-08-18</start-date>
@@ -1637,7 +1637,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-115-secretary</id>
+        <id>115</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-08-18</start-date>
@@ -1651,7 +1651,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-116-secretary</id>
+        <id>116</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-08-29</start-date>
@@ -1665,7 +1665,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-117-secretary</id>
+        <id>117</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-08-30</start-date>
@@ -1679,7 +1679,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-118-secretary</id>
+        <id>118</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-08-31</start-date>
@@ -1693,7 +1693,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-119-secretary</id>
+        <id>119</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-09-03</start-date>
@@ -1708,7 +1708,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-120-secretary</id>
+        <id>120</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-10-06</start-date>
@@ -1722,7 +1722,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-121-secretary</id>
+        <id>121</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-10-06</start-date>
@@ -1736,7 +1736,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-122-secretary</id>
+        <id>122</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-10-07</start-date>
@@ -1750,7 +1750,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-123-secretary</id>
+        <id>123</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-10-08</start-date>
@@ -1764,7 +1764,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-124-secretary</id>
+        <id>124</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-11-14</start-date>
@@ -1779,7 +1779,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-125-secretary</id>
+        <id>125</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-12-08</start-date>
@@ -1795,7 +1795,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-126-secretary</id>
+        <id>126</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-12-09</start-date>
@@ -1810,7 +1810,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-127-secretary</id>
+        <id>127</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-12-12</start-date>
@@ -1824,7 +1824,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-128-secretary</id>
+        <id>128</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-12-14</start-date>
@@ -1839,7 +1839,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-129-secretary</id>
+        <id>129</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1998-12-15</start-date>
@@ -1853,7 +1853,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-130-secretary</id>
+        <id>130</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-01-25</start-date>
@@ -1868,7 +1868,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-131-secretary</id>
+        <id>131</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-01-27</start-date>
@@ -1883,7 +1883,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-132-secretary</id>
+        <id>132</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-01-27</start-date>
@@ -1898,7 +1898,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-133-secretary</id>
+        <id>133</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-01-28</start-date>
@@ -1912,7 +1912,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-134-secretary</id>
+        <id>134</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-01-28</start-date>
@@ -1926,7 +1926,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-135-secretary</id>
+        <id>135</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-02-05</start-date>
@@ -1940,7 +1940,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-136-secretary</id>
+        <id>136</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-02-13</start-date>
@@ -1955,7 +1955,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-137-secretary</id>
+        <id>137</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-02-15</start-date>
@@ -1969,7 +1969,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-138-secretary</id>
+        <id>138</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-02-20</start-date>
@@ -1983,7 +1983,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-139-secretary</id>
+        <id>139</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-02-28</start-date>
@@ -1997,7 +1997,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-140-secretary</id>
+        <id>140</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-03-02</start-date>
@@ -2012,7 +2012,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-141-secretary</id>
+        <id>141</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-03-04</start-date>
@@ -2026,7 +2026,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-142-secretary</id>
+        <id>142</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-03-06</start-date>
@@ -2041,7 +2041,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-143-secretary</id>
+        <id>143</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-03-10</start-date>
@@ -2055,7 +2055,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-144-secretary</id>
+        <id>144</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-04-11</start-date>
@@ -2069,7 +2069,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-145-secretary</id>
+        <id>145</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-04-13</start-date>
@@ -2083,7 +2083,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-146-secretary</id>
+        <id>146</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-05-04</start-date>
@@ -2097,7 +2097,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-147-secretary</id>
+        <id>147</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-05-04</start-date>
@@ -2111,7 +2111,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-148-secretary</id>
+        <id>148</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-06-06</start-date>
@@ -2126,7 +2126,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-149-secretary</id>
+        <id>149</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-06-08</start-date>
@@ -2140,7 +2140,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-150-secretary</id>
+        <id>150</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-06-11</start-date>
@@ -2154,7 +2154,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-151-secretary</id>
+        <id>151</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-06-17</start-date>
@@ -2169,7 +2169,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-152-secretary</id>
+        <id>152</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-06-19</start-date>
@@ -2183,7 +2183,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-153-secretary</id>
+        <id>153</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-06-20</start-date>
@@ -2197,7 +2197,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-154-secretary</id>
+        <id>154</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-06-21</start-date>
@@ -2212,7 +2212,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-155-secretary</id>
+        <id>155</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-06-22</start-date>
@@ -2226,7 +2226,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-156-secretary</id>
+        <id>156</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-06-22</start-date>
@@ -2240,7 +2240,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-157-secretary</id>
+        <id>157</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-07-01</start-date>
@@ -2254,7 +2254,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-158-secretary</id>
+        <id>158</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-07-23</start-date>
@@ -2268,7 +2268,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-159-secretary</id>
+        <id>159</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-07-24</start-date>
@@ -2284,7 +2284,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-160-secretary</id>
+        <id>160</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-07-27</start-date>
@@ -2298,7 +2298,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-161-secretary</id>
+        <id>161</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-07-28</start-date>
@@ -2313,7 +2313,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-162-secretary</id>
+        <id>162</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-07-28</start-date>
@@ -2327,7 +2327,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-163-secretary</id>
+        <id>163</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-07-29</start-date>
@@ -2342,7 +2342,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-164-secretary</id>
+        <id>164</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-07-30</start-date>
@@ -2356,7 +2356,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-165-secretary</id>
+        <id>165</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-07-30</start-date>
@@ -2370,7 +2370,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-166-secretary</id>
+        <id>166</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-01</start-date>
@@ -2384,7 +2384,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-167-secretary</id>
+        <id>167</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-02</start-date>
@@ -2399,7 +2399,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-168-secretary</id>
+        <id>168</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-02</start-date>
@@ -2414,7 +2414,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-169-secretary</id>
+        <id>169</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-03</start-date>
@@ -2429,7 +2429,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-170-secretary</id>
+        <id>170</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-04</start-date>
@@ -2444,7 +2444,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-171-secretary</id>
+        <id>171</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-04</start-date>
@@ -2458,7 +2458,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-172-secretary</id>
+        <id>172</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-04</start-date>
@@ -2472,7 +2472,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-173-secretary</id>
+        <id>173</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-04</start-date>
@@ -2486,7 +2486,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-174-secretary</id>
+        <id>174</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-05</start-date>
@@ -2500,7 +2500,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-175-secretary</id>
+        <id>175</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-06</start-date>
@@ -2515,7 +2515,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-176-secretary</id>
+        <id>176</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-09-08</start-date>
@@ -2529,7 +2529,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-177-secretary</id>
+        <id>177</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-10-18</start-date>
@@ -2543,7 +2543,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-178-secretary</id>
+        <id>178</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-10-18</start-date>
@@ -2558,7 +2558,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-179-secretary</id>
+        <id>179</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-10-18</start-date>
@@ -2572,7 +2572,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-180-secretary</id>
+        <id>180</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-10-19</start-date>
@@ -2587,7 +2587,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-181-secretary</id>
+        <id>181</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-10-20</start-date>
@@ -2602,7 +2602,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-182-secretary</id>
+        <id>182</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-10-21</start-date>
@@ -2617,7 +2617,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-183-secretary</id>
+        <id>183</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-11-01</start-date>
@@ -2632,7 +2632,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-184-secretary</id>
+        <id>184</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-11-14</start-date>
@@ -2647,7 +2647,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-185-secretary</id>
+        <id>185</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-11-19</start-date>
@@ -2661,7 +2661,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-186-secretary</id>
+        <id>186</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-11-20</start-date>
@@ -2676,7 +2676,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-187-secretary</id>
+        <id>187</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-11-22</start-date>
@@ -2691,7 +2691,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-188-secretary</id>
+        <id>188</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-11-22</start-date>
@@ -2705,7 +2705,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-189-secretary</id>
+        <id>189</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-11-23</start-date>
@@ -2719,7 +2719,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-190-secretary</id>
+        <id>190</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-12-06</start-date>
@@ -2733,7 +2733,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-191-secretary</id>
+        <id>191</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-12-07</start-date>
@@ -2747,7 +2747,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-192-secretary</id>
+        <id>192</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-12-07</start-date>
@@ -2761,7 +2761,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-193-secretary</id>
+        <id>193</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-12-08</start-date>
@@ -2775,7 +2775,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-194-secretary</id>
+        <id>194</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-12-09</start-date>
@@ -2789,7 +2789,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-195-secretary</id>
+        <id>195</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-12-17</start-date>
@@ -2804,7 +2804,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-196-secretary</id>
+        <id>196</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>1999-12-17</start-date>
@@ -2818,7 +2818,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-197-secretary</id>
+        <id>197</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-01-14</start-date>
@@ -2832,7 +2832,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-198-secretary</id>
+        <id>198</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-01-15</start-date>
@@ -2846,7 +2846,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-199-secretary</id>
+        <id>199</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-01-15</start-date>
@@ -2860,7 +2860,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-200-secretary</id>
+        <id>200</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-01-29</start-date>
@@ -2874,7 +2874,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-201-secretary</id>
+        <id>201</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-01-31</start-date>
@@ -2888,7 +2888,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-202-secretary</id>
+        <id>202</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-02-02</start-date>
@@ -2902,7 +2902,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-203-secretary</id>
+        <id>203</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-02-18</start-date>
@@ -2917,7 +2917,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-204-secretary</id>
+        <id>204</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-02-19</start-date>
@@ -2932,7 +2932,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-205-secretary</id>
+        <id>205</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-04</start-date>
@@ -2946,7 +2946,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-206-secretary</id>
+        <id>206</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-05</start-date>
@@ -2961,7 +2961,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-207-secretary</id>
+        <id>207</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-08</start-date>
@@ -2976,7 +2976,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-208-secretary</id>
+        <id>208</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-09</start-date>
@@ -2990,7 +2990,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-209-secretary</id>
+        <id>209</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-18</start-date>
@@ -3005,7 +3005,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-210-secretary</id>
+        <id>210</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-19</start-date>
@@ -3019,7 +3019,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-211-secretary</id>
+        <id>211</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-20</start-date>
@@ -3033,7 +3033,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-212-secretary</id>
+        <id>212</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-23</start-date>
@@ -3048,7 +3048,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-213-secretary</id>
+        <id>213</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-24</start-date>
@@ -3062,7 +3062,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-214-secretary</id>
+        <id>214</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-25</start-date>
@@ -3077,7 +3077,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-215-secretary</id>
+        <id>215</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-25</start-date>
@@ -3091,7 +3091,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-216-secretary</id>
+        <id>216</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-03-26</start-date>
@@ -3105,7 +3105,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-217-secretary</id>
+        <id>217</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-04-14</start-date>
@@ -3119,7 +3119,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-218-secretary</id>
+        <id>218</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-04-15</start-date>
@@ -3133,7 +3133,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-219-secretary</id>
+        <id>219</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-04-16</start-date>
@@ -3147,7 +3147,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-220-secretary</id>
+        <id>220</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-04-16</start-date>
@@ -3162,7 +3162,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-221-secretary</id>
+        <id>221</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-05-24</start-date>
@@ -3177,7 +3177,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-222-secretary</id>
+        <id>222</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-05-26</start-date>
@@ -3191,7 +3191,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-223-secretary</id>
+        <id>223</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-05-30</start-date>
@@ -3206,7 +3206,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-224-secretary</id>
+        <id>224</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-01</start-date>
@@ -3220,7 +3220,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-225-secretary</id>
+        <id>225</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-03</start-date>
@@ -3234,7 +3234,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-226-secretary</id>
+        <id>226</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-05</start-date>
@@ -3249,7 +3249,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-227-secretary</id>
+        <id>227</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-06</start-date>
@@ -3263,7 +3263,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-228-secretary</id>
+        <id>228</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-07</start-date>
@@ -3278,7 +3278,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-229-secretary</id>
+        <id>229</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-07</start-date>
@@ -3292,7 +3292,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-230-secretary</id>
+        <id>230</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-13</start-date>
@@ -3306,7 +3306,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-231-secretary</id>
+        <id>231</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-22</start-date>
@@ -3320,7 +3320,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-232-secretary</id>
+        <id>232</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-23</start-date>
@@ -3334,7 +3334,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-233-secretary</id>
+        <id>233</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-24</start-date>
@@ -3350,7 +3350,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-234-secretary</id>
+        <id>234</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-27</start-date>
@@ -3365,7 +3365,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-235-secretary</id>
+        <id>235</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-28</start-date>
@@ -3379,7 +3379,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-236-secretary</id>
+        <id>236</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-06-29</start-date>
@@ -3393,7 +3393,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-237-secretary</id>
+        <id>237</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-07-28</start-date>
@@ -3408,7 +3408,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-238-secretary</id>
+        <id>238</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-07-29</start-date>
@@ -3423,7 +3423,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-239-secretary</id>
+        <id>239</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-07-31</start-date>
@@ -3437,7 +3437,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-240-secretary</id>
+        <id>240</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-07-31</start-date>
@@ -3451,7 +3451,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-241-secretary</id>
+        <id>241</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-08-01</start-date>
@@ -3465,7 +3465,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-242-secretary</id>
+        <id>242</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-08-02</start-date>
@@ -3479,7 +3479,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-243-secretary</id>
+        <id>243</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-08-15</start-date>
@@ -3493,7 +3493,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-244-secretary</id>
+        <id>244</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-08-15</start-date>
@@ -3507,7 +3507,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-245-secretary</id>
+        <id>245</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-08-17</start-date>
@@ -3521,7 +3521,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-246-secretary</id>
+        <id>246</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-08-18</start-date>
@@ -3535,7 +3535,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-247-secretary</id>
+        <id>247</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-08-18</start-date>
@@ -3549,7 +3549,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-248-secretary</id>
+        <id>248</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-08-19</start-date>
@@ -3563,7 +3563,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-249-secretary</id>
+        <id>249</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-08-30</start-date>
@@ -3577,7 +3577,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-250-secretary</id>
+        <id>250</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-09-30</start-date>
@@ -3591,7 +3591,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-251-secretary</id>
+        <id>251</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-10-01</start-date>
@@ -3606,7 +3606,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-252-secretary</id>
+        <id>252</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-10-03</start-date>
@@ -3621,7 +3621,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-253-secretary</id>
+        <id>253</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-10-03</start-date>
@@ -3636,7 +3636,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-254-secretary</id>
+        <id>254</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-10-05</start-date>
@@ -3651,7 +3651,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-255-secretary</id>
+        <id>255</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-10-16</start-date>
@@ -3665,7 +3665,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-256-secretary</id>
+        <id>256</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-10-17</start-date>
@@ -3680,7 +3680,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-257-secretary</id>
+        <id>257</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-10-23</start-date>
@@ -3694,7 +3694,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-258-secretary</id>
+        <id>258</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-10-25</start-date>
@@ -3709,7 +3709,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-259-secretary</id>
+        <id>259</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-11-14</start-date>
@@ -3723,7 +3723,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-260-secretary</id>
+        <id>260</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-11-26</start-date>
@@ -3737,7 +3737,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-261-secretary</id>
+        <id>261</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-11-30</start-date>
@@ -3751,7 +3751,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-262-secretary</id>
+        <id>262</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-12-07</start-date>
@@ -3766,7 +3766,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-263-secretary</id>
+        <id>263</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-12-09</start-date>
@@ -3780,7 +3780,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-264-secretary</id>
+        <id>264</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-12-10</start-date>
@@ -3794,7 +3794,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-265-secretary</id>
+        <id>265</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-12-12</start-date>
@@ -3808,7 +3808,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-266-secretary</id>
+        <id>266</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-12-12</start-date>
@@ -3823,7 +3823,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-267-secretary</id>
+        <id>267</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2000-12-13</start-date>
@@ -3838,7 +3838,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-268-secretary</id>
+        <id>268</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2001-01-11</start-date>
@@ -3852,7 +3852,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="albright-madeleine-korbel" role="secretary">
-        <id>Travel-269-secretary</id>
+        <id>269</id>
         <role>secretary</role>
         <name>Madeleine Korbel Albright</name>
         <start-date>2001-01-11</start-date>

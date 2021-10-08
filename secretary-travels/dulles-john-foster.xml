@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-738-secretary</id>
+        <id>738</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-01-31</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-739-secretary</id>
+        <id>739</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-02-01</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-740-secretary</id>
+        <id>740</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-02-03</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-741-secretary</id>
+        <id>741</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-02-05</start-date>
@@ -58,7 +58,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-742-secretary</id>
+        <id>742</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-02-06</start-date>
@@ -72,7 +72,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-743-secretary</id>
+        <id>743</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-02-07</start-date>
@@ -86,7 +86,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-744-secretary</id>
+        <id>744</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-02-08</start-date>
@@ -100,7 +100,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-745-secretary</id>
+        <id>745</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-04-21</start-date>
@@ -114,7 +114,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-746-secretary</id>
+        <id>746</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-11</start-date>
@@ -129,7 +129,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-747-secretary</id>
+        <id>747</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-13</start-date>
@@ -143,7 +143,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-748-secretary</id>
+        <id>748</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-14</start-date>
@@ -157,7 +157,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-749-secretary</id>
+        <id>749</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-15</start-date>
@@ -171,7 +171,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-750-secretary</id>
+        <id>750</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-16</start-date>
@@ -185,7 +185,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-751-secretary</id>
+        <id>751</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-17</start-date>
@@ -199,7 +199,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-752-secretary</id>
+        <id>752</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-18</start-date>
@@ -213,7 +213,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-753-secretary</id>
+        <id>753</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-20</start-date>
@@ -227,7 +227,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-754-secretary</id>
+        <id>754</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-22</start-date>
@@ -241,7 +241,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-755-secretary</id>
+        <id>755</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-25</start-date>
@@ -256,7 +256,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-756-secretary</id>
+        <id>756</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-27</start-date>
@@ -270,7 +270,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-757-secretary</id>
+        <id>757</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-05-28</start-date>
@@ -284,7 +284,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-758-secretary</id>
+        <id>758</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-08-02</start-date>
@@ -298,7 +298,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-759-secretary</id>
+        <id>759</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-08-03</start-date>
@@ -312,7 +312,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-760-secretary</id>
+        <id>760</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-08-08</start-date>
@@ -327,7 +327,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-761-secretary</id>
+        <id>761</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-10-15</start-date>
@@ -341,7 +341,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-762-secretary</id>
+        <id>762</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-12-04</start-date>
@@ -355,7 +355,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-763-secretary</id>
+        <id>763</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1953-12-12</start-date>
@@ -369,7 +369,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-764-secretary</id>
+        <id>764</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-01-22</start-date>
@@ -384,7 +384,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-765-secretary</id>
+        <id>765</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-02-18</start-date>
@@ -398,7 +398,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-766-secretary</id>
+        <id>766</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-02-28</start-date>
@@ -412,7 +412,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-767-secretary</id>
+        <id>767</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-04-11</start-date>
@@ -426,7 +426,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-768-secretary</id>
+        <id>768</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-04-13</start-date>
@@ -440,7 +440,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-769-secretary</id>
+        <id>769</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-04-21</start-date>
@@ -454,7 +454,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-770-secretary</id>
+        <id>770</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-04-24</start-date>
@@ -468,7 +468,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-771-secretary</id>
+        <id>771</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-05-03</start-date>
@@ -482,7 +482,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-772-secretary</id>
+        <id>772</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-07-13</start-date>
@@ -497,7 +497,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-773-secretary</id>
+        <id>773</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-09-03</start-date>
@@ -511,7 +511,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-774-secretary</id>
+        <id>774</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-09-09</start-date>
@@ -525,7 +525,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-775-secretary</id>
+        <id>775</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-09-09</start-date>
@@ -540,7 +540,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-776-secretary</id>
+        <id>776</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-09-16</start-date>
@@ -554,7 +554,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-777-secretary</id>
+        <id>777</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-09-17</start-date>
@@ -568,7 +568,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-778-secretary</id>
+        <id>778</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-09-26</start-date>
@@ -582,7 +582,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-779-secretary</id>
+        <id>779</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-10-20</start-date>
@@ -597,7 +597,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-780-secretary</id>
+        <id>780</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1954-12-15</start-date>
@@ -611,7 +611,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-781-secretary</id>
+        <id>781</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-01-29</start-date>
@@ -625,7 +625,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-782-secretary</id>
+        <id>782</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-02-21</start-date>
@@ -639,7 +639,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-783-secretary</id>
+        <id>783</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-02-22</start-date>
@@ -653,7 +653,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-784-secretary</id>
+        <id>784</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-02-26</start-date>
@@ -667,7 +667,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-785-secretary</id>
+        <id>785</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-02-27</start-date>
@@ -681,7 +681,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-786-secretary</id>
+        <id>786</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-02-28</start-date>
@@ -695,7 +695,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-787-secretary</id>
+        <id>787</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-02-28</start-date>
@@ -709,7 +709,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-788-secretary</id>
+        <id>788</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-03-01</start-date>
@@ -723,7 +723,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-789-secretary</id>
+        <id>789</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-03-03</start-date>
@@ -737,7 +737,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-790-secretary</id>
+        <id>790</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-03-17</start-date>
@@ -751,7 +751,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-791-secretary</id>
+        <id>791</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-05-07</start-date>
@@ -765,7 +765,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-792-secretary</id>
+        <id>792</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-05-13</start-date>
@@ -779,7 +779,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-793-secretary</id>
+        <id>793</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-07-14</start-date>
@@ -794,7 +794,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-794-secretary</id>
+        <id>794</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-07-16</start-date>
@@ -808,7 +808,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-795-secretary</id>
+        <id>795</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-09-25</start-date>
@@ -823,7 +823,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-796-secretary</id>
+        <id>796</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-10-22</start-date>
@@ -838,7 +838,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-797-secretary</id>
+        <id>797</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-10-23</start-date>
@@ -852,7 +852,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-798-secretary</id>
+        <id>798</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-10-23</start-date>
@@ -866,7 +866,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-799-secretary</id>
+        <id>799</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-10-26</start-date>
@@ -881,7 +881,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-800-secretary</id>
+        <id>800</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-11-01</start-date>
@@ -895,7 +895,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-801-secretary</id>
+        <id>801</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-11-05</start-date>
@@ -909,7 +909,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-802-secretary</id>
+        <id>802</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-11-06</start-date>
@@ -923,7 +923,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-803-secretary</id>
+        <id>803</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1955-12-14</start-date>
@@ -937,7 +937,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-804-secretary</id>
+        <id>804</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-03</start-date>
@@ -951,7 +951,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-805-secretary</id>
+        <id>805</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-05</start-date>
@@ -965,7 +965,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-806-secretary</id>
+        <id>806</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-09</start-date>
@@ -979,7 +979,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-807-secretary</id>
+        <id>807</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-11</start-date>
@@ -993,7 +993,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-808-secretary</id>
+        <id>808</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-12</start-date>
@@ -1007,7 +1007,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-809-secretary</id>
+        <id>809</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-13</start-date>
@@ -1021,7 +1021,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-810-secretary</id>
+        <id>810</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-14</start-date>
@@ -1035,7 +1035,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-811-secretary</id>
+        <id>811</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-15</start-date>
@@ -1049,7 +1049,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-812-secretary</id>
+        <id>812</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-16</start-date>
@@ -1063,7 +1063,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-813-secretary</id>
+        <id>813</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-17</start-date>
@@ -1077,7 +1077,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-814-secretary</id>
+        <id>814</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-03-18</start-date>
@@ -1091,7 +1091,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-815-secretary</id>
+        <id>815</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-05-02</start-date>
@@ -1105,7 +1105,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-816-secretary</id>
+        <id>816</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-07-21</start-date>
@@ -1120,7 +1120,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-817-secretary</id>
+        <id>817</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-07-24</start-date>
@@ -1134,7 +1134,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-818-secretary</id>
+        <id>818</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-07-25</start-date>
@@ -1148,7 +1148,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-819-secretary</id>
+        <id>819</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-07-26</start-date>
@@ -1162,7 +1162,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-820-secretary</id>
+        <id>820</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-08-01</start-date>
@@ -1177,7 +1177,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-821-secretary</id>
+        <id>821</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-08-15</start-date>
@@ -1191,7 +1191,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-822-secretary</id>
+        <id>822</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-09-18</start-date>
@@ -1205,7 +1205,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-823-secretary</id>
+        <id>823</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1956-12-09</start-date>
@@ -1219,7 +1219,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-824-secretary</id>
+        <id>824</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1957-03-09</start-date>
@@ -1234,7 +1234,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-825-secretary</id>
+        <id>825</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1957-03-21</start-date>
@@ -1249,7 +1249,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-826-secretary</id>
+        <id>826</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1957-05-02</start-date>
@@ -1263,7 +1263,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-827-secretary</id>
+        <id>827</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1957-05-05</start-date>
@@ -1278,7 +1278,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-828-secretary</id>
+        <id>828</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1957-07-26</start-date>
@@ -1293,7 +1293,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-829-secretary</id>
+        <id>829</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1957-07-29</start-date>
@@ -1307,7 +1307,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-830-secretary</id>
+        <id>830</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1957-12-13</start-date>
@@ -1321,7 +1321,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-831-secretary</id>
+        <id>831</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1957-12-20</start-date>
@@ -1336,7 +1336,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-832-secretary</id>
+        <id>832</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-01-23</start-date>
@@ -1351,7 +1351,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-833-secretary</id>
+        <id>833</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-01-24</start-date>
@@ -1365,7 +1365,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-834-secretary</id>
+        <id>834</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-01-26</start-date>
@@ -1379,7 +1379,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-835-secretary</id>
+        <id>835</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-03-10</start-date>
@@ -1394,7 +1394,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-836-secretary</id>
+        <id>836</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-03-14</start-date>
@@ -1409,7 +1409,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-837-secretary</id>
+        <id>837</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-05-03</start-date>
@@ -1423,7 +1423,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-838-secretary</id>
+        <id>838</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-05-08</start-date>
@@ -1437,7 +1437,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-839-secretary</id>
+        <id>839</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-05-08</start-date>
@@ -1452,7 +1452,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-840-secretary</id>
+        <id>840</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-07-04</start-date>
@@ -1466,7 +1466,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-841-secretary</id>
+        <id>841</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-07-08</start-date>
@@ -1480,7 +1480,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-842-secretary</id>
+        <id>842</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-07-26</start-date>
@@ -1494,7 +1494,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-843-secretary</id>
+        <id>843</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-07-26</start-date>
@@ -1508,7 +1508,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-844-secretary</id>
+        <id>844</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-08-04</start-date>
@@ -1522,7 +1522,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-845-secretary</id>
+        <id>845</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-10-18</start-date>
@@ -1536,7 +1536,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-846-secretary</id>
+        <id>846</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-10-19</start-date>
@@ -1550,7 +1550,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-847-secretary</id>
+        <id>847</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-10-19</start-date>
@@ -1564,7 +1564,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-848-secretary</id>
+        <id>848</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-10-21</start-date>
@@ -1578,7 +1578,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-849-secretary</id>
+        <id>849</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-11-30</start-date>
@@ -1592,7 +1592,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-850-secretary</id>
+        <id>850</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-12-13</start-date>
@@ -1606,7 +1606,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-851-secretary</id>
+        <id>851</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1958-12-19</start-date>
@@ -1620,7 +1620,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-852-secretary</id>
+        <id>852</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1959-02-04</start-date>
@@ -1634,7 +1634,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-853-secretary</id>
+        <id>853</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1959-02-06</start-date>
@@ -1649,7 +1649,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="dulles-john-foster" role="secretary">
-        <id>Travel-854-secretary</id>
+        <id>854</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
         <start-date>1959-02-07</start-date>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="byrnes-james-francis" role="secretary">
-        <id>Travel-487-secretary</id>
+        <id>487</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
         <start-date>1945-07-15</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
-        <id>Travel-488-secretary</id>
+        <id>488</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
         <start-date>1945-07-17</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
-        <id>Travel-489-secretary</id>
+        <id>489</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
         <start-date>1945-08-02</start-date>
@@ -45,7 +45,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
-        <id>Travel-490-secretary</id>
+        <id>490</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
         <start-date>1945-09-05</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
-        <id>Travel-491-secretary</id>
+        <id>491</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
         <start-date>1945-12-14</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
-        <id>Travel-492-secretary</id>
+        <id>492</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
         <start-date>1946-01-04</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
-        <id>Travel-493-secretary</id>
+        <id>493</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
         <start-date>1946-04-25</start-date>
@@ -101,7 +101,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
-        <id>Travel-494-secretary</id>
+        <id>494</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
         <start-date>1946-06-13</start-date>
@@ -116,7 +116,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
-        <id>Travel-495-secretary</id>
+        <id>495</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
         <start-date>1946-07-28</start-date>

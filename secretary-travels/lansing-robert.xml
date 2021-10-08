@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="lansing-robert" role="secretary">
-        <id>Travel-1206-secretary</id>
+        <id>1206</id>
         <role>secretary</role>
         <name>Robert Lansing</name>
         <start-date>1918-12-14</start-date>

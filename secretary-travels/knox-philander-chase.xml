@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1193-secretary</id>
+        <id>1193</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-02-27</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1194-secretary</id>
+        <id>1194</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-03-01</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1195-secretary</id>
+        <id>1195</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-03-05</start-date>
@@ -45,7 +45,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1196-secretary</id>
+        <id>1196</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-03-08</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1197-secretary</id>
+        <id>1197</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-03-10</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1198-secretary</id>
+        <id>1198</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-03-14</start-date>
@@ -88,7 +88,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1199-secretary</id>
+        <id>1199</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-03-22</start-date>
@@ -103,7 +103,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1200-secretary</id>
+        <id>1200</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-03-27</start-date>
@@ -117,7 +117,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1201-secretary</id>
+        <id>1201</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-03-30</start-date>
@@ -131,7 +131,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1202-secretary</id>
+        <id>1202</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-04-03</start-date>
@@ -145,7 +145,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1203-secretary</id>
+        <id>1203</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-04-05</start-date>
@@ -160,7 +160,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1204-secretary</id>
+        <id>1204</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-04-08</start-date>
@@ -174,7 +174,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="knox-philander-chase" role="secretary">
-        <id>Travel-1205-secretary</id>
+        <id>1205</id>
         <role>secretary</role>
         <name>Philander Chase Knox</name>
         <start-date>1912-09-09</start-date>

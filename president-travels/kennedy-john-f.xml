@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2777-president</id>
+        <id>2777</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1961-05-16</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2778-president</id>
+        <id>2778</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1961-05-31</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2779-president</id>
+        <id>2779</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1961-06-03</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2780-president</id>
+        <id>2780</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1961-06-04</start-date>
@@ -58,7 +58,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2781-president</id>
+        <id>2781</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1961-12-16</start-date>
@@ -72,7 +72,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2782-president</id>
+        <id>2782</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1961-12-17</start-date>
@@ -86,7 +86,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2783-president</id>
+        <id>2783</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1961-12-21</start-date>
@@ -100,7 +100,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2784-president</id>
+        <id>2784</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1962-06-29</start-date>
@@ -114,7 +114,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2785-president</id>
+        <id>2785</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1962-12-18</start-date>
@@ -129,7 +129,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2786-president</id>
+        <id>2786</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1963-03-18</start-date>
@@ -143,7 +143,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2787-president</id>
+        <id>2787</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1963-06-23</start-date>
@@ -157,7 +157,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2788-president</id>
+        <id>2788</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1963-06-26</start-date>
@@ -171,7 +171,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2789-president</id>
+        <id>2789</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1963-06-26</start-date>
@@ -185,7 +185,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2790-president</id>
+        <id>2790</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1963-06-29</start-date>
@@ -199,7 +199,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2791-president</id>
+        <id>2791</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1963-07-01</start-date>
@@ -213,7 +213,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kennedy-john-f" role="president">
-        <id>Travel-2792-president</id>
+        <id>2792</id>
         <role>president</role>
         <name>John F. Kennedy</name>
         <start-date>1963-07-02</start-date>

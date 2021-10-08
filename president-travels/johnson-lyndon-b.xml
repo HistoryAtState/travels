@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2793-president</id>
+        <id>2793</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1964-09-16</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2794-president</id>
+        <id>2794</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-04-14</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2795-president</id>
+        <id>2795</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-08-21</start-date>
@@ -45,7 +45,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2796-president</id>
+        <id>2796</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-10-19</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2797-president</id>
+        <id>2797</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-10-20</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2798-president</id>
+        <id>2798</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-10-24</start-date>
@@ -88,7 +88,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2799-president</id>
+        <id>2799</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-10-26</start-date>
@@ -102,7 +102,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2800-president</id>
+        <id>2800</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-10-27</start-date>
@@ -116,7 +116,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2801-president</id>
+        <id>2801</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-10-30</start-date>
@@ -130,7 +130,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2802-president</id>
+        <id>2802</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-10-31</start-date>
@@ -144,7 +144,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2803-president</id>
+        <id>2803</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1966-12-03</start-date>
@@ -159,7 +159,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2804-president</id>
+        <id>2804</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-04-11</start-date>
@@ -173,7 +173,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2805-president</id>
+        <id>2805</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-04-14</start-date>
@@ -187,7 +187,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2806-president</id>
+        <id>2806</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-04-23</start-date>
@@ -202,7 +202,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2807-president</id>
+        <id>2807</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-05-25</start-date>
@@ -216,7 +216,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2808-president</id>
+        <id>2808</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-10-28</start-date>
@@ -231,7 +231,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2809-president</id>
+        <id>2809</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-12-21</start-date>
@@ -246,7 +246,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2810-president</id>
+        <id>2810</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-12-23</start-date>
@@ -260,7 +260,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2811-president</id>
+        <id>2811</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-12-23</start-date>
@@ -274,7 +274,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2812-president</id>
+        <id>2812</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-12-23</start-date>
@@ -288,7 +288,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2813-president</id>
+        <id>2813</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-12-23</start-date>
@@ -302,7 +302,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2814-president</id>
+        <id>2814</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1967-12-23</start-date>
@@ -316,7 +316,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2815-president</id>
+        <id>2815</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1968-07-08</start-date>
@@ -330,7 +330,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2816-president</id>
+        <id>2816</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1968-07-08</start-date>
@@ -344,7 +344,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2817-president</id>
+        <id>2817</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1968-07-08</start-date>
@@ -358,7 +358,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2818-president</id>
+        <id>2818</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1968-07-08</start-date>
@@ -372,7 +372,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="johnson-lyndon-b" role="president">
-        <id>Travel-2819-president</id>
+        <id>2819</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
         <start-date>1968-07-08</start-date>

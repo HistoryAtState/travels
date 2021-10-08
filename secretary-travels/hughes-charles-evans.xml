@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="hughes-charles-evans" role="secretary">
-        <id>Travel-935-secretary</id>
+        <id>935</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
         <start-date>1922-02-17</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
-        <id>Travel-936-secretary</id>
+        <id>936</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
         <start-date>1922-09-05</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
-        <id>Travel-937-secretary</id>
+        <id>937</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
         <start-date>1923-09-04</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
-        <id>Travel-938-secretary</id>
+        <id>938</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
         <start-date>1924-07-19</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
-        <id>Travel-939-secretary</id>
+        <id>939</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
         <start-date>1924-07-28</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
-        <id>Travel-940-secretary</id>
+        <id>940</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
         <start-date>1924-07-31</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hughes-charles-evans" role="secretary">
-        <id>Travel-941-secretary</id>
+        <id>941</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
         <start-date>1924-08-03</start-date>

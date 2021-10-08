@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-942-secretary</id>
+        <id>942</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1933-06-08</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-943-secretary</id>
+        <id>943</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1933-11-24</start-date>
@@ -32,7 +32,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-944-secretary</id>
+        <id>944</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1933-11-28</start-date>
@@ -46,7 +46,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-945-secretary</id>
+        <id>945</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1933-12-27</start-date>
@@ -61,7 +61,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-946-secretary</id>
+        <id>946</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1934-01-01</start-date>
@@ -76,7 +76,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-947-secretary</id>
+        <id>947</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1934-01-09</start-date>
@@ -91,7 +91,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-948-secretary</id>
+        <id>948</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1934-01-13</start-date>
@@ -105,7 +105,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-949-secretary</id>
+        <id>949</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1934-01-15</start-date>
@@ -119,7 +119,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-950-secretary</id>
+        <id>950</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1934-01-17</start-date>
@@ -134,7 +134,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-951-secretary</id>
+        <id>951</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1936-11-19</start-date>
@@ -149,7 +149,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-952-secretary</id>
+        <id>952</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1936-11-24</start-date>
@@ -163,7 +163,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-953-secretary</id>
+        <id>953</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1936-11-25</start-date>
@@ -177,7 +177,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-954-secretary</id>
+        <id>954</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1936-12-29</start-date>
@@ -192,7 +192,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-955-secretary</id>
+        <id>955</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1937-01-08</start-date>
@@ -206,7 +206,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-956-secretary</id>
+        <id>956</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1937-10-22</start-date>
@@ -220,7 +220,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-957-secretary</id>
+        <id>957</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1938-11-30</start-date>
@@ -235,7 +235,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-958-secretary</id>
+        <id>958</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1938-12-02</start-date>
@@ -249,7 +249,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-959-secretary</id>
+        <id>959</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1938-12-04</start-date>
@@ -263,7 +263,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-960-secretary</id>
+        <id>960</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1938-12-07</start-date>
@@ -277,7 +277,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-961-secretary</id>
+        <id>961</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1938-12-30</start-date>
@@ -291,7 +291,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-962-secretary</id>
+        <id>962</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1939-01-01</start-date>
@@ -305,7 +305,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-963-secretary</id>
+        <id>963</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1939-01-03</start-date>
@@ -319,7 +319,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-964-secretary</id>
+        <id>964</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1940-07-20</start-date>
@@ -334,7 +334,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-965-secretary</id>
+        <id>965</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1943-08-20</start-date>
@@ -348,7 +348,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-966-secretary</id>
+        <id>966</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1943-10-15</start-date>
@@ -362,7 +362,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-967-secretary</id>
+        <id>967</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1943-10-15</start-date>
@@ -376,7 +376,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-968-secretary</id>
+        <id>968</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1943-10-16</start-date>
@@ -390,7 +390,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-969-secretary</id>
+        <id>969</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1943-10-17</start-date>
@@ -405,7 +405,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hull-cordell" role="secretary">
-        <id>Travel-970-secretary</id>
+        <id>970</id>
         <role>secretary</role>
         <name>Cordell Hull</name>
         <start-date>1943-10-18</start-date>

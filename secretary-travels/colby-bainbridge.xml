@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="colby-bainbridge" role="secretary">
-        <id>Travel-733-secretary</id>
+        <id>733</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
         <start-date>1920-12-10</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
-        <id>Travel-734-secretary</id>
+        <id>734</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
         <start-date>1920-12-21</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
-        <id>Travel-735-secretary</id>
+        <id>735</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
         <start-date>1920-12-28</start-date>
@@ -45,7 +45,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
-        <id>Travel-736-secretary</id>
+        <id>736</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
         <start-date>1921-01-01</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="colby-bainbridge" role="secretary">
-        <id>Travel-737-secretary</id>
+        <id>737</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
         <start-date>1921-01-19</start-date>

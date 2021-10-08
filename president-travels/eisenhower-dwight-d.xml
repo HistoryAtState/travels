@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2740-president</id>
+        <id>2740</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1952-12-02</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2741-president</id>
+        <id>2741</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1953-10-19</start-date>
@@ -29,7 +29,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2742-president</id>
+        <id>2742</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1953-11-13</start-date>
@@ -43,7 +43,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2743-president</id>
+        <id>2743</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1953-12-04</start-date>
@@ -58,7 +58,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2744-president</id>
+        <id>2744</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1955-07-16</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2745-president</id>
+        <id>2745</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1956-07-21</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2746-president</id>
+        <id>2746</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1957-03-20</start-date>
@@ -101,7 +101,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2747-president</id>
+        <id>2747</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1957-12-14</start-date>
@@ -115,7 +115,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2748-president</id>
+        <id>2748</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1958-07-08</start-date>
@@ -129,7 +129,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2749-president</id>
+        <id>2749</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-02-19</start-date>
@@ -143,7 +143,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2750-president</id>
+        <id>2750</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-06-26</start-date>
@@ -157,7 +157,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2751-president</id>
+        <id>2751</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-08-26</start-date>
@@ -171,7 +171,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2752-president</id>
+        <id>2752</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-08-27</start-date>
@@ -185,7 +185,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2753-president</id>
+        <id>2753</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-09-02</start-date>
@@ -200,7 +200,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2754-president</id>
+        <id>2754</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-09-04</start-date>
@@ -214,7 +214,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2755-president</id>
+        <id>2755</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-04</start-date>
@@ -228,7 +228,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2756-president</id>
+        <id>2756</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-06</start-date>
@@ -242,7 +242,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2757-president</id>
+        <id>2757</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-06</start-date>
@@ -256,7 +256,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2758-president</id>
+        <id>2758</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-07</start-date>
@@ -270,7 +270,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2759-president</id>
+        <id>2759</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-09</start-date>
@@ -284,7 +284,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2760-president</id>
+        <id>2760</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-09</start-date>
@@ -298,7 +298,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2761-president</id>
+        <id>2761</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-14</start-date>
@@ -312,7 +312,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2762-president</id>
+        <id>2762</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-14</start-date>
@@ -327,7 +327,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2763-president</id>
+        <id>2763</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-17</start-date>
@@ -341,7 +341,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2764-president</id>
+        <id>2764</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-18</start-date>
@@ -356,7 +356,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2765-president</id>
+        <id>2765</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-21</start-date>
@@ -370,7 +370,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2766-president</id>
+        <id>2766</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1959-12-22</start-date>
@@ -384,7 +384,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2767-president</id>
+        <id>2767</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-02-23</start-date>
@@ -398,7 +398,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2768-president</id>
+        <id>2768</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-02-26</start-date>
@@ -412,7 +412,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2769-president</id>
+        <id>2769</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-02-29</start-date>
@@ -426,7 +426,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2770-president</id>
+        <id>2770</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-03-02</start-date>
@@ -441,7 +441,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2771-president</id>
+        <id>2771</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-05-15</start-date>
@@ -456,7 +456,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2772-president</id>
+        <id>2772</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-05-19</start-date>
@@ -470,7 +470,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2773-president</id>
+        <id>2773</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-06-14</start-date>
@@ -485,7 +485,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2774-president</id>
+        <id>2774</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-06-18</start-date>
@@ -499,7 +499,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2775-president</id>
+        <id>2775</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-06-19</start-date>
@@ -513,7 +513,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="eisenhower-dwight-d" role="president">
-        <id>Travel-2776-president</id>
+        <id>2776</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
         <start-date>1960-10-24</start-date>
