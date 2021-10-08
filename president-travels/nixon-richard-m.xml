@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="nixon-richard-m" role="president">
-        <id>2820</id>
+        <id>Travel-2820-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-02-23</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2821</id>
+        <id>Travel-2821-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-02-24</start-date>
@@ -29,7 +29,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2822</id>
+        <id>Travel-2822-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-02-26</start-date>
@@ -43,7 +43,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2823</id>
+        <id>Travel-2823-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-02-27</start-date>
@@ -57,7 +57,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2824</id>
+        <id>Travel-2824-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-02-28</start-date>
@@ -71,7 +71,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2825</id>
+        <id>Travel-2825-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-03-02</start-date>
@@ -85,7 +85,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2826</id>
+        <id>Travel-2826-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-07-26</start-date>
@@ -99,7 +99,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2827</id>
+        <id>Travel-2827-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-07-27</start-date>
@@ -113,7 +113,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2828</id>
+        <id>Travel-2828-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-07-28</start-date>
@@ -127,7 +127,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2829</id>
+        <id>Travel-2829-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-07-30</start-date>
@@ -141,7 +141,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2830</id>
+        <id>Travel-2830-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-07-31</start-date>
@@ -155,7 +155,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2831</id>
+        <id>Travel-2831-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-08-01</start-date>
@@ -169,7 +169,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2832</id>
+        <id>Travel-2832-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-08-02</start-date>
@@ -183,7 +183,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2833</id>
+        <id>Travel-2833-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-08-03</start-date>
@@ -197,7 +197,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2834</id>
+        <id>Travel-2834-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1969-09-08</start-date>
@@ -211,7 +211,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2835</id>
+        <id>Travel-2835-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1970-08-20</start-date>
@@ -225,7 +225,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2836</id>
+        <id>Travel-2836-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1970-09-27</start-date>
@@ -240,7 +240,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2837</id>
+        <id>Travel-2837-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1970-09-28</start-date>
@@ -254,7 +254,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2838</id>
+        <id>Travel-2838-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1970-09-30</start-date>
@@ -268,7 +268,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2839</id>
+        <id>Travel-2839-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1970-10-02</start-date>
@@ -282,7 +282,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2840</id>
+        <id>Travel-2840-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1970-10-03</start-date>
@@ -296,7 +296,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2841</id>
+        <id>Travel-2841-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1970-10-03</start-date>
@@ -310,7 +310,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2842</id>
+        <id>Travel-2842-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1970-11-12</start-date>
@@ -324,7 +324,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2843</id>
+        <id>Travel-2843-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1971-12-13</start-date>
@@ -339,7 +339,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2844</id>
+        <id>Travel-2844-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1971-12-20</start-date>
@@ -353,7 +353,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2845</id>
+        <id>Travel-2845-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1972-02-21</start-date>
@@ -367,7 +367,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2846</id>
+        <id>Travel-2846-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1972-04-13</start-date>
@@ -382,7 +382,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2847</id>
+        <id>Travel-2847-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1972-05-20</start-date>
@@ -396,7 +396,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2848</id>
+        <id>Travel-2848-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1972-05-22</start-date>
@@ -411,7 +411,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2849</id>
+        <id>Travel-2849-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1972-05-30</start-date>
@@ -425,7 +425,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2850</id>
+        <id>Travel-2850-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1972-05-31</start-date>
@@ -439,7 +439,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2851</id>
+        <id>Travel-2851-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1973-05-31</start-date>
@@ -454,7 +454,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2852</id>
+        <id>Travel-2852-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-04-05</start-date>
@@ -471,7 +471,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2853</id>
+        <id>Travel-2853-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-06-10</start-date>
@@ -485,7 +485,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2854</id>
+        <id>Travel-2854-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-06-12</start-date>
@@ -499,7 +499,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2855</id>
+        <id>Travel-2855-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-06-14</start-date>
@@ -513,7 +513,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2856</id>
+        <id>Travel-2856-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-06-15</start-date>
@@ -527,7 +527,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2857</id>
+        <id>Travel-2857-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-06-16</start-date>
@@ -541,7 +541,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2858</id>
+        <id>Travel-2858-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-06-17</start-date>
@@ -555,7 +555,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2859</id>
+        <id>Travel-2859-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-06-18</start-date>
@@ -569,7 +569,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2860</id>
+        <id>Travel-2860-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-06-25</start-date>
@@ -585,7 +585,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="nixon-richard-m" role="president">
-        <id>2861</id>
+        <id>Travel-2861-president</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
         <start-date>1974-06-27</start-date>

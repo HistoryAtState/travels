@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="obama-barack" role="president">
-        <id>2961</id>
+        <id>Travel-2961-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-02-19</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2962</id>
+        <id>Travel-2962-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-03-31</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2963</id>
+        <id>Travel-2963-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-04-03</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2964</id>
+        <id>Travel-2964-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-04-03</start-date>
@@ -58,7 +58,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2965</id>
+        <id>Travel-2965-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-04-04</start-date>
@@ -72,7 +72,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2966</id>
+        <id>Travel-2966-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-04-05</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2967</id>
+        <id>Travel-2967-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-04-07</start-date>
@@ -101,7 +101,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2968</id>
+        <id>Travel-2968-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-04-16</start-date>
@@ -115,7 +115,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2969</id>
+        <id>Travel-2969-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-04-17</start-date>
@@ -129,7 +129,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2970</id>
+        <id>Travel-2970-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-06-03</start-date>
@@ -143,7 +143,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2971</id>
+        <id>Travel-2971-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-06-04</start-date>
@@ -157,7 +157,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2972</id>
+        <id>Travel-2972-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-06-04</start-date>
@@ -172,7 +172,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2973</id>
+        <id>Travel-2973-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-06-05</start-date>
@@ -187,7 +187,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2974</id>
+        <id>Travel-2974-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-07-06</start-date>
@@ -201,7 +201,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2975</id>
+        <id>Travel-2975-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-07-08</start-date>
@@ -217,7 +217,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2976</id>
+        <id>Travel-2976-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-07-10</start-date>
@@ -231,7 +231,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2977</id>
+        <id>Travel-2977-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-07-10</start-date>
@@ -245,7 +245,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2978</id>
+        <id>Travel-2978-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-08-09</start-date>
@@ -259,7 +259,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2979</id>
+        <id>Travel-2979-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-10-02</start-date>
@@ -274,7 +274,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2980</id>
+        <id>Travel-2980-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-11-13</start-date>
@@ -288,7 +288,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2981</id>
+        <id>Travel-2981-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-11-14</start-date>
@@ -302,7 +302,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2982</id>
+        <id>Travel-2982-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-11-15</start-date>
@@ -317,7 +317,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2983</id>
+        <id>Travel-2983-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-11-18</start-date>
@@ -331,7 +331,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2984</id>
+        <id>Travel-2984-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-12-10</start-date>
@@ -345,7 +345,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>2985</id>
+        <id>Travel-2985-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2009-12-18</start-date>
@@ -359,7 +359,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3038</id>
+        <id>Travel-3038-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2010-03-28</start-date>
@@ -373,7 +373,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3039</id>
+        <id>Travel-3039-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2010-04-08</start-date>
@@ -390,7 +390,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3040</id>
+        <id>Travel-3040-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2010-06-25</start-date>
@@ -404,7 +404,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3041</id>
+        <id>Travel-3041-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2010-11-06</start-date>
@@ -419,7 +419,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3042</id>
+        <id>Travel-3042-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2010-11-09</start-date>
@@ -433,7 +433,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3043</id>
+        <id>Travel-3043-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2010-11-10</start-date>
@@ -447,7 +447,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3044</id>
+        <id>Travel-3044-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2010-11-12</start-date>
@@ -461,7 +461,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3045</id>
+        <id>Travel-3045-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2010-11-19</start-date>
@@ -475,7 +475,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3046</id>
+        <id>Travel-3046-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2010-12-03</start-date>
@@ -490,7 +490,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3047</id>
+        <id>Travel-3047-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-03-19</start-date>
@@ -504,7 +504,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3048</id>
+        <id>Travel-3048-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-03-21</start-date>
@@ -518,7 +518,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3049</id>
+        <id>Travel-3049-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-03-22</start-date>
@@ -532,7 +532,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3050</id>
+        <id>Travel-3050-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-05-23</start-date>
@@ -547,7 +547,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3051</id>
+        <id>Travel-3051-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-05-23</start-date>
@@ -562,7 +562,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3052</id>
+        <id>Travel-3052-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-05-26</start-date>
@@ -576,7 +576,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3053</id>
+        <id>Travel-3053-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-05-27</start-date>
@@ -590,7 +590,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3054</id>
+        <id>Travel-3054-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-11-03</start-date>
@@ -604,7 +604,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3055</id>
+        <id>Travel-3055-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-11-16</start-date>
@@ -619,7 +619,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3056</id>
+        <id>Travel-3056-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2011-11-17</start-date>
@@ -633,7 +633,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3204</id>
+        <id>Travel-3204-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2012-03-25</start-date>
@@ -648,7 +648,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3205</id>
+        <id>Travel-3205-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2012-04-13</start-date>
@@ -662,7 +662,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3206</id>
+        <id>Travel-3206-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2012-05-01</start-date>
@@ -677,7 +677,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3207</id>
+        <id>Travel-3207-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2012-06-17</start-date>
@@ -691,7 +691,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3208</id>
+        <id>Travel-3208-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2012-11-18</start-date>
@@ -705,7 +705,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3209</id>
+        <id>Travel-3209-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2012-11-19</start-date>
@@ -720,7 +720,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3210</id>
+        <id>Travel-3210-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2012-11-19</start-date>
@@ -735,7 +735,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3392</id>
+        <id>Travel-3392-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-03-20</start-date>
@@ -749,7 +749,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3393</id>
+        <id>Travel-3393-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-03-21</start-date>
@@ -763,7 +763,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3394</id>
+        <id>Travel-3394-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-03-22</start-date>
@@ -777,7 +777,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3395</id>
+        <id>Travel-3395-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-05-02</start-date>
@@ -791,7 +791,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3396</id>
+        <id>Travel-3396-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-05-03</start-date>
@@ -806,7 +806,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3397</id>
+        <id>Travel-3397-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-06-16</start-date>
@@ -820,7 +820,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3398</id>
+        <id>Travel-3398-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-06-18</start-date>
@@ -834,7 +834,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3399</id>
+        <id>Travel-3399-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-06-26</start-date>
@@ -848,7 +848,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3400</id>
+        <id>Travel-3400-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-06-28</start-date>
@@ -863,7 +863,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3401</id>
+        <id>Travel-3401-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-07-01</start-date>
@@ -878,7 +878,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3402</id>
+        <id>Travel-3402-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-07-02</start-date>
@@ -892,7 +892,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3403</id>
+        <id>Travel-3403-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-09-04</start-date>
@@ -906,7 +906,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3808</id>
+        <id>Travel-3808-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-09-05</start-date>
@@ -920,7 +920,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3809</id>
+        <id>Travel-3809-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2013-09-05</start-date>
@@ -934,7 +934,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3489</id>
+        <id>Travel-3489-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-02-14</start-date>
@@ -948,7 +948,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3490</id>
+        <id>Travel-3490-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-03-24</start-date>
@@ -964,7 +964,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3491</id>
+        <id>Travel-3491-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-03-25</start-date>
@@ -979,7 +979,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3492</id>
+        <id>Travel-3492-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-03-26</start-date>
@@ -994,7 +994,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3493</id>
+        <id>Travel-3493-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-03-27</start-date>
@@ -1009,7 +1009,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3494</id>
+        <id>Travel-3494-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-03-28</start-date>
@@ -1023,7 +1023,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3495</id>
+        <id>Travel-3495-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-03-29</start-date>
@@ -1037,7 +1037,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3496</id>
+        <id>Travel-3496-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-04-22</start-date>
@@ -1052,7 +1052,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3497</id>
+        <id>Travel-3497-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-04-25</start-date>
@@ -1067,7 +1067,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3498</id>
+        <id>Travel-3498-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-04-26</start-date>
@@ -1082,7 +1082,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3499</id>
+        <id>Travel-3499-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-04-28</start-date>
@@ -1097,7 +1097,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3500</id>
+        <id>Travel-3500-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-05-25</start-date>
@@ -1111,7 +1111,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3501</id>
+        <id>Travel-3501-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-05-26</start-date>
@@ -1125,7 +1125,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3502</id>
+        <id>Travel-3502-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-06-03</start-date>
@@ -1140,7 +1140,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3503</id>
+        <id>Travel-3503-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-06-04</start-date>
@@ -1155,7 +1155,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3504</id>
+        <id>Travel-3504-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-06-05</start-date>
@@ -1171,7 +1171,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3505</id>
+        <id>Travel-3505-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-09-03</start-date>
@@ -1185,7 +1185,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3506</id>
+        <id>Travel-3506-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-09-03</start-date>
@@ -1199,7 +1199,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3507</id>
+        <id>Travel-3507-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-11-10</start-date>
@@ -1214,7 +1214,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3508</id>
+        <id>Travel-3508-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-11-12</start-date>
@@ -1229,7 +1229,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3509</id>
+        <id>Travel-3509-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2014-11-15</start-date>
@@ -1243,7 +1243,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3510</id>
+        <id>Travel-3510-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-01-24</start-date>
@@ -1257,7 +1257,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3511</id>
+        <id>Travel-3511-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-01-24</start-date>
@@ -1271,7 +1271,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3512</id>
+        <id>Travel-3512-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-01-27</start-date>
@@ -1285,7 +1285,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3513</id>
+        <id>Travel-3513-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-01-27</start-date>
@@ -1299,7 +1299,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3514</id>
+        <id>Travel-3514-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-04-08</start-date>
@@ -1313,7 +1313,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3515</id>
+        <id>Travel-3515-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-04-09</start-date>
@@ -1327,7 +1327,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3516</id>
+        <id>Travel-3516-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-06-07</start-date>
@@ -1341,7 +1341,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3517</id>
+        <id>Travel-3517-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-07-24</start-date>
@@ -1355,7 +1355,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3518</id>
+        <id>Travel-3518-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-07-24</start-date>
@@ -1370,7 +1370,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3519</id>
+        <id>Travel-3519-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-07-26</start-date>
@@ -1385,7 +1385,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3520</id>
+        <id>Travel-3520-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-07-28</start-date>
@@ -1399,7 +1399,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3521</id>
+        <id>Travel-3521-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-11-15</start-date>
@@ -1413,7 +1413,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3522</id>
+        <id>Travel-3522-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-11-17</start-date>
@@ -1428,7 +1428,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3523</id>
+        <id>Travel-3523-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-11-20</start-date>
@@ -1442,7 +1442,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3524</id>
+        <id>Travel-3524-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2015-11-30</start-date>
@@ -1456,7 +1456,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3696</id>
+        <id>Travel-3696-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-03-20</start-date>
@@ -1470,7 +1470,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3697</id>
+        <id>Travel-3697-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-03-23</start-date>
@@ -1484,7 +1484,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3698</id>
+        <id>Travel-3698-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-04-19</start-date>
@@ -1498,7 +1498,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3699</id>
+        <id>Travel-3699-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-04-20</start-date>
@@ -1513,7 +1513,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3700</id>
+        <id>Travel-3700-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-04-21</start-date>
@@ -1527,7 +1527,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3701</id>
+        <id>Travel-3701-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-04-24</start-date>
@@ -1542,7 +1542,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3702</id>
+        <id>Travel-3702-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-05-22</start-date>
@@ -1556,7 +1556,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3703</id>
+        <id>Travel-3703-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-05-23</start-date>
@@ -1570,7 +1570,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3704</id>
+        <id>Travel-3704-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-05-25</start-date>
@@ -1585,7 +1585,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3705</id>
+        <id>Travel-3705-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-06-29</start-date>
@@ -1599,7 +1599,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3706</id>
+        <id>Travel-3706-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-07-07</start-date>
@@ -1614,7 +1614,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3707</id>
+        <id>Travel-3707-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-07-09</start-date>
@@ -1629,7 +1629,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3708</id>
+        <id>Travel-3708-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-09-03</start-date>
@@ -1643,7 +1643,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3709</id>
+        <id>Travel-3709-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-09-05</start-date>
@@ -1658,7 +1658,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3710</id>
+        <id>Travel-3710-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-09-09</start-date>
@@ -1672,7 +1672,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3711</id>
+        <id>Travel-3711-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-09-30</start-date>
@@ -1686,7 +1686,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3712</id>
+        <id>Travel-3712-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-11-15</start-date>
@@ -1701,7 +1701,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3713</id>
+        <id>Travel-3713-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-11-16</start-date>
@@ -1717,7 +1717,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="obama-barack" role="president">
-        <id>3714</id>
+        <id>Travel-3714-president</id>
         <role>president</role>
         <name>Barack Obama</name>
         <start-date>2016-11-18</start-date>

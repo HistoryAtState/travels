@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1221</id>
+        <id>Travel-1221-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-05-13</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1222</id>
+        <id>Travel-1222-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-05-15</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1223</id>
+        <id>Travel-1223-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-06-19</start-date>
@@ -45,7 +45,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1224</id>
+        <id>Travel-1224-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-06-21</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1225</id>
+        <id>Travel-1225-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-06-25</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1226</id>
+        <id>Travel-1226-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-06-27</start-date>
@@ -87,7 +87,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1227</id>
+        <id>Travel-1227-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-07-09</start-date>
@@ -102,7 +102,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1228</id>
+        <id>Travel-1228-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-11-29</start-date>
@@ -116,7 +116,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1229</id>
+        <id>Travel-1229-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-12-10</start-date>
@@ -130,7 +130,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="muskie-edmund-sixtus" role="secretary">
-        <id>1230</id>
+        <id>Travel-1230-secretary</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
         <start-date>1980-12-12</start-date>

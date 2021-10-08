@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="kellogg-frank-billings" role="secretary">
-        <id>971</id>
+        <id>Travel-971-secretary</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
         <start-date>1927-08-07</start-date>
@@ -16,7 +16,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
-        <id>972</id>
+        <id>Travel-972-secretary</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
         <start-date>1928-01-15</start-date>
@@ -31,7 +31,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
-        <id>973</id>
+        <id>Travel-973-secretary</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
         <start-date>1928-02-08</start-date>
@@ -45,7 +45,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
-        <id>974</id>
+        <id>Travel-974-secretary</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
         <start-date>1928-08-24</start-date>
@@ -60,7 +60,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
-        <id>975</id>
+        <id>Travel-975-secretary</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
         <start-date>1928-08-30</start-date>
@@ -74,7 +74,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="kellogg-frank-billings" role="secretary">
-        <id>976</id>
+        <id>Travel-976-secretary</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
         <start-date>1928-09-04</start-date>

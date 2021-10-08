@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="reagan-ronald" role="president">
-        <id>2912</id>
+        <id>Travel-2912-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1981-01-05</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2913</id>
+        <id>Travel-2913-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1981-03-10</start-date>
@@ -29,7 +29,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2914</id>
+        <id>Travel-2914-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1981-07-19</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2915</id>
+        <id>Travel-2915-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1981-10-21</start-date>
@@ -61,7 +61,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2916</id>
+        <id>Travel-2916-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-04-07</start-date>
@@ -75,7 +75,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2917</id>
+        <id>Travel-2917-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-04-08</start-date>
@@ -91,7 +91,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2918</id>
+        <id>Travel-2918-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-06-02</start-date>
@@ -105,7 +105,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2919</id>
+        <id>Travel-2919-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-06-05</start-date>
@@ -120,7 +120,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2920</id>
+        <id>Travel-2920-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-06-07</start-date>
@@ -134,7 +134,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2921</id>
+        <id>Travel-2921-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-06-07</start-date>
@@ -148,7 +148,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2922</id>
+        <id>Travel-2922-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-06-07</start-date>
@@ -163,7 +163,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2923</id>
+        <id>Travel-2923-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-06-09</start-date>
@@ -178,7 +178,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2924</id>
+        <id>Travel-2924-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-06-11</start-date>
@@ -192,7 +192,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2925</id>
+        <id>Travel-2925-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-10-08</start-date>
@@ -206,7 +206,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2926</id>
+        <id>Travel-2926-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-11-30</start-date>
@@ -220,7 +220,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2927</id>
+        <id>Travel-2927-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-12-03</start-date>
@@ -234,7 +234,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2928</id>
+        <id>Travel-2928-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-12-03</start-date>
@@ -249,7 +249,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2929</id>
+        <id>Travel-2929-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1982-12-04</start-date>
@@ -264,7 +264,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2930</id>
+        <id>Travel-2930-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1983-08-14</start-date>
@@ -278,7 +278,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2931</id>
+        <id>Travel-2931-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1983-11-09</start-date>
@@ -293,7 +293,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2932</id>
+        <id>Travel-2932-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1983-11-12</start-date>
@@ -308,7 +308,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2933</id>
+        <id>Travel-2933-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1984-04-26</start-date>
@@ -322,7 +322,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2934</id>
+        <id>Travel-2934-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1984-06-01</start-date>
@@ -337,7 +337,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2935</id>
+        <id>Travel-2935-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1984-06-04</start-date>
@@ -353,7 +353,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2936</id>
+        <id>Travel-2936-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1984-06-06</start-date>
@@ -371,7 +371,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2937</id>
+        <id>Travel-2937-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1985-03-17</start-date>
@@ -385,7 +385,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2938</id>
+        <id>Travel-2938-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1985-04-30</start-date>
@@ -400,7 +400,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2939</id>
+        <id>Travel-2939-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1985-05-05</start-date>
@@ -415,7 +415,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2940</id>
+        <id>Travel-2940-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1985-05-06</start-date>
@@ -429,7 +429,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2941</id>
+        <id>Travel-2941-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1985-05-08</start-date>
@@ -443,7 +443,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2942</id>
+        <id>Travel-2942-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1985-05-08</start-date>
@@ -458,7 +458,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2943</id>
+        <id>Travel-2943-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1985-11-16</start-date>
@@ -473,7 +473,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2944</id>
+        <id>Travel-2944-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1985-11-21</start-date>
@@ -489,7 +489,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2945</id>
+        <id>Travel-2945-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1986-01-03</start-date>
@@ -503,7 +503,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2946</id>
+        <id>Travel-2946-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1986-02-20</start-date>
@@ -520,7 +520,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2947</id>
+        <id>Travel-2947-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1986-04-29</start-date>
@@ -535,7 +535,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2948</id>
+        <id>Travel-2948-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1986-05-02</start-date>
@@ -550,7 +550,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2949</id>
+        <id>Travel-2949-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1986-10-09</start-date>
@@ -565,7 +565,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2950</id>
+        <id>Travel-2950-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1987-04-04</start-date>
@@ -580,7 +580,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2951</id>
+        <id>Travel-2951-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1987-06-03</start-date>
@@ -597,7 +597,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2952</id>
+        <id>Travel-2952-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1987-06-06</start-date>
@@ -611,7 +611,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2953</id>
+        <id>Travel-2953-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1987-06-11</start-date>
@@ -625,7 +625,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2954</id>
+        <id>Travel-2954-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1987-06-12</start-date>
@@ -639,7 +639,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2955</id>
+        <id>Travel-2955-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1988-02-13</start-date>
@@ -653,7 +653,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2956</id>
+        <id>Travel-2956-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1988-03-01</start-date>
@@ -669,7 +669,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2957</id>
+        <id>Travel-2957-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1988-05-25</start-date>
@@ -684,7 +684,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2958</id>
+        <id>Travel-2958-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1988-05-29</start-date>
@@ -699,7 +699,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2959</id>
+        <id>Travel-2959-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1988-06-02</start-date>
@@ -714,7 +714,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="reagan-ronald" role="president">
-        <id>2960</id>
+        <id>Travel-2960-president</id>
         <role>president</role>
         <name>Ronald Reagan</name>
         <start-date>1988-06-19</start-date>

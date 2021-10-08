@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="truman-harry-s" role="president">
-        <id>2734</id>
+        <id>Travel-2734-president</id>
         <role>president</role>
         <name>Harry S Truman</name>
         <start-date>1945-07-15</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
-        <id>2735</id>
+        <id>Travel-2735-president</id>
         <role>president</role>
         <name>Harry S Truman</name>
         <start-date>1945-07-16</start-date>
@@ -30,7 +30,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
-        <id>2736</id>
+        <id>Travel-2736-president</id>
         <role>president</role>
         <name>Harry S Truman</name>
         <start-date>1945-08-02</start-date>
@@ -44,7 +44,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
-        <id>3203</id>
+        <id>Travel-3203-president</id>
         <role>president</role>
         <name>Harry S Truman</name>
         <start-date>1946-08-22</start-date>
@@ -59,7 +59,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
-        <id>2737</id>
+        <id>Travel-2737-president</id>
         <role>president</role>
         <name>Harry S Truman</name>
         <start-date>1947-03-03</start-date>
@@ -73,7 +73,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
-        <id>2738</id>
+        <id>Travel-2738-president</id>
         <role>president</role>
         <name>Harry S Truman</name>
         <start-date>1947-06-10</start-date>
@@ -88,7 +88,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="truman-harry-s" role="president">
-        <id>2739</id>
+        <id>Travel-2739-president</id>
         <role>president</role>
         <name>Harry S Truman</name>
         <start-date>1947-09-01</start-date>

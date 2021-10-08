@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="bush-george-h-w" role="president">
-        <id>2322</id>
+        <id>Travel-2322-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-02-10</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2323</id>
+        <id>Travel-2323-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-02-23</start-date>
@@ -33,7 +33,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2324</id>
+        <id>Travel-2324-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-02-25</start-date>
@@ -48,7 +48,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2325</id>
+        <id>Travel-2325-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-02-27</start-date>
@@ -62,7 +62,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2326</id>
+        <id>Travel-2326-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-05-26</start-date>
@@ -76,7 +76,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2327</id>
+        <id>Travel-2327-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-05-27</start-date>
@@ -90,7 +90,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2328</id>
+        <id>Travel-2328-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-05-28</start-date>
@@ -106,7 +106,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2329</id>
+        <id>Travel-2329-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-05-30</start-date>
@@ -120,7 +120,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2330</id>
+        <id>Travel-2330-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-05-31</start-date>
@@ -134,7 +134,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2331</id>
+        <id>Travel-2331-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-07-09</start-date>
@@ -149,7 +149,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2332</id>
+        <id>Travel-2332-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-07-11</start-date>
@@ -164,7 +164,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2333</id>
+        <id>Travel-2333-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-07-13</start-date>
@@ -181,7 +181,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2334</id>
+        <id>Travel-2334-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-07-17</start-date>
@@ -196,7 +196,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2335</id>
+        <id>Travel-2335-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-10-27</start-date>
@@ -210,7 +210,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2336</id>
+        <id>Travel-2336-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-12-01</start-date>
@@ -225,7 +225,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2337</id>
+        <id>Travel-2337-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-12-03</start-date>
@@ -240,7 +240,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2338</id>
+        <id>Travel-2338-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1989-12-16</start-date>
@@ -254,7 +254,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2339</id>
+        <id>Travel-2339-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-02-15</start-date>
@@ -269,7 +269,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2340</id>
+        <id>Travel-2340-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-04-10</start-date>
@@ -283,7 +283,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2341</id>
+        <id>Travel-2341-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-04-13</start-date>
@@ -297,7 +297,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2342</id>
+        <id>Travel-2342-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-07-05</start-date>
@@ -311,7 +311,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2343</id>
+        <id>Travel-2343-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-09-08</start-date>
@@ -326,7 +326,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2344</id>
+        <id>Travel-2344-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-11-17</start-date>
@@ -341,7 +341,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2345</id>
+        <id>Travel-2345-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-11-18</start-date>
@@ -355,7 +355,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2346</id>
+        <id>Travel-2346-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-11-18</start-date>
@@ -370,7 +370,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2347</id>
+        <id>Travel-2347-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-11-21</start-date>
@@ -385,7 +385,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2348</id>
+        <id>Travel-2348-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-11-22</start-date>
@@ -399,7 +399,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2349</id>
+        <id>Travel-2349-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-11-23</start-date>
@@ -413,7 +413,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2350</id>
+        <id>Travel-2350-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-11-26</start-date>
@@ -427,7 +427,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2351</id>
+        <id>Travel-2351-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-12-03</start-date>
@@ -442,7 +442,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2352</id>
+        <id>Travel-2352-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-12-04</start-date>
@@ -457,7 +457,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2353</id>
+        <id>Travel-2353-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-12-05</start-date>
@@ -472,7 +472,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2354</id>
+        <id>Travel-2354-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-12-06</start-date>
@@ -487,7 +487,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2355</id>
+        <id>Travel-2355-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1990-12-07</start-date>
@@ -501,7 +501,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2356</id>
+        <id>Travel-2356-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-03-13</start-date>
@@ -515,7 +515,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2357</id>
+        <id>Travel-2357-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-03-14</start-date>
@@ -529,7 +529,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2358</id>
+        <id>Travel-2358-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-03-14</start-date>
@@ -543,7 +543,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2359</id>
+        <id>Travel-2359-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-07-09</start-date>
@@ -557,7 +557,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2360</id>
+        <id>Travel-2360-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-07-14</start-date>
@@ -571,7 +571,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2361</id>
+        <id>Travel-2361-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-07-14</start-date>
@@ -587,7 +587,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2362</id>
+        <id>Travel-2362-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-07-18</start-date>
@@ -602,7 +602,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2363</id>
+        <id>Travel-2363-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-07-20</start-date>
@@ -616,7 +616,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2364</id>
+        <id>Travel-2364-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-07-29</start-date>
@@ -631,7 +631,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2365</id>
+        <id>Travel-2365-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-10-29</start-date>
@@ -646,7 +646,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2366</id>
+        <id>Travel-2366-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-11-06</start-date>
@@ -660,7 +660,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2367</id>
+        <id>Travel-2367-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-11-08</start-date>
@@ -674,7 +674,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2368</id>
+        <id>Travel-2368-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-11-08</start-date>
@@ -688,7 +688,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2369</id>
+        <id>Travel-2369-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1991-12-31</start-date>
@@ -703,7 +703,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2370</id>
+        <id>Travel-2370-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-01-03</start-date>
@@ -718,7 +718,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2371</id>
+        <id>Travel-2371-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-01-05</start-date>
@@ -734,7 +734,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2372</id>
+        <id>Travel-2372-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-01-07</start-date>
@@ -749,7 +749,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2373</id>
+        <id>Travel-2373-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-06-11</start-date>
@@ -763,7 +763,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2374</id>
+        <id>Travel-2374-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-06-12</start-date>
@@ -777,7 +777,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2375</id>
+        <id>Travel-2375-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-07-05</start-date>
@@ -792,7 +792,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2376</id>
+        <id>Travel-2376-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-07-05</start-date>
@@ -808,7 +808,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2377</id>
+        <id>Travel-2377-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-07-08</start-date>
@@ -822,7 +822,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2378</id>
+        <id>Travel-2378-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-12-31</start-date>
@@ -836,7 +836,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2379</id>
+        <id>Travel-2379-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1992-12-31</start-date>
@@ -850,7 +850,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2380</id>
+        <id>Travel-2380-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1993-01-02</start-date>
@@ -864,7 +864,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="bush-george-h-w" role="president">
-        <id>2381</id>
+        <id>Travel-2381-president</id>
         <role>president</role>
         <name>George H. W. Bush</name>
         <start-date>1993-01-03</start-date>

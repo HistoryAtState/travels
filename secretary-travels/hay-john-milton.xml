@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="hay-john-milton" role="secretary">
-        <id>908</id>
+        <id>Travel-908-secretary</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
         <start-date>1905-04-03</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hay-john-milton" role="secretary">
-        <id>909</id>
+        <id>Travel-909-secretary</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
         <start-date>1905-04-30</start-date>
@@ -29,7 +29,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hay-john-milton" role="secretary">
-        <id>910</id>
+        <id>Travel-910-secretary</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
         <start-date>1905-05-22</start-date>
@@ -43,7 +43,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hay-john-milton" role="secretary">
-        <id>911</id>
+        <id>Travel-911-secretary</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
         <start-date>1905-06-02</start-date>

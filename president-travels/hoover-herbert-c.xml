@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="hoover-herbert-c" role="president">
-        <id>2672</id>
+        <id>Travel-2672-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-11-26</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
-        <id>2673</id>
+        <id>Travel-2673-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-11-26</start-date>
@@ -29,7 +29,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
-        <id>2674</id>
+        <id>Travel-2674-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-11-27</start-date>
@@ -43,7 +43,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
-        <id>2675</id>
+        <id>Travel-2675-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-11-28</start-date>
@@ -57,7 +57,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
-        <id>2676</id>
+        <id>Travel-2676-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-12-01</start-date>
@@ -71,7 +71,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
-        <id>2677</id>
+        <id>Travel-2677-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-12-05</start-date>
@@ -85,7 +85,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
-        <id>2678</id>
+        <id>Travel-2678-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-12-08</start-date>
@@ -99,7 +99,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
-        <id>2679</id>
+        <id>Travel-2679-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-12-13</start-date>
@@ -113,7 +113,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
-        <id>2680</id>
+        <id>Travel-2680-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-12-16</start-date>
@@ -127,7 +127,7 @@
         <last-modified-datetime/>
     </trip>
     <trip who="hoover-herbert-c" role="president">
-        <id>2681</id>
+        <id>Travel-2681-president</id>
         <role>president</role>
         <name>Herbert C. Hoover</name>
         <start-date>1928-12-21</start-date>
