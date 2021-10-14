@@ -10,9 +10,9 @@
         <locale>Genoa,Nervi</locale>
         <remarks>Vacation trip for health reasons. Left U.S. March 17.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="hay-john-milton" role="secretary">
         <id>909</id>
@@ -24,9 +24,9 @@
         <locale>Nauheim</locale>
         <remarks>Vacation trip for health reasons.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="hay-john-milton" role="secretary">
         <id>910</id>
@@ -38,9 +38,9 @@
         <locale>Paris</locale>
         <remarks>Vacation trip for health reasons.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="hay-john-milton" role="secretary">
         <id>911</id>
@@ -52,8 +52,8 @@
         <locale>London,Liverpool</locale>
         <remarks>Vacation trip for health reasons. Returned to U.S. June 15; died July 1.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
 </trips>

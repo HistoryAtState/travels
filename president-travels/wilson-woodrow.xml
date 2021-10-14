@@ -10,9 +10,9 @@
         <locale>Bermuda</locale>
         <remarks>Vacation. [Visit made as President-elect.]</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2659</id>
@@ -25,9 +25,9 @@
         <remarks>Attended Preliminary to the Paris Peace Conference. Departed the U.S. December
             4.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2660</id>
@@ -39,9 +39,9 @@
         <locale>London,Carlisle,Manchester</locale>
         <remarks>Met with Prime Minister Lloyd George and King George V.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2661</id>
@@ -53,9 +53,9 @@
         <locale>Paris</locale>
         <remarks>Stopover en route to Italy.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2662</id>
@@ -67,9 +67,9 @@
         <locale>Rome,Genoa,Milan,Turin</locale>
         <remarks>Met with King Victor Emnanuel III and Prime Minister Orlando.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2663</id>
@@ -81,9 +81,9 @@
         <locale/>
         <remarks>Audience with Pope Benedict XV.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2664</id>
@@ -95,9 +95,9 @@
         <locale>Paris</locale>
         <remarks>Attended Paris Peace Conference. Arrived In the U.S. February 24.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2665</id>
@@ -109,9 +109,9 @@
         <locale>Paris</locale>
         <remarks>Attended Paris Peace Conference. Departed the U.S. March 5.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2666</id>
@@ -123,9 +123,9 @@
         <locale>Brussels,Charleroi,Malines,Louvain</locale>
         <remarks>Met with King Albert, addressed Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="wilson-woodrow" role="president">
         <id>2667</id>
@@ -137,8 +137,8 @@
         <locale>Paris</locale>
         <remarks>Attended Paris Peace Conference. Returned to U.S. July 8.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime/>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
 </trips>
