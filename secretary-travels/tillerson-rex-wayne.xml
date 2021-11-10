@@ -599,7 +599,7 @@
         <start-date>2017-11-10</start-date>
         <end-date>2017-11-12</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Danang,Hanoi</locale>
+        <locale>Danang, Hanoi</locale>
         <remarks>Accompanied President Trump to an APEC Meeting.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
@@ -789,7 +789,7 @@
         <start-date>2018-02-03</start-date>
         <end-date>2018-02-04</end-date>
         <country id="argentina">Argentina</country>
-        <locale>San Carlos de Bariloche,Buenos Aires</locale>
+        <locale>San Carlos de Bariloche, Buenos Aires</locale>
         <remarks>Met with President Mauricio Macri and Foreign Minister Jorge Faurie.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>

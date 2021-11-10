@@ -252,7 +252,7 @@
         <start-date>1981-07-19</start-date>
         <end-date>1981-07-21</end-date>
         <country id="canada">Canada</country>
-        <locale>Ottawa,Montebello</locale>
+        <locale>Ottawa, Montebello</locale>
         <remarks>Accompanied President Reagan to Economic Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -680,7 +680,7 @@
         <start-date>1982-06-02</start-date>
         <end-date>1982-06-07</end-date>
         <country id="france">France</country>
-        <locale>Paris,Versailles</locale>
+        <locale>Paris, Versailles</locale>
         <remarks>Accompanied President Reagan on State visit and to Economic Summit
             Meeting.</remarks>
         <created-by>wicentowskijc</created-by>

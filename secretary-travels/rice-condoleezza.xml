@@ -176,7 +176,7 @@
         <start-date>2005-02-23</start-date>
         <end-date>2005-02-23</end-date>
         <country id="germany">Germany</country>
-        <locale>Mainz,Wiesbaden</locale>
+        <locale>Mainz, Wiesbaden</locale>
         <remarks>Accompanied President Bush to meeting with Chancellor Schroeder.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -432,7 +432,7 @@
         <start-date>2005-05-07</start-date>
         <end-date>2005-05-08</end-date>
         <country id="netherlands">Netherlands</country>
-        <locale>Maastricht,Margraten</locale>
+        <locale>Maastricht, Margraten</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -488,7 +488,7 @@
         <start-date>2005-05-15</start-date>
         <end-date>2005-05-15</end-date>
         <country id="iraq">Iraq</country>
-        <locale>Irbil,Baghdad</locale>
+        <locale>Irbil, Baghdad</locale>
         <remarks>Met with Kurdish political leaders, and with U.S. and Iraqi officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -558,7 +558,7 @@
         <start-date>2005-06-20</start-date>
         <end-date>2005-06-20</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Sharm el-Sheikh,Cairo</locale>
+        <locale>Sharm el-Sheikh, Cairo</locale>
         <remarks>Met with President Mubarak, Foreign Minister Aboul Ghait, and political leaders;
             gave a speech at the American University in Cairo.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -629,7 +629,7 @@
         <start-date>2005-07-10</start-date>
         <end-date>2005-07-11</end-date>
         <country id="thailand">Thailand</country>
-        <locale>Phuket,Ban Bang Sak</locale>
+        <locale>Phuket, Ban Bang Sak</locale>
         <remarks>Met with Foreign Minister Suphamongkhon and Deputy Prime Minister Sathirathai and
             assessed tsunami relief aid.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -687,7 +687,7 @@
         <start-date>2005-07-20</start-date>
         <end-date>2005-07-21</end-date>
         <country id="sudan">Sudan</country>
-        <locale>Khartoum,El Fasher</locale>
+        <locale>Khartoum, El Fasher</locale>
         <remarks>Met with President al-Bashir and visited a refugee camp in Darfur.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -929,7 +929,7 @@
         <start-date>2005-11-11</start-date>
         <end-date>2005-11-11</end-date>
         <country id="iraq">Iraq</country>
-        <locale>Mosul,Baghdad</locale>
+        <locale>Mosul, Baghdad</locale>
         <remarks>Met with Prime Minster Jafari and with Iraqi political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1219,7 +1219,7 @@
         <start-date>2006-03-01</start-date>
         <end-date>2006-03-01</end-date>
         <country id="afghanistan">Afghanistan</country>
-        <locale>Bagram,Kabul</locale>
+        <locale>Bagram, Kabul</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1261,7 +1261,7 @@
         <start-date>2006-03-10</start-date>
         <end-date>2006-03-12</end-date>
         <country id="chile">Chile</country>
-        <locale>Valparaiso,Santiago,Vina de Lar</locale>
+        <locale>Valparaiso, Santiago, Vina de Lar</locale>
         <remarks>Attended the inauguration of President Bachelet.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1304,7 +1304,7 @@
         <start-date>2006-03-15</start-date>
         <end-date>2006-03-18</end-date>
         <country id="australia">Australia</country>
-        <locale>Sydney,Melbourne</locale>
+        <locale>Sydney, Melbourne</locale>
         <remarks>Met with Foreign Minister Downer and held Trilateral Strategic Dialogue with
             Australia and Japan.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1362,7 +1362,7 @@
         <start-date>2006-03-31</start-date>
         <end-date>2006-04-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>Blackburn,Liverpool</locale>
+        <locale>Blackburn, Liverpool</locale>
         <remarks>Met with British Foreign Secretary Straw and gave several public
             addresses.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1563,7 +1563,7 @@
         <start-date>2006-07-12</start-date>
         <end-date>2006-07-14</end-date>
         <country id="germany">Germany</country>
-        <locale>Stralsund,Trinwillershagen</locale>
+        <locale>Stralsund, Trinwillershagen</locale>
         <remarks>Accompanied President Bush to meetings with Chancellor Merkel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1675,7 +1675,7 @@
         <start-date>2006-09-11</start-date>
         <end-date>2006-09-12</end-date>
         <country id="canada">Canada</country>
-        <locale>Halifax,Stellarton (Nova Scotia)</locale>
+        <locale>Halifax, Stellarton (Nova Scotia)</locale>
         <remarks>Commemorated 9/11/01 and met with Foreign Secretary MacKay.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1746,7 +1746,7 @@
         <start-date>2006-10-05</start-date>
         <end-date>2006-10-06</end-date>
         <country id="iraq">Iraq</country>
-        <locale>Baghdad,Irbil</locale>
+        <locale>Baghdad, Irbil</locale>
         <remarks>Met with Prime Minster al-Maliki and with Kurdish Regional President
             Barzani.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1831,7 +1831,7 @@
         <start-date>2006-11-15</start-date>
         <end-date>2006-11-20</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Hanoi,Ho Chi Minh City</locale>
+        <locale>Hanoi, Ho Chi Minh City</locale>
         <remarks>Attended the APEC Cooperation Forum Ministerial Meeting and accompanied President
             Bush.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2545,7 +2545,7 @@
         <start-date>2007-10-17</start-date>
         <end-date>2007-10-17</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
-        <locale>Bethlehem,Ramallah</locale>
+        <locale>Bethlehem, Ramallah</locale>
         <remarks>Visited the Church of the Nativity and met with civil leaders.  Met with
             President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2588,7 +2588,7 @@
         <start-date>2007-11-02</start-date>
         <end-date>2007-11-03</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Ankara,Istanbul</locale>
+        <locale>Ankara, Istanbul</locale>
         <remarks>Met with President Gul, Prime Minister Erdogan, and Foreign Minister Babacan. 
             Attended an expanded ministerial meeting of countries adjoining Iraq in
             Istanbul.</remarks>
@@ -2604,7 +2604,7 @@
         <start-date>2007-11-03</start-date>
         <end-date>2007-11-05</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Discussed proposed Middle East peace conference with Prime Minister Olmert and
             Foreign Minister Livni.  Addressed the Saban Forum.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2678,7 +2678,7 @@
         <start-date>2007-12-18</start-date>
         <end-date>2007-12-18</end-date>
         <country id="iraq">Iraq</country>
-        <locale>Kirkuk,Baghdad</locale>
+        <locale>Kirkuk, Baghdad</locale>
         <remarks>Met with members of a civil-military reconstruction team and local politicians in
             Kirkuk and with the UN Special Representative and with Iraqi political leaders in
             Baghdad.</remarks>
@@ -2694,7 +2694,7 @@
         <start-date>2008-01-09</start-date>
         <end-date>2008-01-11</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -2850,7 +2850,7 @@
         <start-date>2008-02-07</start-date>
         <end-date>2008-02-07</end-date>
         <country id="afghanistan">Afghanistan</country>
-        <locale>Kandahar,Kabul</locale>
+        <locale>Kandahar, Kabul</locale>
         <remarks>Accompanied British Foreign Secretary Miliband.  Met with President
             Karzai.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3052,7 +3052,7 @@
         <start-date>2008-03-13</start-date>
         <end-date>2008-03-14</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia,Salvador da Bahia</locale>
+        <locale>Brasilia, Salvador da Bahia</locale>
         <remarks>Met with President Lula da Silva and Foreign Minister Amorim.  In Salvador da
             Bahia, met with the president of Neoenergia and with the state governor.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3271,7 +3271,7 @@
         <start-date>2008-05-14</start-date>
         <end-date>2008-05-16</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
@@ -3442,7 +3442,7 @@
         <start-date>2008-06-29</start-date>
         <end-date>2008-06-30</end-date>
         <country id="china">China, People’s Republic of</country>
-        <locale>Chengdu,Beijing</locale>
+        <locale>Chengdu, Beijing</locale>
         <remarks>Met with local officials and aid workers in Chengdu. Met with President Hu and
             senior officials.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3573,7 +3573,7 @@
         <start-date>2008-08-14</start-date>
         <end-date>2008-08-15</end-date>
         <country id="france">France</country>
-        <locale>Paris,Toulon</locale>
+        <locale>Paris, Toulon</locale>
         <remarks>Discussed EU peace plan for Russia and Georgia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
@@ -3785,7 +3785,7 @@
         <start-date>2008-11-06</start-date>
         <end-date>2008-11-08</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Met with Foreign Minister Livni.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
@@ -3799,7 +3799,7 @@
         <start-date>2008-11-07</start-date>
         <end-date>2008-11-08</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
-        <locale>Ramallah,Jenin</locale>
+        <locale>Ramallah, Jenin</locale>
         <remarks>Met with President Abbas and Foreign Minister Fayyad (November 7). Announced
             development aid program for Jenin (November 8).</remarks>
         <created-by>wicentowskijc</created-by>

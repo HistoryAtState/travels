@@ -493,7 +493,7 @@
         <start-date>1970-02-18</start-date>
         <end-date>1970-02-19</end-date>
         <country id="cameroon">Cameroon</country>
-        <locale>Douala,Yaounde</locale>
+        <locale>Douala, Yaounde</locale>
         <remarks>Met with President Ahidjo and senior Cameroonian officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -678,7 +678,7 @@
         <start-date>1970-09-27</start-date>
         <end-date>1970-09-30</end-date>
         <country id="italy">Italy</country>
-        <locale>Rome,Naples</locale>
+        <locale>Rome, Naples</locale>
         <remarks>Accompanied President Nixon on an official visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -692,7 +692,7 @@
         <start-date>1970-09-30</start-date>
         <end-date>1970-10-02</end-date>
         <country id="yugoslavia">Yugoslavia</country>
-        <locale>Belgrade,Zagreb</locale>
+        <locale>Belgrade, Zagreb</locale>
         <remarks>Accompanied President Nixon on a State visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -734,7 +734,7 @@
         <start-date>1970-10-03</start-date>
         <end-date>1970-10-05</end-date>
         <country id="ireland">Ireland</country>
-        <locale>Dublin,Waterville,Timahoe</locale>
+        <locale>Dublin, Waterville, Timahoe</locale>
         <remarks>Accompanied President Nixon on a State visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1261,7 +1261,7 @@
         <start-date>1972-06-24</start-date>
         <end-date>1972-06-29</end-date>
         <country id="australia">Australia</country>
-        <locale>Canberra,Perth</locale>
+        <locale>Canberra, Perth</locale>
         <remarks>Attended SEATO and ANZUS Council Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1389,7 +1389,7 @@
         <start-date>1972-07-07</start-date>
         <end-date>1972-07-09</end-date>
         <country id="yugoslavia">Yugoslavia</country>
-        <locale>Belgrade,Dubrovnik,Pula,Brioni</locale>
+        <locale>Belgrade, Dubrovnik, Pula, Brioni</locale>
         <remarks>Official visit. Met with President Tito July 9.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1545,7 +1545,7 @@
         <start-date>1973-05-19</start-date>
         <end-date>1973-05-22</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Rio de Janeiro,Brasilia</locale>
+        <locale>Rio de Janeiro, Brasilia</locale>
         <remarks>Met with President Medici and senior Brazilian officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>

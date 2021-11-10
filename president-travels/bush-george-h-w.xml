@@ -68,7 +68,7 @@
         <start-date>1989-05-26</start-date>
         <end-date>1989-05-28</end-date>
         <country id="italy">Italy</country>
-        <locale>Rome,Nettuno</locale>
+        <locale>Rome, Nettuno</locale>
         <remarks>Met with President Cossiga and Prime Minister De Mita.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -112,7 +112,7 @@
         <start-date>1989-05-30</start-date>
         <end-date>1989-05-31</end-date>
         <country id="germany">Germany, Federal Republic of</country>
-        <locale>Bonn,Mainz</locale>
+        <locale>Bonn, Mainz</locale>
         <remarks>Met with Chancellor Kohl.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -140,7 +140,7 @@
         <start-date>1989-07-09</start-date>
         <end-date>1989-07-11</end-date>
         <country id="poland">Poland</country>
-        <locale>Warsaw,Gdansk</locale>
+        <locale>Warsaw, Gdansk</locale>
         <remarks>Met with government and Solidarity leaders. Addressed the National Assembly on July
             10.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -187,7 +187,7 @@
         <start-date>1989-07-17</start-date>
         <end-date>1989-07-18</end-date>
         <country id="netherlands">Netherlands</country>
-        <locale>The Hague,Leiden</locale>
+        <locale>The Hague, Leiden</locale>
         <remarks>Met with Queen Beatrix and Prime Minister Lubbers and delivered a public
             address.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -216,7 +216,7 @@
         <start-date>1989-12-01</start-date>
         <end-date>1989-12-03</end-date>
         <country id="malta">Malta</country>
-        <locale>Valletta,Marsaxlokk Bay</locale>
+        <locale>Valletta, Marsaxlokk Bay</locale>
         <remarks>Attended Summit Meeting (December 2-3) with Soviet Chairman Gorbachev. Met also
             with Maltese Prime Minister Fenech Adami.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -347,7 +347,7 @@
         <start-date>1990-11-18</start-date>
         <end-date>1990-11-18</end-date>
         <country id="germany">Germany</country>
-        <locale>Speyer,Ludwigshafen</locale>
+        <locale>Speyer, Ludwigshafen</locale>
         <remarks>Met with Chancellor Kohl.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -376,7 +376,7 @@
         <start-date>1990-11-21</start-date>
         <end-date>1990-11-22</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Jeddah,Dhahran</locale>
+        <locale>Jeddah, Dhahran</locale>
         <remarks>Met with King Fahd and the Amir of Kuwait. Addressed U.S. and British military
             personnel in eastern Saudi Arabia.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -419,7 +419,7 @@
         <start-date>1990-11-26</start-date>
         <end-date>1990-11-27</end-date>
         <country id="mexico">Mexico</country>
-        <locale>Monterrey,Agualeguas</locale>
+        <locale>Monterrey, Agualeguas</locale>
         <remarks>State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -521,7 +521,7 @@
         <start-date>1991-03-14</start-date>
         <end-date>1991-03-14</end-date>
         <country id="france">France</country>
-        <locale>Martinique,West Indies</locale>
+        <locale>Martinique, West Indies</locale>
         <remarks>Discussed the Middle East peace process with President Mitterrand.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -593,7 +593,7 @@
         <start-date>1991-07-18</start-date>
         <end-date>1991-07-20</end-date>
         <country id="greece">Greece</country>
-        <locale>Athens,Souda Bay</locale>
+        <locale>Athens, Souda Bay</locale>
         <remarks>Met with Prime Minister Mitsotakis; addressed U.S. and Greek military
             personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -608,7 +608,7 @@
         <start-date>1991-07-20</start-date>
         <end-date>1991-07-22</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Ankara,Istanbul</locale>
+        <locale>Ankara, Istanbul</locale>
         <remarks>Met with President Ozal.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -622,7 +622,7 @@
         <start-date>1991-07-29</start-date>
         <end-date>1991-08-01</end-date>
         <country id="russia">U.S.S.R.</country>
-        <locale>Moscow,Kiev</locale>
+        <locale>Moscow, Kiev</locale>
         <remarks>Attended U.S.-Soviet Summit Meeting. Signed Strategic Arms Reduction Treaty.
             Addressed the Ukrainian Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -694,7 +694,7 @@
         <start-date>1991-12-31</start-date>
         <end-date>1992-01-03</end-date>
         <country id="australia">Australia</country>
-        <locale>Sydney,Canberra,Melbourne</locale>
+        <locale>Sydney, Canberra, Melbourne</locale>
         <remarks>Met with Prime Minister Keating and senior Australian officials; addressed the
             Australian Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -740,7 +740,7 @@
         <start-date>1992-01-07</start-date>
         <end-date>1992-01-10</end-date>
         <country id="japan">Japan</country>
-        <locale>Kyoto,Kashihara,Tokyo</locale>
+        <locale>Kyoto, Kashihara, Tokyo</locale>
         <remarks>Met with Emperor Akihito, Prime Minister Miyazawa, and senior Japanese
             officials.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -842,7 +842,7 @@
         <start-date>1992-12-31</start-date>
         <end-date>1993-01-02</end-date>
         <country id="somalia">Somalia</country>
-        <locale>Mogadishu,Baidoa,Baledogle</locale>
+        <locale>Mogadishu, Baidoa, Baledogle</locale>
         <remarks>Visited international relief workers and U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>

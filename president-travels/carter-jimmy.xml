@@ -7,7 +7,7 @@
         <start-date>1977-05-05</start-date>
         <end-date>1977-05-10</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London,Newcastle</locale>
+        <locale>London, Newcastle</locale>
         <remarks>Attended Economic Summit Meeting May 7-8 of the Heads of State and Government of
             Canada, France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.
             Also met with the Prime Ministers of Greece, Belgium, Turkey, Norway, the Netherlands,
@@ -69,7 +69,7 @@
         <start-date>1978-01-01</start-date>
         <end-date>1978-01-03</end-date>
         <country id="india">India</country>
-        <locale>New Delhi,Daulatpur-Nasirabad</locale>
+        <locale>New Delhi, Daulatpur-Nasirabad</locale>
         <remarks>Met with President Reddy and Prime Minister Desai. Addressed Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -111,7 +111,7 @@
         <start-date>1978-01-04</start-date>
         <end-date>1978-01-06</end-date>
         <country id="france">France</country>
-        <locale>Paris,Normandy,Bayeux,Versailles</locale>
+        <locale>Paris, Normandy, Bayeux, Versailles</locale>
         <remarks>Met with President Giscard d'Estaing and Prime Minister Barre.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -155,7 +155,7 @@
         <start-date>1978-03-29</start-date>
         <end-date>1978-03-31</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia,Rio de Janeiro</locale>
+        <locale>Brasilia, Rio de Janeiro</locale>
         <remarks>Official visit; met with President Geisel and addressed Brazilian
             Congress.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -216,7 +216,7 @@
         <start-date>1978-07-14</start-date>
         <end-date>1978-07-15</end-date>
         <country id="germany">Germany, Federal Republic of</country>
-        <locale>Bonn,Wiesbaden-Erbenheim Air Base,Frankfurt</locale>
+        <locale>Bonn, Wiesbaden-Erbenheim Air Base, Frankfurt</locale>
         <remarks>State visit; met with President Scheel and Chancellor Schmidt. Addressed U.S. and
             German military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -290,7 +290,7 @@
         <start-date>1979-03-07</start-date>
         <end-date>1979-03-10</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Cairo,Alexandria,Giza</locale>
+        <locale>Cairo, Alexandria, Giza</locale>
         <remarks>State visit; met with President Sadat and addressed People's Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -304,7 +304,7 @@
         <start-date>1979-03-10</start-date>
         <end-date>1979-03-13</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>State visit; met with President Navon and Prime Minister Begin. Addressed the
             Knesset.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -348,7 +348,7 @@
         <start-date>1979-06-24</start-date>
         <end-date>1979-06-29</end-date>
         <country id="japan">Japan</country>
-        <locale>Tokyo,Shimoda</locale>
+        <locale>Tokyo, Shimoda</locale>
         <remarks>State visit; met with Emperor Hirohito and Prime Minister Ohira. Attended Economic
             Summit Meeting June 28-29 of the Heads of State and Government of Canada, France, the
             Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
@@ -378,7 +378,7 @@
         <start-date>1980-06-19</start-date>
         <end-date>1980-06-24</end-date>
         <country id="italy">Italy</country>
-        <locale>Rome,Venice</locale>
+        <locale>Rome, Venice</locale>
         <remarks>State visit; met with President Pertini. Attended Economic Summit Conference June
             21-24 of the Heads of State and Government of Canada, France, the Federal Republic of
             Germany, Italy, Japan, and the United Kingdom.</remarks>

@@ -776,7 +776,7 @@
         <start-date>2019-06-01</start-date>
         <end-date>2019-06-03</end-date>
         <country id="switzerland">Switzerland</country>
-        <locale>Bern,Bellinzona</locale>
+        <locale>Bern, Bellinzona</locale>
         <remarks>Met with Foreign Minister Ignazio Cassis, Swiss business leaders, and World Health
             Organization Director General Dr. Tedros Adhanom Ghebreyesus.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1175,7 +1175,7 @@
         <start-date>2019-11-06</start-date>
         <end-date>2019-11-06</end-date>
         <country id="germany">Germany</country>
-        <locale>Grafenwohr,Vilseck,Modlareuth,Leipzig</locale>
+        <locale>Grafenwohr, Vilseck, Modlareuth, Leipzig</locale>
         <remarks>Participated in events to commemorate the end of the Cold War and met with German
             Foreign Minister Heiko Maas.</remarks>
         <created-by>wicentowskijc</created-by>

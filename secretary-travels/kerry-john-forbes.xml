@@ -258,7 +258,7 @@
         <start-date>2013-04-07</start-date>
         <end-date>2013-04-09</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem,Tel Aviv</locale>
+        <locale>Jerusalem, Tel Aviv</locale>
         <remarks>Met with President Shimon Peres, Prime Minister Benjamin Netanyahu, and Palestinian
             Authority Prime Minister Salam Fayyad.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -406,7 +406,7 @@
         <start-date>2013-05-14</start-date>
         <end-date>2013-05-15</end-date>
         <country id="sweden">Sweden</country>
-        <locale>Stockholm,Kiruna</locale>
+        <locale>Stockholm, Kiruna</locale>
         <remarks>Met with Prime Minister Fredrik Reinfeldt and Foreign Minister Carl Bildt. Attended
             the Arctic Council Ministerial Meeting at Kiruna.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1028,7 +1028,7 @@
         <start-date>2013-11-04</start-date>
         <end-date>2013-11-05</end-date>
         <country id="poland">Poland</country>
-        <locale>Warsaw,Lask</locale>
+        <locale>Warsaw, Lask</locale>
         <remarks>Wreath-laying at the grave of former Prime Minister Tadeusz Mazowiecki. Met with
             Prime Minister Donald Tusk and Foreign Minister Radoslaw Sikorski. Medal award ceremony
             at Lask air base.</remarks>
@@ -1044,7 +1044,7 @@
         <start-date>2013-11-05</start-date>
         <end-date>2013-11-07</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Wreath-laying ceremony at the Yitzhak Rabin Memorial. Met with President Shimon
             Peres and Prime Minister Benjamin Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1222,7 +1222,7 @@
         <start-date>2013-12-12</start-date>
         <end-date>2013-12-13</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem,Tel Aviv</locale>
+        <locale>Jerusalem, Tel Aviv</locale>
         <remarks>Met with Prime Minister Benjamin Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
@@ -1236,7 +1236,7 @@
         <start-date>2013-12-14</start-date>
         <end-date>2013-12-17</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Ho Chi Minh City,Ca Mau,Hanoi</locale>
+        <locale>Ho Chi Minh City, Ca Mau, Hanoi</locale>
         <remarks>Met with American and Vietnamese business leaders, addressed the American Chamber
             of Commerce, delivered an address on climate change, and met with Foreign Minister Pham
             Binh Minh.</remarks>
@@ -1252,7 +1252,7 @@
         <start-date>2013-12-17</start-date>
         <end-date>2013-12-18</end-date>
         <country id="philippines">Philippines</country>
-        <locale>Manila,Tacloban</locale>
+        <locale>Manila, Tacloban</locale>
         <remarks>Met with President Benigno Aquino and Foreign Secretary Albert del Rosario. Visited
             a USAID Forward Operating Base.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1381,7 +1381,7 @@
         <start-date>2014-01-31</start-date>
         <end-date>2014-02-02</end-date>
         <country id="germany">Germany</country>
-        <locale>Berlin,Munich</locale>
+        <locale>Berlin, Munich</locale>
         <remarks>Met with Chancellor Angela Merkel and Foreign Minister Frank-Walter Steinmeier.
             Attended the 50th Munich Security Conference.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1870,7 +1870,7 @@
         <start-date>2014-06-05</start-date>
         <end-date>2014-06-07</end-date>
         <country id="france">France</country>
-        <locale>Paris,Normandy,St. Briac</locale>
+        <locale>Paris, Normandy, St. Briac</locale>
         <remarks>Accompanied President Obama. Took part in commemorations of the 70th anniversary of
             the Normandy invasion.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1928,7 +1928,7 @@
         <start-date>2014-06-23</start-date>
         <end-date>2014-06-24</end-date>
         <country id="iraq">Iraq</country>
-        <locale>Baghdad,Erbil</locale>
+        <locale>Baghdad, Erbil</locale>
         <remarks>Met with President Nouri al-Maliki and Iraqi political leaders, and with Kurdistan
             regional leaders in Erbil.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2063,7 +2063,7 @@
         <start-date>2014-07-23</start-date>
         <end-date>2014-07-23</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem,Tel Aviv</locale>
+        <locale>Jerusalem, Tel Aviv</locale>
         <remarks>Met with UN Secretary-General Ban Ki-Moon and Prime Minister Benjamin
             Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2152,7 +2152,7 @@
         <start-date>2014-08-09</start-date>
         <end-date>2014-08-10</end-date>
         <country id="burma">Burma</country>
-        <locale>Nay Pyi Taw,Rangoon</locale>
+        <locale>Nay Pyi Taw, Rangoon</locale>
         <remarks>Attended the U.S.-ASEAN and Lower Mekong Initiatives, the ASEAN Regional Forum, and
             the East Asia Summit ministerial meetings.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2197,7 +2197,7 @@
         <start-date>2014-09-04</start-date>
         <end-date>2014-09-05</end-date>
         <country id="united-kingdom">United Kingdom (Wales)</country>
-        <locale>Newtown,Cardiff</locale>
+        <locale>Newtown, Cardiff</locale>
         <remarks>Accompanied President Obama to the NATO Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
@@ -2823,7 +2823,7 @@
         <start-date>2015-03-02</start-date>
         <end-date>2015-03-04</end-date>
         <country id="switzerland">Switzerland</country>
-        <locale>Geneva,Montreux</locale>
+        <locale>Geneva, Montreux</locale>
         <remarks>Attended the 28th Session of the UN Human Rights Commission and met with Russian
             Foreign Minister Sergei Lavrov. Met with Iranian Foreign Minister Mohammed Javad Zarif
             in Montreux.</remarks>
@@ -3786,7 +3786,7 @@
         <start-date>2016-01-20</start-date>
         <end-date>2016-01-22</end-date>
         <country id="switzerland">Switzerland</country>
-        <locale>Zurich,Davos</locale>
+        <locale>Zurich, Davos</locale>
         <remarks>Discussed the Syrian and Ukrainian crises with Russian Foreign Minister Sergei
             Lavrov. Attended the World Economic Forum Annual Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -4152,7 +4152,7 @@
         <start-date>2016-05-10</start-date>
         <end-date>2016-05-12</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London,Oxford</locale>
+        <locale>London, Oxford</locale>
         <remarks>Attended the Anti-Corruption Summit. Addressed the Oxford Union.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
@@ -4166,7 +4166,7 @@
         <start-date>2016-05-15</start-date>
         <end-date>2016-05-15</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Jeddah,Al Wajh</locale>
+        <locale>Jeddah, Al Wajh</locale>
         <remarks>Met with King Salman bin Abdulaziz al-Saud, Crown Prince Mohammed bin Nayef, and
             Deputy Crown Prince Mohammad bin Salman al-Saud.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -4239,7 +4239,7 @@
         <start-date>2016-05-22</start-date>
         <end-date>2016-05-25</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Hanoi,Ho Chi Minh City</locale>
+        <locale>Hanoi, Ho Chi Minh City</locale>
         <remarks>Accompanied President Obama.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
@@ -4326,7 +4326,7 @@
         <start-date>2016-06-14</start-date>
         <end-date>2016-06-16</end-date>
         <country id="norway">Norway</country>
-        <locale>Oslo,Svalbard</locale>
+        <locale>Oslo, Svalbard</locale>
         <remarks>Attended the Oslo Forum. Visited Arctic researchers in Svalbard.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
@@ -4661,7 +4661,7 @@
         <start-date>2016-08-23</start-date>
         <end-date>2016-08-24</end-date>
         <country id="nigeria">Nigeria</country>
-        <locale>Sokoto,Abuja</locale>
+        <locale>Sokoto, Abuja</locale>
         <remarks>Met with local civic and religious leaders in Sokoto, and with President Muhammedu
             Buhari, Foreign Minister Geoffrey Onyeama, and northern governors.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -4868,7 +4868,7 @@
         <start-date>2016-11-10</start-date>
         <end-date>2016-11-12</end-date>
         <country id="antarctica">Antarctica</country>
-        <locale>McMurdo Sound,South Pole</locale>
+        <locale>McMurdo Sound, South Pole</locale>
         <remarks>Visited the McMurdo Station and the Amundsen-Scott South Pole Station. First visit
             of a Secretary of State to Antarctica.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -5059,7 +5059,7 @@
         <start-date>2017-01-13</start-date>
         <end-date>2017-01-14</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Hanoi,Ho Chi Minh City,Camau Province</locale>
+        <locale>Hanoi, Ho Chi Minh City, Camau Province</locale>
         <remarks>Met with Prime Minister Nguyen Xuan Phuc and Acting Foreign Minister Bui Thanh Son.
             Delivered a speech at the Ho Chi Minh University of Technology and Education.</remarks>
         <created-by>wicentowskijc</created-by>

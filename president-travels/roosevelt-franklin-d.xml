@@ -276,7 +276,7 @@
         <start-date>1939-08-14</start-date>
         <end-date>1939-08-16</end-date>
         <country id="canada">Canada</country>
-        <locale>Campobello Island (Nova Scotia),Sydney (Nova Scotia)</locale>
+        <locale>Campobello Island (Nova Scotia), Sydney (Nova Scotia)</locale>
         <remarks>Fishing trip.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -290,7 +290,7 @@
         <start-date>1939-08-17</start-date>
         <end-date>1939-08-20</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>Bay of Islands (Newfoundland),Bonne Bay (Newfoundland)</locale>
+        <locale>Bay of Islands (Newfoundland), Bonne Bay (Newfoundland)</locale>
         <remarks>Fishing trip.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -318,7 +318,7 @@
         <start-date>1940-02-27</start-date>
         <end-date>1940-02-27</end-date>
         <country id="panama">Panama</country>
-        <locale>Cristobal,Balboa</locale>
+        <locale>Cristobal, Balboa</locale>
         <remarks>Met informally with President Boyd during vacation.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -544,7 +544,7 @@
         <start-date>1943-08-17</start-date>
         <end-date>1943-08-25</end-date>
         <country id="canada">Canada</country>
-        <locale>Quebec,Ottawa</locale>
+        <locale>Quebec, Ottawa</locale>
         <remarks>Attended First Quebec Conference with British Prime Minister Churchill.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -730,7 +730,7 @@
         <start-date>1945-02-13</start-date>
         <end-date>1945-02-15</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Great Bitter Lake,Suez Canal,Alexandria</locale>
+        <locale>Great Bitter Lake, Suez Canal, Alexandria</locale>
         <remarks>Met with King Farouk, Ethiopian Emperor Haile Selassie, Saudi Arabian King Ibn
             Saud, and British Prime Minister Churchill.</remarks>
         <created-by>wicentowskijc</created-by>

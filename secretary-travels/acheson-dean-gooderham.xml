@@ -36,7 +36,7 @@
         <start-date>1949-11-11</start-date>
         <end-date>1949-11-13</end-date>
         <country id="germany">Germany</country>
-        <locale>Frankfurt,Bonn</locale>
+        <locale>Frankfurt, Bonn</locale>
         <remarks>Met with President Heuss and Chancellor Adenauer.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-12-16T07:39:58.699-04:00</created-datetime>
@@ -208,7 +208,7 @@
         <start-date>1952-06-23</start-date>
         <end-date>1952-06-28</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London,Oxford</locale>
+        <locale>London, Oxford</locale>
         <remarks>Met with British and French Foreign Ministers. Received honorary degree from Oxford
             University.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -265,7 +265,7 @@
         <start-date>1952-07-02</start-date>
         <end-date>1952-07-08</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Pernambuco,Rio de Janeiro,Sao Paulo,Belem</locale>
+        <locale>Pernambuco, Rio de Janeiro, Sao Paulo, Belem</locale>
         <remarks>Official visit. Addressed the Brazilian Congress.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-12-16T07:39:58.699-04:00</created-datetime>

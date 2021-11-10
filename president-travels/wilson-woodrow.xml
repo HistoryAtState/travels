@@ -21,7 +21,7 @@
         <start-date>1918-12-14</start-date>
         <end-date>1918-12-25</end-date>
         <country id="france">France</country>
-        <locale>Paris,Chaumont</locale>
+        <locale>Paris, Chaumont</locale>
         <remarks>Attended Preliminary to the Paris Peace Conference. Departed the U.S. December
             4.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -36,7 +36,7 @@
         <start-date>1918-12-26</start-date>
         <end-date>1918-12-31</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London,Carlisle,Manchester</locale>
+        <locale>London, Carlisle, Manchester</locale>
         <remarks>Met with Prime Minister Lloyd George and King George V.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -64,7 +64,7 @@
         <start-date>1919-01-01</start-date>
         <end-date>1919-01-06</end-date>
         <country id="italy">Italy</country>
-        <locale>Rome,Genoa,Milan,Turin</locale>
+        <locale>Rome, Genoa, Milan, Turin</locale>
         <remarks>Met with King Victor Emnanuel III and Prime Minister Orlando.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -120,7 +120,7 @@
         <start-date>1919-06-18</start-date>
         <end-date>1919-06-19</end-date>
         <country id="belgium">Belgium</country>
-        <locale>Brussels,Charleroi,Malines,Louvain</locale>
+        <locale>Brussels, Charleroi, Malines, Louvain</locale>
         <remarks>Met with King Albert, addressed Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>

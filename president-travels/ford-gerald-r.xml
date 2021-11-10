@@ -7,7 +7,7 @@
         <start-date>1974-10-21</start-date>
         <end-date>1974-10-21</end-date>
         <country id="mexico">Mexico</country>
-        <locale>Nogales,Magdalena de Kino</locale>
+        <locale>Nogales, Magdalena de Kino</locale>
         <remarks>Met with President Echeverria and laid a wreath at the tomb of Padre Eusebio
             Kino.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -22,7 +22,7 @@
         <start-date>1974-11-18</start-date>
         <end-date>1974-11-22</end-date>
         <country id="japan">Japan</country>
-        <locale>Tokyo,Kyoto</locale>
+        <locale>Tokyo, Kyoto</locale>
         <remarks>State visit; met with Prime Minister Tanaka.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -151,7 +151,7 @@
         <start-date>1975-07-26</start-date>
         <end-date>1975-07-28</end-date>
         <country id="germany">Germany, Federal Republic of</country>
-        <locale>Bonn,Linz</locale>
+        <locale>Bonn, Linz</locale>
         <remarks>Met with President Scheel and Chancellor Schmidt.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -165,7 +165,7 @@
         <start-date>1975-07-28</start-date>
         <end-date>1975-07-29</end-date>
         <country id="poland">Poland</country>
-        <locale>Warsaw,Krakow</locale>
+        <locale>Warsaw, Krakow</locale>
         <remarks>Official visit; met with First Secretary Gierek.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -196,7 +196,7 @@
         <start-date>1975-08-02</start-date>
         <end-date>1975-08-03</end-date>
         <country id="romania">Romania</country>
-        <locale>Bucharest,Sinaia</locale>
+        <locale>Bucharest, Sinaia</locale>
         <remarks>Official visit; met with President Ceausescu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>

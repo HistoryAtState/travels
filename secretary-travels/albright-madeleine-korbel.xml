@@ -93,7 +93,7 @@
         <start-date>1997-02-21</start-date>
         <end-date>1997-02-23</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale>Seoul,Camp Bonifas,Panmunjon</locale>
+        <locale>Seoul, Camp Bonifas, Panmunjon</locale>
         <remarks>Met with President Kim, Foreign Minister Yoo, and visited U.S. troops at the
             Demilitarized Zone.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -165,7 +165,7 @@
         <start-date>1997-05-04</start-date>
         <end-date>1997-05-04</end-date>
         <country id="guatemala">Guatemala</country>
-        <locale>Guatemala City,Tuluche</locale>
+        <locale>Guatemala City, Tuluche</locale>
         <remarks>Signed agreement on cross-border auto thefts and visited a demobilization
             camp.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -271,7 +271,7 @@
         <start-date>1997-05-30</start-date>
         <end-date>1997-05-31</end-date>
         <country id="croatia">Croatia</country>
-        <locale>Zagreb,Prevrsac</locale>
+        <locale>Zagreb, Prevrsac</locale>
         <remarks>Met with President Tudjman and appealed for the return of Serb refugees.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -299,7 +299,7 @@
         <start-date>1997-06-01</start-date>
         <end-date>1997-06-01</end-date>
         <country id="bosnia-herzegovina">Bosnia</country>
-        <locale>Sarajevo,Brcko,Banja Luka</locale>
+        <locale>Sarajevo, Brcko, Banja Luka</locale>
         <remarks>Met with the Collective Presidency, dedicated a bridge over the Sava River, and met
             with Bosnian Serb President Plavsic.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -314,7 +314,7 @@
         <start-date>1997-06-26</start-date>
         <end-date>1997-06-29</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Hanoi,Ho Chi Minh City</locale>
+        <locale>Hanoi, Ho Chi Minh City</locale>
         <remarks>Met with Prime Minister Kiet and senior Vietnamese officials. Laid cornerstone of a
             new Consulate in Ho Chi Minh City.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -469,7 +469,7 @@
         <start-date>1997-08-31</start-date>
         <end-date>1997-09-02</end-date>
         <country id="czech-republic">Czech Republic</country>
-        <locale>Letohrad,Kostelec,Terezin</locale>
+        <locale>Letohrad, Kostelec, Terezin</locale>
         <remarks>Visiting the birthplaces of her parents and the site of the concentration camp
             where her grandparents were held.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -484,7 +484,7 @@
         <start-date>1997-09-09</start-date>
         <end-date>1997-09-12</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Met with Prime Minister Netanyahu and senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -540,7 +540,7 @@
         <start-date>1997-09-13</start-date>
         <end-date>1997-09-14</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Jeddah,Abha,Prince Sultan Air Base</locale>
+        <locale>Jeddah, Abha, Prince Sultan Air Base</locale>
         <remarks>Met with King Fahd and Crown Prince Abdullah, with Gulf Cooperation Council Foreign
             Ministers, and visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -612,7 +612,7 @@
         <start-date>1997-10-13</start-date>
         <end-date>1997-10-15</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia,Sao Paulo,Rio de Janeiro</locale>
+        <locale>Brasilia, Sao Paulo, Rio de Janeiro</locale>
         <remarks>Accompanied President Clinton.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -654,7 +654,7 @@
         <start-date>1997-11-14</start-date>
         <end-date>1997-11-15</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>Edinburgh,London</locale>
+        <locale>Edinburgh, London</locale>
         <remarks>Discussed the Iraq crisis with Foreign Secretary Cook, and the Middle East peace
             process with Israeli Prime Minister Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -739,7 +739,7 @@
         <start-date>1997-11-17</start-date>
         <end-date>1997-11-18</end-date>
         <country id="pakistan">Pakistan</country>
-        <locale>Islamabad,Peshawar</locale>
+        <locale>Islamabad, Peshawar</locale>
         <remarks>Met with Prime Minister Sharif and visited an Afghan refugee camp.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -853,7 +853,7 @@
         <start-date>1997-12-10</start-date>
         <end-date>1997-12-11</end-date>
         <country id="uganda">Uganda</country>
-        <locale>Kampala,Gulu</locale>
+        <locale>Kampala, Gulu</locale>
         <remarks>Met with President Musaveni, northern Ugandan refugees, and Sudanese opposition
             leaders.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -910,7 +910,7 @@
         <start-date>1997-12-12</start-date>
         <end-date>1997-12-14</end-date>
         <country id="south-africa">South Africa</country>
-        <locale>Pretoria,Cape Town</locale>
+        <locale>Pretoria, Cape Town</locale>
         <remarks>Met with President Mandela.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -982,7 +982,7 @@
         <start-date>1997-12-21</start-date>
         <end-date>1997-12-22</end-date>
         <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
-        <locale>Sarajevo,Tuzla</locale>
+        <locale>Sarajevo, Tuzla</locale>
         <remarks>Accompanied President Clinton to meetings with Bosnian officials and U.S. military
             personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1053,7 +1053,7 @@
         <start-date>1998-01-30</start-date>
         <end-date>1998-01-31</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London,Ascot</locale>
+        <locale>London, Ascot</locale>
         <remarks>Discussed the Iraq crisis with British Foreign Secretary Cook and King Hussein of
             Jordan.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1252,7 +1252,7 @@
         <start-date>1998-03-09</start-date>
         <end-date>1998-03-10</end-date>
         <country id="canada">Canada</country>
-        <locale>Ottawa,Hull</locale>
+        <locale>Ottawa, Hull</locale>
         <remarks>Met with Prime Minister Chretien and Foreign Minister Axworthy.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1309,7 +1309,7 @@
         <start-date>1998-04-04</start-date>
         <end-date>1998-04-04</end-date>
         <country id="haiti">Haiti</country>
-        <locale>Port-au-Prince,Jacmel</locale>
+        <locale>Port-au-Prince, Jacmel</locale>
         <remarks>Met with President Preval and Haitian political leaders. Discussed narcotics
             control with Haitian and Dominican officials aboard USCG Dallas.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1324,7 +1324,7 @@
         <start-date>1998-04-04</start-date>
         <end-date>1998-04-06</end-date>
         <country id="trinidad-and-tobago">Trinidad and Tobago</country>
-        <locale>Crown Point,Port of Spain</locale>
+        <locale>Crown Point, Port of Spain</locale>
         <remarks>Met with Prime Minister Panday and with Caricom Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1513,7 +1513,7 @@
         <start-date>1998-06-25</start-date>
         <end-date>1998-07-03</end-date>
         <country id="china">China</country>
-        <locale>Xian,Beijing,Shanghai,Guilin,Hong Kong</locale>
+        <locale>Xian, Beijing, Shanghai, Guilin, Hong Kong</locale>
         <remarks>Accompanied President Clinton on a State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1614,7 +1614,7 @@
         <start-date>1998-08-12</start-date>
         <end-date>1998-08-13</end-date>
         <country id="germany">Germany</country>
-        <locale>Ramstein Air Force Base,Landstuhl</locale>
+        <locale>Ramstein Air Force Base, Landstuhl</locale>
         <remarks>Visited Embassy personnel wounded in the bombings in Kenya and Tanzania;
             accompanied the dead back to the United States.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1671,7 +1671,7 @@
         <start-date>1998-08-30</start-date>
         <end-date>1998-08-31</end-date>
         <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
-        <locale>Bijeljina,Sarajevo,Tuzla</locale>
+        <locale>Bijeljina, Sarajevo, Tuzla</locale>
         <remarks>Met with Bosnian, Bosnian Serb, and NATO officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1728,7 +1728,7 @@
         <start-date>1998-10-06</start-date>
         <end-date>1998-10-06</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
-        <locale>Jericho,Erez</locale>
+        <locale>Jericho, Erez</locale>
         <remarks>Discussed the Middle East peace process with Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1801,7 +1801,7 @@
         <start-date>1998-12-09</start-date>
         <end-date>1998-12-10</end-date>
         <country id="france">France</country>
-        <locale>Lyon,Paris</locale>
+        <locale>Lyon, Paris</locale>
         <remarks>Announced opening of the American Presence Post in Lyon. Met with President Chirac
             and senior French officials.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1816,7 +1816,7 @@
         <start-date>1998-12-12</start-date>
         <end-date>1998-12-15</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem,Masada</locale>
+        <locale>Jerusalem, Masada</locale>
         <remarks>Accompanied President Clinton.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1830,7 +1830,7 @@
         <start-date>1998-12-14</start-date>
         <end-date>1998-12-15</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
-        <locale>Gaza,Erez</locale>
+        <locale>Gaza, Erez</locale>
         <remarks>Accompanied President Clinton. On December 15, attended meeting with Prime Minister
             Netanyahu and Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1889,7 +1889,7 @@
         <start-date>1999-01-27</start-date>
         <end-date>1999-01-28</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Riyadh,Prince Sultan Air Base</locale>
+        <locale>Riyadh, Prince Sultan Air Base</locale>
         <remarks>Discussed the Iraq crisis with King Fahd and senior Saudi officials and addressed
             U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1946,7 +1946,7 @@
         <start-date>1999-02-13</start-date>
         <end-date>1999-02-14</end-date>
         <country id="france">France</country>
-        <locale>Paris,Rambouillet</locale>
+        <locale>Paris, Rambouillet</locale>
         <remarks>Met with Contact Group Foreign Ministers and with the delegations to the Kosovo
             peace conference.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1975,7 +1975,7 @@
         <start-date>1999-02-20</start-date>
         <end-date>1999-02-23</end-date>
         <country id="france">France</country>
-        <locale>Paris,Rambouillet</locale>
+        <locale>Paris, Rambouillet</locale>
         <remarks>Attended the Kosovo peace conference.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -2003,7 +2003,7 @@
         <start-date>1999-03-02</start-date>
         <end-date>1999-03-04</end-date>
         <country id="thailand">Thailand</country>
-        <locale>Chiang Mai,Bangkok</locale>
+        <locale>Chiang Mai, Bangkok</locale>
         <remarks>Visited the Hill Tribes Institute in Chiang Mai; met with senior Thai
             officials.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2117,7 +2117,7 @@
         <start-date>1999-06-06</start-date>
         <end-date>1999-06-11</end-date>
         <country id="germany">Germany</country>
-        <locale>Bonn,Cologne</locale>
+        <locale>Bonn, Cologne</locale>
         <remarks>Attended a G-8 Foreign Ministers meeting on the Kosovo conflict and the G-8 and
             U.S.-EU Ministerial meetings; met with Kosovar political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2146,7 +2146,7 @@
         <start-date>1999-06-11</start-date>
         <end-date>1999-06-11</end-date>
         <country id="macedonia">Macedonia, Former Yugoslav Republic of</country>
-        <locale>Skopje,Stenkovec I</locale>
+        <locale>Skopje, Stenkovec I</locale>
         <remarks>Visited a refugee camp and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -2304,7 +2304,7 @@
         <start-date>1999-07-28</start-date>
         <end-date>1999-07-30</end-date>
         <country id="italy">Italy</country>
-        <locale>Rome,Aviano</locale>
+        <locale>Rome, Aviano</locale>
         <remarks>Met with Foreign Minister Dini. Joined President Clinton July 30 at Aviano Air
             Force Base for visit to Sarajevo.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2405,7 +2405,7 @@
         <start-date>1999-09-02</start-date>
         <end-date>1999-09-04</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Discussed the Israeli-Palestinian peace process with senior Israeli
             officials.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2492,7 +2492,7 @@
         <start-date>1999-09-05</start-date>
         <end-date>1999-09-05</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Istanbul,Izmit</locale>
+        <locale>Istanbul, Izmit</locale>
         <remarks>Discussed disaster relief with Foreign Minister Cem.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -2506,7 +2506,7 @@
         <start-date>1999-09-06</start-date>
         <end-date>1999-09-08</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Hanoi,Ho Chi Minh City</locale>
+        <locale>Hanoi, Ho Chi Minh City</locale>
         <remarks>Met with senior Vietnamese officials and opened new U.S. Consulate General in Ho
             Chi Minh City.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2549,7 +2549,7 @@
         <start-date>1999-10-18</start-date>
         <end-date>1999-10-18</end-date>
         <country id="sierra-leone">Sierra Leone</country>
-        <locale>Freetown,Murray Town</locale>
+        <locale>Freetown, Murray Town</locale>
         <remarks>Met with President Kabbah, former rebel leaders, and ECOMOG and UNOMSIL officials;
             visited the Amputee and War Wounded Camp at Murray Town.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2578,7 +2578,7 @@
         <start-date>1999-10-19</start-date>
         <end-date>1999-10-20</end-date>
         <country id="nigeria">Nigeria</country>
-        <locale>Abuja,Kano</locale>
+        <locale>Abuja, Kano</locale>
         <remarks>Met with President Obasanjo, senior Nigerian officials, representatives of ECOWAS,
             and officials and political leaders of northern Nigeria.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2638,7 +2638,7 @@
         <start-date>1999-11-14</start-date>
         <end-date>1999-11-19</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Ankara,Ephesus,Istanbul</locale>
+        <locale>Ankara, Ephesus, Istanbul</locale>
         <remarks>Accompanied President Clinton on a State visit; attended OSCE Summit meeting in
             Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2767,7 +2767,7 @@
         <start-date>1999-12-08</start-date>
         <end-date>1999-12-08</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
-        <locale>Bethlehem,Ramallah</locale>
+        <locale>Bethlehem, Ramallah</locale>
         <remarks>Met with Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -2952,7 +2952,7 @@
         <start-date>2000-03-05</start-date>
         <end-date>2000-03-08</end-date>
         <country id="czech-republic">Czech Republic</country>
-        <locale>Prague,Brno,Hodinin</locale>
+        <locale>Prague, Brno, Hodinin</locale>
         <remarks>Met with President Havel and senior officials, commemorated the 150th birthday of
             former President Thomas Masaryk; met with representatives of Serbian NGOs.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2967,7 +2967,7 @@
         <start-date>2000-03-08</start-date>
         <end-date>2000-03-09</end-date>
         <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
-        <locale>Sarajevo,Brcko,Banja Luka</locale>
+        <locale>Sarajevo, Brcko, Banja Luka</locale>
         <remarks>Met with Bosnian political leaders and International community representatives;
             inaugurated Brcko Statute.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3011,7 +3011,7 @@
         <start-date>2000-03-19</start-date>
         <end-date>2000-03-23</end-date>
         <country id="india">India</country>
-        <locale>New Delhi,Agra</locale>
+        <locale>New Delhi, Agra</locale>
         <remarks>Accompanied President Clinton.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -3125,7 +3125,7 @@
         <start-date>2000-04-15</start-date>
         <end-date>2000-04-16</end-date>
         <country id="kazakhstan">Kazakhstan</country>
-        <locale>Astana,Almaty</locale>
+        <locale>Astana, Almaty</locale>
         <remarks>Official visit. Met with President Nazarbayev and senior officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -3153,7 +3153,7 @@
         <start-date>2000-04-16</start-date>
         <end-date>2000-04-19</end-date>
         <country id="uzbekistan">Uzbekistan</country>
-        <locale>Tashkent,Samarkand,Bukhara</locale>
+        <locale>Tashkent, Samarkand, Bukhara</locale>
         <remarks>Met with President Kamilov, senior officials, and members of non-governmental
             organizations.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3212,7 +3212,7 @@
         <start-date>2000-06-01</start-date>
         <end-date>2000-06-03</end-date>
         <country id="germany">Germany</country>
-        <locale>Berlin,Aachen</locale>
+        <locale>Berlin, Aachen</locale>
         <remarks>Accompanied President Clinton.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -3340,7 +3340,7 @@
         <start-date>2000-06-24</start-date>
         <end-date>2000-06-27</end-date>
         <country id="poland">Poland</country>
-        <locale>Warsaw,Gdansk</locale>
+        <locale>Warsaw, Gdansk</locale>
         <remarks>Attended Ministerial Panel on Democracy and International Organizations and the
             World Forum on Democracy; received an honorary degree from the University of
             Gdansk.</remarks>
@@ -3414,7 +3414,7 @@
         <start-date>2000-07-29</start-date>
         <end-date>2000-07-31</end-date>
         <country id="japan">Japan</country>
-        <locale>Tokyo,Miyazaki</locale>
+        <locale>Tokyo, Miyazaki</locale>
         <remarks>Met with Prime Minister Mori and Foreign Minister Kono; attended the dedication of
             Albright Hall in Miyazaki.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3583,7 +3583,7 @@
         <start-date>2000-09-30</start-date>
         <end-date>2000-09-30</end-date>
         <country id="iceland">Iceland</country>
-        <locale>Reykjavik,Keflavik</locale>
+        <locale>Reykjavik, Keflavik</locale>
         <remarks>Discussed NATO issues with Foreign Minister Asgrimsson.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -3597,7 +3597,7 @@
         <start-date>2000-10-01</start-date>
         <end-date>2000-10-03</end-date>
         <country id="france">France</country>
-        <locale>Bordeaux,Paris</locale>
+        <locale>Bordeaux, Paris</locale>
         <remarks>Opened American Presence Post at Bordeaux; attended U.S.-EU Ministerial Meeting and
             met with President Chirac.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -3757,7 +3757,7 @@
         <start-date>2000-12-07</start-date>
         <end-date>2000-12-09</end-date>
         <country id="south-africa">South Africa</country>
-        <locale>Cape Town,Pretoria</locale>
+        <locale>Cape Town, Pretoria</locale>
         <remarks>Met with President Mbeki and Foreign Minister Zuma; delivered addresses on public
             health issues.</remarks>
         <created-by>wicentowskijc</created-by>

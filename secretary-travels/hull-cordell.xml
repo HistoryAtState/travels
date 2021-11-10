@@ -22,7 +22,7 @@
         <start-date>1933-11-24</start-date>
         <end-date>1933-11-25</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Rio de Janeiro,Sao Paulo,Santos</locale>
+        <locale>Rio de Janeiro, Sao Paulo, Santos</locale>
         <remarks>Met with President Vargas and Foreign Minister de Mello Franco en route to
             Inter-American Conference in Montevideo. Delivered several public addresses. Left U.S.
             November 17.</remarks>
@@ -67,7 +67,7 @@
         <start-date>1934-01-01</start-date>
         <end-date>1934-01-08</end-date>
         <country id="chile">Chile</country>
-        <locale>Santiago,Valparaiso,Antofagasta</locale>
+        <locale>Santiago, Valparaiso, Antofagasta</locale>
         <remarks>Met with President Alessandri, addressed the Senate, and delivered several public
             addresses.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -82,7 +82,7 @@
         <start-date>1934-01-09</start-date>
         <end-date>1934-01-13</end-date>
         <country id="peru">Peru</country>
-        <locale>Mollendo,Callao,Lima,Talara</locale>
+        <locale>Mollendo, Callao, Lima, Talara</locale>
         <remarks>Met with President Benvenidez and Foreign Minister Solon Polo and delivered several
             public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -97,7 +97,7 @@
         <start-date>1934-01-13</start-date>
         <end-date>1934-01-14</end-date>
         <country id="ecuador">Ecuador</country>
-        <locale>La Libertad,Manta,Bahia</locale>
+        <locale>La Libertad, Manta, Bahia</locale>
         <remarks>Met with Ecuadorean officials and delivered public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -140,7 +140,7 @@
         <start-date>1936-11-19</start-date>
         <end-date>1936-11-21</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Rio de Janeiro,Santos</locale>
+        <locale>Rio de Janeiro, Santos</locale>
         <remarks>Met with President Vargas and Foreign Minister Macedo Soares en route to
             Inter-American Conference for the Maintenance of Peace. Left U.S. November 7.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -183,7 +183,7 @@
         <start-date>1936-12-29</start-date>
         <end-date>1936-12-31</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Santos,Rio de Janeiro</locale>
+        <locale>Santos, Rio de Janeiro</locale>
         <remarks>Met with President Vargas and delivered public addresses while returning to
             U.S.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -269,7 +269,7 @@
         <start-date>1938-12-07</start-date>
         <end-date>1938-12-27</end-date>
         <country id="peru">Peru</country>
-        <locale>Callao,Lima</locale>
+        <locale>Callao, Lima</locale>
         <remarks>Attended 8th International Conference of American States.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>

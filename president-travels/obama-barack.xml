@@ -50,7 +50,7 @@
         <start-date>2009-04-03</start-date>
         <end-date>2009-04-04</end-date>
         <country id="germany">Germany</country>
-        <locale>Baden-Baden,Kehl</locale>
+        <locale>Baden-Baden, Kehl</locale>
         <remarks>Attended a working dinner for NATO leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
@@ -78,7 +78,7 @@
         <start-date>2009-04-05</start-date>
         <end-date>2009-04-07</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Ankara,Istanbul</locale>
+        <locale>Ankara, Istanbul</locale>
         <remarks>Met with President Gul and Prime Minister Erdogan; addressed the Grand National
             Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -163,7 +163,7 @@
         <start-date>2009-06-04</start-date>
         <end-date>2009-06-05</end-date>
         <country id="germany">Germany</country>
-        <locale>Dresden,Weimar,Landstuhl</locale>
+        <locale>Dresden, Weimar, Landstuhl</locale>
         <remarks>Met with Chancellor Merkel, visited the Buchenwald concentration camp and visited
             wounded U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -178,7 +178,7 @@
         <start-date>2009-06-05</start-date>
         <end-date>2009-06-07</end-date>
         <country id="france">France</country>
-        <locale>Paris,Caen</locale>
+        <locale>Paris, Caen</locale>
         <remarks>Met with President Sarkozy and dedicated the new visitor center at the U.S.
             Military Cemetery in Normandy.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -207,7 +207,7 @@
         <start-date>2009-07-08</start-date>
         <end-date>2009-07-10</end-date>
         <country id="italy">Italy</country>
-        <locale>Rome,L’Aquila</locale>
+        <locale>Rome, L’Aquila</locale>
         <remarks>Attended the G-8 Summit Meeting. Also met with the leaders of Angola, Algeria,
             Australia, Brazil, China, Egypt, India, Mexico, Nigeria, Senegal, South Africa, and
             various international organizations.</remarks>
@@ -237,7 +237,7 @@
         <start-date>2009-07-10</start-date>
         <end-date>2009-07-11</end-date>
         <country id="ghana">Ghana</country>
-        <locale>Accra,Cape Coast</locale>
+        <locale>Accra, Cape Coast</locale>
         <remarks>Met with President Mills and addressed Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
@@ -308,7 +308,7 @@
         <start-date>2009-11-15</start-date>
         <end-date>2009-11-18</end-date>
         <country id="china">China, People’s Republic of</country>
-        <locale>Shanghai,Beijing</locale>
+        <locale>Shanghai, Beijing</locale>
         <remarks>Met with President Hu, National People’s Congress Chairman Wu, and Premier Wen.
             Visited the Great Wall.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -323,7 +323,7 @@
         <start-date>2009-11-18</start-date>
         <end-date>2009-11-19</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale>Osan,Seoul</locale>
+        <locale>Osan, Seoul</locale>
         <remarks>Met with President Lee.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
@@ -365,7 +365,7 @@
         <start-date>2010-03-28</start-date>
         <end-date>2010-03-28</end-date>
         <country id="afghanistan">Afghanistan</country>
-        <locale>Kabul,Bagram</locale>
+        <locale>Kabul, Bagram</locale>
         <remarks>Met with President Karzai and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
@@ -396,7 +396,7 @@
         <start-date>2010-06-25</start-date>
         <end-date>2010-06-27</end-date>
         <country id="canada">Canada</country>
-        <locale>Muskoka,Toronto</locale>
+        <locale>Muskoka, Toronto</locale>
         <remarks>Attended the G-8 and G-20 Economic Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
@@ -410,7 +410,7 @@
         <start-date>2010-11-06</start-date>
         <end-date>2010-11-09</end-date>
         <country id="india">India</country>
-        <locale>Mumbai,New Delhi</locale>
+        <locale>Mumbai, New Delhi</locale>
         <remarks>Attended U.S.-India Business and Entrepreneurship Summit in Mumbai. Met with Prime
             Minister Singh and President Patil. Addressed the Indian Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -453,7 +453,7 @@
         <start-date>2010-11-12</start-date>
         <end-date>2010-11-14</end-date>
         <country id="japan">Japan</country>
-        <locale>Yokohama,Kamakura</locale>
+        <locale>Yokohama, Kamakura</locale>
         <remarks>Attended the Asia-Pacific Economic Cooperation’s CEO Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
@@ -496,7 +496,7 @@
         <start-date>2011-03-19</start-date>
         <end-date>2011-03-21</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia,Rio de Janeiro</locale>
+        <locale>Brasilia, Rio de Janeiro</locale>
         <remarks>Met with President Roussef.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
@@ -538,7 +538,7 @@
         <start-date>2011-05-23</start-date>
         <end-date>2011-05-23</end-date>
         <country id="ireland">Ireland</country>
-        <locale>Dublin,Farmleigh,Moneygall</locale>
+        <locale>Dublin, Farmleigh, Moneygall</locale>
         <remarks>Met with President McAleese and Prime Minister Kenny. Visited ancestral
             home.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -568,7 +568,7 @@
         <start-date>2011-05-26</start-date>
         <end-date>2011-05-27</end-date>
         <country id="france">France</country>
-        <locale>Deauville,Paris</locale>
+        <locale>Deauville, Paris</locale>
         <remarks>Attended the G-8 Economic Summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
@@ -610,7 +610,7 @@
         <start-date>2011-11-16</start-date>
         <end-date>2011-11-17</end-date>
         <country id="australia">Australia</country>
-        <locale>Canberra,Darwin</locale>
+        <locale>Canberra, Darwin</locale>
         <remarks>Met with Prime Minister Gillard. Announced a new military cooperation
             agreement.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -741,7 +741,7 @@
         <start-date>2013-03-20</start-date>
         <end-date>2013-03-22</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Met with President Shimon Peres and Prime Minister Benjamin Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
@@ -755,7 +755,7 @@
         <start-date>2013-03-21</start-date>
         <end-date>2013-03-22</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
-        <locale>Ramallah,Al-Bireh,Bethlehem</locale>
+        <locale>Ramallah, Al-Bireh, Bethlehem</locale>
         <remarks>Met with President Mahmoud Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
@@ -769,7 +769,7 @@
         <start-date>2013-03-22</start-date>
         <end-date>2013-03-24</end-date>
         <country id="jordan">Jordan</country>
-        <locale>Amman,Petra</locale>
+        <locale>Amman, Petra</locale>
         <remarks>Met with King Abdullah II.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
@@ -812,7 +812,7 @@
         <start-date>2013-06-16</start-date>
         <end-date>2013-06-18</end-date>
         <country id="united-kingdom">United Kingdom (Northern Ireland)</country>
-        <locale>Belfast,Enniskillen</locale>
+        <locale>Belfast, Enniskillen</locale>
         <remarks>Attended the G-8 Economic Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
@@ -854,7 +854,7 @@
         <start-date>2013-06-28</start-date>
         <end-date>2013-07-01</end-date>
         <country id="south-africa">South Africa</country>
-        <locale>Johannesburg,Pretoria,Cape Town</locale>
+        <locale>Johannesburg, Pretoria, Cape Town</locale>
         <remarks>Met with President Jacob Zuma and with members of the Mandela family. Visited
             Robben Island.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -954,7 +954,7 @@
         <start-date>2014-03-24</start-date>
         <end-date>2014-03-25</end-date>
         <country id="netherlands">Netherlands</country>
-        <locale>The Hague,Amsterdam</locale>
+        <locale>The Hague, Amsterdam</locale>
         <remarks>Attended the World Forum the Nuclear Security Summit, and a G-7 meeting on the
             Ukrainian crisis. Met with King Willem-Alexander and President Nursultan Nazarbayev of
             Kazakhstan.</remarks>
@@ -970,7 +970,7 @@
         <start-date>2014-03-25</start-date>
         <end-date>2014-03-26</end-date>
         <country id="belgium">Belgium</country>
-        <locale>Waregem,Brussels</locale>
+        <locale>Waregem, Brussels</locale>
         <remarks>Attended a wreath-laying ceremony at the Flanders Field American Cemetery. Attended
             a meeting of the Council of the European Union.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1015,7 +1015,7 @@
         <start-date>2014-03-28</start-date>
         <end-date>2014-03-29</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Riyadh,Rawdat Khurain</locale>
+        <locale>Riyadh, Rawdat Khurain</locale>
         <remarks>Met with King Abdullah bin Abdel Aziz al-Saud.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
@@ -1088,7 +1088,7 @@
         <start-date>2014-04-28</start-date>
         <end-date>2014-04-29</end-date>
         <country id="philippines">Philippines</country>
-        <locale>Manila,Taguig</locale>
+        <locale>Manila, Taguig</locale>
         <remarks>Met with President Benigno S. Aquino 3rd. Attended a wreath-laying ceremony at the
             American Manila Cemetery.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1161,7 +1161,7 @@
         <start-date>2014-06-05</start-date>
         <end-date>2014-06-06</end-date>
         <country id="france">France</country>
-        <locale>Paris,Omaha Beach,Benouville,Ouistreham</locale>
+        <locale>Paris, Omaha Beach, Benouville, Ouistreham</locale>
         <remarks>Met with President Francois Hollande. Attended ceremonies commemorating the 70th
             anniversary of the Normandy landings. Discussed the Ukrainian situation with Russian
             President Vladimir Putin.</remarks>
@@ -1191,7 +1191,7 @@
         <start-date>2014-09-03</start-date>
         <end-date>2014-09-05</end-date>
         <country id="united-kingdom">United Kingdom (Wales)</country>
-        <locale>Newport,Cardiff</locale>
+        <locale>Newport, Cardiff</locale>
         <remarks>Attended a NATO Summit Meeting. Also visited Stonehenge.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
@@ -1220,7 +1220,7 @@
         <start-date>2014-11-12</start-date>
         <end-date>2014-11-14</end-date>
         <country id="burma">Burma</country>
-        <locale>Nay Pyi Taw,Rangoon</locale>
+        <locale>Nay Pyi Taw, Rangoon</locale>
         <remarks>Attended a United States-Association of Southeast Asian Naations Summit
             Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1333,7 +1333,7 @@
         <start-date>2015-06-07</start-date>
         <end-date>2015-06-08</end-date>
         <country id="germany">Germany</country>
-        <locale>Munich,Krun,Elmau</locale>
+        <locale>Munich, Krun, Elmau</locale>
         <remarks>Attended the G-7 Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
@@ -1476,7 +1476,7 @@
         <start-date>2016-03-23</start-date>
         <end-date>2016-03-24</end-date>
         <country id="argentina">Argentina</country>
-        <locale>Buenos Aires,San Carlos de Bariloche</locale>
+        <locale>Buenos Aires, San Carlos de Bariloche</locale>
         <remarks>Met with President Mauricio Macri. Toured Llao Llao Park.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
@@ -1562,7 +1562,7 @@
         <start-date>2016-05-23</start-date>
         <end-date>2016-05-25</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Hanoi,Ho Chi Minh City</locale>
+        <locale>Hanoi, Ho Chi Minh City</locale>
         <remarks>Met with President Tran Dai Quang and Prime Minister Nguyen Xuan Phuc.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
@@ -1576,7 +1576,7 @@
         <start-date>2016-05-25</start-date>
         <end-date>2016-05-29</end-date>
         <country id="japan">Japan</country>
-        <locale>Shima City,Ise,Iwakuni,Hiroshima</locale>
+        <locale>Shima City, Ise, Iwakuni, Hiroshima</locale>
         <remarks>Attended the G-7 Economic Summit. Attended ceremonies at the Hiroshima Peace
             Memorial Park. .</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1620,7 +1620,7 @@
         <start-date>2016-07-09</start-date>
         <end-date>2016-07-10</end-date>
         <country id="spain">Spain</country>
-        <locale>Madrid,Torrejon Air Base,Rota</locale>
+        <locale>Madrid, Torrejon Air Base, Rota</locale>
         <remarks>Met with Spanish political leaders at Torrejon Air Base and visited Naval Station
             Rota.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1649,7 +1649,7 @@
         <start-date>2016-09-05</start-date>
         <end-date>2016-09-09</end-date>
         <country id="laos">Laos</country>
-        <locale>Vientiane,Luang Prabang</locale>
+        <locale>Vientiane, Luang Prabang</locale>
         <remarks>Met with President Bounnyang Vorachit and attended an East Asia Summit
             Meeting.</remarks>
         <created-by>wicentowskijc</created-by>

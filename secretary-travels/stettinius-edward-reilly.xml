@@ -50,7 +50,7 @@
         <start-date>1945-02-03</start-date>
         <end-date>1945-02-14</end-date>
         <country id="russia">U.S.S.R.</country>
-        <locale>Yalta,Moscow</locale>
+        <locale>Yalta, Moscow</locale>
         <remarks>Accompanied President Roosevelt to the Crimea Conference. Met afterward (February
             11-14) with Soviet Foreign Minister Molotov.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -65,7 +65,7 @@
         <start-date>1945-02-14</start-date>
         <end-date>1945-02-15</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Cairo,Alexandria</locale>
+        <locale>Cairo, Alexandria</locale>
         <remarks>Met with Haile Selassie; conferred with President Roosevelt.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>

@@ -78,7 +78,7 @@
         <start-date>2009-03-03</start-date>
         <end-date>2009-03-05</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Met with President Peres, Prime Minister Olmert, and Foreign Minister
             Livni.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -150,7 +150,7 @@
         <start-date>2009-03-25</start-date>
         <end-date>2009-03-26</end-date>
         <country id="mexico">Mexico</country>
-        <locale>Mexico City,Monterrey</locale>
+        <locale>Mexico City, Monterrey</locale>
         <remarks>Met with Foreign Secretary Espinosa and discussed the Merida Initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
@@ -365,7 +365,7 @@
         <start-date>2009-07-17</start-date>
         <end-date>2009-07-21</end-date>
         <country id="india">India</country>
-        <locale>Mumbai,New Delhi</locale>
+        <locale>Mumbai, New Delhi</locale>
         <remarks>Met with Prime Minister Singh and External Affairs Minister Krishna. Discussed a
             U.S.-India strategic partnership.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -380,7 +380,7 @@
         <start-date>2009-07-21</start-date>
         <end-date>2009-07-23</end-date>
         <country id="thailand">Thailand</country>
-        <locale>Bangkok,Phuket</locale>
+        <locale>Bangkok, Phuket</locale>
         <remarks>Met with Prime Minister Abhisit and Foreign Minister Kasit. Attended the ASEAN
             Post-Ministerial Conference and Regional Forum in Phuket.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -409,7 +409,7 @@
         <start-date>2009-08-07</start-date>
         <end-date>2009-08-09</end-date>
         <country id="south-africa">South Africa</country>
-        <locale>Johannesburg,Pretoria,Durban</locale>
+        <locale>Johannesburg, Pretoria, Durban</locale>
         <remarks>Addressed an International Development Corporation event. Met with former
             Presidents Mandela and de Klerk and with President Zuma.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -439,7 +439,7 @@
         <start-date>2009-08-10</start-date>
         <end-date>2009-08-11</end-date>
         <country id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</country>
-        <locale>Kinshasa,Goma</locale>
+        <locale>Kinshasa, Goma</locale>
         <remarks>Met with Prime Minister Muzito and President Kabila. Attended a round-table on
             gender-based violence issues.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -555,7 +555,7 @@
         <start-date>2009-10-12</start-date>
         <end-date>2009-10-14</end-date>
         <country id="russia">Russia</country>
-        <locale>Moscow,Kazan</locale>
+        <locale>Moscow, Kazan</locale>
         <remarks>Met with President Medvedev and Foreign Minister Lavrov concerning arms control,
             nonproliferation, and counterterrorism. In Kazan, met with Tatarstan President Shaymiyev
             and attended a dialogue on diversity at Kazan State University.</remarks>
@@ -571,7 +571,7 @@
         <start-date>2009-10-28</start-date>
         <end-date>2009-10-30</end-date>
         <country id="pakistan">Pakistan</country>
-        <locale>Islamabad,Lahore</locale>
+        <locale>Islamabad, Lahore</locale>
         <remarks>Met with Foreign Minister Qureshi. Announced several assistance programs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
@@ -701,7 +701,7 @@
         <start-date>2009-11-16</start-date>
         <end-date>2009-11-18</end-date>
         <country id="china">China, People’s Republic of</country>
-        <locale>Beijing,Shanghai</locale>
+        <locale>Beijing, Shanghai</locale>
         <remarks>Accompanied President Obama. Dedicated the USA Pavilion at the Shanghai
             Expo.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -832,7 +832,7 @@
         <start-date>2010-02-15</start-date>
         <end-date>2010-02-16</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Riyadh,Jeddah</locale>
+        <locale>Riyadh, Jeddah</locale>
         <remarks>Met with King Abdullah and Foreign Minister Prince Saud. Visited the Organization
             of the Islamic Conference headquarters and made a speech at the Dar Al-Hekma College in
             Jeddah on February 16.</remarks>
@@ -891,7 +891,7 @@
         <start-date>2010-03-02</start-date>
         <end-date>2010-03-03</end-date>
         <country id="brazil">Brazil</country>
-        <locale>Brasilia,Sao Paulo</locale>
+        <locale>Brasilia, Sao Paulo</locale>
         <remarks>Met with President Lula da Silva and Foreign Minister Amorim. Held a Townterview at
             Zumbi dos Palmares University in Sao Paulo.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -965,7 +965,7 @@
         <start-date>2010-03-29</start-date>
         <end-date>2010-03-30</end-date>
         <country id="canada">Canada</country>
-        <locale>Ottawa,Gatineau</locale>
+        <locale>Ottawa, Gatineau</locale>
         <remarks>Attended a meeting of the Foreign Ministers of the Arctic Coastal States and a
             meeting of the G-8 Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1024,7 +1024,7 @@
         <start-date>2010-05-21</start-date>
         <end-date>2010-05-26</end-date>
         <country id="china">China, People’s Republic of</country>
-        <locale>Shanghai,Beijing</locale>
+        <locale>Shanghai, Beijing</locale>
         <remarks>Visited the Shanghai 2010 Expo and attended a dinner for sponsors of the USA
             Pavilion. In Beijing, attended the second meeting of the U.S.-China Strategic and
             Economic Dialogue.</remarks>
@@ -1218,7 +1218,7 @@
         <start-date>2010-07-20</start-date>
         <end-date>2010-07-21</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale>Seoul,Panmunjon</locale>
+        <locale>Seoul, Panmunjon</locale>
         <remarks>Commemorated the 60th anniversary of the Korean War. Visited the DMZ. With
             Secretary of Defense Gates, attended a 2+2 meeting with South Korea’s Foreign Minister
             and Minister of National Defense and with President Lee Myung-bak.</remarks>
@@ -1392,7 +1392,7 @@
         <start-date>2010-10-30</start-date>
         <end-date>2010-11-01</end-date>
         <country id="cambodia">Cambodia</country>
-        <locale>Phnom Penh,Angkor Wat</locale>
+        <locale>Phnom Penh, Angkor Wat</locale>
         <remarks>Met with Deputy Prime Minister and Foreign Minister Namhong.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
@@ -1435,7 +1435,7 @@
         <start-date>2010-11-03</start-date>
         <end-date>2010-11-05</end-date>
         <country id="new-zealand">New Zealand</country>
-        <locale>Wellington,Christchurch</locale>
+        <locale>Wellington, Christchurch</locale>
         <remarks>Met with Prime Minister Key and Foreign Minister McCully. Visited the U.S.
             Antarctic Center.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2049,7 +2049,7 @@
         <start-date>2011-07-25</start-date>
         <end-date>2011-07-25</end-date>
         <country id="china">China, People’s Republic of</country>
-        <locale>Hong Kong,Shenzhen</locale>
+        <locale>Hong Kong, Shenzhen</locale>
         <remarks>Met with the Hong Kong Executive and Legislative Council, and with State Councilor
             Dai Bingguo in Shenzhen.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2239,7 +2239,7 @@
         <start-date>2011-11-30</start-date>
         <end-date>2011-12-02</end-date>
         <country id="burma">Burma</country>
-        <locale>Nay Pyi Taw,Rangoon</locale>
+        <locale>Nay Pyi Taw, Rangoon</locale>
         <remarks>Met with President Thein Sein, Foreign Minister Lwin, Aung San Suu Kyi, and civic
             and minority representatives.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2638,7 +2638,7 @@
         <start-date>2012-05-06</start-date>
         <end-date>2012-05-08</end-date>
         <country id="india">India</country>
-        <locale>Kolkata,New Delhi</locale>
+        <locale>Kolkata, New Delhi</locale>
         <remarks>Attended an Anti-Trafficking Champions event. Met with Prime Minister Manmohan
             Singh and Foreign Minister Somanahalli Krishna.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2668,7 +2668,7 @@
         <start-date>2012-05-31</start-date>
         <end-date>2012-06-03</end-date>
         <country id="norway">Norway</country>
-        <locale>Oslo,Tromso</locale>
+        <locale>Oslo, Tromso</locale>
         <remarks>Met with King Harald V, Prime Minister Jens Stoltenberg, and Foreign Minister Jonas
             Stoere. Addressed a global health conference. Took part in a meeting on the High North
             at Tromso.</remarks>
@@ -2942,7 +2942,7 @@
         <start-date>2012-07-11</start-date>
         <end-date>2012-07-13</end-date>
         <country id="cambodia">Cambodia</country>
-        <locale>Phnom Penh,Siem Reap</locale>
+        <locale>Phnom Penh, Siem Reap</locale>
         <remarks>Met with Prime Minister Hun Sen. Attended the U.S.-ASEAN and East Asia Summit
             Ministerial Meetings and the East Asia Regional Forum Retreat. Attended a Friends of the
             Lower Mekong Ministerial Meeting. In Siem Reap, met with the Prime Minister of Thailand
@@ -2960,7 +2960,7 @@
         <start-date>2012-07-14</start-date>
         <end-date>2012-07-16</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Cairo,Alexandria</locale>
+        <locale>Cairo, Alexandria</locale>
         <remarks>Met with President Mohammed Morsi, Foreign Minister Mohamed Kamel Amr, Field
             Marshal Mohamed Tantawi, and Christian leaders. Dedicated the Consulate General at
             Alexandria.</remarks>
@@ -3065,7 +3065,7 @@
         <start-date>2012-08-06</start-date>
         <end-date>2012-08-09</end-date>
         <country id="south-africa">South Africa</country>
-        <locale>Qunu,Johannesburg,Cape Town</locale>
+        <locale>Qunu, Johannesburg, Cape Town</locale>
         <remarks>Met with former President Nelson Mandela at Qunu. Attended U.S.-South Africa
             Business Partnership Summit and U.S.-South Africa Strategic Dialogue Plenary Session in
             Johannesburg. Met with Foreign Minister Maite Nekoana-Mashabane and AU Chair-Designate
@@ -3351,7 +3351,7 @@
         <start-date>2012-11-13</start-date>
         <end-date>2012-11-15</end-date>
         <country id="australia">Australia</country>
-        <locale>Perth,Adelaide</locale>
+        <locale>Perth, Adelaide</locale>
         <remarks>Met with Prime Minister Julia Gillard, Foreign Minister Robert Carr, and Defense
             Minister Stephen Smith. Opened the Perth USAsia Center. Attended the Australia-United
             States Ministerial Consultations.</remarks>

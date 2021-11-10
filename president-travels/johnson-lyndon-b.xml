@@ -36,7 +36,7 @@
         <start-date>1966-08-21</start-date>
         <end-date>1966-08-22</end-date>
         <country id="canada">Canada</country>
-        <locale>Campobello Island,Chamcook</locale>
+        <locale>Campobello Island, Chamcook</locale>
         <remarks>Laid cornerstone at Roosevelt-Campobello International Park and conferred
             informally with Prime Minister Pearson.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -65,7 +65,7 @@
         <start-date>1966-10-20</start-date>
         <end-date>1966-10-23</end-date>
         <country id="australia">Australia</country>
-        <locale>Canberra,Melbourne,Sydney,Brisbane,Townsville</locale>
+        <locale>Canberra, Melbourne, Sydney, Brisbane, Townsville</locale>
         <remarks>State visit; met with Governor General Casey and Prime Minister Holt.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -79,7 +79,7 @@
         <start-date>1966-10-24</start-date>
         <end-date>1966-10-26</end-date>
         <country id="philippines">Philippines</country>
-        <locale>Manila,Los Banos,Corregidor</locale>
+        <locale>Manila, Los Banos, Corregidor</locale>
         <remarks>Attended summit conference with the Heads of State and Government of Australia,
             Korea, New Zealand, the Philippines, Thailand, and Vietnam.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -136,7 +136,7 @@
         <start-date>1966-10-31</start-date>
         <end-date>1966-11-02</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale>Seoul,Suwon</locale>
+        <locale>Seoul, Suwon</locale>
         <remarks>State visit; met with President Park and Prime Minister Chung.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -208,7 +208,7 @@
         <start-date>1967-05-25</start-date>
         <end-date>1967-05-25</end-date>
         <country id="canada">Canada</country>
-        <locale>Montreal,Ottawa</locale>
+        <locale>Montreal, Ottawa</locale>
         <remarks>Attended Expo 67 and conferred informally with Prime Minister Pearson.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>

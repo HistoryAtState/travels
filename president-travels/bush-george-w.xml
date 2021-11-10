@@ -106,7 +106,7 @@
         <start-date>2001-07-18</start-date>
         <end-date>2001-07-20</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London,Chequers,Halton,Brize Norton</locale>
+        <locale>London, Chequers, Halton, Brize Norton</locale>
         <remarks>Met with Prime Minister Blain and Queen Elizabeth II.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -120,7 +120,7 @@
         <start-date>2001-07-20</start-date>
         <end-date>2001-07-24</end-date>
         <country id="italy">Italy</country>
-        <locale>Genoa,Castel Gandolfo,Rome</locale>
+        <locale>Genoa, Castel Gandolfo, Rome</locale>
         <remarks>Attended the G-8 Economic Summit. Met with Pope John Paul II at Castel Gandolfo and
             with Prime Minister Berlusconi and President Ciampi in Rome.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -177,7 +177,7 @@
         <start-date>2002-02-19</start-date>
         <end-date>2002-02-21</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale>Seoul,Dorasan,Osan</locale>
+        <locale>Seoul, Dorasan, Osan</locale>
         <remarks>Met with President Kin Dae-Jung, visited the Demilitarized Zone, addressed U.S.
             military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -264,7 +264,7 @@
         <start-date>2002-05-23</start-date>
         <end-date>2002-05-26</end-date>
         <country id="russia">Russia</country>
-        <locale>Moscow,St. Petersburg</locale>
+        <locale>Moscow, St. Petersburg</locale>
         <remarks>Summit meeting with President Putin. Signed strategic arms reduction
             treaty.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -279,7 +279,7 @@
         <start-date>2002-05-26</start-date>
         <end-date>2002-05-27</end-date>
         <country id="france">France</country>
-        <locale>Paris,St. Mere- Eglise,Colleville</locale>
+        <locale>Paris, St. Mere- Eglise, Colleville</locale>
         <remarks>Met with President Chirac and delivered a Memorial Day address in
             Normandy.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -422,7 +422,7 @@
         <start-date>2003-04-07</start-date>
         <end-date>2003-04-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>Belfast,Hillsborough (Northern Ireland)</locale>
+        <locale>Belfast, Hillsborough (Northern Ireland)</locale>
         <remarks>Met with Prime Minister Blair to discuss the reconstruction of Iraq. Also met with
             Irish Prime Minister Ahern and Northern Irish political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -437,7 +437,7 @@
         <start-date>2003-05-30</start-date>
         <end-date>2003-05-31</end-date>
         <country id="poland">Poland</country>
-        <locale>Krakow,Auschwitz-Birkenau</locale>
+        <locale>Krakow, Auschwitz-Birkenau</locale>
         <remarks>Met with President Kwasniewski and Prime Minister Miller; visited former Nazi
             concentration camps.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -527,7 +527,7 @@
         <start-date>2003-07-08</start-date>
         <end-date>2003-07-08</end-date>
         <country id="senegal">Senegal</country>
-        <locale>Dakar,Goree Island</locale>
+        <locale>Dakar, Goree Island</locale>
         <remarks>Met with President Wade.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -682,7 +682,7 @@
         <start-date>2003-11-18</start-date>
         <end-date>2003-11-21</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London,Sedgefield</locale>
+        <locale>London, Sedgefield</locale>
         <remarks>State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -753,7 +753,7 @@
         <start-date>2004-06-05</start-date>
         <end-date>2004-06-06</end-date>
         <country id="france">France</country>
-        <locale>Paris,Colleville,Caen,Arromanches</locale>
+        <locale>Paris, Colleville, Caen, Arromanches</locale>
         <remarks>Met with President Chirac and commemorated the 60th anniversary of D-Day.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -767,7 +767,7 @@
         <start-date>2004-06-25</start-date>
         <end-date>2004-06-26</end-date>
         <country id="ireland">Ireland</country>
-        <locale>Shannon,Dromoland Castle</locale>
+        <locale>Shannon, Dromoland Castle</locale>
         <remarks>Attended U.S.-EU Summit meeting and met with Prime Minister Ahern.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -781,7 +781,7 @@
         <start-date>2004-06-26</start-date>
         <end-date>2004-06-29</end-date>
         <country id="turkey">Turkey</country>
-        <locale>Ankara,Istanbul</locale>
+        <locale>Ankara, Istanbul</locale>
         <remarks>Met with President Sezer and Prime Minister Erdogan and attended NATO Summit
             meeting in Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -824,7 +824,7 @@
         <start-date>2004-11-30</start-date>
         <end-date>2004-12-01</end-date>
         <country id="canada">Canada</country>
-        <locale>Ottawa,Gatineau,Halifax</locale>
+        <locale>Ottawa, Gatineau, Halifax</locale>
         <remarks>Met with Prime Minister Martin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -852,7 +852,7 @@
         <start-date>2005-02-23</start-date>
         <end-date>2005-02-23</end-date>
         <country id="germany">Germany</country>
-        <locale>Mainz,Wiesbaden</locale>
+        <locale>Mainz, Wiesbaden</locale>
         <remarks>Met with Chancellor Schroeder and visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -922,7 +922,7 @@
         <start-date>2005-05-07</start-date>
         <end-date>2005-05-08</end-date>
         <country id="netherlands">Netherlands</country>
-        <locale>Maastricht,Valkenburg,Margraten</locale>
+        <locale>Maastricht, Valkenburg, Margraten</locale>
         <remarks>Met with Prime Minister Balkenende and gave an address at a U.S. military
             cemetery.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -965,7 +965,7 @@
         <start-date>2005-07-05</start-date>
         <end-date>2005-07-06</end-date>
         <country id="denmark">Denmark</country>
-        <locale>Kastrup,Fredensborg,Copenhagen</locale>
+        <locale>Kastrup, Fredensborg, Copenhagen</locale>
         <remarks>Met with Queen Margrethe II and Prime Minister Rasmussen.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1049,7 +1049,7 @@
         <start-date>2005-11-16</start-date>
         <end-date>2005-11-20</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale>Pusan,Gyeongju,Osan</locale>
+        <locale>Pusan, Gyeongju, Osan</locale>
         <remarks>Attended APEC Summit meeting and met with Russian President Putin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1105,7 +1105,7 @@
         <start-date>2006-03-01</start-date>
         <end-date>2006-03-01</end-date>
         <country id="afghanistan">Afghanistan</country>
-        <locale>Bagram,Kabul</locale>
+        <locale>Bagram, Kabul</locale>
         <remarks>Met with President Karzai, dedicated new U.S. Embassy, and addressed U.S. military
             personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1120,7 +1120,7 @@
         <start-date>2006-03-01</start-date>
         <end-date>2006-03-03</end-date>
         <country id="india">India</country>
-        <locale>New Delhi,Hyderabad</locale>
+        <locale>New Delhi, Hyderabad</locale>
         <remarks>Met with Prime Minister Singh. Signed nuclear cooperation agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1148,7 +1148,7 @@
         <start-date>2006-03-30</start-date>
         <end-date>2006-03-31</end-date>
         <country id="mexico">Mexico</country>
-        <locale>Cancun,Chichen-Itza</locale>
+        <locale>Cancun, Chichen-Itza</locale>
         <remarks>Met with President Fox and Canadian Prime Minister Harper.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1205,7 +1205,7 @@
         <start-date>2006-07-12</start-date>
         <end-date>2006-07-14</end-date>
         <country id="germany">Germany</country>
-        <locale>Stralsund,Trinwillershagen</locale>
+        <locale>Stralsund, Trinwillershagen</locale>
         <remarks>Met with Chancellor Merkel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1263,7 +1263,7 @@
         <start-date>2006-11-17</start-date>
         <end-date>2006-11-20</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Hanoi,Ho Chi Minh City</locale>
+        <locale>Hanoi, Ho Chi Minh City</locale>
         <remarks>Attended APEC Leaders’ Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1277,7 +1277,7 @@
         <start-date>2006-11-20</start-date>
         <end-date>2006-11-20</end-date>
         <country id="indonesia">Indonesia</country>
-        <locale>Jakarta,Bogor</locale>
+        <locale>Jakarta, Bogor</locale>
         <remarks>Met with President Yudhoyono.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1375,7 +1375,7 @@
         <start-date>2007-03-11</start-date>
         <end-date>2007-03-12</end-date>
         <country id="guatemala">Guatemala</country>
-        <locale>Guatemala City,Santa Cruz Balanya,Iximche</locale>
+        <locale>Guatemala City, Santa Cruz Balanya, Iximche</locale>
         <remarks>Met with President Berger.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1389,7 +1389,7 @@
         <start-date>2007-03-12</start-date>
         <end-date>2007-03-14</end-date>
         <country id="mexico">Mexico</country>
-        <locale>Merida,Uxmal</locale>
+        <locale>Merida, Uxmal</locale>
         <remarks>Met with President Calderon. Visited Mayan ruins.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1433,7 +1433,7 @@
         <start-date>2007-06-08</start-date>
         <end-date>2007-06-08</end-date>
         <country id="poland">Poland</country>
-        <locale>Gdansk,Jurata Hel.</locale>
+        <locale>Gdansk, Jurata Hel.</locale>
         <remarks>Met with President Kaczynski.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1503,7 +1503,7 @@
         <start-date>2007-08-20</start-date>
         <end-date>2007-08-21</end-date>
         <country id="canada">Canada</country>
-        <locale>Montebello,Quebec</locale>
+        <locale>Montebello, Quebec</locale>
         <remarks>Attended North American Leaders’ Summit with Mexican President Calderon and
             Canadian Prime Minister Harper.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1547,7 +1547,7 @@
         <start-date>2008-01-09</start-date>
         <end-date>2008-01-11</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Met with Prime Minister Olmert and President Peres. Visited Yad Vashem.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1561,7 +1561,7 @@
         <start-date>2008-01-10</start-date>
         <end-date>2008-01-10</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
-        <locale>Ramallah,Bethlehem</locale>
+        <locale>Ramallah, Bethlehem</locale>
         <remarks>Met with President Abbas and visited the Church of the Nativity.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1575,7 +1575,7 @@
         <start-date>2008-01-11</start-date>
         <end-date>2008-01-12</end-date>
         <country id="kuwait">Kuwait</country>
-        <locale>Kuwait City,Camp Arifjan</locale>
+        <locale>Kuwait City, Camp Arifjan</locale>
         <remarks>Attended Roundtable on Democracy and Development. Met with Gen. Petraeus and
             Ambassador Crocker at Camp Arifjan and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1605,7 +1605,7 @@
         <start-date>2008-01-13</start-date>
         <end-date>2008-01-14</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
-        <locale>Abu Dhabi,Dubai</locale>
+        <locale>Abu Dhabi, Dubai</locale>
         <remarks>Met with President Khalifa bin Zayid al Nuhayyin and Crown Prince Sheikh
             Mohammed.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1620,7 +1620,7 @@
         <start-date>2008-01-14</start-date>
         <end-date>2008-01-16</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Riyadh,Al-Janadriyah</locale>
+        <locale>Riyadh, Al-Janadriyah</locale>
         <remarks>Met with King Abdullah.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1662,7 +1662,7 @@
         <start-date>2008-02-16</start-date>
         <end-date>2008-02-19</end-date>
         <country id="tanzania">Tanzania</country>
-        <locale>Dar es Salaam,Arusha</locale>
+        <locale>Dar es Salaam, Arusha</locale>
         <remarks>Met with President Kikwete, signed Millennium Challenge agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1776,7 +1776,7 @@
         <start-date>2008-05-14</start-date>
         <end-date>2008-05-16</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem,Masada</locale>
+        <locale>Tel Aviv, Jerusalem, Masada</locale>
         <remarks>Met with President Peres and Prime Minister Olmert. Addressed the Knesset.
             Commemorated Israel’s 60th anniversary.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1791,7 +1791,7 @@
         <start-date>2008-05-16</start-date>
         <end-date>2008-05-17</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
-        <locale>Riyadh,Al-Janadriyah</locale>
+        <locale>Riyadh, Al-Janadriyah</locale>
         <remarks>Met with King Abdullah.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1893,7 +1893,7 @@
         <start-date>2008-06-15</start-date>
         <end-date>2008-06-16</end-date>
         <country id="united-kingdom">United Kingdom</country>
-        <locale>London,Belfast</locale>
+        <locale>London, Belfast</locale>
         <remarks>Met with Queen Elizabeth II at Windsor Castle. Met with Prime Minister Blair and
             Quartet Representative Blair. In Belfast, met with First Minister Robertson and Deputy
             First Minister McGuinness.</remarks>
@@ -1924,7 +1924,7 @@
         <start-date>2008-08-05</start-date>
         <end-date>2008-08-06</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale>Seoul,Yongsan</locale>
+        <locale>Seoul, Yongsan</locale>
         <remarks>Met with President Lee and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>

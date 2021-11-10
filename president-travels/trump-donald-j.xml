@@ -93,7 +93,7 @@
         <start-date>2017-05-25</start-date>
         <end-date>2017-05-27</end-date>
         <country id="italy">Italy</country>
-        <locale>Taormina,Sigonella</locale>
+        <locale>Taormina, Sigonella</locale>
         <remarks>Attended the G–7 Summit Meeting. Stopped at NAS Sigonella while returning to the
             United States.</remarks>
         <created-by>faithti</created-by>
@@ -152,7 +152,7 @@
         <start-date>2017-11-05</start-date>
         <end-date>2017-11-07</end-date>
         <country id="japan">Japan</country>
-        <locale>Kawagoe,Tokyo</locale>
+        <locale>Kawagoe, Tokyo</locale>
         <remarks>Met with Prime Minister Shinzō Abe and Emperor Akihito.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
@@ -166,7 +166,7 @@
         <start-date>2017-11-07</start-date>
         <end-date>2017-11-08</end-date>
         <country id="korea-south">Korea, Republic of</country>
-        <locale>Osan,Seoul</locale>
+        <locale>Osan, Seoul</locale>
         <remarks>Met with President Moon Jae-in. Visited U.S. Military personnel at Garrisons
             Humphreys and Yongsan.</remarks>
         <created-by>faithti</created-by>
@@ -195,7 +195,7 @@
         <start-date>2017-11-10</start-date>
         <end-date>2017-11-12</end-date>
         <country id="vietnam">Vietnam</country>
-        <locale>Danang,Hanoi</locale>
+        <locale>Danang, Hanoi</locale>
         <remarks>Attended the APEC Economic Leaders Meeting. Met with President Tran Dai
             Quang.</remarks>
         <created-by>faithti</created-by>
@@ -381,7 +381,7 @@
         <start-date>2019-06-06</start-date>
         <end-date>2019-06-06</end-date>
         <country id="france">France</country>
-        <locale>Colleville-sur-Mer,Caen</locale>
+        <locale>Colleville-sur-Mer, Caen</locale>
         <remarks>Attended remembrance ceremony on the 75th Anniversary of D-Day.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>

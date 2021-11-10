@@ -275,7 +275,7 @@
         <start-date>1973-12-15</start-date>
         <end-date>1973-12-15</end-date>
         <country id="jordan">Jordan</country>
-        <locale>Amman,Rayak</locale>
+        <locale>Amman, Rayak</locale>
         <remarks>Met with King Hussein to discuss the Middle East peace process.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -303,7 +303,7 @@
         <start-date>1973-12-17</start-date>
         <end-date>1973-12-17</end-date>
         <country id="israel">Israel</country>
-        <locale>Jerusalem,Tel Aviv</locale>
+        <locale>Jerusalem, Tel Aviv</locale>
         <remarks>Met with Prime Minister Meir to discuss the Middle East peace process.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -387,7 +387,7 @@
         <start-date>1974-01-11</start-date>
         <end-date>1974-01-18</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Aswan,Luxor</locale>
+        <locale>Aswan, Luxor</locale>
         <remarks>Negotiations leading to Egyptian-Israeli ("Kilometer 101") disengagement agreement.
             Was in Egypt January 11-12, 13-14, 16, and 18.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -402,7 +402,7 @@
         <start-date>1974-01-12</start-date>
         <end-date>1974-01-17</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Negotiations leading to the Egyptian-Israeli ("Kilometer 101") disengagement
             agreement. Was in Israel January 12-13, 14-15, 16-17.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -445,7 +445,7 @@
         <start-date>1974-01-20</start-date>
         <end-date>1974-01-20</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Presented the Syrian position on military disengagement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -658,7 +658,7 @@
         <start-date>1974-03-30</start-date>
         <end-date>1974-04-09</end-date>
         <country id="mexico">Mexico</country>
-        <locale>Acapulco,Mexico, D.F.</locale>
+        <locale>Acapulco, Mexico, D.F.</locale>
         <remarks>Honeymoon. Also met with senior Mexican officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -848,7 +848,7 @@
         <start-date>1974-06-12</start-date>
         <end-date>1974-06-14</end-date>
         <country id="egypt">Egypt</country>
-        <locale>Cairo,Alexandria</locale>
+        <locale>Cairo, Alexandria</locale>
         <remarks>Accompanied President Nixon.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -890,7 +890,7 @@
         <start-date>1974-06-16</start-date>
         <end-date>1974-06-17</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Accompanied President Nixon.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -932,7 +932,7 @@
         <start-date>1974-06-27</start-date>
         <end-date>1974-07-03</end-date>
         <country id="russia">U.S.S.R.</country>
-        <locale>Moscow,Simferopol,Minsk</locale>
+        <locale>Moscow, Simferopol, Minsk</locale>
         <remarks>Accompanied President Nixon on an official visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1003,7 +1003,7 @@
         <start-date>1974-07-06</start-date>
         <end-date>1974-07-08</end-date>
         <country id="germany">Germany, Federal Republic of</country>
-        <locale>Dusseldorf,Munich</locale>
+        <locale>Dusseldorf, Munich</locale>
         <remarks>Briefed Foreign Minister Federal Genscher on the U.S.-Soviet summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1074,7 +1074,7 @@
         <start-date>1974-10-11</start-date>
         <end-date>1974-10-12</end-date>
         <country id="jordan">Jordan</country>
-        <locale>Amman,Aqaba</locale>
+        <locale>Amman, Aqaba</locale>
         <remarks>Reviewed the Middle East peace process with King Hussein and Prime Minister
             Rifai.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1176,7 +1176,7 @@
         <start-date>1974-10-21</start-date>
         <end-date>1974-10-21</end-date>
         <country id="mexico">Mexico</country>
-        <locale>Nogales,Magdalena de Kino</locale>
+        <locale>Nogales, Magdalena de Kino</locale>
         <remarks>Accompanied President Ford to a meeting with President Echeverria.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1482,7 +1482,7 @@
         <start-date>1974-11-25</start-date>
         <end-date>1974-11-29</end-date>
         <country id="china">China</country>
-        <locale>Peking,Soochow</locale>
+        <locale>Peking, Soochow</locale>
         <remarks>Met with Foreign Minister Chiao.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -1569,7 +1569,7 @@
         <start-date>1975-02-13</start-date>
         <end-date>1975-02-14</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Discussed prospects for a second Egyptian-Israeli disengagement
             agreement.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -1740,7 +1740,7 @@
         <start-date>1975-03-09</start-date>
         <end-date>1975-03-23</end-date>
         <country id="israel">Israel</country>
-        <locale>Tel Aviv,Jerusalem</locale>
+        <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Egyptian-Israeli disengagement. Discussions continued in Jerusalem March 9-10, 12,
             14, 16-17, 18, and 20-23.</remarks>
         <created-by>wicentowskijc</created-by>
@@ -2051,7 +2051,7 @@
         <start-date>1975-08-02</start-date>
         <end-date>1975-08-03</end-date>
         <country id="romania">Romania</country>
-        <locale>Bucharest,Sinaia</locale>
+        <locale>Bucharest, Sinaia</locale>
         <remarks>Accompanied President Ford on an official visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
@@ -2774,7 +2774,7 @@
         <start-date>1976-06-23</start-date>
         <end-date>1976-06-24</end-date>
         <country id="germany">Germany, Federal Republic of</country>
-        <locale>Bodenmais,Grafenau</locale>
+        <locale>Bodenmais, Grafenau</locale>
         <remarks>Met with Foreign Minister Genscher and South African Prime Minister
             Vorster.</remarks>
         <created-by>wicentowskijc</created-by>
