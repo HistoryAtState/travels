@@ -2,6 +2,4 @@ build/*
 .existdb.json
 .DS_Store
 expath-pkg.xml
-expath-pkg.xml.tmpl
 repo.xml
-repo.xml.tmpl
