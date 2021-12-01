@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="kerry-john-forbes" role="secretary">
         <id>3404</id>
@@ -8,7 +8,8 @@
         <end-date>2013-02-26</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Prime Minister David Cameron and Foreign Secretary William             Hague.</remarks>
+        <remarks>Met with Prime Minister David Cameron and Foreign Secretary William
+            Hague.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -22,7 +23,8 @@
         <end-date>2013-02-27</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with Foreign Minister Guido Westerwelle, Chancellor Angela Merkel, and Russian             Foreign Minister Sergey Lavrov.</remarks>
+        <remarks>Met with Foreign Minister Guido Westerwelle, Chancellor Angela Merkel, and Russian
+            Foreign Minister Sergey Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -36,7 +38,8 @@
         <end-date>2013-02-27</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President Francois Hollande and Foreign Minister Laurent Fabius. Discussed             the situation in Mali.</remarks>
+        <remarks>Met with President Francois Hollande and Foreign Minister Laurent Fabius. Discussed
+            the situation in Mali.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -50,7 +53,9 @@
         <end-date>2013-03-01</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with Prime Minister Mario Monti, Foreign Minister Guilio de Sant’Agata, NATO             Secretary General Anders Fogh Rasmussen, and the Foreign Ministers of the Baltic States.             Also attended an Ad Hoc Meeting on Syria with Syrian Opposition leaders.</remarks>
+        <remarks>Met with Prime Minister Mario Monti, Foreign Minister Guilio de Sant’Agata, NATO
+            Secretary General Anders Fogh Rasmussen, and the Foreign Ministers of the Baltic States.
+            Also attended an Ad Hoc Meeting on Syria with Syrian Opposition leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -64,7 +69,8 @@
         <end-date>2013-03-02</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
-        <remarks>Met with President Abdullah Gul, Prime Minister Recep Tayyip Erdogan, and Foreign             Minister Ahmed Davutoglu. Discussed the Syrian crisis.</remarks>
+        <remarks>Met with President Abdullah Gul, Prime Minister Recep Tayyip Erdogan, and Foreign
+            Minister Ahmed Davutoglu. Discussed the Syrian crisis.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -78,7 +84,9 @@
         <end-date>2013-03-03</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with Arab League Secretary General Nabil al-Araby, Foreign Minister Mohamed             Amr, President Mohammed Morsi, Defense Minister Abdul Fatah al-Sisi, and Egyptian             political and business leaders.</remarks>
+        <remarks>Met with Arab League Secretary General Nabil al-Araby, Foreign Minister Mohamed
+            Amr, President Mohammed Morsi, Defense Minister Abdul Fatah al-Sisi, and Egyptian
+            political and business leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -92,7 +100,8 @@
         <end-date>2013-03-04</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with the Gulf Cooperation Council Foreign Ministers and with Foreign Minister             Prince Saud al-Faisal.</remarks>
+        <remarks>Met with the Gulf Cooperation Council Foreign Ministers and with Foreign Minister
+            Prince Saud al-Faisal.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -106,7 +115,8 @@
         <end-date>2013-03-05</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
-        <remarks>Met with Crown Prince Mohamed bin Zayed al-Nahyan and Foreign Minister Abdullah bin             Zayed al-Nahyan.</remarks>
+        <remarks>Met with Crown Prince Mohamed bin Zayed al-Nahyan and Foreign Minister Abdullah bin
+            Zayed al-Nahyan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -120,7 +130,8 @@
         <end-date>2013-03-06</end-date>
         <country id="qatar">Qatar</country>
         <locale>Doha</locale>
-        <remarks>Met with Emir Hamad bin Khalifa al-Thani, Heir Apparent Tamim bin Hammad al-Thani,             and Prime Minister/Foreign Minister Hamad bin Jassin bin Jaber al-Thani.</remarks>
+        <remarks>Met with Emir Hamad bin Khalifa al-Thani, Heir Apparent Tamim bin Hammad al-Thani,
+            and Prime Minister/Foreign Minister Hamad bin Jassin bin Jaber al-Thani.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -134,7 +145,8 @@
         <end-date>2013-03-06</end-date>
         <country id="ireland">Ireland</country>
         <locale>Shannon</locale>
-        <remarks>Met with Foreign Affairs Minister Eamon Gilmore while returning to the United             States.</remarks>
+        <remarks>Met with Foreign Affairs Minister Eamon Gilmore while returning to the United
+            States.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -218,7 +230,8 @@
         <end-date>2013-03-27</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Foreign Minister Laurent Fabius and addressed French business             leaders.</remarks>
+        <remarks>Met with Foreign Minister Laurent Fabius and addressed French business
+            leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -246,7 +259,8 @@
         <end-date>2013-04-09</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem, Tel Aviv</locale>
-        <remarks>Met with President Shimon Peres, Prime Minister Benjamin Netanyahu, and Palestinian             Authority Prime Minister Salam Fayyad.</remarks>
+        <remarks>Met with President Shimon Peres, Prime Minister Benjamin Netanyahu, and Palestinian
+            Authority Prime Minister Salam Fayyad.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -288,7 +302,8 @@
         <end-date>2013-04-13</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>Met with President Park Gyeun-hye and Prime Minister Yun Byun-se. Addressed the             American Chamber of Commerce.</remarks>
+        <remarks>Met with President Park Gyeun-hye and Prime Minister Yun Byun-se. Addressed the
+            American Chamber of Commerce.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -302,7 +317,8 @@
         <end-date>2013-04-14</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
-        <remarks>Met with President Xi Jinping, Premier Li Liqiang, and Foreign Minister Wang             Yi.</remarks>
+        <remarks>Met with President Xi Jinping, Premier Li Liqiang, and Foreign Minister Wang
+            Yi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -330,7 +346,9 @@
         <end-date>2013-04-21</end-date>
         <country id="turkey">Turkey</country>
         <locale>Istanbul</locale>
-        <remarks>Met with Foreign Minister Ahmed Davutoglu and attended a ministerial meeting of the             Friends of the Syrian People Core Group. Also met with Palestinian Authority President             Mahmoud Abbas and Ecumenical Patriarch Bartholomew.</remarks>
+        <remarks>Met with Foreign Minister Ahmed Davutoglu and attended a ministerial meeting of the
+            Friends of the Syrian People Core Group. Also met with Palestinian Authority President
+            Mahmoud Abbas and Ecumenical Patriarch Bartholomew.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -344,7 +362,9 @@
         <end-date>2013-04-24</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended a NATO Foreign Minister’s Meeting. Also attended a NATO-Russia Council             Ministerial meeting. Signed agreement with Lithuania on countering nuclear smuggling.             Met with Afghan President Hamad Karzai and Pakistani General Ashfaq Kayani.</remarks>
+        <remarks>Attended a NATO Foreign Minister’s Meeting. Also attended a NATO-Russia Council
+            Ministerial meeting. Signed agreement with Lithuania on countering nuclear smuggling.
+            Met with Afghan President Hamad Karzai and Pakistani General Ashfaq Kayani.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -372,7 +392,8 @@
         <end-date>2013-05-09</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with Foreign Minister Emma Bonino, Jordanian Foreign Minister Nasser Judeh, and             Israeli Justice Minister Tzipi Livni.</remarks>
+        <remarks>Met with Foreign Minister Emma Bonino, Jordanian Foreign Minister Nasser Judeh, and
+            Israeli Justice Minister Tzipi Livni.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -386,7 +407,8 @@
         <end-date>2013-05-15</end-date>
         <country id="sweden">Sweden</country>
         <locale>Stockholm, Kiruna</locale>
-        <remarks>Met with Prime Minister Fredrik Reinfeldt and Foreign Minister Carl Bildt. Attended             the Arctic Council Ministerial Meeting at Kiruna.</remarks>
+        <remarks>Met with Prime Minister Fredrik Reinfeldt and Foreign Minister Carl Bildt. Attended
+            the Arctic Council Ministerial Meeting at Kiruna.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -400,7 +422,8 @@
         <end-date>2013-05-22</end-date>
         <country id="oman">Oman</country>
         <locale>Muscat</locale>
-        <remarks>Met with Sultan Qaboos bin Said al Said and Defense Minister Said Badr             al-Busaidi.</remarks>
+        <remarks>Met with Sultan Qaboos bin Said al Said and Defense Minister Said Badr
+            al-Busaidi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -414,7 +437,8 @@
         <end-date>2013-05-22</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Abdullah II and Foreign Minister Nasser Judeh. Attended a London             Eleven plenary meeting.</remarks>
+        <remarks>Met with King Abdullah II and Foreign Minister Nasser Judeh. Attended a London
+            Eleven plenary meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -456,7 +480,8 @@
         <end-date>2013-05-26</end-date>
         <country id="ethiopia">Ethiopia</country>
         <locale>Addis Ababa</locale>
-        <remarks>Attended the African Union Summit and commemorated the Golden Jubilee of the             Organization of African Unity.</remarks>
+        <remarks>Attended the African Union Summit and commemorated the Golden Jubilee of the
+            Organization of African Unity.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -484,7 +509,8 @@
         <end-date>2013-05-28</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with French Foreign Minister Laurent Fabius and Russian Foreign Minister Sergey             Lavrov.</remarks>
+        <remarks>Met with French Foreign Minister Laurent Fabius and Russian Foreign Minister Sergey
+            Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -512,7 +538,9 @@
         <end-date>2013-06-23</end-date>
         <country id="qatar">Qatar</country>
         <locale>Doha</locale>
-        <remarks>Attended the London Eleven Plenary Meeting and met with Heir Apparent Sheikh Tamin             al-Thani, Prime Minister/Foreign Minister Sheikh Hamad al-Thani and Amir Hamad             al-Thani.</remarks>
+        <remarks>Attended the London Eleven Plenary Meeting and met with Heir Apparent Sheikh Tamin
+            al-Thani, Prime Minister/Foreign Minister Sheikh Hamad al-Thani and Amir Hamad
+            al-Thani.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -526,7 +554,8 @@
         <end-date>2013-06-25</end-date>
         <country id="india">India</country>
         <locale>New Delhi</locale>
-        <remarks>Attended the Fourth Annual U.S.-India Strategic Dialogue and the Second U.S.-India             Education Dialogue.</remarks>
+        <remarks>Attended the Fourth Annual U.S.-India Strategic Dialogue and the Second U.S.-India
+            Education Dialogue.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -554,7 +583,8 @@
         <end-date>2013-06-26</end-date>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City</locale>
-        <remarks>Met with Amir Sheikh Sabah al-Ahmed al-Sabah and Deputy Prime Minister/Foreign             Minister Sheikh Sabah Khalid al-Sabah.</remarks>
+        <remarks>Met with Amir Sheikh Sabah al-Ahmed al-Sabah and Deputy Prime Minister/Foreign
+            Minister Sheikh Sabah Khalid al-Sabah.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -568,7 +598,23 @@
         <end-date>2013-06-27</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud             Abbas.</remarks>
+        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud
+            Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
+    </trip>
+    <trip who="kerry-john-forbes" role="secretary">
+        <id>3445</id>
+        <role>secretary</role>
+        <name>John Forbes Kerry</name>
+        <start-date>2013-06-29</start-date>
+        <end-date>2013-06-29</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud
+            Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -603,20 +649,6 @@
         <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
     </trip>
     <trip who="kerry-john-forbes" role="secretary">
-        <id>3445</id>
-        <role>secretary</role>
-        <name>John Forbes Kerry</name>
-        <start-date>2013-06-29</start-date>
-        <end-date>2013-06-29</end-date>
-        <country id="jordan">Jordan</country>
-        <locale>Amman</locale>
-        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud             Abbas.</remarks>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2014-06-10T10:38:12.81-04:00</last-modified-datetime>
-    </trip>
-    <trip who="kerry-john-forbes" role="secretary">
         <id>3448</id>
         <role>secretary</role>
         <name>John Forbes Kerry</name>
@@ -638,7 +670,9 @@
         <end-date>2013-07-02</end-date>
         <country id="brunei">Brunei</country>
         <locale>Bandar Seri Begawan</locale>
-        <remarks>Attended the ASEAN-U.S. Ministerial, Lower Mekong Initiative and Friends of the             Lower Mekong Ministerial Meetings, the 20th ASEAN Regional Forum, and the 3rd East Asia             Summit Foreign Ministers Meeting.</remarks>
+        <remarks>Attended the ASEAN-U.S. Ministerial, Lower Mekong Initiative and Friends of the
+            Lower Mekong Ministerial Meetings, the 20th ASEAN Regional Forum, and the 3rd East Asia
+            Summit Foreign Ministers Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -652,7 +686,9 @@
         <end-date>2013-07-19</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with Foreign Minister Nasser Judeh and Palestinian Authority President Mahmoud             Abbas. Attended an Arab League Peace Initiative Meeting. Visited the Za’atri Refugee             Camp.</remarks>
+        <remarks>Met with Foreign Minister Nasser Judeh and Palestinian Authority President Mahmoud
+            Abbas. Attended an Arab League Peace Initiative Meeting. Visited the Za’atri Refugee
+            Camp.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -680,7 +716,8 @@
         <end-date>2013-08-02</end-date>
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad</locale>
-        <remarks>Met with President Asif Zardari, Prime Minister Nawaz Sharif, National Security             Adviser Sartaj Aziz. Visited Zero Point Power Plant.</remarks>
+        <remarks>Met with President Asif Zardari, Prime Minister Nawaz Sharif, National Security
+            Adviser Sartaj Aziz. Visited Zero Point Power Plant.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -708,7 +745,8 @@
         <end-date>2013-08-13</end-date>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
-        <remarks>Met with President Juan Manuel Santos, Foreign Minister Maria Angela Holguin,             Defense Minister Juan Carlos Pinzon, and Colombian Peace Negotiators.</remarks>
+        <remarks>Met with President Juan Manuel Santos, Foreign Minister Maria Angela Holguin,
+            Defense Minister Juan Carlos Pinzon, and Colombian Peace Negotiators.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -722,7 +760,8 @@
         <end-date>2013-08-13</end-date>
         <country id="brazil">Brazil</country>
         <locale>Brasilia</locale>
-        <remarks>Met with President Dilma Roussef, Foreign Minister Antonio Patriota, and Education             Minister Aloizio Mercadante.</remarks>
+        <remarks>Met with President Dilma Roussef, Foreign Minister Antonio Patriota, and Education
+            Minister Aloizio Mercadante.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -736,7 +775,8 @@
         <end-date>2013-09-07</end-date>
         <country id="lithuania">Lithuania</country>
         <locale>Vilnius</locale>
-        <remarks>Met with the EU Foreign Ministers and with Lithuanian President Dalia Gribauskaite             and Foreign Minister Linas Linkevicius.</remarks>
+        <remarks>Met with the EU Foreign Ministers and with Lithuanian President Dalia Gribauskaite
+            and Foreign Minister Linas Linkevicius.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -750,7 +790,8 @@
         <end-date>2013-09-08</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Foreign Minister Laurent Fabius and the Ministerial Delegation of the Arab             Peace Initiative.</remarks>
+        <remarks>Met with Foreign Minister Laurent Fabius and the Ministerial Delegation of the Arab
+            Peace Initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -764,7 +805,8 @@
         <end-date>2013-09-09</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Palestinian Authority President Mahmoud Abbas and with Foreign Secretary             William Hague.</remarks>
+        <remarks>Met with Palestinian Authority President Mahmoud Abbas and with Foreign Secretary
+            William Hague.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -778,7 +820,8 @@
         <end-date>2013-09-15</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Discussed the Syrian crisis with Russian Foreign Minister Sergey Lavrov. Announced             Framework for the Elimination of Syrian Chemical Weapons.</remarks>
+        <remarks>Discussed the Syrian crisis with Russian Foreign Minister Sergey Lavrov. Announced
+            Framework for the Elimination of Syrian Chemical Weapons.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -806,7 +849,9 @@
         <end-date>2013-09-16</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President Francois Hollande, Foreign Minister Laurent Fabius, British             Foreign Secretary William Hague, Turkish Foreign Minister Ahmet Davutoglu, and Saudi             Foreign Minister Saud al-Faisal.</remarks>
+        <remarks>Met with President Francois Hollande, Foreign Minister Laurent Fabius, British
+            Foreign Secretary William Hague, Turkish Foreign Minister Ahmet Davutoglu, and Saudi
+            Foreign Minister Saud al-Faisal.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -820,7 +865,9 @@
         <end-date>2013-10-04</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended the U.S.-Japan Security Consultative Committee meeting. Signed Protocol to             amend the Guam International Agreement concerning redeployment of U.S. forces from             Okinawa to Guam.</remarks>
+        <remarks>Attended the U.S.-Japan Security Consultative Committee meeting. Signed Protocol to
+            amend the Guam International Agreement concerning redeployment of U.S. forces from
+            Okinawa to Guam.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -834,7 +881,8 @@
         <end-date>2013-10-09</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Bali</locale>
-        <remarks>Attended the APEC Ministerial Meeting and the APEC CEO Summit Meeting. Signed             Nuclear Risk Reduction Agreement with Russian Foreign Minister Sergey Lavrov.</remarks>
+        <remarks>Attended the APEC Ministerial Meeting and the APEC CEO Summit Meeting. Signed
+            Nuclear Risk Reduction Agreement with Russian Foreign Minister Sergey Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -890,7 +938,9 @@
         <end-date>2013-10-14</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with EU High Representative Catherine Ashton. Addressed the AIPAC National             Summit by satellite. Also met with UN Special Representative for Syria Lakhdar             Brahimi.</remarks>
+        <remarks>Met with EU High Representative Catherine Ashton. Addressed the AIPAC National
+            Summit by satellite. Also met with UN Special Representative for Syria Lakhdar
+            Brahimi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-08-16T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -904,7 +954,9 @@
         <end-date>2013-10-22</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with members of the Arab Peace Initiative Follow-up Committee, Saudi Foreign             Minister Saud al-Faisal, Foreign Minister Laurent Fabius, and members of the Syrian             Opposition Coalition.</remarks>
+        <remarks>Met with members of the Arab Peace Initiative Follow-up Committee, Saudi Foreign
+            Minister Saud al-Faisal, Foreign Minister Laurent Fabius, and members of the Syrian
+            Opposition Coalition.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -932,7 +984,8 @@
         <end-date>2013-10-24</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with Prime Minister Enrico Letta and Israeli Prime Minister Benjamin             Netanyahu.</remarks>
+        <remarks>Met with Prime Minister Enrico Letta and Israeli Prime Minister Benjamin
+            Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -946,7 +999,8 @@
         <end-date>2013-11-03</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with Interim President Adly Mansour, Foreign Minister Nabil Fahmy, and Defense             Minister Abdul Fatah al-Sisi.</remarks>
+        <remarks>Met with Interim President Adly Mansour, Foreign Minister Nabil Fahmy, and Defense
+            Minister Abdul Fatah al-Sisi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -960,7 +1014,8 @@
         <end-date>2013-11-04</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with Foreign Minister Saud al-Faisal and King Abdullah bin Abdulaziz             al-Saud.</remarks>
+        <remarks>Met with Foreign Minister Saud al-Faisal and King Abdullah bin Abdulaziz
+            al-Saud.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -974,7 +1029,9 @@
         <end-date>2013-11-05</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw, Lask</locale>
-        <remarks>Wreath-laying at the grave of former Prime Minister Tadeusz Mazowiecki. Met with             Prime Minister Donald Tusk and Foreign Minister Radoslaw Sikorski. Medal award ceremony             at Lask air base.</remarks>
+        <remarks>Wreath-laying at the grave of former Prime Minister Tadeusz Mazowiecki. Met with
+            Prime Minister Donald Tusk and Foreign Minister Radoslaw Sikorski. Medal award ceremony
+            at Lask air base.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -988,7 +1045,8 @@
         <end-date>2013-11-07</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
-        <remarks>Wreath-laying ceremony at the Yitzhak Rabin Memorial. Met with President Shimon             Peres and Prime Minister Benjamin Netanyahu.</remarks>
+        <remarks>Wreath-laying ceremony at the Yitzhak Rabin Memorial. Met with President Shimon
+            Peres and Prime Minister Benjamin Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1002,7 +1060,8 @@
         <end-date>2013-11-06</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Bethlehem</locale>
-        <remarks>Met with President Mahmoud Abbas and attended a High Impact Microfinance             Infrastructure Initiative Event.</remarks>
+        <remarks>Met with President Mahmoud Abbas and attended a High Impact Microfinance
+            Infrastructure Initiative Event.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1016,7 +1075,8 @@
         <end-date>2013-11-06</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Abdullah II, Foreign Minister Nasser Judeh, and Palestinian Authority             President Mahmoud Abbas.</remarks>
+        <remarks>Met with King Abdullah II, Foreign Minister Nasser Judeh, and Palestinian Authority
+            President Mahmoud Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1044,7 +1104,8 @@
         <end-date>2013-11-10</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Met with EU High Representative Catherine Ashton, French Foreign Minister Laurent             Fabius, and Iranian Foreign Minister Mohammed Zarif.</remarks>
+        <remarks>Met with EU High Representative Catherine Ashton, French Foreign Minister Laurent
+            Fabius, and Iranian Foreign Minister Mohammed Zarif.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1058,7 +1119,8 @@
         <end-date>2013-11-11</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
-        <remarks>Met with Crown Prince Mohammed bin Zayed al-Nahyan and Foreign Minister Abdullah             bin Zayed al-Nahyan.</remarks>
+        <remarks>Met with Crown Prince Mohammed bin Zayed al-Nahyan and Foreign Minister Abdullah
+            bin Zayed al-Nahyan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1072,7 +1134,8 @@
         <end-date>2013-11-24</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Met with the P5+1 representatives and Iranian Foreign Minister Mohammed Zarif.             Announced a First Step Agreement on Iran’s Nuclear Program.</remarks>
+        <remarks>Met with the P5+1 representatives and Iranian Foreign Minister Mohammed Zarif.
+            Announced a First Step Agreement on Iran’s Nuclear Program.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1086,7 +1149,8 @@
         <end-date>2013-11-25</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Foreign Secretary William Hague and Libyan Prime Minister Ali             Zeidan.</remarks>
+        <remarks>Met with Foreign Secretary William Hague and Libyan Prime Minister Ali
+            Zeidan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1100,7 +1164,8 @@
         <end-date>2013-12-04</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended the NATO Foreign Ministers’ Meeting and a NATO-Russia Council Meeting.             Signed Cyber Partnership Agreement with Estonia.</remarks>
+        <remarks>Attended the NATO Foreign Ministers’ Meeting and a NATO-Russia Council Meeting.
+            Signed Cyber Partnership Agreement with Estonia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1114,7 +1179,8 @@
         <end-date>2013-12-04</end-date>
         <country id="moldova">Moldova</country>
         <locale>Chisinau</locale>
-        <remarks>Met with President Nicolae Timofti and Prime Minister Iurie Leanca. Attended a             Trade and Investment Showcast.</remarks>
+        <remarks>Met with President Nicolae Timofti and Prime Minister Iurie Leanca. Attended a
+            Trade and Investment Showcast.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1128,7 +1194,8 @@
         <end-date>2013-12-06</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Benjamin Netanyahu and Finance Minister Yair             Lapid.</remarks>
+        <remarks>Met with Prime Minister Benjamin Netanyahu and Finance Minister Yair
+            Lapid.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1170,7 +1237,9 @@
         <end-date>2013-12-17</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Ho Chi Minh City, Ca Mau, Hanoi</locale>
-        <remarks>Met with American and Vietnamese business leaders, addressed the American Chamber             of Commerce, delivered an address on climate change, and met with Foreign Minister Pham             Binh Minh.</remarks>
+        <remarks>Met with American and Vietnamese business leaders, addressed the American Chamber
+            of Commerce, delivered an address on climate change, and met with Foreign Minister Pham
+            Binh Minh.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1184,7 +1253,8 @@
         <end-date>2013-12-18</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila, Tacloban</locale>
-        <remarks>Met with President Benigno Aquino and Foreign Secretary Albert del Rosario. Visited             a USAID Forward Operating Base.</remarks>
+        <remarks>Met with President Benigno Aquino and Foreign Secretary Albert del Rosario. Visited
+            a USAID Forward Operating Base.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:38:12.81-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1198,7 +1268,8 @@
         <end-date>2014-01-05</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Benjamin Netanyahu and Foreign Minister Avigdor             Lieberman.</remarks>
+        <remarks>Met with Prime Minister Benjamin Netanyahu and Foreign Minister Avigdor
+            Lieberman.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1254,7 +1325,8 @@
         <end-date>2014-01-14</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended the London 11 Ministerial Meeting and the Arab Peace Initiative Follow-up             Committee Meeting. Met with Russian Foreign Minister Sergei Lavrov.</remarks>
+        <remarks>Attended the London 11 Ministerial Meeting and the Arab Peace Initiative Follow-up
+            Committee Meeting. Met with Russian Foreign Minister Sergei Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1310,7 +1382,8 @@
         <end-date>2014-02-02</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin, Munich</locale>
-        <remarks>Met with Chancellor Angela Merkel and Foreign Minister Frank-Walter Steinmeier.             Attended the 50th Munich Security Conference.</remarks>
+        <remarks>Met with Chancellor Angela Merkel and Foreign Minister Frank-Walter Steinmeier.
+            Attended the 50th Munich Security Conference.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1338,7 +1411,8 @@
         <end-date>2014-02-15</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
-        <remarks>Met with President Xi Jinping, Foreign Minister Wang Yi, and Premier Li Keqiang.             Visited a joint venture plant.</remarks>
+        <remarks>Met with President Xi Jinping, Foreign Minister Wang Yi, and Premier Li Keqiang.
+            Visited a joint venture plant.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1352,7 +1426,10 @@
         <end-date>2014-02-17</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
-        <remarks>Met with ASEAN Secretary-General Li Luong Minh, Foreign Minister Marty Natalegawa.             Delivered an address on climate change. Attended a Joint Commission meeting. Signed             Memoranda of Understanding on South-South Triangular Cooperation and Wildlife             Trafficking.</remarks>
+        <remarks>Met with ASEAN Secretary-General Li Luong Minh, Foreign Minister Marty Natalegawa.
+            Delivered an address on climate change. Attended a Joint Commission meeting. Signed
+            Memoranda of Understanding on South-South Triangular Cooperation and Wildlife
+            Trafficking.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1366,7 +1443,8 @@
         <end-date>2014-02-18</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
-        <remarks>Met with Crown Prince Mohammed bin Zayed al-Nahyan and Foreign Minister Abdullah             bin Zayed al-Nahyan.</remarks>
+        <remarks>Met with Crown Prince Mohammed bin Zayed al-Nahyan and Foreign Minister Abdullah
+            bin Zayed al-Nahyan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1394,7 +1472,8 @@
         <end-date>2014-02-20</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Foreign Minister Laurent Fabius, Palestinian Authority President Mahmoud             Abbas, and Jordanian Foreign Minister Nasser Judeh.</remarks>
+        <remarks>Met with Foreign Minister Laurent Fabius, Palestinian Authority President Mahmoud
+            Abbas, and Jordanian Foreign Minister Nasser Judeh.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1408,7 +1487,8 @@
         <end-date>2014-03-04</end-date>
         <country id="ukraine">Ukraine</country>
         <locale>Kyiv</locale>
-        <remarks>Met with Acting President Oleksandr Turchynov, Prime Minister Arseniy Yatsenyuk,             and political and religious leaders.</remarks>
+        <remarks>Met with Acting President Oleksandr Turchynov, Prime Minister Arseniy Yatsenyuk,
+            and political and religious leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1422,7 +1502,8 @@
         <end-date>2014-03-05</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended the Budapest Memorandum Ministerial Meeting and a meeting of the             International Support Group for Lebanon.</remarks>
+        <remarks>Attended the Budapest Memorandum Ministerial Meeting and a meeting of the
+            International Support Group for Lebanon.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1436,7 +1517,8 @@
         <end-date>2014-03-06</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with Prime Minister Matteo Renzi and Foreign Minister Federica Mogherini.             Attended a conference on International Support to Libya.</remarks>
+        <remarks>Met with Prime Minister Matteo Renzi and Foreign Minister Federica Mogherini.
+            Attended a conference on International Support to Libya.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1464,7 +1546,8 @@
         <end-date>2014-03-14</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed the Ukrainian crisis with Russian Foreign Minister Sergei             Lavrov.</remarks>
+        <remarks>Discussed the Ukrainian crisis with Russian Foreign Minister Sergei
+            Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1478,7 +1561,8 @@
         <end-date>2014-03-25</end-date>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague</locale>
-        <remarks>Accompanied President Obama to a G-7 Leaders’ Meeting on the Ukrainian             crisis.</remarks>
+        <remarks>Accompanied President Obama to a G-7 Leaders’ Meeting on the Ukrainian
+            crisis.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1520,7 +1604,8 @@
         <end-date>2014-03-26</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud             Abbas.</remarks>
+        <remarks>Met with King Abdullah II and Palestinian Authority President Mahmoud
+            Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1562,7 +1647,8 @@
         <end-date>2014-03-30</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Foreign Minister Laurent Fabius and Russian Foreign Minister Sergei             Lavrov.</remarks>
+        <remarks>Met with Foreign Minister Laurent Fabius and Russian Foreign Minister Sergei
+            Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1604,7 +1690,8 @@
         <end-date>2014-04-02</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended the NATO Foreign Ministerial Meeting and meetings of the NATO-Ukraine and             NATO-Georgia Commissions. Co-chaired the 5th U.S.-EU Energy Council Meeting.</remarks>
+        <remarks>Attended the NATO Foreign Ministerial Meeting and meetings of the NATO-Ukraine and
+            NATO-Georgia Commissions. Co-chaired the 5th U.S.-EU Energy Council Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1646,7 +1733,9 @@
         <end-date>2014-04-17</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Discussed the Ukrainian crisis with representatives of Russia, Ukraine, and the             European Union. Discussed the Syrian crisis with Joint Special Representative Lakhdar             Brahimi.</remarks>
+        <remarks>Discussed the Ukrainian crisis with representatives of Russia, Ukraine, and the
+            European Union. Discussed the Syrian crisis with Joint Special Representative Lakhdar
+            Brahimi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1660,7 +1749,8 @@
         <end-date>2014-05-03</end-date>
         <country id="ethiopia">Ethiopia</country>
         <locale>Addis Ababa</locale>
-        <remarks>Co-convened the 4th Session of the U.S.-AU High Level Dialogue. Met with Somali             President Hassan Sheikh Mohamud.</remarks>
+        <remarks>Co-convened the 4th Session of the U.S.-AU High Level Dialogue. Met with Somali
+            President Hassan Sheikh Mohamud.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1674,7 +1764,8 @@
         <end-date>2014-05-02</end-date>
         <country id="south-sudan">South Sudan</country>
         <locale>Juba</locale>
-        <remarks>Met with President Salva Kiir, civil society leaders and UNMISS             representatives.</remarks>
+        <remarks>Met with President Salva Kiir, civil society leaders and UNMISS
+            representatives.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1688,7 +1779,9 @@
         <end-date>2014-05-04</end-date>
         <country id="congo-kinshasa">Congo, Democratic Republic of</country>
         <locale>Kinshasa</locale>
-        <remarks>Met with Foreign Minister Raymond Tshibanda, participants in the Young Africa             Leaders Initiative UN Special Representative Martin Kobler, and President Joseph             Kabila.</remarks>
+        <remarks>Met with Foreign Minister Raymond Tshibanda, participants in the Young Africa
+            Leaders Initiative UN Special Representative Martin Kobler, and President Joseph
+            Kabila.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1702,7 +1795,8 @@
         <end-date>2014-05-05</end-date>
         <country id="angola">Angola</country>
         <locale>Luanda</locale>
-        <remarks>Met with President Jose Eduardo dos Santos and Foreign Minister Georges Chikoli.             Visited a GE facility.</remarks>
+        <remarks>Met with President Jose Eduardo dos Santos and Foreign Minister Georges Chikoli.
+            Visited a GE facility.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1716,7 +1810,8 @@
         <end-date>2014-05-16</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Attended a meeting of the London 11 (Friends of the Syrian People) and the Syrian             Opposition Coalition.</remarks>
+        <remarks>Attended a meeting of the London 11 (Friends of the Syrian People) and the Syrian
+            Opposition Coalition.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1730,7 +1825,9 @@
         <end-date>2014-05-22</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico City</locale>
-        <remarks>Met with President Enrico Pena Nieto and Foreign Secretary Jose Antonio Meade.             Attended a Joint Bilateral Forum on Higher Education, Innovation, and Research; a             CleanTech Challenge Launch event, and a U.S.-Mexico CEO Dialogue dinner.</remarks>
+        <remarks>Met with President Enrico Pena Nieto and Foreign Secretary Jose Antonio Meade.
+            Attended a Joint Bilateral Forum on Higher Education, Innovation, and Research; a
+            CleanTech Challenge Launch event, and a U.S.-Mexico CEO Dialogue dinner.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1744,7 +1841,8 @@
         <end-date>2014-06-04</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Accompanied President Obama. Signed a Framework Agreement on Innovation. Met with             Ukrainian President-elect Petro Poroshenko.</remarks>
+        <remarks>Accompanied President Obama. Signed a Framework Agreement on Innovation. Met with
+            Ukrainian President-elect Petro Poroshenko.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1758,7 +1856,8 @@
         <end-date>2014-06-04</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
-        <remarks>Met with Prime Minister Tammam Salam. Participated in a round-table with             non-governmental organizations.</remarks>
+        <remarks>Met with Prime Minister Tammam Salam. Participated in a round-table with
+            non-governmental organizations.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1772,7 +1871,8 @@
         <end-date>2014-06-07</end-date>
         <country id="france">France</country>
         <locale>Paris, Normandy, St. Briac</locale>
-        <remarks>Accompanied President Obama. Took part in commemorations of the 70th anniversary of             the Normandy invasion.</remarks>
+        <remarks>Accompanied President Obama. Took part in commemorations of the 70th anniversary of
+            the Normandy invasion.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1800,7 +1900,8 @@
         <end-date>2014-06-22</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Abdel Fattah al-Sisi, Foreign Minister Sameh Shoukry, and Arab             League Secretary-General Nabil al-Araby.</remarks>
+        <remarks>Met with President Abdel Fattah al-Sisi, Foreign Minister Sameh Shoukry, and Arab
+            League Secretary-General Nabil al-Araby.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1828,7 +1929,8 @@
         <end-date>2014-06-24</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad, Erbil</locale>
-        <remarks>Met with President Nouri al-Maliki and Iraqi political leaders, and with Kurdistan             regional leaders in Erbil.</remarks>
+        <remarks>Met with President Nouri al-Maliki and Iraqi political leaders, and with Kurdistan
+            regional leaders in Erbil.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1856,7 +1958,8 @@
         <end-date>2014-06-27</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Foreign Minister Laurent Fabius and with the Foreign Ministers of Israel,             Saudi Arabia, the United Arab Emirates, and Jordan.</remarks>
+        <remarks>Met with Foreign Minister Laurent Fabius and with the Foreign Ministers of Israel,
+            Saudi Arabia, the United Arab Emirates, and Jordan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1870,7 +1973,8 @@
         <end-date>2014-06-27</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Met with King Abdullah bin Abdulaziz al-Saud and Syrian Opposition Coalition             President Ahmad Jarba.</remarks>
+        <remarks>Met with King Abdullah bin Abdulaziz al-Saud and Syrian Opposition Coalition
+            President Ahmad Jarba.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1884,7 +1988,8 @@
         <end-date>2014-07-01</end-date>
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
-        <remarks>Attended the inauguration of President Juan Carlos Varela Rodriguez. Met with the             Presidents of El Salvador, Guatemala, and Honduras.</remarks>
+        <remarks>Attended the inauguration of President Juan Carlos Varela Rodriguez. Met with the
+            Presidents of El Salvador, Guatemala, and Honduras.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1898,7 +2003,8 @@
         <end-date>2014-07-10</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
-        <remarks>Attended the Sixth Round of the U.S.-China Strategic and Economic             Dialogue.</remarks>
+        <remarks>Attended the Sixth Round of the U.S.-China Strategic and Economic
+            Dialogue.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1912,7 +2018,8 @@
         <end-date>2014-07-12</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
-        <remarks>Met with President Hamid Karzai, Afghan political leaders, and the head of the UN             Assistance Mission.</remarks>
+        <remarks>Met with President Hamid Karzai, Afghan political leaders, and the head of the UN
+            Assistance Mission.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1926,7 +2033,8 @@
         <end-date>2014-07-15</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Met with Iranian Foreign Minister Javad Zarif and various P5+1 Foreign             Ministers.</remarks>
+        <remarks>Met with Iranian Foreign Minister Javad Zarif and various P5+1 Foreign
+            Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1940,7 +2048,9 @@
         <end-date>2014-07-23</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Gaza crisis with UN Secretary-General Ban Ki-Moon, Arab League             Secretary-General Nabil al-Araby, President Abdel Fattah al-Sisi, and Foreign Minister             Sameh Shoukry.</remarks>
+        <remarks>Discussed the Gaza crisis with UN Secretary-General Ban Ki-Moon, Arab League
+            Secretary-General Nabil al-Araby, President Abdel Fattah al-Sisi, and Foreign Minister
+            Sameh Shoukry.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1954,7 +2064,8 @@
         <end-date>2014-07-23</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem, Tel Aviv</locale>
-        <remarks>Met with UN Secretary-General Ban Ki-Moon and Prime Minister Benjamin             Netanyahu.</remarks>
+        <remarks>Met with UN Secretary-General Ban Ki-Moon and Prime Minister Benjamin
+            Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1982,7 +2093,9 @@
         <end-date>2014-07-25</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Gaza crisis with UN Secretary-General Ban Ki-Moon, Arab League             Secretary-General Nabil al-Araby, President Abdel Fattah al-Sisi, and Foreign Minister             Sameh Shoukry.</remarks>
+        <remarks>Discussed the Gaza crisis with UN Secretary-General Ban Ki-Moon, Arab League
+            Secretary-General Nabil al-Araby, President Abdel Fattah al-Sisi, and Foreign Minister
+            Sameh Shoukry.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1996,7 +2109,8 @@
         <end-date>2014-07-26</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with the Foreign Ministers of France, the United Kingdom, Germany, Italy,             Qatar, and Turkey.</remarks>
+        <remarks>Met with the Foreign Ministers of France, the United Kingdom, Germany, Italy,
+            Qatar, and Turkey.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2024,7 +2138,8 @@
         <end-date>2014-08-08</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
-        <remarks>Met with President Hamid Karzai and presidential candidates Abdullah Abdullah and             Ashraf Ghani.</remarks>
+        <remarks>Met with President Hamid Karzai and presidential candidates Abdullah Abdullah and
+            Ashraf Ghani.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2038,7 +2153,8 @@
         <end-date>2014-08-10</end-date>
         <country id="burma">Burma</country>
         <locale>Nay Pyi Taw, Rangoon</locale>
-        <remarks>Attended the U.S.-ASEAN and Lower Mekong Initiatives, the ASEAN Regional Forum, and             the East Asia Summit ministerial meetings.</remarks>
+        <remarks>Attended the U.S.-ASEAN and Lower Mekong Initiatives, the ASEAN Regional Forum, and
+            the East Asia Summit ministerial meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2066,7 +2182,9 @@
         <end-date>2014-08-13</end-date>
         <country id="solomon-islands">Solomon Islands</country>
         <locale>Honiara</locale>
-        <remarks>Met with Governor General Frank Kabui and Prime Minister Gordon Lilo. Attended             wreath-laying ceremonies at the Guadalcanal American Memorial and the Solomons Scouts             and Coastwatchers Memorial.</remarks>
+        <remarks>Met with Governor General Frank Kabui and Prime Minister Gordon Lilo. Attended
+            wreath-laying ceremonies at the Guadalcanal American Memorial and the Solomons Scouts
+            and Coastwatchers Memorial.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2094,7 +2212,8 @@
         <end-date>2014-09-10</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
-        <remarks>Met with President Fuad Masum, Prime Minister Haidar al-Abadi, Foreign Minister             Ibrahim al-Ja’fari, and Council of Representatives Speaker Salim al-Jabouri.</remarks>
+        <remarks>Met with President Fuad Masum, Prime Minister Haidar al-Abadi, Foreign Minister
+            Ibrahim al-Ja’fari, and Council of Representatives Speaker Salim al-Jabouri.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2122,7 +2241,9 @@
         <end-date>2014-09-12</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Met with King Abdullah, attended a meeting of the Gulf Cooperation Council and             Regional Partners, and met with representatives of the Organization of the Islamic             Conference.</remarks>
+        <remarks>Met with King Abdullah, attended a meeting of the Gulf Cooperation Council and
+            Regional Partners, and met with representatives of the Organization of the Islamic
+            Conference.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2136,7 +2257,8 @@
         <end-date>2014-09-13</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
-        <remarks>Met with President Recep Tayyip Erdogan, Prime Minister Ahmed Davutoglu, and             Foreign Minister Mevlut Cavusoglu.</remarks>
+        <remarks>Met with President Recep Tayyip Erdogan, Prime Minister Ahmed Davutoglu, and
+            Foreign Minister Mevlut Cavusoglu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2150,7 +2272,8 @@
         <end-date>2014-09-14</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Abdel Fattah al-Sisi, Foreign Minister Sameh Shoukry, and Arab             League Secretary-General Nabil al-Araby.</remarks>
+        <remarks>Met with President Abdel Fattah al-Sisi, Foreign Minister Sameh Shoukry, and Arab
+            League Secretary-General Nabil al-Araby.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2192,7 +2315,8 @@
         <end-date>2014-10-14</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Foreign Minister Laurent Fabius, Russian Foreign Minister Sergei Lavrov,             and Libyan Foreign Minister Mohammed al-Dairi.</remarks>
+        <remarks>Met with Foreign Minister Laurent Fabius, Russian Foreign Minister Sergei Lavrov,
+            and Libyan Foreign Minister Mohammed al-Dairi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2206,7 +2330,8 @@
         <end-date>2014-10-15</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Trilateral meeting with EU High Representative Lady Catherine Ashton and Iranian             Foreign Minister Mohammad Javad Zarif.</remarks>
+        <remarks>Trilateral meeting with EU High Representative Lady Catherine Ashton and Iranian
+            Foreign Minister Mohammad Javad Zarif.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2234,7 +2359,8 @@
         <end-date>2014-10-22</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with Chancellor Angela Merkel and Foreign Minister Frank-Walter             Steinmeier.</remarks>
+        <remarks>Met with Chancellor Angela Merkel and Foreign Minister Frank-Walter
+            Steinmeier.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2262,7 +2388,8 @@
         <end-date>2014-11-06</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Foreign Minister Laurent Fabius, Jordanian Foreign Minister Nasser Judeh             and Quartet Representative Tony Blair.</remarks>
+        <remarks>Met with Foreign Minister Laurent Fabius, Jordanian Foreign Minister Nasser Judeh
+            and Quartet Representative Tony Blair.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2290,7 +2417,8 @@
         <end-date>2014-11-11</end-date>
         <country id="oman">Oman</country>
         <locale>Muscat</locale>
-        <remarks>Attended a trilateral meeting with EU High Representative Lady Catherine Ashton and             Iranian Foreign Minister Mohammad Javad Zarif.</remarks>
+        <remarks>Attended a trilateral meeting with EU High Representative Lady Catherine Ashton and
+            Iranian Foreign Minister Mohammad Javad Zarif.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2318,7 +2446,9 @@
         <end-date>2014-11-13</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Abdullah II, Foreign Minister Nasser Judeh, and Palestinian Authority             President Mahmoud Abbas. Attended a bilateral meeting of King Abdullah II and Israeli             Prime Minister Benjamin Netanyahu.</remarks>
+        <remarks>Met with King Abdullah II, Foreign Minister Nasser Judeh, and Palestinian Authority
+            President Mahmoud Abbas. Attended a bilateral meeting of King Abdullah II and Israeli
+            Prime Minister Benjamin Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2346,7 +2476,8 @@
         <end-date>2014-11-24</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Attended meetings with the P5+1 representatives, EU High Representative Ashton, and             Iranian Foreign Minister Zarif.</remarks>
+        <remarks>Attended meetings with the P5+1 representatives, EU High Representative Ashton, and
+            Iranian Foreign Minister Zarif.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2360,7 +2491,8 @@
         <end-date>2014-12-03</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended the NATO Foreign Ministers meeting, the first ministerial meeting of the             Counter-ISIL Coalition, and the 6th U.S.-EU Energy Council meeting.</remarks>
+        <remarks>Attended the NATO Foreign Ministers meeting, the first ministerial meeting of the
+            Counter-ISIL Coalition, and the 6th U.S.-EU Energy Council meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2402,7 +2534,8 @@
         <end-date>2014-12-11</end-date>
         <country id="peru">Peru</country>
         <locale>Lima</locale>
-        <remarks>Met with President Ollanta Humala Tasso and French Foreign Minister Fabius.             Addressed the COP-20.</remarks>
+        <remarks>Met with President Ollanta Humala Tasso and French Foreign Minister Fabius.
+            Addressed the COP-20.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2416,7 +2549,8 @@
         <end-date>2014-12-12</end-date>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
-        <remarks>Met with President Juan Manuel Santos and Foreign Minister Maria Angela             Holguin.</remarks>
+        <remarks>Met with President Juan Manuel Santos and Foreign Minister Maria Angela
+            Holguin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2430,7 +2564,8 @@
         <end-date>2014-12-15</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with Russian Foreign Minister Sergei Lavrov and Israeli Prime Minister Benjamin             Netanyahu.</remarks>
+        <remarks>Met with Russian Foreign Minister Sergei Lavrov and Israeli Prime Minister Benjamin
+            Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2458,7 +2593,8 @@
         <end-date>2014-12-16</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with the Arab League Special Committee and with Quartet Representative Tony             Blair.</remarks>
+        <remarks>Met with the Arab League Special Committee and with Quartet Representative Tony
+            Blair.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2514,7 +2650,8 @@
         <end-date>2015-01-14</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Met with UN Special Envoy for Syria Steffan de Mistura and Iranian Foreign Minister             Mohammed Javad Zarif.</remarks>
+        <remarks>Met with UN Special Envoy for Syria Steffan de Mistura and Iranian Foreign Minister
+            Mohammed Javad Zarif.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2528,7 +2665,8 @@
         <end-date>2015-01-15</end-date>
         <country id="bulgaria">Bulgaria</country>
         <locale>Sofia</locale>
-        <remarks>Met with President Rosen Plevneliev, Prime Minister Boyko Borissov, Foreign             Minister Daniel Mitov, and British Foreign Secretary Phillp Hammond.</remarks>
+        <remarks>Met with President Rosen Plevneliev, Prime Minister Boyko Borissov, Foreign
+            Minister Daniel Mitov, and British Foreign Secretary Phillp Hammond.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2542,7 +2680,8 @@
         <end-date>2015-01-16</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President Francois Hollande, Foreign Minister Laurent Fabius, Mayor Anne             Hidlago, and Iranian Foreign Minister Mohammed Javad Zarif.</remarks>
+        <remarks>Met with President Francois Hollande, Foreign Minister Laurent Fabius, Mayor Anne
+            Hidlago, and Iranian Foreign Minister Mohammed Javad Zarif.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2556,7 +2695,8 @@
         <end-date>2015-01-22</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Attended a meeting of the Counter-ISIL Coalition Small Group and met with Foreign             Secretary Philip Hammond.</remarks>
+        <remarks>Attended a meeting of the Counter-ISIL Coalition Small Group and met with Foreign
+            Secretary Philip Hammond.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2584,7 +2724,8 @@
         <end-date>2015-01-25</end-date>
         <country id="nigeria">Nigeria</country>
         <locale>Lagos</locale>
-        <remarks>Met with President Goodluck Jonathan and presidential candidate Muhammedu             Buhari.</remarks>
+        <remarks>Met with President Goodluck Jonathan and presidential candidate Muhammedu
+            Buhari.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2612,7 +2753,8 @@
         <end-date>2015-01-27</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Accompanied President Obama to offer condolences to King Salman bin Abd al Aziz bin             Saud after the passing of King Abdullah.</remarks>
+        <remarks>Accompanied President Obama to offer condolences to King Salman bin Abd al Aziz bin
+            Saud after the passing of King Abdullah.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2682,7 +2824,9 @@
         <end-date>2015-03-04</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva, Montreux</locale>
-        <remarks>Attended the 28th Session of the UN Human Rights Commission and met with Russian             Foreign Minister Sergei Lavrov. Met with Iranian Foreign Minister Mohammed Javad Zarif             in Montreux.</remarks>
+        <remarks>Attended the 28th Session of the UN Human Rights Commission and met with Russian
+            Foreign Minister Sergei Lavrov. Met with Iranian Foreign Minister Mohammed Javad Zarif
+            in Montreux.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2696,7 +2840,8 @@
         <end-date>2015-03-06</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Salman and Foreign Minister Saud al-Faisal and attended a meeting of             Gulf Cooperation Council Foreign Ministers.</remarks>
+        <remarks>Met with King Salman and Foreign Minister Saud al-Faisal and attended a meeting of
+            Gulf Cooperation Council Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2724,7 +2869,8 @@
         <end-date>2015-03-07</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with the Foreign Ministers of France, Germany, and the United Kingdom, and with             EU High Representative Federica Mogherini.</remarks>
+        <remarks>Met with the Foreign Ministers of France, Germany, and the United Kingdom, and with
+            EU High Representative Federica Mogherini.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2766,7 +2912,8 @@
         <end-date>2015-03-21</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with the Foreign Ministers of France, Germany, and the United Kingdom, and with             EU High Representative Federica Mogherini.</remarks>
+        <remarks>Met with the Foreign Ministers of France, Germany, and the United Kingdom, and with
+            EU High Representative Federica Mogherini.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2836,7 +2983,8 @@
         <end-date>2015-05-03</end-date>
         <country id="sri-lanka">Sri Lanka</country>
         <locale>Colombo</locale>
-        <remarks>Met with President Maithripala Sirisena, Prime Minister Ranil Wikremesinghe, and             Foreign Minister Mangala Samaraweera.</remarks>
+        <remarks>Met with President Maithripala Sirisena, Prime Minister Ranil Wikremesinghe, and
+            Foreign Minister Mangala Samaraweera.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2850,7 +2998,8 @@
         <end-date>2015-05-05</end-date>
         <country id="kenya">Kenya</country>
         <locale>Nairobi</locale>
-        <remarks>Met with President Uhuru Kenyatta and Chief Justice Willy Mutunga. Visited the             Dadaab refugee camp.</remarks>
+        <remarks>Met with President Uhuru Kenyatta and Chief Justice Willy Mutunga. Visited the
+            Dadaab refugee camp.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2864,7 +3013,9 @@
         <end-date>2015-05-06</end-date>
         <country id="somalia">Somalia</country>
         <locale>Mogadishu</locale>
-        <remarks>Met with President Hassan Sheikh Mahmoud, Prime Minister Omar Abdirashid Ali             Sharmarke and regional leaders. Announced plans to re-establish a U.S.             Embassy.</remarks>
+        <remarks>Met with President Hassan Sheikh Mahmoud, Prime Minister Omar Abdirashid Ali
+            Sharmarke and regional leaders. Announced plans to re-establish a U.S.
+            Embassy.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2892,7 +3043,8 @@
         <end-date>2015-05-07</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Salman, Crown Prince Mohammed bin Nayef, Foreign Minister Adel             al-Jubeir, and Yemeni President Abd Rabbuh Mansur Hadi.</remarks>
+        <remarks>Met with King Salman, Crown Prince Mohammed bin Nayef, Foreign Minister Adel
+            al-Jubeir, and Yemeni President Abd Rabbuh Mansur Hadi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2906,7 +3058,9 @@
         <end-date>2015-05-08</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended ceremonies commemorating the 70th anniversary of VE-Day, Met with Foreign             Minister Laurent Fabius and with the Gulf Cooperation Council Foreign             Ministers.</remarks>
+        <remarks>Attended ceremonies commemorating the 70th anniversary of VE-Day, Met with Foreign
+            Minister Laurent Fabius and with the Gulf Cooperation Council Foreign
+            Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2948,7 +3102,8 @@
         <end-date>2015-05-17</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
-        <remarks>Met with Foreign Minister Wang Yi, Premier Li Keqiang, State Counselor Yang Jiechi,             and President Xi Jingping.</remarks>
+        <remarks>Met with Foreign Minister Wang Yi, Premier Li Keqiang, State Counselor Yang Jiechi,
+            and President Xi Jingping.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3004,7 +3159,9 @@
         <end-date>2015-07-14</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Met with Iranian Foreign Minister Mohammad Javad Zarif and the Foreign Ministers of             the P5+ 1. Negotiated Joint Comprehensive Plan of Action concerning Iran’s nuclear             energy program.</remarks>
+        <remarks>Met with Iranian Foreign Minister Mohammad Javad Zarif and the Foreign Ministers of
+            the P5+ 1. Negotiated Joint Comprehensive Plan of Action concerning Iran’s nuclear
+            energy program.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3046,7 +3203,8 @@
         <end-date>2015-08-04</end-date>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
-        <remarks>Met with Prime Minister Lee Hsien Loung and Foreign Minister K. Shanmugan.             Delivered an address at Singapore Management University.</remarks>
+        <remarks>Met with Prime Minister Lee Hsien Loung and Foreign Minister K. Shanmugan.
+            Delivered an address at Singapore Management University.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3074,7 +3232,8 @@
         <end-date>2015-08-08</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Hanoi</locale>
-        <remarks>Met with Deputy Prime Minister/Foreign Minister Pham Binh Minh and commemorated the             20th anniversary of the establishment of diplomatic relations.</remarks>
+        <remarks>Met with Deputy Prime Minister/Foreign Minister Pham Binh Minh and commemorated the
+            20th anniversary of the establishment of diplomatic relations.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3088,7 +3247,8 @@
         <end-date>2015-08-14</end-date>
         <country id="cuba">Cuba</country>
         <locale>Havana</locale>
-        <remarks>Formally inaugurated the U.S. Embassy. Met with Foreign Minister Bruno Eduardo             Rodrigues Parilla.</remarks>
+        <remarks>Formally inaugurated the U.S. Embassy. Met with Foreign Minister Bruno Eduardo
+            Rodrigues Parilla.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3102,7 +3262,8 @@
         <end-date>2015-09-19</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Foreign Secretary Philip Hammond and UAE Foreign Minister Abdullah bin             Zayed.</remarks>
+        <remarks>Met with Foreign Secretary Philip Hammond and UAE Foreign Minister Abdullah bin
+            Zayed.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3158,7 +3319,8 @@
         <end-date>2015-10-17</end-date>
         <country id="italy">Italy</country>
         <locale>Milan</locale>
-        <remarks>Commemorated World Food Day, visited the USA Pavilion at Malan EXPO 2015, and met             with Foreign Minister Paolo Gentiloni.</remarks>
+        <remarks>Commemorated World Food Day, visited the USA Pavilion at Malan EXPO 2015, and met
+            with Foreign Minister Paolo Gentiloni.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3186,7 +3348,8 @@
         <end-date>2015-10-19</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
-        <remarks>Met with King Felipe VI, President Mariano Rajoy, and Foreign Minister Jose Manuel             Garcia-Margallo.</remarks>
+        <remarks>Met with King Felipe VI, President Mariano Rajoy, and Foreign Minister Jose Manuel
+            Garcia-Margallo.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3200,7 +3363,8 @@
         <end-date>2015-10-22</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with Foreign Minister Frank-Walter Steinmeier, Israeli Prime Minister Benjamin             Netanyahu, and EU High Representative Federica Mogherini.</remarks>
+        <remarks>Met with Foreign Minister Frank-Walter Steinmeier, Israeli Prime Minister Benjamin
+            Netanyahu, and EU High Representative Federica Mogherini.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3214,7 +3378,8 @@
         <end-date>2015-10-23</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Met with Quartet representatives and the Foreign Ministers of Russia, Turkey, and             Saudi Arabia.</remarks>
+        <remarks>Met with Quartet representatives and the Foreign Ministers of Russia, Turkey, and
+            Saudi Arabia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3228,7 +3393,8 @@
         <end-date>2015-10-24</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Salman, Foreign Minister Adel al-Jubeir, Crown Prince Mohammed bin             Nayef, and Deputy Crown Prince Mohammed bin Salman.</remarks>
+        <remarks>Met with King Salman, Foreign Minister Adel al-Jubeir, Crown Prince Mohammed bin
+            Nayef, and Deputy Crown Prince Mohammed bin Salman.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3242,7 +3408,9 @@
         <end-date>2015-10-31</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Met with Austrian Foreign Minister Sebastian Kurz, UN Special Envoy for Syria             Steffan de Mistura, and the Foreign Ministers of Iran, Russia, Saudi Arabia, and Turkey.             Attended a meeting on Syria.</remarks>
+        <remarks>Met with Austrian Foreign Minister Sebastian Kurz, UN Special Envoy for Syria
+            Steffan de Mistura, and the Foreign Ministers of Iran, Russia, Saudi Arabia, and Turkey.
+            Attended a meeting on Syria.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3256,7 +3424,9 @@
         <end-date>2015-11-01</end-date>
         <country id="kyrgyzstan">Kyrgyzstan</country>
         <locale>Bishkek</locale>
-        <remarks>Attended the dedication of a new Embassy compound, Met with President Almazbek             Atambaev and Foreign Minister Erlan Abdyldaev. Addressed the American University of             Central Asia.</remarks>
+        <remarks>Attended the dedication of a new Embassy compound, Met with President Almazbek
+            Atambaev and Foreign Minister Erlan Abdyldaev. Addressed the American University of
+            Central Asia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3270,7 +3440,8 @@
         <end-date>2015-11-01</end-date>
         <country id="uzbekistan">Uzbekistan</country>
         <locale>Samarkand</locale>
-        <remarks>Met with President Islam Karimov and the Foreign Ministers of Kazakhstan,             Kyryzstan, Tajikistan, Turkmenistan, and Uzbekistan.</remarks>
+        <remarks>Met with President Islam Karimov and the Foreign Ministers of Kazakhstan,
+            Kyryzstan, Tajikistan, Turkmenistan, and Uzbekistan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3284,7 +3455,8 @@
         <end-date>2015-11-02</end-date>
         <country id="kazakhstan">Kazakhstan</country>
         <locale>Astana</locale>
-        <remarks>Met with President Nursultan Nazarbayev and attended the Fourth U.S. Kazakhstan             Strategic Partnership Dialogue.</remarks>
+        <remarks>Met with President Nursultan Nazarbayev and attended the Fourth U.S. Kazakhstan
+            Strategic Partnership Dialogue.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3354,7 +3526,8 @@
         <end-date>2015-11-14</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Met with the Foreign Ministers of Saudi Arabia, Turkey, Russia, and Iran, and with             UN Special Envoy for Syria Steffan de Mistura. Attended a meeting on Syria.</remarks>
+        <remarks>Met with the Foreign Ministers of Saudi Arabia, Turkey, Russia, and Iran, and with
+            UN Special Envoy for Syria Steffan de Mistura. Attended a meeting on Syria.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3396,7 +3569,8 @@
         <end-date>2015-11-23</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
-        <remarks>Met with Crown Prince Mohammed bin Zayed and with the Foreign Ministers of the             United Arab Emirates and Saudi Arabia.</remarks>
+        <remarks>Met with Crown Prince Mohammed bin Zayed and with the Foreign Ministers of the
+            United Arab Emirates and Saudi Arabia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3410,7 +3584,8 @@
         <end-date>2015-11-24</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with President Reuven Rivlin, Prime Minister Benjamin Netanyahu, and Opposition             leader Yitzhak Herzog.</remarks>
+        <remarks>Met with President Reuven Rivlin, Prime Minister Benjamin Netanyahu, and Opposition
+            leader Yitzhak Herzog.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3438,7 +3613,8 @@
         <end-date>2015-12-01</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended the UN Climate Change Summit and met with Egyptian Foreign Minister Sameh             Shoukry.</remarks>
+        <remarks>Attended the UN Climate Change Summit and met with Egyptian Foreign Minister Sameh
+            Shoukry.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3480,7 +3656,9 @@
         <end-date>2015-12-03</end-date>
         <country id="serbia">Serbia</country>
         <locale>Belgrade</locale>
-        <remarks>Attended an OSCE Ministerial Meeting and a meeting of OSCE Minsk Group Co-Chair             Countries. Met with Prime Minister Aleksandar Vucic and Ukrainian Foreign Minister Pavlo             Klimkin.</remarks>
+        <remarks>Attended an OSCE Ministerial Meeting and a meeting of OSCE Minsk Group Co-Chair
+            Countries. Met with Prime Minister Aleksandar Vucic and Ukrainian Foreign Minister Pavlo
+            Klimkin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3494,7 +3672,8 @@
         <end-date>2015-12-03</end-date>
         <country id="cyprus">Cyprus</country>
         <locale>Nicosia</locale>
-        <remarks>Met with President Nicos Anastasiades, Foreign Minister Ioannis Kasoulides, Turkish             Cypriot leader Mustafa Akinci, and UN Special Adviser Espen Barth Eide.</remarks>
+        <remarks>Met with President Nicos Anastasiades, Foreign Minister Ioannis Kasoulides, Turkish
+            Cypriot leader Mustafa Akinci, and UN Special Adviser Espen Barth Eide.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3508,7 +3687,8 @@
         <end-date>2015-12-04</end-date>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
-        <remarks>Met with Prime Minister Alexis Tsipras and Foreign Minister Nikos Kotzias. Visited             migrants and volunteers.</remarks>
+        <remarks>Met with Prime Minister Alexis Tsipras and Foreign Minister Nikos Kotzias. Visited
+            migrants and volunteers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T14:02:07.012-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3592,7 +3772,8 @@
         <end-date>2016-01-16</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Discussed the Joint Comprehensive Plan of Action with Iranian Foreign Minister             Javad Zarif and EU High Representative Federica Mogherini.</remarks>
+        <remarks>Discussed the Joint Comprehensive Plan of Action with Iranian Foreign Minister
+            Javad Zarif and EU High Representative Federica Mogherini.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3606,7 +3787,8 @@
         <end-date>2016-01-22</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Zurich, Davos</locale>
-        <remarks>Discussed the Syrian and Ukrainian crises with Russian Foreign Minister Sergei             Lavrov. Attended the World Economic Forum Annual Meeting.</remarks>
+        <remarks>Discussed the Syrian and Ukrainian crises with Russian Foreign Minister Sergei
+            Lavrov. Attended the World Economic Forum Annual Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3620,7 +3802,9 @@
         <end-date>2016-01-25</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with Foreign Minister Adel al-Jubeir, members of the Syrian Opposition’s High             Negotiations Committee, and with the Foreign Ministers of the Gulf Cooperation Council             states.</remarks>
+        <remarks>Met with Foreign Minister Adel al-Jubeir, members of the Syrian Opposition’s High
+            Negotiations Committee, and with the Foreign Ministers of the Gulf Cooperation Council
+            states.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3634,7 +3818,8 @@
         <end-date>2016-01-25</end-date>
         <country id="laos">Laos</country>
         <locale>Vientiane</locale>
-        <remarks>Met with Prime Minister Thongsing Thammavong and Foreign Minister Thongloun             Sisoulith. Addressed a YSEALI Interaction Event.</remarks>
+        <remarks>Met with Prime Minister Thongsing Thammavong and Foreign Minister Thongloun
+            Sisoulith. Addressed a YSEALI Interaction Event.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3662,7 +3847,8 @@
         <end-date>2016-01-27</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
-        <remarks>Met with President Xi Jinping, Foreign Minister Wang Li, and State Councilor Jang             Jiechi.</remarks>
+        <remarks>Met with President Xi Jinping, Foreign Minister Wang Li, and State Councilor Jang
+            Jiechi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3690,7 +3876,8 @@
         <end-date>2016-02-02</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Attended a Ministerial Meeting of the Small Group of the Global Coalition to             Counter ISIL.</remarks>
+        <remarks>Attended a Ministerial Meeting of the Small Group of the Global Coalition to
+            Counter ISIL.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3718,7 +3905,8 @@
         <end-date>2016-02-14</end-date>
         <country id="germany">Germany</country>
         <locale>Munich</locale>
-        <remarks>Attended the 52nd Munich Security Conference and an International Syria Support             Group meeting.</remarks>
+        <remarks>Attended the 52nd Munich Security Conference and an International Syria Support
+            Group meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3760,7 +3948,8 @@
         <end-date>2016-02-21</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Abdullah II, Foreign Minister Nasser Judeh, and Palestinian Authority             President Mahmoud Abbas.</remarks>
+        <remarks>Met with King Abdullah II, Foreign Minister Nasser Judeh, and Palestinian Authority
+            President Mahmoud Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3774,7 +3963,8 @@
         <end-date>2016-03-12</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Hafr al-Batin</locale>
-        <remarks>Met with King Salman bin Abdulaziz al-Saud, Crown Prince Mohammed bin Nayef, Deputy             Crown Prince Mohammad bin Salman al-Saud, and Foreign Minister Adel al-Jubeir.</remarks>
+        <remarks>Met with King Salman bin Abdulaziz al-Saud, Crown Prince Mohammed bin Nayef, Deputy
+            Crown Prince Mohammad bin Salman al-Saud, and Foreign Minister Adel al-Jubeir.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3788,7 +3978,8 @@
         <end-date>2016-03-13</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with the Foreign Ministers of France, Germany, Italy, and the United Kingdom,             and with EU High Representative Mogherini.</remarks>
+        <remarks>Met with the Foreign Ministers of France, Germany, Italy, and the United Kingdom,
+            and with EU High Representative Mogherini.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3830,7 +4021,8 @@
         <end-date>2016-03-25</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with Belgian and EU officials and expressed condolences following a March 22             terrorist attack.</remarks>
+        <remarks>Met with Belgian and EU officials and expressed condolences following a March 22
+            terrorist attack.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3858,7 +4050,9 @@
         <end-date>2016-04-08</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
-        <remarks>Met with Prime Minister Haider al-Abadi, Foreign Minister Ibrahim al-Jaafari,             Council of Representatives Speaker Saleem al Jabouri, and Kurdish Regional Government             Prime Minister Nechrivan Barzani.</remarks>
+        <remarks>Met with Prime Minister Haider al-Abadi, Foreign Minister Ibrahim al-Jaafari,
+            Council of Representatives Speaker Saleem al Jabouri, and Kurdish Regional Government
+            Prime Minister Nechrivan Barzani.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3900,7 +4094,8 @@
         <end-date>2016-04-20</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Abdel Fattah al-Sisi and Foreign Minister Sameh             Shoukry.</remarks>
+        <remarks>Met with President Abdel Fattah al-Sisi and Foreign Minister Sameh
+            Shoukry.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3928,7 +4123,9 @@
         <end-date>2016-05-02</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Discussed the Syrian conflict with Jordanian Foreign Minister Nasser Judeh, Saudi             Arabian Foreign Minister Adel al-Jubeir, and UN Special Envoy Staffan de             Mistura.</remarks>
+        <remarks>Discussed the Syrian conflict with Jordanian Foreign Minister Nasser Judeh, Saudi
+            Arabian Foreign Minister Adel al-Jubeir, and UN Special Envoy Staffan de
+            Mistura.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3970,7 +4167,8 @@
         <end-date>2016-05-15</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah, Al Wajh</locale>
-        <remarks>Met with King Salman bin Abdulaziz al-Saud, Crown Prince Mohammed bin Nayef, and             Deputy Crown Prince Mohammad bin Salman al-Saud.</remarks>
+        <remarks>Met with King Salman bin Abdulaziz al-Saud, Crown Prince Mohammed bin Nayef, and
+            Deputy Crown Prince Mohammad bin Salman al-Saud.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3984,7 +4182,9 @@
         <end-date>2016-05-18</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Co-hosted meetings on Libya and of the International Syria Support Group. Co-hosted             a meeting of the Presidents of Armenia and Azerbaijan on the Nagorno Karabakh             conflict.</remarks>
+        <remarks>Co-hosted meetings on Libya and of the International Syria Support Group. Co-hosted
+            a meeting of the Presidents of Armenia and Azerbaijan on the Nagorno Karabakh
+            conflict.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4054,7 +4254,8 @@
         <end-date>2016-06-04</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended a French-hosted ministerial meeting on Middle East peace, and discussed             the Counter-ISIL Coalition ‘s efforts with Foreign Minister Jean-Marc Ayrault.</remarks>
+        <remarks>Attended a French-hosted ministerial meeting on Middle East peace, and discussed
+            the Counter-ISIL Coalition ‘s efforts with Foreign Minister Jean-Marc Ayrault.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4082,7 +4283,9 @@
         <end-date>2016-06-08</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
-        <remarks>With Treasury Secretary Jacob J. Lew, attended the 8th U.S.-China Strategic and             Economic Dialogue. Also attended the 7th Annual U.S.-China Consultation on             People-to-People Exchange.</remarks>
+        <remarks>With Treasury Secretary Jacob J. Lew, attended the 8th U.S.-China Strategic and
+            Economic Dialogue. Also attended the 7th Annual U.S.-China Consultation on
+            People-to-People Exchange.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4138,7 +4341,8 @@
         <end-date>2016-06-17</end-date>
         <country id="denmark">Denmark</country>
         <locale>Copenhagen</locale>
-        <remarks>Met with Prime Minister Lars Lokke Rasmussen and Foreign Minister Kristian             Jensen.</remarks>
+        <remarks>Met with Prime Minister Lars Lokke Rasmussen and Foreign Minister Kristian
+            Jensen.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4166,7 +4370,8 @@
         <end-date>2016-06-27</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with Foreign Minister Paolo Gentiloni and Israeli Prime Minister Benjamin             Netanyahu.</remarks>
+        <remarks>Met with Foreign Minister Paolo Gentiloni and Israeli Prime Minister Benjamin
+            Netanyahu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4180,7 +4385,8 @@
         <end-date>2016-06-27</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with EU High Representative Federica Mogherini and NATO Secretary General Jens             Stoltenberg.</remarks>
+        <remarks>Met with EU High Representative Federica Mogherini and NATO Secretary General Jens
+            Stoltenberg.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4222,7 +4428,8 @@
         <end-date>2016-07-07</end-date>
         <country id="georgia">Georgia</country>
         <locale>Tbilisi</locale>
-        <remarks>Met with President Giorgi Margvelashvili and Prime Minister Giorgi Kirivikashvili             and co-chaired a meeting of the U.S.-Georgia Strategic Partnership Commission.</remarks>
+        <remarks>Met with President Giorgi Margvelashvili and Prime Minister Giorgi Kirivikashvili
+            and co-chaired a meeting of the U.S.-Georgia Strategic Partnership Commission.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4236,7 +4443,8 @@
         <end-date>2016-07-07</end-date>
         <country id="ukraine">Ukraine</country>
         <locale>Kyiv</locale>
-        <remarks>Met with President Petro Porochenko and Prime Minister Volodymyr             Groysman.</remarks>
+        <remarks>Met with President Petro Porochenko and Prime Minister Volodymyr
+            Groysman.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4306,7 +4514,8 @@
         <end-date>2016-07-18</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with EU Member States Foreign Ministers and with EU High Representative             Mogherini.</remarks>
+        <remarks>Met with EU Member States Foreign Ministers and with EU High Representative
+            Mogherini.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4334,7 +4543,8 @@
         <end-date>2016-07-22</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Attended the opening of the Extraordinary Meeting of the Parties to the Montreal             Protocol.</remarks>
+        <remarks>Attended the opening of the Extraordinary Meeting of the Parties to the Montreal
+            Protocol.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4362,7 +4572,9 @@
         <end-date>2016-07-26</end-date>
         <country id="laos">Laos</country>
         <locale>Vientiane</locale>
-        <remarks>Attended the ASEAN Regional Forum, the East Asian Summit Foreign Ministers’             Meeting, the ASEAN-U.S. Ministerial Meeting and the Lower Mekong Initiative Ministerial             Meeting.</remarks>
+        <remarks>Attended the ASEAN Regional Forum, the East Asian Summit Foreign Ministers’
+            Meeting, the ASEAN-U.S. Ministerial Meeting and the Lower Mekong Initiative Ministerial
+            Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4390,7 +4602,8 @@
         <end-date>2016-07-31</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Foreign Minister Jean-Marc Ayrault and Palestinian Authority President             Mahmoud Abbas.</remarks>
+        <remarks>Met with Foreign Minister Jean-Marc Ayrault and Palestinian Authority President
+            Mahmoud Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4404,7 +4617,8 @@
         <end-date>2016-08-04</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
-        <remarks>Met with President Mauricio Macri, opened the U.S.-Argentina High Level Dialogue,             and addressed the Argentine-American Chamber of Commerce.</remarks>
+        <remarks>Met with President Mauricio Macri, opened the U.S.-Argentina High Level Dialogue,
+            and addressed the Argentine-American Chamber of Commerce.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4418,7 +4632,8 @@
         <end-date>2016-08-06</end-date>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
-        <remarks>Met with Foreign Minister Jose Serra and attended the Opening Ceremony of the 2016             Summer Olympic Games.</remarks>
+        <remarks>Met with Foreign Minister Jose Serra and attended the Opening Ceremony of the 2016
+            Summer Olympic Games.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4432,7 +4647,8 @@
         <end-date>2016-08-22</end-date>
         <country id="kenya">Kenya</country>
         <locale>Nairobi</locale>
-        <remarks>Met with President Uhuru Kenyatta and Foreign Minister Amina Mohamed and regional             Foreign Ministers.</remarks>
+        <remarks>Met with President Uhuru Kenyatta and Foreign Minister Amina Mohamed and regional
+            Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4446,7 +4662,8 @@
         <end-date>2016-08-24</end-date>
         <country id="nigeria">Nigeria</country>
         <locale>Sokoto, Abuja</locale>
-        <remarks>Met with local civic and religious leaders in Sokoto, and with President Muhammedu             Buhari, Foreign Minister Geoffrey Onyeama, and northern governors.</remarks>
+        <remarks>Met with local civic and religious leaders in Sokoto, and with President Muhammedu
+            Buhari, Foreign Minister Geoffrey Onyeama, and northern governors.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4460,7 +4677,8 @@
         <end-date>2016-08-25</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council and of the United             Kingdom, and the UN Special Envoy for Yemen.</remarks>
+        <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council and of the United
+            Kingdom, and the UN Special Envoy for Yemen.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4488,7 +4706,8 @@
         <end-date>2016-08-29</end-date>
         <country id="bangladesh">Bangladesh</country>
         <locale>Dhaka</locale>
-        <remarks>Met with Prime Minister Sheikh Hasina, Foreign Minister Mahmood Ali, and             Nationalist Party Chairperson Khaleda Zia.</remarks>
+        <remarks>Met with Prime Minister Sheikh Hasina, Foreign Minister Mahmood Ali, and
+            Nationalist Party Chairperson Khaleda Zia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4502,7 +4721,9 @@
         <end-date>2016-09-01</end-date>
         <country id="india">India</country>
         <locale>New Delhi</locale>
-        <remarks>Met with President Narendra Modi. With Commerce Secretary Penny Pritzker,             co-chaired the second U.S.-India Strategic and Commercial Dialogue. Met with Egyptian             President Abdel Fattah al-Sisi.</remarks>
+        <remarks>Met with President Narendra Modi. With Commerce Secretary Penny Pritzker,
+            co-chaired the second U.S.-India Strategic and Commercial Dialogue. Met with Egyptian
+            President Abdel Fattah al-Sisi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4530,7 +4751,8 @@
         <end-date>2016-09-09</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Discussed the Syrian conflict with Russian Foreign Minister Sergey Lavrov and UN             Special Envoy Staffan de Mistura.</remarks>
+        <remarks>Discussed the Syrian conflict with Russian Foreign Minister Sergey Lavrov and UN
+            Special Envoy Staffan de Mistura.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4572,7 +4794,8 @@
         <end-date>2016-10-14</end-date>
         <country id="rwanda">Rwanda</country>
         <locale>Kigali</locale>
-        <remarks>With EPA Administrator Gina McCarthy, attended the 28th Meeting of the Parties to             the Montreal Protocol.</remarks>
+        <remarks>With EPA Administrator Gina McCarthy, attended the 28th Meeting of the Parties to
+            the Montreal Protocol.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4586,7 +4809,8 @@
         <end-date>2016-10-15</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Lausanne</locale>
-        <remarks>Met with the Foreign Ministers of Russia, Saudi Arabia, Qatar, Turkey, Egypt, Iraq,             Jordan, and Iran, and UN Special Envoy de Mistura.</remarks>
+        <remarks>Met with the Foreign Ministers of Russia, Saudi Arabia, Qatar, Turkey, Egypt, Iraq,
+            Jordan, and Iran, and UN Special Envoy de Mistura.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4600,7 +4824,8 @@
         <end-date>2016-10-16</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Foreign Secretary Boris Johnson and UN Special Envoy for Yemen Ismail             Ouldh Cheikh Ahmed.</remarks>
+        <remarks>Met with Foreign Secretary Boris Johnson and UN Special Envoy for Yemen Ismail
+            Ouldh Cheikh Ahmed.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4614,7 +4839,8 @@
         <end-date>2016-10-30</end-date>
         <country id="ireland">Ireland</country>
         <locale>Tipperary</locale>
-        <remarks>Met with Foreign Minister Charles Flanagan and received the Tipperary International             Peace Award.</remarks>
+        <remarks>Met with Foreign Minister Charles Flanagan and received the Tipperary International
+            Peace Award.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4628,7 +4854,8 @@
         <end-date>2016-10-31</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Attended a Libya Ministerial Meeting and received the Benjamin Franklin House Medal             for Leadership and the Chatham House Prize.</remarks>
+        <remarks>Attended a Libya Ministerial Meeting and received the Benjamin Franklin House Medal
+            for Leadership and the Chatham House Prize.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4642,7 +4869,8 @@
         <end-date>2016-11-12</end-date>
         <country id="antarctica">Antarctica</country>
         <locale>McMurdo Sound, South Pole</locale>
-        <remarks>Visited the McMurdo Station and the Amundsen-Scott South Pole Station. First visit             of a Secretary of State to Antarctica.</remarks>
+        <remarks>Visited the McMurdo Station and the Amundsen-Scott South Pole Station. First visit
+            of a Secretary of State to Antarctica.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4656,7 +4884,8 @@
         <end-date>2016-11-13</end-date>
         <country id="new-zealand">New Zealand</country>
         <locale>Wellington</locale>
-        <remarks>Met with Prime Minister John Key and Foreign Minister Murray McCully. Dedicated the             site of the United States Memorial.</remarks>
+        <remarks>Met with Prime Minister John Key and Foreign Minister Murray McCully. Dedicated the
+            site of the United States Memorial.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4670,7 +4899,8 @@
         <end-date>2016-11-14</end-date>
         <country id="oman">Oman</country>
         <locale>Muscat</locale>
-        <remarks>Discussed the Yemen conflict with Sultan Qaboos and Foreign Minister Yusuf bin             Alawi.</remarks>
+        <remarks>Discussed the Yemen conflict with Sultan Qaboos and Foreign Minister Yusuf bin
+            Alawi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4698,7 +4928,8 @@
         <end-date>2016-11-16</end-date>
         <country id="morocco">Morocco</country>
         <locale>Marrakesh</locale>
-        <remarks>Attended and addressed the 22nd Conference of the Parties to the UN Framework             Convention on Climate Change.</remarks>
+        <remarks>Attended and addressed the 22nd Conference of the Parties to the UN Framework
+            Convention on Climate Change.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4726,7 +4957,8 @@
         <end-date>2016-12-03</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with Foreign Minister Paolo Gentiloni and attended the Rome Mediterranean             Dialogues.</remarks>
+        <remarks>Met with Foreign Minister Paolo Gentiloni and attended the Rome Mediterranean
+            Dialogues.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4754,7 +4986,8 @@
         <end-date>2016-12-05</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with Foreign Minister Frank-Walter Steinmeier. Received the Federal Cross of             Merit.</remarks>
+        <remarks>Met with Foreign Minister Frank-Walter Steinmeier. Received the Federal Cross of
+            Merit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4768,7 +5001,8 @@
         <end-date>2016-12-07</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended a NATO Ministerial Meeting. Met with EU High Representative             Mogherini.</remarks>
+        <remarks>Attended a NATO Ministerial Meeting. Met with EU High Representative
+            Mogherini.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4796,7 +5030,8 @@
         <end-date>2016-12-11</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Discussed the Syrian conflict with the Foreign Ministers of France, Germany, and             Qatar. Received the Legion of Honor.</remarks>
+        <remarks>Discussed the Syrian conflict with the Foreign Ministers of France, Germany, and
+            Qatar. Received the Legion of Honor.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4810,7 +5045,8 @@
         <end-date>2016-12-19</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Salman bin Abdulaziz al-Saud and with the Foreign Ministers of Saudi             Arabia and Oman.</remarks>
+        <remarks>Met with King Salman bin Abdulaziz al-Saud and with the Foreign Ministers of Saudi
+            Arabia and Oman.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4824,7 +5060,8 @@
         <end-date>2017-01-14</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Hanoi, Ho Chi Minh City, Camau Province</locale>
-        <remarks>Met with Prime Minister Nguyen Xuan Phuc and Acting Foreign Minister Bui Thanh Son.             Delivered a speech at the Ho Chi Minh University of Technology and Education.</remarks>
+        <remarks>Met with Prime Minister Nguyen Xuan Phuc and Acting Foreign Minister Bui Thanh Son.
+            Delivered a speech at the Ho Chi Minh University of Technology and Education.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <presidents>
     <source-url>http://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States</source-url>
     <crawl-dateTime>2011-08-18T17:30:09.653-04:00</crawl-dateTime>
@@ -376,7 +376,7 @@
     </president>
     <president n="32">
         <id>roosevelt-franklin-d</id>
-        <name>Franklin Delano Roosevelt</name>
+        <name>Franklin D. Roosevelt</name>
         <birth-year>1882</birth-year>
         <death-year>1945</death-year>
         <took-office-date>1933-03-04</took-office-date>
@@ -388,7 +388,7 @@
     </president>
     <president n="33">
         <id>truman-harry-s</id>
-        <name>Harry S Truman</name>
+        <name>Harry S. Truman</name>
         <birth-year>1884</birth-year>
         <death-year>1972</death-year>
         <took-office-date>1945-04-12</took-office-date>
@@ -460,7 +460,7 @@
     </president>
     <president n="39">
         <id>carter-jimmy</id>
-        <name>James E. Carter</name>
+        <name>Jimmy Carter</name>
         <birth-year>1924</birth-year>
         <death-year still-alive="true"/>
         <took-office-date>1977-01-20</took-office-date>
@@ -484,7 +484,7 @@
     </president>
     <president n="41">
         <id>bush-george-h-w</id>
-        <name>George Herbert Walker Bush</name>
+        <name>George H.W. Bush</name>
         <birth-year>1924</birth-year>
         <death-year>2018</death-year>
         <took-office-date>1989-01-20</took-office-date>
@@ -548,7 +548,7 @@
         <birth-year>1942</birth-year>
         <death-year still-alive="true"/>
         <took-office-date>2021-01-20</took-office-date>
-        <left-office-date/>
+        <left-office-date still-in-office="true"/>
         <created-by>wicentowskijc</created-by>
         <created-date>2020-11-07</created-date>
         <last-modified-by>wicentowskijc</last-modified-by>
