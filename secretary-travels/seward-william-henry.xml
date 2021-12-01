@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="seward-william-henry" role="secretary">
         <id>1915</id>
@@ -8,12 +8,11 @@
         <end-date>1866-01-12</end-date>
         <country id="denmark">Denmark</country>
         <locale>St. Thomas, St. Croix, Frederikstadt, Christianstadt (Virgin Islands)</locale>
-        <remarks>Met with Danish colonial officials during a working vacation. Also met with former
-            Mexican President Santa Anna. Departed from Washington January 1.</remarks>
+        <remarks>Met with Danish colonial officials during a working vacation. Also met with former             Mexican President Santa Anna. Departed from Washington January 1.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="seward-william-henry" role="secretary">
         <id>1916</id>
@@ -25,9 +24,9 @@
         <locale>Santo Domingo</locale>
         <remarks>Met with President Baez and his Cabinet.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="seward-william-henry" role="secretary">
         <id>1917</id>
@@ -39,9 +38,9 @@
         <locale>Port-au-Prince</locale>
         <remarks>Met with President Geffrand and his Cabinet.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="seward-william-henry" role="secretary">
         <id>1918</id>
@@ -53,8 +52,8 @@
         <locale>Havana (Cuba)</locale>
         <remarks>Met with Spanish colonial officials. Returned to U.S. January 28.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
 </trips>
