@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="pompeo-michael-r" role="secretary">
         <id>3872</id>
@@ -50,7 +49,8 @@
         <end-date>2018-04-30</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Abdullah II and Jordanian Foreign Minister Ayman al-Safadi. Also met             with Japanese Foreign Minister Taro Kono.</remarks>
+        <remarks>Met with King Abdullah II and Jordanian Foreign Minister Ayman al-Safadi. Also met
+            with Japanese Foreign Minister Taro Kono.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -64,7 +64,8 @@
         <end-date>2018-05-09</end-date>
         <country id="korea-north">Korea, North</country>
         <locale>Pyongyang</locale>
-        <remarks>Met with Chairman Kim Jong-un and other North Korean Government officials. Also             secured the release of three Americans.</remarks>
+        <remarks>Met with Chairman Kim Jong-un and other North Korean Government officials. Also
+            secured the release of three Americans.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -92,7 +93,8 @@
         <end-date>2018-06-13</end-date>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
-        <remarks>Participated in the President’s summit with North Korean leader Kim Jong-un and             bilateral events with Singaporean Prime Minister Lee Hsien Loong.</remarks>
+        <remarks>Participated in the President’s summit with North Korean leader Kim Jong-un and
+            bilateral events with Singaporean Prime Minister Lee Hsien Loong.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -106,7 +108,9 @@
         <end-date>2018-06-14</end-date>
         <country id="korea-south">Korea, South</country>
         <locale>Seoul</locale>
-        <remarks>Met with senior Korean and Japanese officials to discuss the U.S.-Republic of Korea             alliance, the U.S.-Japan alliance, and next steps in our shared approach to North             Korea.</remarks>
+        <remarks>Met with senior Korean and Japanese officials to discuss the U.S.-Republic of Korea
+            alliance, the U.S.-Japan alliance, and next steps in our shared approach to North
+            Korea.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -120,7 +124,8 @@
         <end-date>2018-06-14</end-date>
         <country id="china">China</country>
         <locale>Beijing</locale>
-        <remarks>Met with Chinese officials on bilateral, regional, and global issues that affect             both countries.</remarks>
+        <remarks>Met with Chinese officials on bilateral, regional, and global issues that affect
+            both countries.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -134,7 +139,8 @@
         <end-date>2018-07-07</end-date>
         <country id="korea-north">Korea, North</country>
         <locale>Pyongyang</locale>
-        <remarks>Continued consultations and implementation of the forward progress made by             President Trump and Chairman Kim in Singapore.</remarks>
+        <remarks>Continued consultations and implementation of the forward progress made by
+            President Trump and Chairman Kim in Singapore.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -148,7 +154,9 @@
         <end-date>2018-07-08</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with Japanese and South Korean leaders to discuss our shared commitment to the             final, fully verified denuclearization of the DPRK, as well as other bilateral and             regional issues.</remarks>
+        <remarks>Met with Japanese and South Korean leaders to discuss our shared commitment to the
+            final, fully verified denuclearization of the DPRK, as well as other bilateral and
+            regional issues.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -162,7 +170,9 @@
         <end-date>2018-07-09</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Hanoi</locale>
-        <remarks>Met with senior Vietnamese officials to discuss our shared commitment to the final,             fully verified denuclearization of the DPRK and other bilateral and regional             issues.</remarks>
+        <remarks>Met with senior Vietnamese officials to discuss our shared commitment to the final,
+            fully verified denuclearization of the DPRK and other bilateral and regional
+            issues.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -190,7 +200,8 @@
         <end-date>2018-07-10</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
-        <remarks>Met with UAE leaders to discuss ways to further strengthen the U.S.-UAE             partnership.</remarks>
+        <remarks>Met with UAE leaders to discuss ways to further strengthen the U.S.-UAE
+            partnership.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -204,7 +215,9 @@
         <end-date>2018-07-12</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Accompanied President Trump to the NATO Summit and also participated in the U.S.-EU             Energy Council and co-hosted a meeting of foreign ministers of the Global Coalition to             Defeat ISIS.</remarks>
+        <remarks>Accompanied President Trump to the NATO Summit and also participated in the U.S.-EU
+            Energy Council and co-hosted a meeting of foreign ministers of the Global Coalition to
+            Defeat ISIS.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -218,7 +231,8 @@
         <end-date>2018-07-13</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico City</locale>
-        <remarks>Met with President Enrique Peña Nieto, Foreign Secretary Luis Videgaray Caso, and             President-elect Andres Manuel Lopez Obrador.</remarks>
+        <remarks>Met with President Enrique Peña Nieto, Foreign Secretary Luis Videgaray Caso, and
+            President-elect Andres Manuel Lopez Obrador.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -232,7 +246,9 @@
         <end-date>2018-07-16</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Accompanied President Trump to his meeting with Russian President Vladimir Putin.             Also met with Russian Foreign Minister Sergey Lavrov and Finnish Foreign Minister Timo             Soini, to discuss bilateral and regional issues.</remarks>
+        <remarks>Accompanied President Trump to his meeting with Russian President Vladimir Putin.
+            Also met with Russian Foreign Minister Sergey Lavrov and Finnish Foreign Minister Timo
+            Soini, to discuss bilateral and regional issues.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -246,7 +262,8 @@
         <end-date>2018-08-03</end-date>
         <country id="malaysia">Malaysia</country>
         <locale>Kuala Lumpur</locale>
-        <remarks>Met with senior Malaysian officials to discuss strengthening the Comprehensive             Partnership and advancing common security and economic interests.</remarks>
+        <remarks>Met with senior Malaysian officials to discuss strengthening the Comprehensive
+            Partnership and advancing common security and economic interests.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -274,7 +291,8 @@
         <end-date>2018-08-05</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
-        <remarks>Met with senior Indonesian officials to discuss U.S.-Indonesia Strategic             Partnership.</remarks>
+        <remarks>Met with senior Indonesian officials to discuss U.S.-Indonesia Strategic
+            Partnership.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -288,7 +306,8 @@
         <end-date>2018-09-05</end-date>
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad</locale>
-        <remarks>Met with Prime Minister Imran Khan, Foreign Minister Qureshi, and Chief of Army             Staff Qamar Javed Bajwa to discuss U.S.-Pakistan bilateral relations.</remarks>
+        <remarks>Met with Prime Minister Imran Khan, Foreign Minister Qureshi, and Chief of Army
+            Staff Qamar Javed Bajwa to discuss U.S.-Pakistan bilateral relations.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -302,7 +321,8 @@
         <end-date>2018-09-06</end-date>
         <country id="india">India</country>
         <locale>New Delhi</locale>
-        <remarks>Participated in the inaugural U.S.-India “2+2” dialogue and met with senior             officials.</remarks>
+        <remarks>Participated in the inaugural U.S.-India “2+2” dialogue and met with senior
+            officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -358,7 +378,8 @@
         <end-date>2018-10-08</end-date>
         <country id="china">China</country>
         <locale>Beijing</locale>
-        <remarks>Met with Chinese counterparts to discuss bilateral, regional, and global             issues.</remarks>
+        <remarks>Met with Chinese counterparts to discuss bilateral, regional, and global
+            issues.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -372,7 +393,8 @@
         <end-date>2018-10-17</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with Crown Prince Mohammed bin Salman and Foreign Minister Adel al-Jubeir             regarding the investigation into the disappearance of Jamal Khashoggi.</remarks>
+        <remarks>Met with Crown Prince Mohammed bin Salman and Foreign Minister Adel al-Jubeir
+            regarding the investigation into the disappearance of Jamal Khashoggi.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -386,7 +408,9 @@
         <end-date>2018-10-18</end-date>
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
-        <remarks>Met with President Juan Carlos Varela and Vice President and Foreign Minister             Isabel de Saint Malo de Alvarado to discuss ongoing U.S.-Panama collaboration on             regional priorities.</remarks>
+        <remarks>Met with President Juan Carlos Varela and Vice President and Foreign Minister
+            Isabel de Saint Malo de Alvarado to discuss ongoing U.S.-Panama collaboration on
+            regional priorities.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -400,7 +424,8 @@
         <end-date>2018-10-19</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico City</locale>
-        <remarks>Met with President Enrique Peña Nieto, Foreign Secretary Luis Videgaray Caso, and             Foreign Secretary-designate Marcelo Luis Ebrard Casaubon.</remarks>
+        <remarks>Met with President Enrique Peña Nieto, Foreign Secretary Luis Videgaray Caso, and
+            Foreign Secretary-designate Marcelo Luis Ebrard Casaubon.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -414,7 +439,9 @@
         <end-date>2018-11-11</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Joined President Trump in commemorating the 100th anniversary of the end of the             WWI. Also participated in the President’s meeting with French President Emmanuel             Macron.</remarks>
+        <remarks>Joined President Trump in commemorating the 100th anniversary of the end of the
+            WWI. Also participated in the President’s meeting with French President Emmanuel
+            Macron.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -442,7 +469,8 @@
         <end-date>2018-12-05</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Participated in the semi-annual meeting of NATO Foreign Ministers and also met with             Belgian Prime Minister Charles Michel.</remarks>
+        <remarks>Participated in the semi-annual meeting of NATO Foreign Ministers and also met with
+            Belgian Prime Minister Charles Michel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -470,7 +498,8 @@
         <end-date>2019-02-12</end-date>
         <country id="slovakia">Slovakia</country>
         <locale>Bratislava</locale>
-        <remarks>Met with President Kiska, Prime Minister Pellegrini, and Foreign Minister             Lajčák.</remarks>
+        <remarks>Met with President Kiska, Prime Minister Pellegrini, and Foreign Minister
+            Lajčák.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -498,7 +527,8 @@
         <end-date>2019-02-14</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with EU High Representative for Foreign Affairs and Security Policy Federica             Mogherini.</remarks>
+        <remarks>Met with EU High Representative for Foreign Affairs and Security Policy Federica
+            Mogherini.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -526,7 +556,8 @@
         <end-date>2019-02-28</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Hanoi</locale>
-        <remarks>Participated in the President’s summit with North Korean leader Kim Jong-un and             bilateral meetings with Vietnamese leaders.</remarks>
+        <remarks>Participated in the President’s summit with North Korean leader Kim Jong-un and
+            bilateral meetings with Vietnamese leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -540,7 +571,8 @@
         <end-date>2019-03-01</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Met with President Rodrigo Duterte and Secretary of Foreign Affairs Teodoro Locsin,             Jr.</remarks>
+        <remarks>Met with President Rodrigo Duterte and Secretary of Foreign Affairs Teodoro Locsin,
+            Jr.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -582,7 +614,8 @@
         <end-date>2019-03-23</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
-        <remarks>Met with Lebanese leaders to discuss political, security, economic, and             humanitarian challenges.</remarks>
+        <remarks>Met with Lebanese leaders to discuss political, security, economic, and
+            humanitarian challenges.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -638,7 +671,8 @@
         <end-date>2019-04-14</end-date>
         <country id="colombia">Colombia</country>
         <locale>Cucuta</locale>
-        <remarks>Visited entities supporting Venezuelan refugees and assessed the challenges due to             the closed border.</remarks>
+        <remarks>Visited entities supporting Venezuelan refugees and assessed the challenges due to
+            the closed border.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -652,7 +686,8 @@
         <end-date>2019-05-06</end-date>
         <country id="finland">Finland</country>
         <locale>Rovaniemi</locale>
-        <remarks>Participated in the Eleventh Ministerial Meeting of the Arctic Council and             delivered a speech on U.S. Arctic policy.</remarks>
+        <remarks>Participated in the Eleventh Ministerial Meeting of the Arctic Council and
+            delivered a speech on U.S. Arctic policy.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -666,7 +701,8 @@
         <end-date>2019-05-07</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
-        <remarks>Met with Iraqi Prime Minister Adil Abd al-Mahdi and Iraqi President Barham             Salih.</remarks>
+        <remarks>Met with Iraqi Prime Minister Adil Abd al-Mahdi and Iraqi President Barham
+            Salih.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -680,7 +716,9 @@
         <end-date>2019-05-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Prime Minister Theresa May and Foreign Secretary Jeremy Hunt to discuss             shared global priorities, and gave a speech on the U.S.‑UK Special             Relationship.</remarks>
+        <remarks>Met with Prime Minister Theresa May and Foreign Secretary Jeremy Hunt to discuss
+            shared global priorities, and gave a speech on the U.S.‑UK Special
+            Relationship.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -694,7 +732,8 @@
         <end-date>2019-05-14</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with European allies to discuss recent threatening actions and statements by             the Islamic Republic of Iran.</remarks>
+        <remarks>Met with European allies to discuss recent threatening actions and statements by
+            the Islamic Republic of Iran.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -708,7 +747,8 @@
         <end-date>2019-05-14</end-date>
         <country id="russia">Russia</country>
         <locale>Sochi</locale>
-        <remarks>Met with Russian Foreign Minister Sergey Lavrov and President Vladimir             Putin.</remarks>
+        <remarks>Met with Russian Foreign Minister Sergey Lavrov and President Vladimir
+            Putin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -736,7 +776,8 @@
         <end-date>2019-06-03</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Bern, Bellinzona</locale>
-        <remarks>Met with Foreign Minister Ignazio Cassis, Swiss business leaders, and World Health             Organization Director General Dr. Tedros Adhanom Ghebreyesus.</remarks>
+        <remarks>Met with Foreign Minister Ignazio Cassis, Swiss business leaders, and World Health
+            Organization Director General Dr. Tedros Adhanom Ghebreyesus.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -750,7 +791,8 @@
         <end-date>2019-06-03</end-date>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague</locale>
-        <remarks>Participated in the opening of the Global Entrepreneurship Summit with Prime             Minister Mark Rutte and met with Foreign Minister Stef Blok.</remarks>
+        <remarks>Participated in the opening of the Global Entrepreneurship Summit with Prime
+            Minister Mark Rutte and met with Foreign Minister Stef Blok.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -778,7 +820,8 @@
         <end-date>2019-06-24</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Met with King Salman bin Abdulaziz Al Saud and Crown Prince Mohammed bin Salman Al             Saud.</remarks>
+        <remarks>Met with King Salman bin Abdulaziz Al Saud and Crown Prince Mohammed bin Salman Al
+            Saud.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -806,7 +849,9 @@
         <end-date>2019-06-25</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
-        <remarks>Met with President Ashraf Ghani, Chief Executive Abdullah Abdullah, former             President Hamid Karzai, and others to discuss next steps in the Afghan Peace             Process.</remarks>
+        <remarks>Met with President Ashraf Ghani, Chief Executive Abdullah Abdullah, former
+            President Hamid Karzai, and others to discuss next steps in the Afghan Peace
+            Process.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -820,7 +865,8 @@
         <end-date>2019-06-26</end-date>
         <country id="india">India</country>
         <locale>New Delhi</locale>
-        <remarks>Met with Prime Minister Narendra Modi and Minister of External Affairs S.             Jaishankar to discuss the U.S.-India strategic partnership.</remarks>
+        <remarks>Met with Prime Minister Narendra Modi and Minister of External Affairs S.
+            Jaishankar to discuss the U.S.-India strategic partnership.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -862,7 +908,8 @@
         <end-date>2019-07-19</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
-        <remarks>Joined regional leaders for the Second Western Hemisphere Counterterrorism             Ministerial.</remarks>
+        <remarks>Joined regional leaders for the Second Western Hemisphere Counterterrorism
+            Ministerial.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -918,7 +965,8 @@
         <end-date>2019-08-02</end-date>
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
-        <remarks>Co-chaired the U.S.-Association of Southeast Asian Nations (ASEAN) Ministerial and             held a bilateral meeting with Foreign Minister Don Pramudwinai.</remarks>
+        <remarks>Co-chaired the U.S.-Association of Southeast Asian Nations (ASEAN) Ministerial and
+            held a bilateral meeting with Foreign Minister Don Pramudwinai.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -932,7 +980,8 @@
         <end-date>2019-08-05</end-date>
         <country id="australia">Australia</country>
         <locale>Sydney</locale>
-        <remarks>Led the U.S. delegation to the Australia-United States Ministerial Consultations             and met with Prime Minister Scott Morrison.</remarks>
+        <remarks>Led the U.S. delegation to the Australia-United States Ministerial Consultations
+            and met with Prime Minister Scott Morrison.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -946,7 +995,9 @@
         <end-date>2019-08-05</end-date>
         <country id="micronesia">Micronesia, Federated States of</country>
         <locale>Pohnpei</locale>
-        <remarks>Met with the leaders of the Federated States of Micronesia, the Republic of the             Marshall Islands, and the Republic of Palau in the first-ever visit by a Secretary of             State to the Federated States of Micronesia.</remarks>
+        <remarks>Met with the leaders of the Federated States of Micronesia, the Republic of the
+            Marshall Islands, and the Republic of Palau in the first-ever visit by a Secretary of
+            State to the Federated States of Micronesia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -960,7 +1011,8 @@
         <end-date>2019-08-22</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Met with Prime Minister Justin Trudeau and Foreign Minister Chrystia             Freeland.</remarks>
+        <remarks>Met with Prime Minister Justin Trudeau and Foreign Minister Chrystia
+            Freeland.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -974,7 +1026,10 @@
         <end-date>2019-09-03</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with Belgian Prime Minister and European Council President-elect Michel, NATO             Secretary General Stoltenberg, European Parliament President Sassoli, European             Commission President-elect von der Leyen, and Acting Spanish Foreign Minister Josep             Borrell.</remarks>
+        <remarks>Met with Belgian Prime Minister and European Council President-elect Michel, NATO
+            Secretary General Stoltenberg, European Parliament President Sassoli, European
+            Commission President-elect von der Leyen, and Acting Spanish Foreign Minister Josep
+            Borrell.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1016,7 +1071,8 @@
         <end-date>2019-10-02</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with President Sergio Mattarella, Prime Minister Giuseppe Conte, and Foreign             Minister Luigi Di Maio.</remarks>
+        <remarks>Met with President Sergio Mattarella, Prime Minister Giuseppe Conte, and Foreign
+            Minister Luigi Di Maio.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1030,7 +1086,8 @@
         <end-date>2019-10-03</end-date>
         <country id="holy-see">Holy See</country>
         <locale/>
-        <remarks>Audience with His Holiness Pope Francis and met with Secretary of State Cardinal             Pietro Parolin.</remarks>
+        <remarks>Audience with His Holiness Pope Francis and met with Secretary of State Cardinal
+            Pietro Parolin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1044,7 +1101,8 @@
         <end-date>2019-10-04</end-date>
         <country id="montenegro">Montenegro</country>
         <locale>Podgorica</locale>
-        <remarks>Met with President Milo Djukanovic, Prime Minister Dusko Markovic, and Foreign Minister             Srdjan Darmanovic.</remarks>
+        <remarks>Met with President Milo Djukanovic, Prime Minister Dusko Markovic, and Foreign Minister
+            Srdjan Darmanovic.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1058,7 +1116,8 @@
         <end-date>2019-10-05</end-date>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
-        <remarks>Met with Prime Minister Kyriakos Mitsotakis, Foreign Minister Nikos Dendias, and Defense Minister             Nikolaos Panagiotopoulos.</remarks>
+        <remarks>Met with Prime Minister Kyriakos Mitsotakis, Foreign Minister Nikos Dendias, and Defense Minister
+            Nikolaos Panagiotopoulos.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1072,7 +1131,8 @@
         <end-date>2019-10-17</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
-        <remarks>Participated in a meeting with Vice President Mike Pence and Turkish President             Recep Tayyip Erdoğan to discuss the situation in northeast Syria.</remarks>
+        <remarks>Participated in a meeting with Vice President Mike Pence and Turkish President
+            Recep Tayyip Erdoğan to discuss the situation in northeast Syria.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1086,7 +1146,8 @@
         <end-date>2019-10-18</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Benjamin Netanyahu to discuss developments in             Syria.</remarks>
+        <remarks>Met with Prime Minister Benjamin Netanyahu to discuss developments in
+            Syria.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1114,7 +1175,8 @@
         <end-date>2019-11-06</end-date>
         <country id="germany">Germany</country>
         <locale>Grafenwohr, Vilseck, Modlareuth, Leipzig</locale>
-        <remarks>Participated in events to commemorate the end of the Cold War and met with German             Foreign Minister Heiko Maas.</remarks>
+        <remarks>Participated in events to commemorate the end of the Cold War and met with German
+            Foreign Minister Heiko Maas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1128,7 +1190,8 @@
         <end-date>2019-11-08</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with German Chancellor Angela Merkel and commemorated the 30th anniversary of             the fall of the Berlin Wall.</remarks>
+        <remarks>Met with German Chancellor Angela Merkel and commemorated the 30th anniversary of
+            the fall of the Berlin Wall.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1156,7 +1219,8 @@
         <end-date>2019-12-04</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Joined U.S. delegation led by President Trump to attend the NATO Leaders             Meeting.</remarks>
+        <remarks>Joined U.S. delegation led by President Trump to attend the NATO Leaders
+            Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1170,7 +1234,8 @@
         <end-date>2019-12-05</end-date>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
-        <remarks>Met with Prime Minister António Costa and Foreign Minister Augusto Santos             Silva.</remarks>
+        <remarks>Met with Prime Minister António Costa and Foreign Minister Augusto Santos
+            Silva.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

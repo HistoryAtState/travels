@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="byrnes-james-francis" role="secretary">
         <id>487</id>
@@ -7,12 +7,12 @@
         <start-date>1945-07-15</start-date>
         <end-date>1945-07-15</end-date>
         <country id="belgium">Belgium</country>
-        <locale>Antwerp, Brussels</locale>
+        <locale>Antwerp, Brussels </locale>
         <remarks>Disembarked en route to the Potsdam Conference. Left U.S. July 6.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
         <id>488</id>
@@ -22,11 +22,12 @@
         <end-date>1945-07-25</end-date>
         <country id="germany">Germany</country>
         <locale>Potsdam</locale>
-        <remarks>Accompanied President Truman to the Tripartite Conference of Berlin (Potsdam             Conference).</remarks>
+        <remarks>Accompanied President Truman to the Tripartite Conference of Berlin (Potsdam
+            Conference).</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
         <id>489</id>
@@ -36,11 +37,12 @@
         <end-date>1945-08-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Plymouth</locale>
-        <remarks>Accompanied President Truman to a meeting with King George VI. Returned to U.S.             August 7.</remarks>
+        <remarks>Accompanied President Truman to a meeting with King George VI. Returned to U.S.
+            August 7.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
         <id>490</id>
@@ -52,9 +54,9 @@
         <locale>London</locale>
         <remarks>Attended Council of Foreign Ministers meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
         <id>491</id>
@@ -66,9 +68,9 @@
         <locale>Moscow</locale>
         <remarks>Ministers meeting. Left U.S. December 12; returned December 29.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
         <id>492</id>
@@ -80,9 +82,9 @@
         <locale>London</locale>
         <remarks>Attended first session of the UN General Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
         <id>493</id>
@@ -94,9 +96,9 @@
         <locale>Paris</locale>
         <remarks>Attended Second Session of the Council of Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
         <id>494</id>
@@ -106,11 +108,12 @@
         <end-date>1946-07-13</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended second part of the Second Session of the Council of Foreign             Ministers.</remarks>
+        <remarks>Attended second part of the Second Session of the Council of Foreign
+            Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="byrnes-james-francis" role="secretary">
         <id>495</id>
@@ -122,8 +125,8 @@
         <locale>Paris</locale>
         <remarks>Attended Paris Peace Conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>

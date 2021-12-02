@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="clinton-william-j" role="president">
         <id>2522</id>
@@ -8,11 +8,12 @@
         <end-date>1993-04-04</end-date>
         <country id="canada">Canada</country>
         <locale>Vancouver</locale>
-        <remarks>Summit meeting with Russian President Yeltsin; also met with Prime Minister             Mulroney.</remarks>
+        <remarks>Summit meeting with Russian President Yeltsin; also met with Prime Minister
+            Mulroney.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2523</id>
@@ -22,11 +23,13 @@
         <end-date>1993-07-10</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada,             France, Germany, Italy, Japan, and the United Kingdom. Also met with Russian President             Yeltsin.</remarks>
+        <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada,
+            France, Germany, Italy, Japan, and the United Kingdom. Also met with Russian President
+            Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2524</id>
@@ -36,11 +39,12 @@
         <end-date>1993-07-11</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>Met with President Kim, addressed the Korean National Assembly, and visited U.S.             military personnel.</remarks>
+        <remarks>Met with President Kim, addressed the Korean National Assembly, and visited U.S.
+            military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2525</id>
@@ -52,9 +56,9 @@
         <locale>Brussels</locale>
         <remarks>Attended NATO Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2526</id>
@@ -64,11 +68,12 @@
         <end-date>1994-01-12</end-date>
         <country id="czech-republic">Czech Republic</country>
         <locale>Prague</locale>
-        <remarks>Met with the Presidents and Prime Ministers of the Czech Republic, Hungary, Poland,             and Slovakia.</remarks>
+        <remarks>Met with the Presidents and Prime Ministers of the Czech Republic, Hungary, Poland,
+            and Slovakia.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2527</id>
@@ -80,9 +85,9 @@
         <locale>Kiev</locale>
         <remarks>Met with President Kravchuk.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2528</id>
@@ -92,11 +97,12 @@
         <end-date>1994-01-15</end-date>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
-        <remarks>Met with President Yeltsin and senior Russian officials. Signed nuclear disarmament             agreement with Ukraine.</remarks>
+        <remarks>Met with President Yeltsin and senior Russian officials. Signed nuclear disarmament
+            agreement with Ukraine.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2529</id>
@@ -108,9 +114,9 @@
         <locale>Minsk</locale>
         <remarks>Met with Chairman Shushkevich.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2530</id>
@@ -122,9 +128,9 @@
         <locale>Geneva</locale>
         <remarks>Met with Syrian President Assad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2531</id>
@@ -134,11 +140,12 @@
         <end-date>1994-06-04</end-date>
         <country id="italy">Italy</country>
         <locale>Rome, Nettuno</locale>
-        <remarks>Met with Prime Minister Berlusconi and President Scalfaro. Visited U.S. Military             Cemetery.</remarks>
+        <remarks>Met with Prime Minister Berlusconi and President Scalfaro. Visited U.S. Military
+            Cemetery.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2532</id>
@@ -150,9 +157,9 @@
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2533</id>
@@ -162,11 +169,14 @@
         <end-date>1994-06-05</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Cambridge, London, Portsmouth</locale>
-        <remarks>Visited U.S. Military Cemetery. Met with Prime Minister Major. Attended state             dinner with Queen Elizabeth II and heads of state and government of Canada, Poland, the             Czech Republic, Slovakia, Australia, New Zealand, Norway, and Belgium. Attended D-Day             commemorative ceremonies.</remarks>
+        <remarks>Visited U.S. Military Cemetery. Met with Prime Minister Major. Attended state
+            dinner with Queen Elizabeth II and heads of state and government of Canada, Poland, the
+            Czech Republic, Slovakia, Australia, New Zealand, Norway, and Belgium. Attended D-Day
+            commemorative ceremonies.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2534</id>
@@ -176,11 +186,12 @@
         <end-date>1994-06-08</end-date>
         <country id="france">France</country>
         <locale>Colleville, Paris</locale>
-        <remarks>Attended D-Day memorial ceremonies. Met with President Mitterrand and senior French             officials. Addressed the French National Assembly.</remarks>
+        <remarks>Attended D-Day memorial ceremonies. Met with President Mitterrand and senior French
+            officials. Addressed the French National Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2535</id>
@@ -192,9 +203,9 @@
         <locale>Oxford</locale>
         <remarks>Received honorary degree from Oxford University.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2536</id>
@@ -206,9 +217,9 @@
         <locale>Riga</locale>
         <remarks>Met with the Presidents of the Baltic States.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2537</id>
@@ -218,11 +229,12 @@
         <end-date>1994-07-07</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Addressed the Polish Parliament and attended ceremonies commemorating the Warsaw             Ghetto revolt.</remarks>
+        <remarks>Addressed the Polish Parliament and attended ceremonies commemorating the Warsaw
+            Ghetto revolt.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2538</id>
@@ -232,11 +244,12 @@
         <end-date>1994-07-10</end-date>
         <country id="italy">Italy</country>
         <locale>Naples</locale>
-        <remarks>Met with the Prime Ministers of Italy, Japan, and Canada. Attended G-7 Economic             Summit Meeting and met with President Yeltsin.</remarks>
+        <remarks>Met with the Prime Ministers of Italy, Japan, and Canada. Attended G-7 Economic
+            Summit Meeting and met with President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2539</id>
@@ -246,11 +259,13 @@
         <end-date>1994-07-12</end-date>
         <country id="germany">Germany</country>
         <locale>Bonn, Oggersheim, Berlin</locale>
-        <remarks>Met with Chancellor Kohl and German political leaders. Delivered a public address             at the Brandenburg Gate and attended deactivation ceremony for the Berlin             Brigade.</remarks>
+        <remarks>Met with Chancellor Kohl and German political leaders. Delivered a public address
+            at the Brandenburg Gate and attended deactivation ceremony for the Berlin
+            Brigade.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2540</id>
@@ -262,9 +277,9 @@
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak and PLO Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2541</id>
@@ -274,11 +289,12 @@
         <end-date>1994-10-27</end-date>
         <country id="jordan">Jordan</country>
         <locale>Aqaba, Wadi Arava, Amman</locale>
-        <remarks>Attended signing of the Israel-Jordan peace agreement and addressed the Jordanian             Parliament.</remarks>
+        <remarks>Attended signing of the Israel-Jordan peace agreement and addressed the Jordanian
+            Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2542</id>
@@ -290,9 +306,9 @@
         <locale>Damascus</locale>
         <remarks>Met with President Assad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2543</id>
@@ -304,9 +320,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with senior Israeli officials and addressed the Knesset.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2544</id>
@@ -318,9 +334,9 @@
         <locale>Kuwait City</locale>
         <remarks>Met with the Amir of Kuwait and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2545</id>
@@ -332,9 +348,9 @@
         <locale>King Khalid Military City</locale>
         <remarks>Met with King Fahd.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2546</id>
@@ -346,9 +362,9 @@
         <locale>Manila, Corregidor</locale>
         <remarks>State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2547</id>
@@ -360,9 +376,9 @@
         <locale>Jakarta, Bogor</locale>
         <remarks>Attended APEC Summit Meeting, followed by State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2548</id>
@@ -374,9 +390,9 @@
         <locale>Budapest</locale>
         <remarks>Attended CSCE Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2549</id>
@@ -388,9 +404,9 @@
         <locale>Ottawa</locale>
         <remarks>State visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2550</id>
@@ -402,9 +418,9 @@
         <locale>Port-au-Prince</locale>
         <remarks>Attended transition ceremony for United Nations Mission in Haiti.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2551</id>
@@ -416,9 +432,9 @@
         <locale>Moscow</locale>
         <remarks>Summit meeting. Attended VE Day ceremonies.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2552</id>
@@ -430,9 +446,9 @@
         <locale>Kiev</locale>
         <remarks>State visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2553</id>
@@ -442,11 +458,13 @@
         <end-date>1995-06-17</end-date>
         <country id="canada">Canada</country>
         <locale>Halifax (Nova Scotia)</locale>
-        <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada,             France, Germany, Italy, Japan, and the United Kingdom. Also met with Russian President             Yeltsin.</remarks>
+        <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada,
+            France, Germany, Italy, Japan, and the United Kingdom. Also met with Russian President
+            Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2554</id>
@@ -458,9 +476,9 @@
         <locale>Jerusalem</locale>
         <remarks>Attended the funeral of Prime Minister Rabin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2555</id>
@@ -470,11 +488,12 @@
         <end-date>1995-12-01</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Belfast, Londonderry</locale>
-        <remarks>Met with Queen Elizabeth and Prime Minister Major; addressed Parliament, and             delivered several public addresses in Northern Ireland.</remarks>
+        <remarks>Met with Queen Elizabeth and Prime Minister Major; addressed Parliament, and
+            delivered several public addresses in Northern Ireland.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2556</id>
@@ -486,9 +505,9 @@
         <locale>Dublin</locale>
         <remarks>Met with President Robinson and Prime Minister Bruton.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2557</id>
@@ -500,9 +519,9 @@
         <locale>Baumholder</locale>
         <remarks>Addressed U.S. military personnel and met with Chancellor Kohl.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2558</id>
@@ -514,9 +533,9 @@
         <locale>Madrid</locale>
         <remarks>Attended European Union Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2559</id>
@@ -528,9 +547,9 @@
         <locale>Paris</locale>
         <remarks>Attended the signing of the Bosnian peace treaty.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2560</id>
@@ -542,9 +561,9 @@
         <locale>Aviano</locale>
         <remarks>Met with U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2561</id>
@@ -556,9 +575,9 @@
         <locale>Taszar</locale>
         <remarks>Met with U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2562</id>
@@ -570,9 +589,9 @@
         <locale>Tuzla</locale>
         <remarks>Met with President Izetbegovic and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2563</id>
@@ -584,9 +603,9 @@
         <locale>Zagreb</locale>
         <remarks>Met with President Tudjman.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2564</id>
@@ -598,9 +617,9 @@
         <locale>Sharm el-Sheikh</locale>
         <remarks>Attended the Summit of the Peacemakers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2565</id>
@@ -612,9 +631,9 @@
         <locale>Jerusalem, Tel Aviv</locale>
         <remarks>Discussed cooperation against terrorism with senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2566</id>
@@ -626,9 +645,9 @@
         <locale>Cheju Island</locale>
         <remarks>Met with President Kim and proposed four-nation peace talks.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2567</id>
@@ -638,11 +657,12 @@
         <end-date>1996-04-18</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>State visit. Issued joint statement on U.S.-Japanese security relations. Addressed             the Diet and U.S. Navy personnel.</remarks>
+        <remarks>State visit. Issued joint statement on U.S.-Japanese security relations. Addressed
+            the Diet and U.S. Navy personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2568</id>
@@ -652,11 +672,12 @@
         <end-date>1996-04-21</end-date>
         <country id="russia">Russia</country>
         <locale>St. Petersburg, Moscow</locale>
-        <remarks>Attended G-7 summit on nuclear safety and held a summit meeting with President             Yeltsin.</remarks>
+        <remarks>Attended G-7 summit on nuclear safety and held a summit meeting with President
+            Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2569</id>
@@ -666,11 +687,12 @@
         <end-date>1996-06-29</end-date>
         <country id="france">France</country>
         <locale>Lyon, Perouges, Paris</locale>
-        <remarks>Attended the G-7 Economic Summit Meeting and met with Russian Prime Minister             Chernomyrdin and UN Secretary-General Boutrous-Ghali.</remarks>
+        <remarks>Attended the G-7 Economic Summit Meeting and met with Russian Prime Minister
+            Chernomyrdin and UN Secretary-General Boutrous-Ghali.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2570</id>
@@ -680,11 +702,12 @@
         <end-date>1996-11-23</end-date>
         <country id="australia">Australia</country>
         <locale>Sydney, Canberra, Port Douglas</locale>
-        <remarks>State Visit. Addressed joint meeting of Parliament and visited the Great Barrier             Reef.</remarks>
+        <remarks>State Visit. Addressed joint meeting of Parliament and visited the Great Barrier
+            Reef.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2571</id>
@@ -696,9 +719,9 @@
         <locale>Manila, Subic Bay</locale>
         <remarks>Attended APEC Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2572</id>
@@ -710,9 +733,9 @@
         <locale>Bangkok</locale>
         <remarks>State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2573</id>
@@ -722,11 +745,12 @@
         <end-date>1997-03-21</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Summit meeting with Russian President Yeltsin. Also met with President             Ahtisaari.</remarks>
+        <remarks>Summit meeting with Russian President Yeltsin. Also met with President
+            Ahtisaari.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2574</id>
@@ -738,9 +762,9 @@
         <locale>Mexico, D.F., Tlaxcala</locale>
         <remarks>State Visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2575</id>
@@ -750,11 +774,12 @@
         <end-date>1997-05-09</end-date>
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
-        <remarks>Attended a Summit Meeting of Presidents of the Central American             Republics.</remarks>
+        <remarks>Attended a Summit Meeting of Presidents of the Central American
+            Republics.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2576</id>
@@ -766,9 +791,9 @@
         <locale>Bridgetown</locale>
         <remarks>Attended a U.S.-Caribbean Community summit meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2577</id>
@@ -780,9 +805,9 @@
         <locale>Paris</locale>
         <remarks>Attended the signing of the NATO-Russia Founding Act.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2578</id>
@@ -792,11 +817,12 @@
         <end-date>1997-05-28</end-date>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague, Rotterdam</locale>
-        <remarks>Attended U.S.-EU Summit Meeting and commemorated the 50th anniversary of the             Marshall Plan.</remarks>
+        <remarks>Attended U.S.-EU Summit Meeting and commemorated the 50th anniversary of the
+            Marshall Plan.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2579</id>
@@ -808,9 +834,9 @@
         <locale>London</locale>
         <remarks>Met with Prime Minister Blair and attended a Cabinet meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2580</id>
@@ -820,11 +846,12 @@
         <end-date>1997-07-10</end-date>
         <country id="spain">Spain</country>
         <locale>Palma de Majorca, Madrid, Granada</locale>
-        <remarks>Vacationed with King Juan Carlos I and Queen Sophia and attended a NATO Summit             Meeting in Madrid.</remarks>
+        <remarks>Vacationed with King Juan Carlos I and Queen Sophia and attended a NATO Summit
+            Meeting in Madrid.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2581</id>
@@ -836,9 +863,9 @@
         <locale>Warsaw</locale>
         <remarks>Met with President Kwasniewski and former President Walesa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2582</id>
@@ -850,9 +877,9 @@
         <locale>Bucharest</locale>
         <remarks>Met with President Constantinescu and Romanian political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2583</id>
@@ -864,9 +891,9 @@
         <locale>Copenhagen</locale>
         <remarks>Met with Queen Margrethe II and Prime Minister Rasmussen.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2584</id>
@@ -878,9 +905,9 @@
         <locale>Caracas</locale>
         <remarks>Met with President Caldera.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2585</id>
@@ -892,9 +919,9 @@
         <locale>Brasilia, Sao Paulo, Rio de Janeiro</locale>
         <remarks>Met with President Cardosa; delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2586</id>
@@ -906,9 +933,9 @@
         <locale>Buenos Aires, San Carlos de Bariloche</locale>
         <remarks>Met with President Menem; delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2587</id>
@@ -920,9 +947,9 @@
         <locale>Vancouver</locale>
         <remarks>Attended APEC Economic Summit meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2588</id>
@@ -934,9 +961,9 @@
         <locale>Aviano</locale>
         <remarks>Stopped en route to and from Bosnia-Herzegovina.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2589</id>
@@ -946,11 +973,12 @@
         <end-date>1997-12-22</end-date>
         <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
         <locale>Sarajevo, Tuzla</locale>
-        <remarks>Met with the Bosnian Collective Presidency and with Bosnian Serb President Plavsic;             visited U.S. military personnel.</remarks>
+        <remarks>Met with the Bosnian Collective Presidency and with Bosnian Serb President Plavsic;
+            visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2590</id>
@@ -962,9 +990,9 @@
         <locale>Accra</locale>
         <remarks>Met with President Rawlings; visited a Peace Corps project.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2591</id>
@@ -974,11 +1002,12 @@
         <end-date>1998-03-25</end-date>
         <country id="uganda">Uganda</country>
         <locale>Kampala, Kisowera, Mukono, Wanyange, Entebbe</locale>
-        <remarks>Met with President Museveni and with the Presidents of Ethiopia, Rwanda, Tanzania,             Kenya, and the Congo.</remarks>
+        <remarks>Met with President Museveni and with the Presidents of Ethiopia, Rwanda, Tanzania,
+            Kenya, and the Congo.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2592</id>
@@ -990,9 +1019,9 @@
         <locale>Kigali</locale>
         <remarks>Met with President Bizimungu; delivered a public address.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2593</id>
@@ -1004,9 +1033,9 @@
         <locale>Cape Town, Johannesburg</locale>
         <remarks>Met with President Mandela; addressed joint session of Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2594</id>
@@ -1018,9 +1047,9 @@
         <locale>Gaborone, Kasame</locale>
         <remarks>Met with President Masire; visited Chobe National Park.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2595</id>
@@ -1030,11 +1059,12 @@
         <end-date>1998-04-02</end-date>
         <country id="senegal">Senegal</country>
         <locale>Dakar, Thies, Goree Island</locale>
-        <remarks>Met with President Diouf; visited Senegalese peacekeeping troops; delivered several             public addresses.</remarks>
+        <remarks>Met with President Diouf; visited Senegalese peacekeeping troops; delivered several
+            public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2596</id>
@@ -1046,9 +1076,9 @@
         <locale>Santiago</locale>
         <remarks>State visit; attended the Second Summit of the Americas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2597</id>
@@ -1058,11 +1088,12 @@
         <end-date>1998-05-14</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin, Potsdam, Frankfurt, Eisenach</locale>
-        <remarks>Met with Chancellor Kohl; commemorated 50th anniversary of the Berlin             Airlift.</remarks>
+        <remarks>Met with Chancellor Kohl; commemorated 50th anniversary of the Berlin
+            Airlift.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2598</id>
@@ -1074,9 +1105,9 @@
         <locale>Birmingham, Weston-Under-Lizard, London</locale>
         <remarks>Attended G-8 Economic Summit and U.S.-EU Summit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2599</id>
@@ -1088,9 +1119,9 @@
         <locale>Geneva</locale>
         <remarks>Attended WTO meeting commemorating the 50th anniversary of GATT.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2600</id>
@@ -1102,9 +1133,9 @@
         <locale>Xian, Beijing, Shanghai, Guilin, Hong Kong</locale>
         <remarks>State visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2601</id>
@@ -1116,9 +1147,9 @@
         <locale>Moscow</locale>
         <remarks>Summit meeting with President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2602</id>
@@ -1128,11 +1159,12 @@
         <end-date>1998-09-03</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Belfast, Armagh, Omagh</locale>
-        <remarks>Met with Prime Minister Blair and Northern Irish political leaders; addressed the             Northern Ireland Assembly.</remarks>
+        <remarks>Met with Prime Minister Blair and Northern Irish political leaders; addressed the
+            Northern Ireland Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2603</id>
@@ -1142,11 +1174,12 @@
         <end-date>1998-09-05</end-date>
         <country id="ireland">Ireland</country>
         <locale>Dublin, Adare, Limerick, Ballybunion</locale>
-        <remarks>Met with Prime Minister Ahern; delivered several public addresses; played             golf.</remarks>
+        <remarks>Met with Prime Minister Ahern; delivered several public addresses; played
+            golf.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2604</id>
@@ -1156,11 +1189,12 @@
         <end-date>1998-11-20</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with Emperor Akihito and Prime Minister Obuchi; addressed American Chamber of             Commerce.</remarks>
+        <remarks>Met with Emperor Akihito and Prime Minister Obuchi; addressed American Chamber of
+            Commerce.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2605</id>
@@ -1172,9 +1206,9 @@
         <locale>Seoul, Osan</locale>
         <remarks>Met with President Kim Dae Jung; addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2606</id>
@@ -1186,9 +1220,9 @@
         <locale>Jerusalem, Masada</locale>
         <remarks>Met with Prime Minister Netanyahu and senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2607</id>
@@ -1198,11 +1232,12 @@
         <end-date>1998-12-15</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Gaza, Bethlehem, Erez</locale>
-        <remarks>Addressed Palestine National Council; attended a meeting with Prime Minister             Netanyahu and Chairman Arafat at Erez.</remarks>
+        <remarks>Addressed Palestine National Council; attended a meeting with Prime Minister
+            Netanyahu and Chairman Arafat at Erez.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2608</id>
@@ -1214,9 +1249,9 @@
         <locale>Amman</locale>
         <remarks>Attended the funeral of King Hussein.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2609</id>
@@ -1228,9 +1263,9 @@
         <locale>Merida</locale>
         <remarks>State visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2610</id>
@@ -1242,9 +1277,9 @@
         <locale>Managua, Posoltega, El Porvenir</locale>
         <remarks>Discussed reconstruction aid with President Aleman.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2611</id>
@@ -1254,11 +1289,12 @@
         <end-date>1999-03-09</end-date>
         <country id="honduras">Honduras</country>
         <locale>Soto Cano Air Base, Tegucigalpa</locale>
-        <remarks>Discussed reconstruction aid with President Flores; addressed U.S. military             personnel.</remarks>
+        <remarks>Discussed reconstruction aid with President Flores; addressed U.S. military
+            personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2612</id>
@@ -1270,9 +1306,9 @@
         <locale>San Salvador</locale>
         <remarks>Addressed Legislative Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2613</id>
@@ -1284,9 +1320,9 @@
         <locale>Guatemala City, Antigua</locale>
         <remarks>Attended Central American Summit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2614</id>
@@ -1298,9 +1334,9 @@
         <locale>Brussels</locale>
         <remarks>Discussed the Kosovo conflict with NATO officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2615</id>
@@ -1309,12 +1345,14 @@
         <start-date>1999-05-04</start-date>
         <end-date>1999-05-06</end-date>
         <country id="germany">Germany</country>
-        <locale>Frankfurt, Ramstein Air Force Base, Spangdahlem Air Force Base, Bonn, Ingelheim</locale>
-        <remarks>Addressed U.S. military personnel; met with Chancellor Schroeder; met with Kosovo             refugees.</remarks>
+        <locale>Frankfurt, Ramstein Air Force Base, Spangdahlem Air Force Base, Bonn,
+            Ingelheim</locale>
+        <remarks>Addressed U.S. military personnel; met with Chancellor Schroeder; met with Kosovo
+            refugees.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2616</id>
@@ -1326,9 +1364,9 @@
         <locale>Geneva</locale>
         <remarks>Addressed ILO Conference; met with President Dreifuss.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2617</id>
@@ -1338,11 +1376,12 @@
         <end-date>1999-06-17</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Discussed peacekeeping in Kosovo with President Chirac and Prime Minister             Jospin.</remarks>
+        <remarks>Discussed peacekeeping in Kosovo with President Chirac and Prime Minister
+            Jospin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2618</id>
@@ -1354,9 +1393,9 @@
         <locale>Cologne, Bonn</locale>
         <remarks>Attended G-8 Economic Summit meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2619</id>
@@ -1366,11 +1405,12 @@
         <end-date>1999-06-22</end-date>
         <country id="slovenia">Slovenia</country>
         <locale>Ljubljana</locale>
-        <remarks>Met with President Kucan, Prime Minister Drnovsek, and President Djukanovic of             Montenegro.</remarks>
+        <remarks>Met with President Kucan, Prime Minister Drnovsek, and President Djukanovic of
+            Montenegro.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2620</id>
@@ -1380,11 +1420,12 @@
         <end-date>1999-06-22</end-date>
         <country id="macedonia">Macedonia, Former Yugoslav Republic of</country>
         <locale>Skopje</locale>
-        <remarks>Met with President Gligorov; addressed Kosovar refugees and NATO military             personnel.</remarks>
+        <remarks>Met with President Gligorov; addressed Kosovar refugees and NATO military
+            personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2621</id>
@@ -1396,9 +1437,9 @@
         <locale>Aviano</locale>
         <remarks>Addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2622</id>
@@ -1408,11 +1449,12 @@
         <end-date>1999-07-25</end-date>
         <country id="morocco">Morocco</country>
         <locale>Rabat</locale>
-        <remarks>Attended the funeral of King Hassan II; met with Palestinian Authority President             Arafat and Israeli Prime Minister Barak.</remarks>
+        <remarks>Attended the funeral of King Hassan II; met with Palestinian Authority President
+            Arafat and Israeli Prime Minister Barak.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2623</id>
@@ -1424,9 +1466,9 @@
         <locale>Aviano</locale>
         <remarks>Stopped en route to Sarajevo.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2624</id>
@@ -1438,9 +1480,9 @@
         <locale>Sarajevo</locale>
         <remarks>Attended Stability Pact Leaders Conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2625</id>
@@ -1452,9 +1494,9 @@
         <locale>Auckland, Queenstown, Christchurch</locale>
         <remarks>Attended Asia-Pacific Economic Cooperation Leaders meeting; State visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2626</id>
@@ -1464,11 +1506,13 @@
         <end-date>1999-10-08</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa, Mont Tremblant</locale>
-        <remarks>Working visit. Met with Prime Minister Chretien and Quebec Premier Bouchard,             attended Federalism Conference at Mont Tremblant, and dedicated new Embassy             building.</remarks>
+        <remarks>Working visit. Met with Prime Minister Chretien and Quebec Premier Bouchard,
+            attended Federalism Conference at Mont Tremblant, and dedicated new Embassy
+            building.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2627</id>
@@ -1478,11 +1522,12 @@
         <end-date>1999-11-02</end-date>
         <country id="norway">Norway</country>
         <locale>Oslo</locale>
-        <remarks>State visit. Attended commemorative ceremony for former Israeli Prime Minister             Rabin; discussed Chechnya crisis with Russian Prime Minister Putin.</remarks>
+        <remarks>State visit. Attended commemorative ceremony for former Israeli Prime Minister
+            Rabin; discussed Chechnya crisis with Russian Prime Minister Putin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2628</id>
@@ -1492,11 +1537,12 @@
         <end-date>1999-11-19</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Izmit, Ephesus, Istanbul</locale>
-        <remarks>State visit and attended Organization for Security and Cooperation in Europe Summit             meeting in Istanbul.</remarks>
+        <remarks>State visit and attended Organization for Security and Cooperation in Europe Summit
+            meeting in Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2629</id>
@@ -1508,9 +1554,9 @@
         <locale>Athens</locale>
         <remarks>State visit. Met with Prime Minister Simitis.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2630</id>
@@ -1522,9 +1568,9 @@
         <locale>Florence</locale>
         <remarks>Attended conference on Progressive Governance for the 21st Century.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2631</id>
@@ -1536,9 +1582,9 @@
         <locale>Sofia</locale>
         <remarks>Met with President Stoyanov and Prime Minister Kostov.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2632</id>
@@ -1548,11 +1594,12 @@
         <end-date>1999-11-23</end-date>
         <country id="kosovo">Serbia-Montenegro (Kosovo)</country>
         <locale>Pristina, Urosevac, Camp Bondsteel</locale>
-        <remarks>Met with Kosovar Transisional Council; addressed the Albanian community and U.S.             military personnel.</remarks>
+        <remarks>Met with Kosovar Transisional Council; addressed the Albanian community and U.S.
+            military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2633</id>
@@ -1564,9 +1611,9 @@
         <locale>Davos</locale>
         <remarks>Addressed the World Economic Forum.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2634</id>
@@ -1578,9 +1625,9 @@
         <locale>Aviano Air Base</locale>
         <remarks>Stopped en route to India.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2635</id>
@@ -1590,11 +1637,12 @@
         <end-date>2000-03-25</end-date>
         <country id="india">India</country>
         <locale>New Delhi, Agra, Jaipur, Hyderabad, Bombay</locale>
-        <remarks>Met with President Narayanan; signed Joint Statement on Energy and the Environment;             addressed the Indian Parliament.</remarks>
+        <remarks>Met with President Narayanan; signed Joint Statement on Energy and the Environment;
+            addressed the Indian Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2636</id>
@@ -1606,9 +1654,9 @@
         <locale>Dhaka</locale>
         <remarks>Met with President Ahmad and Prime Minister Hasina.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2637</id>
@@ -1620,9 +1668,9 @@
         <locale>Islamabad</locale>
         <remarks>Met with President Tarar and General Musharraf; delivered radio address.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2638</id>
@@ -1634,9 +1682,9 @@
         <locale>Muscat</locale>
         <remarks>Met with Sultan Qaboos bin Said en route from Pakistan to Switzerland.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2639</id>
@@ -1648,9 +1696,9 @@
         <locale>Geneva</locale>
         <remarks>Met with President Assad of Syria.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2640</id>
@@ -1660,11 +1708,12 @@
         <end-date>2000-06-01</end-date>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
-        <remarks>Attended U.S.-European Union Summit Meeting; met with Israeli Prime Minister             Barak.</remarks>
+        <remarks>Attended U.S.-European Union Summit Meeting; met with Israeli Prime Minister
+            Barak.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2641</id>
@@ -1674,11 +1723,12 @@
         <end-date>2000-06-03</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin, Aachen</locale>
-        <remarks>Met with President Rau and Chancellor Schroeder; received Charlemagne Prize, and             attended a Third Way Conference.</remarks>
+        <remarks>Met with President Rau and Chancellor Schroeder; received Charlemagne Prize, and
+            attended a Third Way Conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2642</id>
@@ -1690,9 +1740,9 @@
         <locale>Moscow</locale>
         <remarks>Summit meeting with President Putin; addressed the Duma.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2643</id>
@@ -1704,9 +1754,9 @@
         <locale>Kiev</locale>
         <remarks>Met with President Kuchma.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2644</id>
@@ -1718,9 +1768,9 @@
         <locale>Tokyo</locale>
         <remarks>Attended the funeral of former Prime Minister Obuchi.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2645</id>
@@ -1732,9 +1782,9 @@
         <locale>Nago (Okinawa)</locale>
         <remarks>Attended the G-8 Economic Summit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2646</id>
@@ -1746,9 +1796,9 @@
         <locale>Abuja, Ushafa</locale>
         <remarks>Met with President Obasanjo and addressed the National Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2647</id>
@@ -1758,11 +1808,12 @@
         <end-date>2000-08-29</end-date>
         <country id="tanzania">Tanzania</country>
         <locale>Arusha</locale>
-        <remarks>Met with former South African President Mandela to promote a peace agreement for             Burundi; also met with President Mkapa.</remarks>
+        <remarks>Met with former South African President Mandela to promote a peace agreement for
+            Burundi; also met with President Mkapa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-08-21T00:00:00-04:00</last-modified-datetime>
+        <last-modified-datetime>2013-08-21</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2648</id>
@@ -1774,9 +1825,9 @@
         <locale>Cairo</locale>
         <remarks>Briefed President Mubarak on the Middle East Peace Process.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2649</id>
@@ -1788,9 +1839,9 @@
         <locale>Cartagena</locale>
         <remarks>Met with President Pastrana.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2650</id>
@@ -1802,9 +1853,9 @@
         <locale>Sharm el-Sheikh</locale>
         <remarks>Attended Israeli-Palestinian Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2651</id>
@@ -1816,9 +1867,9 @@
         <locale>Bandar Seri Begawan</locale>
         <remarks>Attended APEC Leaders' Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2652</id>
@@ -1830,9 +1881,9 @@
         <locale>Hanoi, Tien Chau, Ho Chi Minh City</locale>
         <remarks>Met with President Tran and delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2653</id>
@@ -1844,9 +1895,9 @@
         <locale>Dublin, Dundalk</locale>
         <remarks>Met with Prime Minister Ahern and delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
     <trip who="clinton-william-j" role="president">
         <id>2654</id>
@@ -1856,10 +1907,11 @@
         <end-date>2000-12-14</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Belfast, London, Coventry</locale>
-        <remarks>Met with Prime Minister Blair and Northern Irish political leaders in Belfast, met             with Queen Elizabeth II, and made a speech at the University of Warwick.</remarks>
+        <remarks>Met with Prime Minister Blair and Northern Irish political leaders in Belfast, met
+            with Queen Elizabeth II, and made a speech at the University of Warwick.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
     </trip>
 </trips>
