@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="rice-condoleezza" role="secretary">
         <id>1445</id>
@@ -10,9 +10,9 @@
         <locale>London</locale>
         <remarks>Met with Prime Minister Blair and Foreign Secretary Straw.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1446</id>
@@ -24,9 +24,9 @@
         <locale>Berlin</locale>
         <remarks>Met with Chancellor Schroeder.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1447</id>
@@ -38,9 +38,9 @@
         <locale>Warsaw</locale>
         <remarks>Met with Prime Minister Belka and Foreign Minister Rotfeld.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1448</id>
@@ -52,9 +52,9 @@
         <locale>Ankara</locale>
         <remarks>Met with Foreign Minister Gul and Russian Foreign Minister Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1449</id>
@@ -66,9 +66,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Sharon and Foreign Minister Shalom.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1450</id>
@@ -80,9 +80,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with Prime Minister Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1451</id>
@@ -94,9 +94,9 @@
         <locale>Rome</locale>
         <remarks>Met with Foreign Minister Fini.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1452</id>
@@ -108,9 +108,9 @@
         <locale/>
         <remarks>Met with Cardinal Sodano.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1453</id>
@@ -120,12 +120,11 @@
         <end-date>2005-02-09</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President Chirac and Foreign Minister Barnier; addressed the Institute of
-            Political Sciences.</remarks>
+        <remarks>Met with President Chirac and Foreign Minister Barnier; addressed the Institute of             Political Sciences.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1454</id>
@@ -137,9 +136,9 @@
         <locale>Brussels</locale>
         <remarks>Attended a NATO Foreign Ministers’ Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1455</id>
@@ -151,9 +150,9 @@
         <locale>Luxembourg</locale>
         <remarks>Met with senior EU officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1456</id>
@@ -165,9 +164,9 @@
         <locale>Brussels</locale>
         <remarks>Accompanied President Bush to the NATO and EU Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1457</id>
@@ -179,9 +178,9 @@
         <locale>Mainz, Wiesbaden</locale>
         <remarks>Accompanied President Bush to meeting with Chancellor Schroeder.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1458</id>
@@ -193,9 +192,9 @@
         <locale>Bratislava</locale>
         <remarks>Accompanied President Bush to meeting with Russian President Putin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1459</id>
@@ -207,9 +206,9 @@
         <locale>London</locale>
         <remarks>Attended the London Meeting on Supporting the Palestinian Authority.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1460</id>
@@ -221,9 +220,9 @@
         <locale>Mexico City</locale>
         <remarks>Met with senior Mexican officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1461</id>
@@ -235,9 +234,9 @@
         <locale>New Delhi</locale>
         <remarks>Met with Foreign Minister Singh and senior Indian officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1462</id>
@@ -249,9 +248,9 @@
         <locale>Islamabad</locale>
         <remarks>Met with President Musharraf and senior Pakistani officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1463</id>
@@ -261,12 +260,11 @@
         <end-date>2005-03-17</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
-        <remarks>Met with President Karzai and Afghan political leaders; addressed U.S. military
-            personnel.</remarks>
+        <remarks>Met with President Karzai and Afghan political leaders; addressed U.S. military             personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1464</id>
@@ -278,9 +276,9 @@
         <locale>Tokyo</locale>
         <remarks>Met with Foreign Minister Machimura and senior Japanese officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1465</id>
@@ -292,9 +290,9 @@
         <locale>Seoul</locale>
         <remarks>Met with Foreign Minister Ban and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1466</id>
@@ -306,9 +304,9 @@
         <locale>Beijing</locale>
         <remarks>Met with President Hu, Premier Wen, and senior Chinese officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1467</id>
@@ -320,9 +318,9 @@
         <locale/>
         <remarks>Attended the funeral of Pope John Paul II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1468</id>
@@ -332,12 +330,11 @@
         <end-date>2005-04-20</end-date>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
-        <remarks>Met with President Putin, Prime Minister Lavrov, and senior Russian
-            officials.</remarks>
+        <remarks>Met with President Putin, Prime Minister Lavrov, and senior Russian             officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1469</id>
@@ -347,12 +344,11 @@
         <end-date>2005-04-21</end-date>
         <country id="lithuania">Lithuania</country>
         <locale>Vilnius</locale>
-        <remarks>Attended a NATO Foreign Ministers’ Meeting and meetings of the NATO-Russia Council
-            and the NATO-Ukraine Commission.</remarks>
+        <remarks>Attended a NATO Foreign Ministers’ Meeting and meetings of the NATO-Russia Council             and the NATO-Ukraine Commission.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1470</id>
@@ -364,9 +360,9 @@
         <locale>Brasilia</locale>
         <remarks>Met with President da Silva and Foreign Minister Amorim.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1471</id>
@@ -378,9 +374,9 @@
         <locale>Bogota</locale>
         <remarks>Met with President Uribe and Foreign Minister Barco.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1472</id>
@@ -392,9 +388,9 @@
         <locale>Santiago</locale>
         <remarks>Attended the Communities of Democracies Ministerial Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1473</id>
@@ -406,9 +402,9 @@
         <locale>San Salvador</locale>
         <remarks>Met with President Saca.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1474</id>
@@ -418,12 +414,11 @@
         <end-date>2005-05-07</end-date>
         <country id="latvia">Latvia</country>
         <locale>Riga</locale>
-        <remarks>Accompanied President Bush to meetings with the presidents of the Baltic
-            States.</remarks>
+        <remarks>Accompanied President Bush to meetings with the presidents of the Baltic             States.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1475</id>
@@ -435,9 +430,9 @@
         <locale>Maastricht, Margraten</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1476</id>
@@ -449,9 +444,9 @@
         <locale>Moscow</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1477</id>
@@ -463,9 +458,9 @@
         <locale>Tblisi</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1478</id>
@@ -477,9 +472,9 @@
         <locale>Camp Doha</locale>
         <remarks>Stopped en route to Iraq.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1479</id>
@@ -491,9 +486,9 @@
         <locale>Irbil, Baghdad</locale>
         <remarks>Met with Kurdish political leaders, and with U.S. and Iraqi officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1480</id>
@@ -505,9 +500,9 @@
         <locale>Shannon</locale>
         <remarks>Stopped while en route to the Middle East.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1481</id>
@@ -519,9 +514,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Sharon and senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1482</id>
@@ -533,9 +528,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with Prime Minister Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1483</id>
@@ -547,9 +542,9 @@
         <locale>Amman</locale>
         <remarks>Met with Foreign Minister Qasrawi.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1484</id>
@@ -559,12 +554,11 @@
         <end-date>2005-06-20</end-date>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh, Cairo</locale>
-        <remarks>Met with President Mubarak, Foreign Minister Aboul Ghait, and political leaders;
-            gave a speech at the American University in Cairo.</remarks>
+        <remarks>Met with President Mubarak, Foreign Minister Aboul Ghait, and political leaders;             gave a speech at the American University in Cairo.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1485</id>
@@ -576,9 +570,9 @@
         <locale>Riyadh</locale>
         <remarks>Met with Crown Prince Abdullah and senior Saudi officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1486</id>
@@ -590,9 +584,9 @@
         <locale>Brussels</locale>
         <remarks>Attended the International Conference on Iraq.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1487</id>
@@ -604,9 +598,9 @@
         <locale>London</locale>
         <remarks>Attended a meeting of G-8 Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1488</id>
@@ -618,9 +612,9 @@
         <locale>Beijing</locale>
         <remarks>Met with President Hu, Foreign Minister Li and senior Chinese officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1489</id>
@@ -630,12 +624,11 @@
         <end-date>2005-07-11</end-date>
         <country id="thailand">Thailand</country>
         <locale>Phuket, Ban Bang Sak</locale>
-        <remarks>Met with Foreign Minister Suphamongkhon and Deputy Prime Minister Sathirathai and
-            assessed tsunami relief aid.</remarks>
+        <remarks>Met with Foreign Minister Suphamongkhon and Deputy Prime Minister Sathirathai and             assessed tsunami relief aid.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1490</id>
@@ -647,9 +640,9 @@
         <locale>Tokyo</locale>
         <remarks>Met with Foreign Minister Machimura.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1491</id>
@@ -661,9 +654,9 @@
         <locale>Seoul</locale>
         <remarks>Met with Foreign Minister Ban Ki Moon.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1492</id>
@@ -673,12 +666,11 @@
         <end-date>2005-07-20</end-date>
         <country id="senegal">Senegal</country>
         <locale>Dakar</locale>
-        <remarks>Attended the U.S.-Sub-Saharan Africa Trade and Economic Cooperation
-            Forum.</remarks>
+        <remarks>Attended the U.S.-Sub-Saharan Africa Trade and Economic Cooperation             Forum.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1493</id>
@@ -690,9 +682,9 @@
         <locale>Khartoum, El Fasher</locale>
         <remarks>Met with President al-Bashir and visited a refugee camp in Darfur.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1494</id>
@@ -704,9 +696,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Sharon and senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1495</id>
@@ -716,12 +708,11 @@
         <end-date>2005-07-22</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
-        <remarks>Met with Prime Minister Seniora and Lebanese political leaders.&#160; Laid a wreath
-            on the grave of former Prime Minister Hariri.</remarks>
+        <remarks>Met with Prime Minister Seniora and Lebanese political leaders.  Laid a wreath             on the grave of former Prime Minister Hariri.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1496</id>
@@ -733,9 +724,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with Prime Minister Abbas and Palestinian officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1497</id>
@@ -747,9 +738,9 @@
         <locale>Port-au-Prince</locale>
         <remarks>Met with Interim President Alexandre and Interim Prime Minister Latortue.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1498</id>
@@ -761,9 +752,9 @@
         <locale>Shannon</locale>
         <remarks>Stopped en route to Central Asia.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1499</id>
@@ -773,12 +764,11 @@
         <end-date>2005-10-12</end-date>
         <country id="kyrgyzstan">Kyrgyzstan</country>
         <locale>Bishkek</locale>
-        <remarks>Met with President Bakiyev, addressed coalition military personnel, signed
-            agreement concerning access to the Manas airfield.</remarks>
+        <remarks>Met with President Bakiyev, addressed coalition military personnel, signed             agreement concerning access to the Manas airfield.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1500</id>
@@ -790,9 +780,9 @@
         <locale>Kabul</locale>
         <remarks>Met with President Karzai.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1501</id>
@@ -802,12 +792,11 @@
         <end-date>2005-10-12</end-date>
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad</locale>
-        <remarks>Met with President Musharraf and Prime Minister Aziz.&#160; Discussed disaster
-            relief.</remarks>
+        <remarks>Met with President Musharraf and Prime Minister Aziz.  Discussed disaster             relief.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1502</id>
@@ -817,12 +806,11 @@
         <end-date>2005-10-13</end-date>
         <country id="kazakhstan">Kazakhstan</country>
         <locale>Astana</locale>
-        <remarks>Met with President Nazarbayev and made a speech at Eurasian National
-            University.</remarks>
+        <remarks>Met with President Nazarbayev and made a speech at Eurasian National             University.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1503</id>
@@ -834,9 +822,9 @@
         <locale>Dushanbe</locale>
         <remarks>Met with President Rakhmanov.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1504</id>
@@ -848,9 +836,9 @@
         <locale>Paris</locale>
         <remarks>Met with President Chirac and Foreign Minister Douste-Blazy.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1505</id>
@@ -862,9 +850,9 @@
         <locale>Moscow</locale>
         <remarks>Met with President Putin and Foreign Minister Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1506</id>
@@ -876,9 +864,9 @@
         <locale>London</locale>
         <remarks>Met with Prime Minister Blair and Foreign Secretary Straw.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1507</id>
@@ -890,9 +878,9 @@
         <locale>Ottawa</locale>
         <remarks>Met with Prime Minister Martin and Foreign Minister Pettegrew.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1508</id>
@@ -904,9 +892,9 @@
         <locale>Mar del Plata</locale>
         <remarks>Accompanied President Bush to the Summit of the Americas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1509</id>
@@ -918,9 +906,9 @@
         <locale>Brasilia</locale>
         <remarks>Accompanied President Bush to a meeting with President Lula da Silva.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1510</id>
@@ -932,9 +920,9 @@
         <locale>Mosul, Baghdad</locale>
         <remarks>Met with Prime Minster Jafari and with Iraqi political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1511</id>
@@ -946,9 +934,9 @@
         <locale>Manama</locale>
         <remarks>Attended the Forum for the Future.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1512</id>
@@ -958,12 +946,11 @@
         <end-date>2005-11-13</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Attended a Strategic Dialogue meeting and met with Foreign Minister Prince
-            Saud.</remarks>
+        <remarks>Attended a Strategic Dialogue meeting and met with Foreign Minister Prince             Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1513</id>
@@ -973,13 +960,11 @@
         <end-date>2005-11-15</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Attended the Saban Forum meeting and a memorial service for the late Prime Minister
-            Rabin; took part in negotiating a border crossing agreement with the Palestinian
-            Authority.</remarks>
+        <remarks>Attended the Saban Forum meeting and a memorial service for the late Prime Minister             Rabin; took part in negotiating a border crossing agreement with the Palestinian             Authority.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1514</id>
@@ -991,9 +976,9 @@
         <locale>Amman</locale>
         <remarks>Met with King Abdullah II and visited the site of a terrorist bombing.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1515</id>
@@ -1003,12 +988,11 @@
         <end-date>2005-11-14</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Ramallah</locale>
-        <remarks>Met with President Abbas and negotiated a border crossing agreement with
-            Israel.</remarks>
+        <remarks>Met with President Abbas and negotiated a border crossing agreement with             Israel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1516</id>
@@ -1020,9 +1004,9 @@
         <locale>Pusan</locale>
         <remarks>Attended APEC Ministerial and Summit meetings.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1517</id>
@@ -1034,9 +1018,9 @@
         <locale>Beijing</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1518</id>
@@ -1048,9 +1032,9 @@
         <locale>Ulaanbaatar</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1519</id>
@@ -1062,9 +1046,9 @@
         <locale>Berlin</locale>
         <remarks>Met with Chancellor Merkel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1520</id>
@@ -1076,9 +1060,9 @@
         <locale>Bucharest</locale>
         <remarks>Met with President Basescu and signed a military base access agreement.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1521</id>
@@ -1088,12 +1072,11 @@
         <end-date>2005-12-07</end-date>
         <country id="ukraine">Ukraine</country>
         <locale>Kiev</locale>
-        <remarks>Met with President Yushchenko and addressed students at Shevchenko
-            University.</remarks>
+        <remarks>Met with President Yushchenko and addressed students at Shevchenko             University.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1522</id>
@@ -1103,12 +1086,11 @@
         <end-date>2005-12-09</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting and meetings of the European-Atlantic Council and
-            the NATO-Ukraine Commission.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and meetings of the European-Atlantic Council and             the NATO-Ukraine Commission.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1523</id>
@@ -1120,9 +1102,23 @@
         <locale>Monrovia</locale>
         <remarks>Attended the inauguration of President Johnson-Sirleaf.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="rice-condoleezza" role="secretary">
+        <id>1588</id>
+        <role>secretary</role>
+        <name>Condoleezza Rice</name>
+        <start-date>2006-01-24</start-date>
+        <end-date>2006-01-25</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Headed the U.S. delegation to the International Conference for Support to             Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1524</id>
@@ -1132,12 +1128,11 @@
         <end-date>2006-02-01</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Attended a Middle East Quartet Foreign Ministers’ meeting and the London Conference
-            on Afghanistan.</remarks>
+        <remarks>Attended a Middle East Quartet Foreign Ministers’ meeting and the London Conference             on Afghanistan.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1525</id>
@@ -1147,12 +1142,11 @@
         <end-date>2006-02-22</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with Foreign Minister Aboul Gheit, President Mubarak and Egyptian
-            dissidents.</remarks>
+        <remarks>Met with Foreign Minister Aboul Gheit, President Mubarak and Egyptian             dissidents.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1526</id>
@@ -1164,9 +1158,9 @@
         <locale>Riyadh</locale>
         <remarks>Met with King Abdullah and Foreign Minister Prince Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1527</id>
@@ -1178,9 +1172,9 @@
         <locale>Beirut</locale>
         <remarks>Met with Prime Minister Siniora and Lebanese political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1528</id>
@@ -1190,12 +1184,11 @@
         <end-date>2006-02-24</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
-        <remarks>Met with senior officials and the Gulf Cooperation Council Foreign
-            Ministers.</remarks>
+        <remarks>Met with senior officials and the Gulf Cooperation Council Foreign             Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1529</id>
@@ -1207,9 +1200,9 @@
         <locale>Bagram, Kabul</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1530</id>
@@ -1221,9 +1214,9 @@
         <locale>New Delhi</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1531</id>
@@ -1235,9 +1228,9 @@
         <locale>Islamabad</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1532</id>
@@ -1249,9 +1242,9 @@
         <locale>Valparaiso, Santiago, Vina de Lar</locale>
         <remarks>Attended the inauguration of President Bachelet.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1533</id>
@@ -1263,9 +1256,9 @@
         <locale>Rio de Janeiro</locale>
         <remarks>Stopped en route to Indonesia.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1534</id>
@@ -1275,12 +1268,11 @@
         <end-date>2006-03-15</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
-        <remarks>Met with President Yudhoyono and Foreign Minister Wirajuda.&#160; Addressed
-            Indonesia Council on World Affairs.</remarks>
+        <remarks>Met with President Yudhoyono and Foreign Minister Wirajuda.  Addressed             Indonesia Council on World Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1535</id>
@@ -1290,12 +1282,11 @@
         <end-date>2006-03-18</end-date>
         <country id="australia">Australia</country>
         <locale>Sydney, Melbourne</locale>
-        <remarks>Met with Foreign Minister Downer and held Trilateral Strategic Dialogue with
-            Australia and Japan.</remarks>
+        <remarks>Met with Foreign Minister Downer and held Trilateral Strategic Dialogue with             Australia and Japan.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1536</id>
@@ -1307,9 +1298,9 @@
         <locale>Nassau</locale>
         <remarks>Attended CARICOM Foreign Ministers’ Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1537</id>
@@ -1319,12 +1310,11 @@
         <end-date>2006-03-31</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with Chancellor Merkel and with the Foreign Ministers of the Permanent Members
-            of the UN Security Council.</remarks>
+        <remarks>Met with Chancellor Merkel and with the Foreign Ministers of the Permanent Members             of the UN Security Council.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1538</id>
@@ -1336,9 +1326,9 @@
         <locale>Paris</locale>
         <remarks>Met with President Chirac.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1539</id>
@@ -1348,12 +1338,11 @@
         <end-date>2006-04-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Blackburn, Liverpool</locale>
-        <remarks>Met with British Foreign Secretary Straw and gave several public
-            addresses.</remarks>
+        <remarks>Met with British Foreign Secretary Straw and gave several public             addresses.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1540</id>
@@ -1363,12 +1352,11 @@
         <end-date>2006-04-03</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
-        <remarks>Travelled with British Foreign Secretary Straw and met with Iraqi political
-            leaders.</remarks>
+        <remarks>Travelled with British Foreign Secretary Straw and met with Iraqi political             leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1541</id>
@@ -1380,9 +1368,9 @@
         <locale>Athens</locale>
         <remarks>Met with Foreign Minister Bakoyannis.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1542</id>
@@ -1394,9 +1382,9 @@
         <locale>Ankara</locale>
         <remarks>Met with Foreign Minister Gul.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1543</id>
@@ -1406,12 +1394,11 @@
         <end-date>2006-04-27</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
-        <remarks>Met with Prime Minister-designate al-Maliki and with Iraqi political
-            leaders.</remarks>
+        <remarks>Met with Prime Minister-designate al-Maliki and with Iraqi political             leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1544</id>
@@ -1421,12 +1408,11 @@
         <end-date>2006-04-28</end-date>
         <country id="bulgaria">Bulgaria</country>
         <locale>Sofia</locale>
-        <remarks>Attended NATO Ministerial Meeting and signed Defense Cooperation
-            Agreement.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and signed Defense Cooperation             Agreement.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1545</id>
@@ -1436,12 +1422,11 @@
         <end-date>2006-06-03</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Discussed the Iranian nuclear crisis with the Foreign Ministers of the Permanent
-            Members of the UN Security Council and Germany.</remarks>
+        <remarks>Discussed the Iranian nuclear crisis with the Foreign Ministers of the Permanent             Members of the UN Security Council and Germany.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1546</id>
@@ -1453,9 +1438,9 @@
         <locale>Vienna</locale>
         <remarks>Accompanied President Bush to the U.S.-EU Summit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1547</id>
@@ -1467,9 +1452,9 @@
         <locale>Budapest</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1548</id>
@@ -1481,9 +1466,9 @@
         <locale>Prestwick (Scotland)</locale>
         <remarks>Stopped en route to Pakistan.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1549</id>
@@ -1495,9 +1480,9 @@
         <locale>Islamabad</locale>
         <remarks>Met with President Musharraf and Foreign Minister Kasuri.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1550</id>
@@ -1509,9 +1494,9 @@
         <locale>Kabul</locale>
         <remarks>Met with President Karzai.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1551</id>
@@ -1523,9 +1508,9 @@
         <locale>Moscow</locale>
         <remarks>Attended a G-8 Foreign Ministers’ Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1552</id>
@@ -1537,9 +1522,9 @@
         <locale>Paris</locale>
         <remarks>Attended a P5 + 1 ministerial meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1553</id>
@@ -1551,9 +1536,9 @@
         <locale>Stralsund, Trinwillershagen</locale>
         <remarks>Accompanied President Bush to meetings with Chancellor Merkel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1554</id>
@@ -1565,9 +1550,9 @@
         <locale>St. Petersburg</locale>
         <remarks>Attended the G-8 Economic Summit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1555</id>
@@ -1579,9 +1564,9 @@
         <locale>Beirut</locale>
         <remarks>Met with Lebanese political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1556</id>
@@ -1593,9 +1578,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Olmert and Foreign Minister Livni.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1557</id>
@@ -1607,9 +1592,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1558</id>
@@ -1621,9 +1606,9 @@
         <locale>Rome</locale>
         <remarks>Attended a meeting of the Lebanon Core Group.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1559</id>
@@ -1635,9 +1620,9 @@
         <locale>Kuala Lumpur</locale>
         <remarks>Attended ASEAN Foreign Ministers and Regional Forum Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1560</id>
@@ -1649,9 +1634,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1561</id>
@@ -1663,9 +1648,9 @@
         <locale>Halifax, Stellarton (Nova Scotia)</locale>
         <remarks>Commemorated 9/11/01 and met with Foreign Secretary MacKay.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1562</id>
@@ -1677,9 +1662,9 @@
         <locale>Jeddah</locale>
         <remarks>Met with King Abdullah and Foreign Minister Prince Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1563</id>
@@ -1689,12 +1674,11 @@
         <end-date>2006-10-04</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Mubarak and the Foreign Ministers of Egypt, Jordan, and the Gulf
-            Cooperation Council.</remarks>
+        <remarks>Met with President Mubarak and the Foreign Ministers of Egypt, Jordan, and the Gulf             Cooperation Council.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1564</id>
@@ -1706,9 +1690,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Olmert and Foreign Minister Livni.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1565</id>
@@ -1720,9 +1704,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1566</id>
@@ -1732,12 +1716,11 @@
         <end-date>2006-10-06</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad, Irbil</locale>
-        <remarks>Met with Prime Minster al-Maliki and with Kurdish Regional President
-            Barzani.</remarks>
+        <remarks>Met with Prime Minster al-Maliki and with Kurdish Regional President             Barzani.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1567</id>
@@ -1749,9 +1732,9 @@
         <locale>London</locale>
         <remarks>Attended a P-5 + 1 Foreign Ministers’ meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1568</id>
@@ -1763,9 +1746,9 @@
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Abe and Foreign Minister Aso.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1569</id>
@@ -1777,9 +1760,9 @@
         <locale>Seoul</locale>
         <remarks>Met with President Roh and Foreign Minister Ban.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1570</id>
@@ -1791,9 +1774,9 @@
         <locale>Beijing</locale>
         <remarks>Met with Foreign Minister Li.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1571</id>
@@ -1805,9 +1788,9 @@
         <locale>Moscow</locale>
         <remarks>Met with President Putin and Foreign Minister Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1572</id>
@@ -1817,12 +1800,11 @@
         <end-date>2006-11-20</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Hanoi, Ho Chi Minh City</locale>
-        <remarks>Attended the APEC Cooperation Forum Ministerial Meeting and accompanied President
-            Bush.</remarks>
+        <remarks>Attended the APEC Cooperation Forum Ministerial Meeting and accompanied President             Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1573</id>
@@ -1834,9 +1816,9 @@
         <locale>Bogor</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1574</id>
@@ -1848,9 +1830,9 @@
         <locale>Tallinn</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1575</id>
@@ -1862,9 +1844,9 @@
         <locale>Riga</locale>
         <remarks>Attended NATO Summit meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1576</id>
@@ -1874,12 +1856,11 @@
         <end-date>2006-11-30</end-date>
         <country id="jordan">Jordan</country>
         <locale>Dead Sea</locale>
-        <remarks>Accompanied President Bush to meetings with King Abdullah II and Iraqi Prime
-            Minister al-Maliki. Attended Forum for the Future.</remarks>
+        <remarks>Accompanied President Bush to meetings with King Abdullah II and Iraqi Prime             Minister al-Maliki. Attended Forum for the Future.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1577</id>
@@ -1891,9 +1872,9 @@
         <locale>Jericho</locale>
         <remarks>Met with President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1578</id>
@@ -1905,9 +1886,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Olmert and Foreign Minister Livni.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1579</id>
@@ -1919,9 +1900,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Foreign Minister Livni and Defense Minister Peretz.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1580</id>
@@ -1933,9 +1914,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1581</id>
@@ -1947,9 +1928,9 @@
         <locale>Amman</locale>
         <remarks>Met with King Abdullah II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1582</id>
@@ -1961,9 +1942,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Olmert.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1583</id>
@@ -1973,12 +1954,11 @@
         <end-date>2007-01-15</end-date>
         <country id="egypt">Egypt</country>
         <locale>Luxor</locale>
-        <remarks>Met with President Mubarak and Foreign Minister Aboul Gheit.&#160; Proposed an
-            Israeli-Palestinian summit meeting.</remarks>
+        <remarks>Met with President Mubarak and Foreign Minister Aboul Gheit.  Proposed an             Israeli-Palestinian summit meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1584</id>
@@ -1990,9 +1970,9 @@
         <locale>Riyadh</locale>
         <remarks>Met with King Abdullah and Foreign Minister Prince Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1585</id>
@@ -2002,12 +1982,11 @@
         <end-date>2007-01-17</end-date>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City</locale>
-        <remarks>Met with the Foreign Ministers of Egypt, Jordan, and the Gulf Cooperation
-            Council.</remarks>
+        <remarks>Met with the Foreign Ministers of Egypt, Jordan, and the Gulf Cooperation             Council.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1586</id>
@@ -2019,9 +1998,9 @@
         <locale>Berlin</locale>
         <remarks>Met with Foreign Minister Steinmeir and Chancellor Merkel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1587</id>
@@ -2033,24 +2012,9 @@
         <locale>London</locale>
         <remarks>Met with Prime Minister Blair.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
-    </trip>
-    <trip who="rice-condoleezza" role="secretary">
-        <id>1588</id>
-        <role>secretary</role>
-        <name>Condoleezza Rice</name>
-        <start-date>2006-01-24</start-date>
-        <end-date>2006-01-25</end-date>
-        <country id="france">France</country>
-        <locale>Paris</locale>
-        <remarks>Headed the U.S. delegation to the International Conference for Support to
-            Lebanon.</remarks>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1589</id>
@@ -2062,9 +2026,9 @@
         <locale>Baghdad</locale>
         <remarks>Met with Prime Minister al-Maliki and addressed U.S. Mission personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1590</id>
@@ -2074,12 +2038,11 @@
         <end-date>2007-02-20</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Olmert and Foreign Minister Livni.&#160; Met with Prime
-            Minister Olmert and Palestinian President Abbas on February 19.</remarks>
+        <remarks>Met with Prime Minister Olmert and Foreign Minister Livni.  Met with Prime             Minister Olmert and Palestinian President Abbas on February 19.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1591</id>
@@ -2091,9 +2054,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1592</id>
@@ -2103,12 +2066,11 @@
         <end-date>2007-02-21</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Attended a Quartet meeting and met with Foreign Minister Steinmeier and Chancellor
-            Merkel.</remarks>
+        <remarks>Attended a Quartet meeting and met with Foreign Minister Steinmeier and Chancellor             Merkel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1593</id>
@@ -2120,9 +2082,9 @@
         <locale>Ottawa</locale>
         <remarks>Attended Security and Prosperity Partnership of North America Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1594</id>
@@ -2132,12 +2094,11 @@
         <end-date>2007-03-09</end-date>
         <country id="brazil">Brazil</country>
         <locale>Sao Paulo</locale>
-        <remarks>Accompanied President Bush.&#160; Signed memorandum of understanding on biofuels
-            cooperation.</remarks>
+        <remarks>Accompanied President Bush.  Signed memorandum of understanding on biofuels             cooperation.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1595</id>
@@ -2149,9 +2110,9 @@
         <locale>Montevideo</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1596</id>
@@ -2163,9 +2124,9 @@
         <locale>Bogota</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1597</id>
@@ -2177,9 +2138,9 @@
         <locale>Guatemala City</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1598</id>
@@ -2191,9 +2152,9 @@
         <locale>Merida</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1599</id>
@@ -2205,9 +2166,9 @@
         <locale>Aswan</locale>
         <remarks>Met with President Mubarak and with the Arab Quartet Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1600</id>
@@ -2219,9 +2180,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Olmert and Foreign Minister Livni.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1601</id>
@@ -2233,9 +2194,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1602</id>
@@ -2247,9 +2208,9 @@
         <locale>Amman</locale>
         <remarks>Met with King Abdullah II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1603</id>
@@ -2261,9 +2222,9 @@
         <locale>Oslo</locale>
         <remarks>Attended NATO Foreign Ministers’ and NATO-Russia Council Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1604</id>
@@ -2273,12 +2234,11 @@
         <end-date>2007-05-04</end-date>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
-        <remarks>Attended the International Compact with Iraq meeting.&#160; Met with Syrian Foreign
-            Minister al-Moualem.</remarks>
+        <remarks>Attended the International Compact with Iraq meeting.  Met with Syrian Foreign             Minister al-Moualem.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1605</id>
@@ -2290,9 +2250,9 @@
         <locale>Moscow</locale>
         <remarks>Met with President Putin and Foreign Minister Lavrov.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1606</id>
@@ -2304,9 +2264,9 @@
         <locale>Potsdam</locale>
         <remarks>Attended a G-8 Foreign Ministers’ Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1607</id>
@@ -2316,12 +2276,11 @@
         <end-date>2007-06-01</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Attended the Women’s Empowerment Strategy Group and the Roundtable on Networking
-            for Peace and Security in the Middle East.</remarks>
+        <remarks>Attended the Women’s Empowerment Strategy Group and the Roundtable on Networking             for Peace and Security in the Middle East.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1608</id>
@@ -2333,9 +2292,9 @@
         <locale>Madrid</locale>
         <remarks>Met with President Zapatero and Foreign Minister Moratinos.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1609</id>
@@ -2347,9 +2306,9 @@
         <locale>Panama City</locale>
         <remarks>Attended OAS General Assembly Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1610</id>
@@ -2359,13 +2318,11 @@
         <end-date>2007-06-26</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President Sarkozy, Foreign Minister Kouchner, and Lebanese Prime Minister
-            Siniora.&#160; Attended a meeting of the International Contact Group on
-            Sudan/Darfur.</remarks>
+        <remarks>Met with President Sarkozy, Foreign Minister Kouchner, and Lebanese Prime Minister             Siniora.  Attended a meeting of the International Contact Group on             Sudan/Darfur.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1611</id>
@@ -2377,9 +2334,9 @@
         <locale>Lisbon</locale>
         <remarks>Attended a Quartet Principals’ meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1612</id>
@@ -2389,12 +2346,11 @@
         <end-date>2007-08-01</end-date>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
-        <remarks>Met with the Foreign Ministers of Egypt, Jordan, Saudi Arabia, and the Gulf
-            Cooperation Council and with President Mubarak.</remarks>
+        <remarks>Met with the Foreign Ministers of Egypt, Jordan, Saudi Arabia, and the Gulf             Cooperation Council and with President Mubarak.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1613</id>
@@ -2406,9 +2362,9 @@
         <locale>Jeddah</locale>
         <remarks>Met with King Abdullah and Foreign Minister Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1614</id>
@@ -2420,9 +2376,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with President Peres and Foreign Minister Livni.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1615</id>
@@ -2434,9 +2390,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1616</id>
@@ -2448,9 +2404,9 @@
         <locale>Sydney</locale>
         <remarks>Accompanied President Bush to the APEC leaders’ meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1617</id>
@@ -2460,12 +2416,11 @@
         <end-date>2007-09-20</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with President Peres, Prime Minister Olmert, and Foreign Minister
-            Livni.</remarks>
+        <remarks>Met with President Peres, Prime Minister Olmert, and Foreign Minister             Livni.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1618</id>
@@ -2475,12 +2430,11 @@
         <end-date>2007-09-20</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Ramallah</locale>
-        <remarks>Discussed prospects for an Israel-Palestinian peace conference with President
-            Abbas.</remarks>
+        <remarks>Discussed prospects for an Israel-Palestinian peace conference with President             Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1619</id>
@@ -2492,9 +2446,9 @@
         <locale>Moscow</locale>
         <remarks>Attended 2+2 Meeting on strategic security issues.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1620</id>
@@ -2504,11 +2458,11 @@
         <end-date>2007-10-15</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Olmert.&#160; Also met with religious leaders.</remarks>
+        <remarks>Met with Prime Minister Olmert.  Also met with religious leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1621</id>
@@ -2520,9 +2474,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1622</id>
@@ -2534,9 +2488,9 @@
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak and Foreign Minister Aboul Gheit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1623</id>
@@ -2546,12 +2500,11 @@
         <end-date>2007-10-17</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Bethlehem, Ramallah</locale>
-        <remarks>Visited the Church of the Nativity and met with civil leaders.&#160; Met with
-            President Abbas.</remarks>
+        <remarks>Visited the Church of the Nativity and met with civil leaders.  Met with             President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1624</id>
@@ -2563,9 +2516,9 @@
         <locale>Jerusalem</locale>
         <remarks>Met with Foreign Minister Livni.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1625</id>
@@ -2577,9 +2530,9 @@
         <locale>London</locale>
         <remarks>Met with King Abdullah II of Jordan.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1626</id>
@@ -2589,13 +2542,11 @@
         <end-date>2007-11-03</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Istanbul</locale>
-        <remarks>Met with President Gul, Prime Minister Erdogan, and Foreign Minister Babacan.&#160;
-            Attended an expanded ministerial meeting of countries adjoining Iraq in
-            Istanbul.</remarks>
+        <remarks>Met with President Gul, Prime Minister Erdogan, and Foreign Minister Babacan.              Attended an expanded ministerial meeting of countries adjoining Iraq in             Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1627</id>
@@ -2605,12 +2556,11 @@
         <end-date>2007-11-05</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
-        <remarks>Discussed proposed Middle East peace conference with Prime Minister Olmert and
-            Foreign Minister Livni.&#160; Addressed the Saban Forum.</remarks>
+        <remarks>Discussed proposed Middle East peace conference with Prime Minister Olmert and             Foreign Minister Livni.  Addressed the Saban Forum.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1628</id>
@@ -2622,9 +2572,9 @@
         <locale>Ramallah</locale>
         <remarks>Discussed proposed Middle East peace conference with President Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1629</id>
@@ -2634,12 +2584,11 @@
         <end-date>2007-12-06</end-date>
         <country id="ethiopia">Ethiopia</country>
         <locale>Addis Ababa</locale>
-        <remarks>Met with leaders of the African Great Lakes States and discussed the situation in
-            Somalia and the Sudan with representatives of the African Union and the UN.</remarks>
+        <remarks>Met with leaders of the African Great Lakes States and discussed the situation in             Somalia and the Sudan with representatives of the African Union and the UN.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1630</id>
@@ -2649,12 +2598,11 @@
         <end-date>2007-12-07</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial meeting, and meetings of the NATO-Russia Council and the
-            NATO-Ukraine Commission.</remarks>
+        <remarks>Attended NATO Ministerial meeting, and meetings of the NATO-Russia Council and the             NATO-Ukraine Commission.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1631</id>
@@ -2664,12 +2612,11 @@
         <end-date>2007-12-18</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended a Quartet meeting and the Palestinian Donors’ Conference.&#160; Met with
-            President Sarkozy.</remarks>
+        <remarks>Attended a Quartet meeting and the Palestinian Donors’ Conference.  Met with             President Sarkozy.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1632</id>
@@ -2679,13 +2626,11 @@
         <end-date>2007-12-18</end-date>
         <country id="iraq">Iraq</country>
         <locale>Kirkuk, Baghdad</locale>
-        <remarks>Met with members of a civil-military reconstruction team and local politicians in
-            Kirkuk and with the UN Special Representative and with Iraqi political leaders in
-            Baghdad.</remarks>
+        <remarks>Met with members of a civil-military reconstruction team and local politicians in             Kirkuk and with the UN Special Representative and with Iraqi political leaders in             Baghdad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1633</id>
@@ -2697,9 +2642,9 @@
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1634</id>
@@ -2711,9 +2656,9 @@
         <locale>Ramallah</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1635</id>
@@ -2725,9 +2670,9 @@
         <locale>Kuwait City</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1636</id>
@@ -2739,9 +2684,9 @@
         <locale>Manama</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1637</id>
@@ -2753,9 +2698,9 @@
         <locale>Abu Dhabi</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1638</id>
@@ -2765,11 +2710,11 @@
         <end-date>2008-01-15</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Accompanied President Bush.&#160; Met with Foreign Minister Prince Saud.</remarks>
+        <remarks>Accompanied President Bush.  Met with Foreign Minister Prince Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1639</id>
@@ -2781,9 +2726,9 @@
         <locale>Baghdad</locale>
         <remarks>Met with Prime Minister al-Maliki and Foreign Minister Zebari.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1640</id>
@@ -2795,9 +2740,9 @@
         <locale>Berlin</locale>
         <remarks>Attended a meeting of the P5 +1 Group on Iran.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1641</id>
@@ -2807,12 +2752,11 @@
         <end-date>2008-01-23</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Davos</locale>
-        <remarks>Addressed the World Economic Forum and met with Foreign Minister
-            Calmy-Rey.</remarks>
+        <remarks>Addressed the World Economic Forum and met with Foreign Minister             Calmy-Rey.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1642</id>
@@ -2822,12 +2766,11 @@
         <end-date>2008-01-25</end-date>
         <country id="colombia">Colombia</country>
         <locale>Medellin</locale>
-        <remarks>Led a Congressional delegation to discuss a free-trade agreement and security
-            issues.</remarks>
+        <remarks>Led a Congressional delegation to discuss a free-trade agreement and security             issues.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1643</id>
@@ -2839,9 +2782,9 @@
         <locale>London</locale>
         <remarks>Met with Foreign Secretary Miliband.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1644</id>
@@ -2851,12 +2794,11 @@
         <end-date>2008-02-07</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kandahar, Kabul</locale>
-        <remarks>Accompanied British Foreign Secretary Miliband.&#160; Met with President
-            Karzai.</remarks>
+        <remarks>Accompanied British Foreign Secretary Miliband.  Met with President             Karzai.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1645</id>
@@ -2868,9 +2810,9 @@
         <locale>Porto Novo</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1646</id>
@@ -2882,9 +2824,9 @@
         <locale>Dar es Salaam</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1647</id>
@@ -2894,12 +2836,11 @@
         <end-date>2008-02-18</end-date>
         <country id="kenya">Kenya</country>
         <locale>Nairobi</locale>
-        <remarks>Met with President Kibaki, former Secretary-General Annan, and Kenyan political
-            leaders.</remarks>
+        <remarks>Met with President Kibaki, former Secretary-General Annan, and Kenyan political             leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1648</id>
@@ -2911,9 +2852,9 @@
         <locale>Kigali</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1649</id>
@@ -2925,9 +2866,9 @@
         <locale>Accra</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1650</id>
@@ -2939,9 +2880,9 @@
         <locale>Monrovia</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1651</id>
@@ -2951,12 +2892,11 @@
         <end-date>2008-02-26</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>Attended the inauguration of President Lee Myung-Bak and discussed the Six-Party
-            talks and a proposed Free Trade Agreement.</remarks>
+        <remarks>Attended the inauguration of President Lee Myung-Bak and discussed the Six-Party             talks and a proposed Free Trade Agreement.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1652</id>
@@ -2968,9 +2908,9 @@
         <locale>Beijing</locale>
         <remarks>Met with President Hu and Foreign Minister Yang.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1653</id>
@@ -2982,9 +2922,9 @@
         <locale>Tokyo</locale>
         <remarks>Met with Foreign Minister Koumura and with Israeli Prime Minister Olmert.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1654</id>
@@ -2994,12 +2934,11 @@
         <end-date>2008-03-04</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Mubarak and Foreign Minister Aboul Gheit to discuss the Gaza
-            crisis..</remarks>
+        <remarks>Met with President Mubarak and Foreign Minister Aboul Gheit to discuss the Gaza             crisis..</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1655</id>
@@ -3011,9 +2950,9 @@
         <locale>Ramallah</locale>
         <remarks>Met with President Abbas to discuss the Gaza crisis..</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1656</id>
@@ -3023,12 +2962,11 @@
         <end-date>2008-03-05</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Olmert and Foreign Minister Livni to discuss the Gaza
-            crisis.</remarks>
+        <remarks>Met with Prime Minister Olmert and Foreign Minister Livni to discuss the Gaza             crisis.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1657</id>
@@ -3038,12 +2976,11 @@
         <end-date>2008-03-07</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO and EU Ministerial Meetings.&#160; Addressed Women Leaders Working
-            Group.</remarks>
+        <remarks>Attended NATO and EU Ministerial Meetings.  Addressed Women Leaders Working             Group.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1658</id>
@@ -3053,12 +2990,11 @@
         <end-date>2008-03-14</end-date>
         <country id="brazil">Brazil</country>
         <locale>Brasilia, Salvador da Bahia</locale>
-        <remarks>Met with President Lula da Silva and Foreign Minister Amorim.&#160; In Salvador da
-            Bahia, met with the president of Neoenergia and with the state governor.</remarks>
+        <remarks>Met with President Lula da Silva and Foreign Minister Amorim.  In Salvador da             Bahia, met with the president of Neoenergia and with the state governor.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1659</id>
@@ -3070,9 +3006,9 @@
         <locale>Santiago</locale>
         <remarks>Met with President Bachelet and Foreign Minister Foxley.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1660</id>
@@ -3082,13 +3018,11 @@
         <end-date>2008-03-19</end-date>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
-        <remarks>Accompanied Secretary of Defense Gates and met with President Putin,
-            President-elect Medvedev, Foreign Minister Lavrov, and Defense Minister
-            Serdyukov.</remarks>
+        <remarks>Accompanied Secretary of Defense Gates and met with President Putin,             President-elect Medvedev, Foreign Minister Lavrov, and Defense Minister             Serdyukov.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1661</id>
@@ -3098,12 +3032,11 @@
         <end-date>2008-03-30</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Foreign Minister Livni and Defense Minister Barak and with Palestinian
-            President Abbas and Prime Minister Fayyad.</remarks>
+        <remarks>Met with Foreign Minister Livni and Defense Minister Barak and with Palestinian             President Abbas and Prime Minister Fayyad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1662</id>
@@ -3115,9 +3048,9 @@
         <locale>Amman</locale>
         <remarks>Met with Palestinian President Abbas and King Abdullah II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1663</id>
@@ -3129,9 +3062,9 @@
         <locale>Kyiv</locale>
         <remarks>Joined President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1664</id>
@@ -3143,9 +3076,9 @@
         <locale>Bucharest</locale>
         <remarks>Attended NATO Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1665</id>
@@ -3157,9 +3090,9 @@
         <locale>Zagreb</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1666</id>
@@ -3171,9 +3104,9 @@
         <locale>Sochi</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1667</id>
@@ -3183,12 +3116,11 @@
         <end-date>2008-04-20</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
-        <remarks>Met with U.S. Embassy and military personnel and with Iraqi political
-            leaders.</remarks>
+        <remarks>Met with U.S. Embassy and military personnel and with Iraqi political             leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>1668</id>
@@ -3198,12 +3130,11 @@
         <end-date>2008-04-22</end-date>
         <country id="bahrain">Bahrain</country>
         <locale>Manama</locale>
-        <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council, Egypt, and
-            Jordan.</remarks>
+        <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council, Egypt, and             Jordan.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rice-condoleezza" role="secretary">
         <id>3101</id>
@@ -3227,9 +3158,7 @@
         <end-date>2008-05-03</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Attended meetings of the Quartet, Ad Hoc Liaison Committee and the P5+1. Also
-            discussed Kosovo with European Foreign Ministers. Met with Israeli Foreign Minister
-            Livni and Palestinian Prime Minister Fayyad.</remarks>
+        <remarks>Attended meetings of the Quartet, Ad Hoc Liaison Committee and the P5+1. Also             discussed Kosovo with European Foreign Ministers. Met with Israeli Foreign Minister             Livni and Palestinian Prime Minister Fayyad.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3243,8 +3172,7 @@
         <end-date>2008-05-05</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Olmert, Foreign Minister Livni, and other senior
-            officials.</remarks>
+        <remarks>Met with Prime Minister Olmert, Foreign Minister Livni, and other senior             officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3384,8 +3312,7 @@
         <end-date>2008-06-16</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
-        <remarks>Met with President Suleiman, Prime Minister-designate Siniora, and Lebanese
-            political leaders.</remarks>
+        <remarks>Met with President Suleiman, Prime Minister-designate Siniora, and Lebanese             political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3399,8 +3326,7 @@
         <end-date>2008-06-25</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Attended the Conference in Support of Palestinian Civil Security and Rule of
-            Law.</remarks>
+        <remarks>Attended the Conference in Support of Palestinian Civil Security and Rule of             Law.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3414,8 +3340,7 @@
         <end-date>2008-06-28</end-date>
         <country id="japan">Japan</country>
         <locale>Kyoto</locale>
-        <remarks>Attended the G-8 Ministerial Meeting and the Trilateral Strategic Dialogue with the
-            Foreign Ministers of Australia and Japan.</remarks>
+        <remarks>Attended the G-8 Ministerial Meeting and the Trilateral Strategic Dialogue with the             Foreign Ministers of Australia and Japan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3443,8 +3368,7 @@
         <end-date>2008-06-30</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Chengdu, Beijing</locale>
-        <remarks>Met with local officials and aid workers in Chengdu. Met with President Hu and
-            senior officials.</remarks>
+        <remarks>Met with local officials and aid workers in Chengdu. Met with President Hu and             senior officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3472,8 +3396,7 @@
         <end-date>2008-07-09</end-date>
         <country id="bulgaria">Bulgaria</country>
         <locale>Sofia</locale>
-        <remarks>Received the Order of Stara Planina, First Class and met with Foreign Minister
-            Kalfin.</remarks>
+        <remarks>Received the Order of Stara Planina, First Class and met with Foreign Minister             Kalfin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3501,8 +3424,7 @@
         <end-date>2008-07-22</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
-        <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council, Egypt, Jordan, and
-            Iraq.</remarks>
+        <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council, Egypt, Jordan, and             Iraq.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3544,8 +3466,7 @@
         <end-date>2008-07-27</end-date>
         <country id="new-zealand">New Zealand</country>
         <locale>Auckland</locale>
-        <remarks>Met with Prime Minister Clark, Foreign Minister Peters, and Opposition Leader
-            Keys.</remarks>
+        <remarks>Met with Prime Minister Clark, Foreign Minister Peters, and Opposition Leader             Keys.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3559,8 +3480,7 @@
         <end-date>2008-07-26</end-date>
         <country id="samoa">Samoa</country>
         <locale>Apia</locale>
-        <remarks>Met with representatives of the Pacific Island Forum nations. (Crossed
-            International Date Line.)</remarks>
+        <remarks>Met with representatives of the Pacific Island Forum nations. (Crossed             International Date Line.)</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3602,8 +3522,7 @@
         <end-date>2008-08-19</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended an emergency meeting of the North Atlantic Council and discussed the
-            Georgia crisis with EU leaders.</remarks>
+        <remarks>Attended an emergency meeting of the North Atlantic Council and discussed the             Georgia crisis with EU leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3757,8 +3676,7 @@
         <end-date>2008-10-05</end-date>
         <country id="kazakhstan">Kazakhstan</country>
         <locale>Astana</locale>
-        <remarks>Met with President Nazarbayev, Prime Minister Masimov, and Foreign Minister
-            Tazhin.</remarks>
+        <remarks>Met with President Nazarbayev, Prime Minister Masimov, and Foreign Minister             Tazhin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3800,8 +3718,7 @@
         <end-date>2008-11-08</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Ramallah, Jenin</locale>
-        <remarks>Met with President Abbas and Foreign Minister Fayyad (November 7). Announced
-            development aid program for Jenin (November 8).</remarks>
+        <remarks>Met with President Abbas and Foreign Minister Fayyad (November 7). Announced             development aid program for Jenin (November 8).</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3913,8 +3830,7 @@
         <end-date>2008-12-10</end-date>
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
-        <remarks>Met with President Torrijos and attended the first Pathways to Prosperity in the
-            Americas Ministerial Meeting.</remarks>
+        <remarks>Met with President Torrijos and attended the first Pathways to Prosperity in the             Americas Ministerial Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-20T19:28:16.345-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
