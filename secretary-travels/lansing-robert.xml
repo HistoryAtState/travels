@@ -4,11 +4,11 @@
         <id>1206</id>
         <role>secretary</role>
         <name>Robert Lansing</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1918-12-14</start-date>
+        <end-date>1919-07-14</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Accompanied President Wilson to the Paris Peace Conference. Left U.S December 4,             1918; returned July 22, 1919.</remarks>
+        <remarks>Accompanied President Wilson to the Paris Peace Conference. Left U.S December 4, 1918; returned July 22, 1919.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

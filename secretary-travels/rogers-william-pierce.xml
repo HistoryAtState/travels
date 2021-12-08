@@ -4,11 +4,11 @@
         <id>1670</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-02-23</start-date>
+        <end-date>1969-02-24</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Accompanied President Nixon; attended the 23d meeting of the North Atlantic             Council.</remarks>
+        <remarks>Accompanied President Nixon; attended the 23d meeting of the North Atlantic Council.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -18,8 +18,8 @@
         <id>1671</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-02-24</start-date>
+        <end-date>1969-02-26</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Accompanied President Nixon on an informal visit.</remarks>
@@ -32,8 +32,8 @@
         <id>1672</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-02-26</start-date>
+        <end-date>1969-02-27</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Accompanied President Nixon.</remarks>
@@ -46,8 +46,8 @@
         <id>1673</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-02-27</start-date>
+        <end-date>1969-02-27</end-date>
         <country id="germany">Germany</country>
         <locale>West Berlin</locale>
         <remarks>Accompanied President Nixon.</remarks>
@@ -60,8 +60,8 @@
         <id>1674</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-02-27</start-date>
+        <end-date>1969-03-02</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Accompanied President Nixon.</remarks>
@@ -71,11 +71,25 @@
         <last-modified-datetime>2017-05-30T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="rogers-william-pierce" role="secretary">
+        <id>3892</id>
+        <role>secretary</role>
+        <name>William Pierce Rogers</name>
+        <start-date>1969-02-28</start-date>
+        <end-date>1969-03-02</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Accompanied President Nixon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2018-09-14T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2018-09-14T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1675</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-03-02</start-date>
+        <end-date>1969-03-02</end-date>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Accompanied President Nixon.</remarks>
@@ -88,11 +102,11 @@
         <id>1676</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-05-14</start-date>
+        <end-date>1969-05-19</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Saigon</locale>
-        <remarks>Met with President Thieu and U.S. and Vietnamese officials. Left U.S. May             12.</remarks>
+        <remarks>Met with President Thieu and U.S. and Vietnamese officials. Left U.S. May 12.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -102,8 +116,8 @@
         <id>1677</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-05-19</start-date>
+        <end-date>1969-05-23</end-date>
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
         <remarks>Attended the SEATO Council and Seven-Nation Meetings.</remarks>
@@ -116,8 +130,8 @@
         <id>1678</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-05-23</start-date>
+        <end-date>1969-05-24</end-date>
         <country id="india">India</country>
         <locale>New Delhi</locale>
         <remarks>Met with Prime Minister Gandhi and senior Indian officials.</remarks>
@@ -130,8 +144,8 @@
         <id>1679</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-05-24</start-date>
+        <end-date>1969-05-25</end-date>
         <country id="pakistan">Pakistan</country>
         <locale>Lahore</locale>
         <remarks>Met with President Yahya and senior Pakistani officials.</remarks>
@@ -144,8 +158,8 @@
         <id>1680</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-05-25</start-date>
+        <end-date>1969-05-25</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
         <remarks>Met with King Mohammad Zahir Shah and Prime Minister Etemadi.</remarks>
@@ -158,8 +172,8 @@
         <id>1681</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-05-26</start-date>
+        <end-date>1969-05-28</end-date>
         <country id="iran">Iran</country>
         <locale>Tehran</locale>
         <remarks>Attended CENTO Ministerial Meeting.</remarks>
@@ -172,11 +186,11 @@
         <id>1682</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-06-27</start-date>
+        <end-date>1969-06-27</end-date>
         <country id="canada">Canada</country>
         <locale>Montreal</locale>
-        <remarks>Accompanied President Nixon to the 10th Anniversary ceremonies of the St. Lawrence             Seaway.</remarks>
+        <remarks>Accompanied President Nixon to the 10th Anniversary ceremonies of the St. Lawrence Seaway.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -186,8 +200,8 @@
         <id>1683</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-07-26</start-date>
+        <end-date>1969-07-27</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Accompanied President Nixon on a State visit.</remarks>
@@ -200,8 +214,8 @@
         <id>1684</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-07-27</start-date>
+        <end-date>1969-07-28</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Djakarta</locale>
         <remarks>Accompanied President Nixon on a State visit.</remarks>
@@ -214,11 +228,11 @@
         <id>1685</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-07-28</start-date>
+        <end-date>1969-07-31</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of the Joint Committee on Trade and Economic Development. Signed             a space cooperation agreement.</remarks>
+        <remarks>Attended a meeting of the Joint Committee on Trade and Economic Development. Signed a space cooperation agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -228,8 +242,8 @@
         <id>1686</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-07-31</start-date>
+        <end-date>1969-08-01</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with President Park and senior Korean officials.</remarks>
@@ -242,8 +256,8 @@
         <id>1687</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-08-01</start-date>
+        <end-date>1969-08-03</end-date>
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
         <remarks>Met with President Chiang and senior Chinese Nationalist officials.</remarks>
@@ -256,8 +270,8 @@
         <id>1688</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-08-03</start-date>
+        <end-date>1969-08-05</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Hong Kong</locale>
         <remarks>Met with British colonial officials and held a press conference.</remarks>
@@ -270,8 +284,8 @@
         <id>1689</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-08-05</start-date>
+        <end-date>1969-08-07</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Bali</locale>
         <remarks>Met with Foreign Minister Malik.</remarks>
@@ -284,8 +298,8 @@
         <id>1690</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-08-07</start-date>
+        <end-date>1969-08-09</end-date>
         <country id="australia">Australia</country>
         <locale>Canberra</locale>
         <remarks>Attended ANZUS Council Meeting.</remarks>
@@ -298,8 +312,8 @@
         <id>1691</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-08-09</start-date>
+        <end-date>1969-08-10</end-date>
         <country id="new-zealand">New Zealand</country>
         <locale>Auckland</locale>
         <remarks>Met with Prime Minister Holyoake.</remarks>
@@ -312,8 +326,8 @@
         <id>1692</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-09-08</start-date>
+        <end-date>1969-09-08</end-date>
         <country id="mexico">Mexico</country>
         <locale>Ciudad Acuna</locale>
         <remarks>Accompanied President Nixon to the dedication of the Amistad Dam.</remarks>
@@ -326,11 +340,11 @@
         <id>1693</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-12-02</start-date>
+        <end-date>1969-12-05</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting. Visited the Commission of the European             Communities.</remarks>
+        <remarks>Attended NATO Ministerial Meeting. Visited the Commission of the European Communities.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -340,11 +354,11 @@
         <id>1694</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-12-05</start-date>
+        <end-date>1969-12-05</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Met with Chancellor Brandt, Foreign Minister Scheel, and senior German             officials.</remarks>
+        <remarks>Met with Chancellor Brandt, Foreign Minister Scheel, and senior German officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -354,8 +368,8 @@
         <id>1695</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-12-06</start-date>
+        <end-date>1969-12-06</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Addressed the Belgo-American Association.</remarks>
@@ -368,11 +382,11 @@
         <id>1696</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1969-12-06</start-date>
+        <end-date>1969-12-08</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President Pompidou, senior French officials, and with the U.S. delegation             to the Vietnam Peace Talks.</remarks>
+        <remarks>Met with President Pompidou, senior French officials, and with the U.S. delegation to the Vietnam Peace Talks.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -382,11 +396,11 @@
         <id>1697</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-07</start-date>
+        <end-date>1970-02-09</end-date>
         <country id="morocco">Morocco</country>
         <locale>Rabat</locale>
-        <remarks>Met with King Hassan II and senior Moroccan officials. Signed an air transport             agreement.</remarks>
+        <remarks>Met with King Hassan II and senior Moroccan officials. Signed an air transport agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -396,8 +410,8 @@
         <id>1698</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-09</start-date>
+        <end-date>1970-02-11</end-date>
         <country id="tunisia">Tunisia</country>
         <locale>Tunis</locale>
         <remarks>Met with President Bourguiba and senior Tunisian officials.</remarks>
@@ -410,11 +424,11 @@
         <id>1699</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-11</start-date>
+        <end-date>1970-02-13</end-date>
         <country id="ethiopia">Ethiopia</country>
         <locale>Addis Ababa</locale>
-        <remarks>Met with Emperor Haile Selassie and senior Ethiopian officials. Addressed the             Organization of African Unity February 12.</remarks>
+        <remarks>Met with Emperor Haile Selassie and senior Ethiopian officials. Addressed the Organization of African Unity February 12.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -424,8 +438,8 @@
         <id>1700</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-13</start-date>
+        <end-date>1970-02-15</end-date>
         <country id="kenya">Kenya</country>
         <locale>Nairobi</locale>
         <remarks>Met with President Kenyatta and senior Kenyan officials.</remarks>
@@ -438,8 +452,8 @@
         <id>1701</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-15</start-date>
+        <end-date>1970-02-16</end-date>
         <country id="zambia">Zambia</country>
         <locale>Lusaka</locale>
         <remarks>Met with President Kaunda and senior Kenyan officials.</remarks>
@@ -452,11 +466,11 @@
         <id>1702</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-16</start-date>
+        <end-date>1970-02-18</end-date>
         <country id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</country>
         <locale>Kinshasa</locale>
-        <remarks>Met with President Mobutu and senior Congolese officials. Attended a conference of             U.S. Chiefs of Mission to African countries.</remarks>
+        <remarks>Met with President Mobutu and senior Congolese officials. Attended a conference of U.S. Chiefs of Mission to African countries.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -466,8 +480,8 @@
         <id>1703</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-18</start-date>
+        <end-date>1970-02-19</end-date>
         <country id="cameroon">Cameroon</country>
         <locale>Douala, Yaounde</locale>
         <remarks>Met with President Ahidjo and senior Cameroonian officials.</remarks>
@@ -480,8 +494,8 @@
         <id>1704</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-19</start-date>
+        <end-date>1970-02-20</end-date>
         <country id="nigeria">Nigeria</country>
         <locale>Lagos</locale>
         <remarks>Met with General Gowon and senior Nigerian officials.</remarks>
@@ -494,8 +508,8 @@
         <id>1705</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-20</start-date>
+        <end-date>1970-02-21</end-date>
         <country id="ghana">Ghana</country>
         <locale>Accra</locale>
         <remarks>Met with Prime Minister Busia and senior Ghanaian officials.</remarks>
@@ -508,8 +522,8 @@
         <id>1706</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-21</start-date>
+        <end-date>1970-02-22</end-date>
         <country id="liberia">Liberia</country>
         <locale>Monrovia</locale>
         <remarks>Met with President Tubman and senior Liberian officials.</remarks>
@@ -522,8 +536,8 @@
         <id>1707</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-02-22</start-date>
+        <end-date>1970-02-23</end-date>
         <country id="netherlands-antilles">Netherlands Antilles</country>
         <locale>Aruba</locale>
         <remarks>Stopped while returning to U.S.</remarks>
@@ -536,8 +550,8 @@
         <id>1708</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-05-24</start-date>
+        <end-date>1970-05-28</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -550,8 +564,8 @@
         <id>1709</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-05-28</start-date>
+        <end-date>1970-05-29</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Met with Foreign Minister Lopez Bravo and senior Spanish officials.</remarks>
@@ -564,11 +578,11 @@
         <id>1710</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-05-29</start-date>
+        <end-date>1970-05-31</end-date>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
-        <remarks>Met with Prime Minister Caetano and senior Portuguese officials. Amended an air             transport agreement.</remarks>
+        <remarks>Met with Prime Minister Caetano and senior Portuguese officials. Amended an air transport agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -578,8 +592,8 @@
         <id>1711</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-07-01</start-date>
+        <end-date>1970-07-04</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Attended SEATO Ministerial Council Meeting.</remarks>
@@ -592,11 +606,11 @@
         <id>1712</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-07-04</start-date>
+        <end-date>1970-07-07</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Saigon</locale>
-        <remarks>Met with the Foreign Ministers of countries contributing troops to             Vietnam.</remarks>
+        <remarks>Met with the Foreign Ministers of countries contributing troops to Vietnam.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -606,11 +620,11 @@
         <id>1713</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-07-07</start-date>
+        <end-date>1970-07-10</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of U.S. Chiefs of Mission to Asian countries and met with Prime             Minister Sato and senior Japanese officials.</remarks>
+        <remarks>Attended a meeting of U.S. Chiefs of Mission to Asian countries and met with Prime Minister Sato and senior Japanese officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -620,8 +634,8 @@
         <id>1714</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-07-10</start-date>
+        <end-date>1970-07-12</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Prime Minister Heath and Foreign Secretary Home.</remarks>
@@ -634,8 +648,8 @@
         <id>1715</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-08-20</start-date>
+        <end-date>1970-08-21</end-date>
         <country id="mexico">Mexico</country>
         <locale>Puerto Vallarta</locale>
         <remarks>Accompanied President Nixon during an official visit.</remarks>
@@ -648,8 +662,8 @@
         <id>1716</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-09-27</start-date>
+        <end-date>1970-09-30</end-date>
         <country id="italy">Italy</country>
         <locale>Rome, Naples</locale>
         <remarks>Accompanied President Nixon on an official visit.</remarks>
@@ -662,8 +676,8 @@
         <id>1717</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-09-30</start-date>
+        <end-date>1970-10-02</end-date>
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade, Zagreb</locale>
         <remarks>Accompanied President Nixon on a State visit.</remarks>
@@ -676,8 +690,8 @@
         <id>1718</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-10-02</start-date>
+        <end-date>1970-10-03</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Accompanied President Nixon on a State visit.</remarks>
@@ -690,8 +704,8 @@
         <id>1719</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-10-03</start-date>
+        <end-date>1970-10-03</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Accompanied President Nixon on an informal visit.</remarks>
@@ -704,8 +718,8 @@
         <id>1720</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-10-03</start-date>
+        <end-date>1970-10-05</end-date>
         <country id="ireland">Ireland</country>
         <locale>Dublin, Waterville, Timahoe</locale>
         <remarks>Accompanied President Nixon on a State visit.</remarks>
@@ -718,8 +732,8 @@
         <id>1721</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-11-11</start-date>
+        <end-date>1970-11-12</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Accompanied President Nixon to the funeral of former President De Gaulle.</remarks>
@@ -732,11 +746,11 @@
         <id>1722</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-11-23</start-date>
+        <end-date>1970-11-24</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Attended a meeting of the Joint U.S.-Canadian Committee on Trade and Economic             Affairs.</remarks>
+        <remarks>Attended a meeting of the Joint U.S.-Canadian Committee on Trade and Economic Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -746,8 +760,8 @@
         <id>1723</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-11-29</start-date>
+        <end-date>1970-12-01</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>Attended the inauguration of President Echeverria.</remarks>
@@ -760,8 +774,8 @@
         <id>1724</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1970-12-02</start-date>
+        <end-date>1970-12-05</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -774,8 +788,8 @@
         <id>1725</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-04-13</start-date>
+        <end-date>1971-04-16</end-date>
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
         <remarks>Attended OAS General Assembly Meeting.</remarks>
@@ -788,8 +802,8 @@
         <id>1726</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-04-16</start-date>
+        <end-date>1971-04-18</end-date>
         <country id="mexico">Mexico</country>
         <locale>Cozumel</locale>
         <remarks>Vacation.</remarks>
@@ -802,8 +816,8 @@
         <id>1727</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-04-26</start-date>
+        <end-date>1971-04-29</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended SEATO Council Meeting.</remarks>
@@ -816,8 +830,8 @@
         <id>1728</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-04-29</start-date>
+        <end-date>1971-04-29</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with Foreign Minister Schuman.</remarks>
@@ -830,8 +844,8 @@
         <id>1729</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-04-29</start-date>
+        <end-date>1971-05-01</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
         <remarks>Attended CENTO Ministerial Meeting.</remarks>
@@ -844,8 +858,8 @@
         <id>1730</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-05-01</start-date>
+        <end-date>1971-05-02</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
         <remarks>Met with King Faisal and Foreign Minister Saqqaf.</remarks>
@@ -858,11 +872,11 @@
         <id>1731</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-05-02</start-date>
+        <end-date>1971-05-03</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Hussein and senior Jordanian officials. Discussed the Jarring Middle             East peace initiative.</remarks>
+        <remarks>Met with King Hussein and senior Jordanian officials. Discussed the Jarring Middle East peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -872,8 +886,8 @@
         <id>1732</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-05-03</start-date>
+        <end-date>1971-05-04</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
         <remarks>Met with President Frangieh and senior Lebanese officials.</remarks>
@@ -886,11 +900,11 @@
         <id>1733</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-05-04</start-date>
+        <end-date>1971-05-06</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Sadat and senior Egyptian officials. Discussed the Jarring peace             initiative.</remarks>
+        <remarks>Met with President Sadat and senior Egyptian officials. Discussed the Jarring peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -900,11 +914,11 @@
         <id>1734</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-05-06</start-date>
+        <end-date>1971-05-08</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv</locale>
-        <remarks>Met with Prime Minister Meir, Foreign Minister Eban, and senior Israeli officials.             Discussed the Jarring peace initiative.</remarks>
+        <remarks>Met with Prime Minister Meir, Foreign Minister Eban, and senior Israeli officials. Discussed the Jarring peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -914,8 +928,8 @@
         <id>1735</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-05-08</start-date>
+        <end-date>1971-05-09</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with Foreign Minister Moro and senior Italian officials.</remarks>
@@ -928,8 +942,8 @@
         <id>1736</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-05-08</start-date>
+        <end-date>1971-05-08</end-date>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
@@ -942,8 +956,8 @@
         <id>1737</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-06-01</start-date>
+        <end-date>1971-06-06</end-date>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -956,8 +970,8 @@
         <id>1738</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-06-06</start-date>
+        <end-date>1971-06-09</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended the 10th OECD Ministerial Council Meeting.</remarks>
@@ -970,8 +984,8 @@
         <id>1739</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-10-29</start-date>
+        <end-date>1971-11-01</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Vacation.</remarks>
@@ -984,8 +998,8 @@
         <id>1740</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-12-07</start-date>
+        <end-date>1971-12-10</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -998,11 +1012,11 @@
         <id>1741</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-12-12</start-date>
+        <end-date>1971-12-14</end-date>
         <country id="portugal">Portugal</country>
         <locale>Terceira Island (Azores)</locale>
-        <remarks>Accoompanied President Nixon to meeting with French President Pompidou and             Portuguese Prime Minister Caetano.</remarks>
+        <remarks>Accoompanied President Nixon to meeting with French President Pompidou and Portuguese Prime Minister Caetano.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1012,8 +1026,8 @@
         <id>1742</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1971-12-20</start-date>
+        <end-date>1971-12-21</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Accompanied President Nixon to meeting with British Prime Minister Heath.</remarks>
@@ -1026,8 +1040,8 @@
         <id>1743</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-02-17</start-date>
+        <end-date>1972-02-28</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Peking</locale>
         <remarks>Accompanied President Nixon on a State visit.</remarks>
@@ -1040,8 +1054,8 @@
         <id>1744</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-04-13</start-date>
+        <end-date>1972-04-15</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Accompanied President Nixon on a State visit.</remarks>
@@ -1054,8 +1068,8 @@
         <id>1745</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-05-02</start-date>
+        <end-date>1972-05-03</end-date>
         <country id="iceland">Iceland</country>
         <locale>Reykjavik</locale>
         <remarks>Met with Prime Minister Johannesson and Foreign Minister Agustsson.</remarks>
@@ -1068,11 +1082,11 @@
         <id>1746</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-05-03</start-date>
+        <end-date>1972-05-04</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Pre-summit consultation with Prime Minister Heath and Foreign Secretary Douglas             Home.</remarks>
+        <remarks>Pre-summit consultation with Prime Minister Heath and Foreign Secretary Douglas Home.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1082,11 +1096,11 @@
         <id>1747</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-05-04</start-date>
+        <end-date>1972-05-05</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with the Belgian and Dutch Foreign Ministers and with the President of the             Commission of the European Community.</remarks>
+        <remarks>Met with the Belgian and Dutch Foreign Ministers and with the President of the Commission of the European Community.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1096,8 +1110,8 @@
         <id>1748</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-05-05</start-date>
+        <end-date>1972-05-06</end-date>
         <country id="luxembourg">Luxembourg</country>
         <locale>Luxembourg</locale>
         <remarks>Official visit. Met with Grand Duke Jean and senior Luxembourg officials.</remarks>
@@ -1110,8 +1124,8 @@
         <id>1749</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-05-06</start-date>
+        <end-date>1972-05-07</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Met with Foreign Minister Scheel.</remarks>
@@ -1124,8 +1138,8 @@
         <id>1750</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-05-20</start-date>
+        <end-date>1972-05-22</end-date>
         <country id="austria">Austria</country>
         <locale>Salzburg</locale>
         <remarks>Accompanied President Nixon on an informal visit.</remarks>
@@ -1138,8 +1152,8 @@
         <id>1751</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-05-22</start-date>
+        <end-date>1972-05-29</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Accompanied President Nixon Leningrad, Kiev on a State visit.</remarks>
@@ -1152,8 +1166,8 @@
         <id>1752</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-05-29</start-date>
+        <end-date>1972-05-31</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -1166,11 +1180,11 @@
         <id>1753</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-05-31</start-date>
+        <end-date>1972-06-01</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Accompanied President Nixon on official visit. Signed consular convention with             Poland.</remarks>
+        <remarks>Accompanied President Nixon on official visit. Signed consular convention with Poland.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1180,8 +1194,8 @@
         <id>1754</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-06-01</start-date>
+        <end-date>1972-06-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended CENTO Ministerial Meeting.</remarks>
@@ -1194,8 +1208,8 @@
         <id>1755</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-06-02</start-date>
+        <end-date>1972-06-03</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Met with senior West German officials.</remarks>
@@ -1208,11 +1222,11 @@
         <id>1756</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-06-03</start-date>
+        <end-date>1972-06-03</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Signed Final Quadripartite Protocol to the Quadripartite Agreement on Berlin.             Visited East and West Berlin.</remarks>
+        <remarks>Signed Final Quadripartite Protocol to the Quadripartite Agreement on Berlin. Visited East and West Berlin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1222,8 +1236,8 @@
         <id>1757</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-06-24</start-date>
+        <end-date>1972-06-29</end-date>
         <country id="australia">Australia</country>
         <locale>Canberra, Perth</locale>
         <remarks>Attended SEATO and ANZUS Council Meetings.</remarks>
@@ -1236,8 +1250,8 @@
         <id>1758</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-06-30</start-date>
+        <end-date>1972-07-01</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Djakarta</locale>
         <remarks>Met with President Suharto and Foreign Minister Malik.</remarks>
@@ -1250,8 +1264,8 @@
         <id>1759</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-01</start-date>
+        <end-date>1972-07-01</end-date>
         <country id="sri-lanka">Sri Lanka</country>
         <locale>Colombo</locale>
         <remarks>Met with Foreign Minister Bandaranaike while en route to Yemen.</remarks>
@@ -1264,8 +1278,8 @@
         <id>1760</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-01</start-date>
+        <end-date>1972-07-02</end-date>
         <country id="yemen">Yemen</country>
         <locale>Sana'a</locale>
         <remarks>Announced the re-establishment of diplomatic relations.</remarks>
@@ -1278,8 +1292,8 @@
         <id>1761</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-02</start-date>
+        <end-date>1972-07-03</end-date>
         <country id="bahrain">Bahrain</country>
         <locale>Manama</locale>
         <remarks>Met with Amir Sheikh Isa bin Salman al-Khalifa.</remarks>
@@ -1292,8 +1306,8 @@
         <id>1762</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-03</start-date>
+        <end-date>1972-07-04</end-date>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City</locale>
         <remarks>Met with Amir Sheikh Sabah as-Salim as-Sabah.</remarks>
@@ -1306,8 +1320,8 @@
         <id>1763</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-04</start-date>
+        <end-date>1972-07-05</end-date>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
         <remarks>Met with Premier Papadopoulas and senior Greek officials.</remarks>
@@ -1320,11 +1334,11 @@
         <id>1764</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-05</start-date>
+        <end-date>1972-07-06</end-date>
         <country id="romania">Romania</country>
         <locale>Bucharest</locale>
-        <remarks>Met with President Ceausescu. Signed consular convention and cultural and             scientific exchange agreements.</remarks>
+        <remarks>Met with President Ceausescu. Signed consular convention and cultural and scientific exchange agreements.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1334,11 +1348,11 @@
         <id>1765</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-06</start-date>
+        <end-date>1972-07-07</end-date>
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
-        <remarks>Met with First Secretary Kadar. Signed consular convention and scientific and             technical exchange agreements.</remarks>
+        <remarks>Met with First Secretary Kadar. Signed consular convention and scientific and technical exchange agreements.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1348,8 +1362,8 @@
         <id>1766</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-07</start-date>
+        <end-date>1972-07-09</end-date>
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade, Dubrovnik, Pula, Brioni</locale>
         <remarks>Official visit. Met with President Tito July 9.</remarks>
@@ -1362,8 +1376,8 @@
         <id>1767</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-10</start-date>
+        <end-date>1972-07-11</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Leone and senior Italian officials.</remarks>
@@ -1376,8 +1390,8 @@
         <id>1768</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-07-11</start-date>
+        <end-date>1972-07-11</end-date>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>
@@ -1390,8 +1404,8 @@
         <id>1769</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1972-12-05</start-date>
+        <end-date>1972-12-08</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -1404,8 +1418,8 @@
         <id>1770</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-01-26</start-date>
+        <end-date>1973-01-27</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Signed the Vietnam Peace Agreement.</remarks>
@@ -1418,8 +1432,8 @@
         <id>1771</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-02-24</start-date>
+        <end-date>1973-03-03</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended the International Conference on Vietnam.</remarks>
@@ -1432,8 +1446,8 @@
         <id>1772</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-12</start-date>
+        <end-date>1973-05-14</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>Met with President Echeverria and senior Mexican officials.</remarks>
@@ -1446,8 +1460,8 @@
         <id>1773</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-14</start-date>
+        <end-date>1973-05-14</end-date>
         <country id="nicaragua">Nicaragua</country>
         <locale>Managua</locale>
         <remarks>Met with President Somoza and senior Nicaraguan officials.</remarks>
@@ -1460,11 +1474,11 @@
         <id>1774</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-14</start-date>
+        <end-date>1973-05-15</end-date>
         <country id="venezuela">Venezuela</country>
         <locale>Caracas</locale>
-        <remarks>Met with President Caldera, Foreign Minister Calvani and senior Venezuelan             officials.</remarks>
+        <remarks>Met with President Caldera, Foreign Minister Calvani and senior Venezuelan officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1474,8 +1488,8 @@
         <id>1775</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-15</start-date>
+        <end-date>1973-05-16</end-date>
         <country id="peru">Peru</country>
         <locale>Lima</locale>
         <remarks>Met with President Velasco and addressed the Andean Pact Junta.</remarks>
@@ -1488,11 +1502,11 @@
         <id>1776</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-17</start-date>
+        <end-date>1973-05-18</end-date>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
-        <remarks>Met with President Pastrana, Foreign Minister Vasquez, and senior Colombian             officials.</remarks>
+        <remarks>Met with President Pastrana, Foreign Minister Vasquez, and senior Colombian officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1502,8 +1516,8 @@
         <id>1777</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-19</start-date>
+        <end-date>1973-05-22</end-date>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro, Brasilia</locale>
         <remarks>Met with President Medici and senior Brazilian officials.</remarks>
@@ -1516,8 +1530,8 @@
         <id>1778</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-23</start-date>
+        <end-date>1973-05-26</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
         <remarks>Attended the inauguration of President Campora.</remarks>
@@ -1530,8 +1544,8 @@
         <id>1779</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-27</start-date>
+        <end-date>1973-05-27</end-date>
         <country id="netherlands-antilles">Netherlands Antilles</country>
         <locale>Curacao</locale>
         <remarks>Stopped en route to Jamaica.</remarks>
@@ -1544,8 +1558,8 @@
         <id>1780</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-27</start-date>
+        <end-date>1973-05-28</end-date>
         <country id="jamaica">Jamaica</country>
         <locale>Kingston</locale>
         <remarks>Met with Prime Minister Manley and senior officials.</remarks>
@@ -1558,8 +1572,8 @@
         <id>1781</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-05-30</start-date>
+        <end-date>1973-06-01</end-date>
         <country id="iceland">Iceland</country>
         <locale>Reykjavik</locale>
         <remarks>Accompanied President Nixon to a meeting with French President Pompidou.</remarks>
@@ -1572,8 +1586,8 @@
         <id>1782</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-06-08</start-date>
+        <end-date>1973-06-11</end-date>
         <country id="iran">Iran</country>
         <locale>Tehran</locale>
         <remarks>Attended CENTO Council Meeting.</remarks>
@@ -1586,8 +1600,8 @@
         <id>1783</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-06-12</start-date>
+        <end-date>1973-06-15</end-date>
         <country id="denmark">Denmark</country>
         <locale>Copenhagen</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -1600,8 +1614,8 @@
         <id>1784</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-07-01</start-date>
+        <end-date>1973-07-01</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended the birthday party of former Prime Minister Douglas-Home.</remarks>
@@ -1614,11 +1628,11 @@
         <id>1785</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-07-01</start-date>
+        <end-date>1973-07-03</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Attended the first phase of the Conference on Security and Cooperation in             Europe.</remarks>
+        <remarks>Attended the first phase of the Conference on Security and Cooperation in Europe.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1628,8 +1642,8 @@
         <id>1786</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-07-08</start-date>
+        <end-date>1973-07-09</end-date>
         <country id="czechoslovakia">Czechoslovakia</country>
         <locale>Prague</locale>
         <remarks>Official visit. Signed a consular convention.</remarks>
@@ -1642,11 +1656,11 @@
         <id>1787</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-07-15</start-date>
+        <end-date>1973-07-17</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of the Joint U.S.-Japan Committee on Trade and Economic             Affairs.</remarks>
+        <remarks>Attended a meeting of the Joint U.S.-Japan Committee on Trade and Economic Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1656,8 +1670,8 @@
         <id>1788</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
+        <start-date>1973-07-18</start-date>
+        <end-date>1973-07-20</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with President Park and senior Korean officials.</remarks>
@@ -1665,19 +1679,5 @@
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
-    </trip>
-    <trip who="rogers-william-pierce" role="secretary">
-        <id>3892</id>
-        <role>secretary</role>
-        <name>William Pierce Rogers</name>
-        <start-date/>
-        <end-date/>
-        <country id="france">France</country>
-        <locale>Paris</locale>
-        <remarks>Accompanied President Nixon.</remarks>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2018-09-14T14:35:48.889-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2018-09-14T14:35:48.889-04:00</last-modified-datetime>
     </trip>
 </trips>
