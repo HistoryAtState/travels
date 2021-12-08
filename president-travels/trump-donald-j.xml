@@ -460,7 +460,7 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2021-06-09T10:55:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-12-01T23:03:17-04:00</last-modified-datetime>
+        <last-modified-datetime>2021-12-08T13:35:14-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
         <id>3988</id>
@@ -474,6 +474,6 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2021-06-09T10:57:00-04:00</created-datetime>
         <last-modified-by/>
-        <last-modified-datetime>2021-12-01T23:03:54-04:00</last-modified-datetime>
+        <last-modified-datetime>2021-12-08T13:34:12-04:00</last-modified-datetime>
     </trip>
 </trips>
