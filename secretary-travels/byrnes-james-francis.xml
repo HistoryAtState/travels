@@ -4,8 +4,8 @@
         <id>487</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
-        <start-date>1945-07-15</start-date>
-        <end-date>1945-07-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Antwerp, Brussels</locale>
         <remarks>Disembarked en route to the Potsdam Conference. Left U.S. July 6.</remarks>
@@ -18,8 +18,8 @@
         <id>488</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
-        <start-date>1945-07-17</start-date>
-        <end-date>1945-07-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Potsdam</locale>
         <remarks>Accompanied President Truman to the Tripartite Conference of Berlin (Potsdam             Conference).</remarks>
@@ -32,8 +32,8 @@
         <id>489</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
-        <start-date>1945-08-02</start-date>
-        <end-date>1945-08-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Plymouth</locale>
         <remarks>Accompanied President Truman to a meeting with King George VI. Returned to U.S.             August 7.</remarks>
@@ -46,8 +46,8 @@
         <id>490</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
-        <start-date>1945-09-05</start-date>
-        <end-date>1945-10-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended Council of Foreign Ministers meeting.</remarks>
@@ -60,8 +60,8 @@
         <id>491</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
-        <start-date>1945-12-14</start-date>
-        <end-date>1945-12-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Ministers meeting. Left U.S. December 12; returned December 29.</remarks>
@@ -74,8 +74,8 @@
         <id>492</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
-        <start-date>1946-01-04</start-date>
-        <end-date>1946-01-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended first session of the UN General Assembly.</remarks>
@@ -88,8 +88,8 @@
         <id>493</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
-        <start-date>1946-04-25</start-date>
-        <end-date>1946-05-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended Second Session of the Council of Foreign Ministers.</remarks>
@@ -102,8 +102,8 @@
         <id>494</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
-        <start-date>1946-06-13</start-date>
-        <end-date>1946-07-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended second part of the Second Session of the Council of Foreign             Ministers.</remarks>
@@ -116,8 +116,8 @@
         <id>495</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
-        <start-date>1946-07-28</start-date>
-        <end-date>1946-10-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended Paris Peace Conference.</remarks>

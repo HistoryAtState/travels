@@ -4,8 +4,8 @@
         <id>908</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
-        <start-date>1905-04-03</start-date>
-        <end-date>1905-04-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Genoa, Nervi</locale>
         <remarks>Vacation trip for health reasons. Left U.S. March 17.</remarks>
@@ -18,8 +18,8 @@
         <id>909</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
-        <start-date>1905-04-30</start-date>
-        <end-date>1905-05-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Nauheim</locale>
         <remarks>Vacation trip for health reasons.</remarks>
@@ -32,8 +32,8 @@
         <id>910</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
-        <start-date>1905-05-22</start-date>
-        <end-date>1905-06-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Vacation trip for health reasons.</remarks>
@@ -46,8 +46,8 @@
         <id>911</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
-        <start-date>1905-06-02</start-date>
-        <end-date>1905-06-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Liverpool</locale>
         <remarks>Vacation trip for health reasons. Returned to U.S. June 15; died July 1.</remarks>

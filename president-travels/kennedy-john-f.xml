@@ -4,8 +4,8 @@
         <id>2777</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1961-05-16</start-date>
-        <end-date>1961-05-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>State visit; addressed joint session of Parliament.</remarks>
@@ -18,8 +18,8 @@
         <id>2778</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1961-05-31</start-date>
-        <end-date>1961-06-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>State visit; addressed North Atlantic Council and met with President De             Gaulle.</remarks>
@@ -32,8 +32,8 @@
         <id>2779</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1961-06-03</start-date>
-        <end-date>1961-06-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Met with President Sehaerf and held talks with Soviet Premier Khrushchev.</remarks>
@@ -46,8 +46,8 @@
         <id>2780</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1961-06-04</start-date>
-        <end-date>1961-06-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Private visit; met with Queen Elizabeth II and Prime Minister Macmillan.</remarks>
@@ -60,8 +60,8 @@
         <id>2781</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1961-12-16</start-date>
-        <end-date>1961-12-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="venezuela">Venezuela</country>
         <locale>Caracas</locale>
         <remarks>Met with President Betancourt.</remarks>
@@ -74,8 +74,8 @@
         <id>2782</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1961-12-17</start-date>
-        <end-date>1961-12-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
         <remarks>Met with President Lleras Camargo.</remarks>
@@ -88,8 +88,8 @@
         <id>2783</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1961-12-21</start-date>
-        <end-date>1961-12-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Met with Prime Minister Macmillan.</remarks>
@@ -102,8 +102,8 @@
         <id>2784</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1962-06-29</start-date>
-        <end-date>1962-07-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>State visit; met with President Lopez Mateos.</remarks>
@@ -116,8 +116,8 @@
         <id>2785</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1962-12-18</start-date>
-        <end-date>1962-12-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Nassau (The Bahamas)</locale>
         <remarks>Conferred with Prime Minister Macmillan; concluded Nassau agreement on nuclear             defense systems.</remarks>
@@ -130,8 +130,8 @@
         <id>2786</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1963-03-18</start-date>
-        <end-date>1963-03-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
         <remarks>Attended Conference of Presidents of the Central American Republics.</remarks>
@@ -144,8 +144,8 @@
         <id>2787</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1963-06-23</start-date>
-        <end-date>1963-06-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn, Cologne, Frankfurt, Wiesbaden</locale>
         <remarks>Met with Chancellor Adenauer and other officials.</remarks>
@@ -158,8 +158,8 @@
         <id>2788</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1963-06-26</start-date>
-        <end-date>1963-06-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>West Berlin</locale>
         <remarks>Delivered several public addresses.</remarks>
@@ -172,8 +172,8 @@
         <id>2789</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1963-06-26</start-date>
-        <end-date>1963-06-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ireland">Ireland</country>
         <locale>Dublin, Wexford, Cork, Galway, Limerick</locale>
         <remarks>Addressed Parliament and visited ancestral home.</remarks>
@@ -186,8 +186,8 @@
         <id>2790</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1963-06-29</start-date>
-        <end-date>1963-06-30</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Birch Grove, Sussex</locale>
         <remarks>Informal visit with Prime Minister Macmillan at his home.</remarks>
@@ -200,8 +200,8 @@
         <id>2791</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1963-07-01</start-date>
-        <end-date>1963-07-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome, Naples</locale>
         <remarks>Met with President Segni, Italian and NATO officials.</remarks>
@@ -214,8 +214,8 @@
         <id>2792</id>
         <role>president</role>
         <name>John F. Kennedy</name>
-        <start-date>1963-07-02</start-date>
-        <end-date>1963-07-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Paul VI.</remarks>

@@ -4,8 +4,8 @@
         <id>270</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-10</start-date>
-        <end-date>1989-02-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Accompanied President Bush on a working visit.</remarks>
@@ -18,8 +18,8 @@
         <id>271</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-11</start-date>
-        <end-date>1989-02-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="iceland">Iceland</country>
         <locale>Reykjavik</locale>
         <remarks>Met with Foreign Minister Hannibalsson.</remarks>
@@ -32,8 +32,8 @@
         <id>272</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-11</start-date>
-        <end-date>1989-02-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Foreign Secretary Howe.</remarks>
@@ -46,8 +46,8 @@
         <id>273</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-12</start-date>
-        <end-date>1989-02-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Discussed modernization of short-range NATO nuclear missiles with Foreign Minister             Genscher.</remarks>
@@ -60,8 +60,8 @@
         <id>274</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-13</start-date>
-        <end-date>1989-02-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="denmark">Denmark</country>
         <locale>Copenhagen</locale>
         <remarks>Met with Foreign Minister Ellemann-Jensen.</remarks>
@@ -74,8 +74,8 @@
         <id>275</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-13</start-date>
-        <end-date>1989-02-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="norway">Norway</country>
         <locale>Oslo</locale>
         <remarks>Met with Prime Minister Brundtland and Foreign Minister Stoltenberg.</remarks>
@@ -88,8 +88,8 @@
         <id>276</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-14</start-date>
-        <end-date>1989-02-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
         <remarks>Met with Prime Minister Ozal and Foreign Minister Yilmaz.</remarks>
@@ -102,8 +102,8 @@
         <id>277</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-14</start-date>
-        <end-date>1989-02-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
         <remarks>Met with Prime Minister Papandreou and Foreign Minister Papoulias.</remarks>
@@ -116,8 +116,8 @@
         <id>278</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-14</start-date>
-        <end-date>1989-02-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with Foreign Minister Andreotti.</remarks>
@@ -130,8 +130,8 @@
         <id>279</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-15</start-date>
-        <end-date>1989-02-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Met with Foreign Minister Fernandez-Ordonez.</remarks>
@@ -144,8 +144,8 @@
         <id>280</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-15</start-date>
-        <end-date>1989-02-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
         <remarks>Met with Prime Minister Cavaco Silva and Foreign Minister Pinheiro.</remarks>
@@ -158,8 +158,8 @@
         <id>281</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-15</start-date>
-        <end-date>1989-02-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Met with Foreign Minister Tindemans and NATO officials.</remarks>
@@ -172,8 +172,8 @@
         <id>282</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-16</start-date>
-        <end-date>1989-02-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="luxembourg">Luxembourg</country>
         <locale>Luxembourg</locale>
         <remarks>Met with Prime Minister Santer and Foreign Minister Poos.</remarks>
@@ -186,8 +186,8 @@
         <id>283</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-16</start-date>
-        <end-date>1989-02-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague</locale>
         <remarks>Met with Foreign Minister van den Broek.</remarks>
@@ -200,8 +200,8 @@
         <id>284</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-17</start-date>
-        <end-date>1989-02-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with Prime Minister Rocard and Foreign Minister Dumas.</remarks>
@@ -214,8 +214,8 @@
         <id>285</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-23</start-date>
-        <end-date>1989-02-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Accompanied President Bush.</remarks>
@@ -228,8 +228,8 @@
         <id>286</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-02-27</start-date>
-        <end-date>1989-02-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Accompanied President Bush on an official visit.</remarks>
@@ -242,8 +242,8 @@
         <id>287</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-03-04</start-date>
-        <end-date>1989-03-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Attended CSCE Meetings on confidence- and security-building measures and             conventional armed forces in Europe. Met with Soviet Foreign Minister             Shevardnadze.</remarks>
@@ -256,8 +256,8 @@
         <id>288</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-05-09</start-date>
-        <end-date>1989-05-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Overnight stop en route to Moscow.</remarks>
@@ -270,8 +270,8 @@
         <id>289</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-05-10</start-date>
-        <end-date>1989-05-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Met with President Gorbachev, senior Soviet officials, and human rights             activists.</remarks>
@@ -284,8 +284,8 @@
         <id>290</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-05-11</start-date>
-        <end-date>1989-05-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Briefed NATO Foreign Ministers on his visit to Moscow.</remarks>
@@ -298,8 +298,8 @@
         <id>291</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-05-26</start-date>
-        <end-date>1989-05-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Accompanied President Bush. Also met with South African Foreign Minister             Botha.</remarks>
@@ -312,8 +312,8 @@
         <id>292</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-05-27</start-date>
-        <end-date>1989-05-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
@@ -326,8 +326,8 @@
         <id>293</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-05-28</start-date>
-        <end-date>1989-05-30</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Accompanied President Bush to NATO Summit Meeting.</remarks>
@@ -340,8 +340,8 @@
         <id>294</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-05-30</start-date>
-        <end-date>1989-05-31</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Accompanied President Bush.</remarks>
@@ -354,8 +354,8 @@
         <id>295</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-05-31</start-date>
-        <end-date>1989-06-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Accompanied President Bush.</remarks>
@@ -368,8 +368,8 @@
         <id>296</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-07-04</start-date>
-        <end-date>1989-07-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Attended the Multilateral Assistance Initiative for the Philippines             conference.</remarks>
@@ -382,8 +382,8 @@
         <id>297</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-07-05</start-date>
-        <end-date>1989-07-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="brunei">Brunei Darussalam</country>
         <locale>Bandar Seri Begawan</locale>
         <remarks>Attended ASEAN Post-Ministerial Meeting.</remarks>
@@ -396,8 +396,8 @@
         <id>298</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-07-08</start-date>
-        <end-date>1989-07-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="oman">Oman</country>
         <locale>Muscat</locale>
         <remarks>Stopped while traveling to Poland to join President Bush.</remarks>
@@ -410,8 +410,8 @@
         <id>299</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-07-09</start-date>
-        <end-date>1989-07-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="poland">Poland</country>
         <locale>Warsaw, Gdansk</locale>
         <remarks>Accompanied President Bush.</remarks>
@@ -424,8 +424,8 @@
         <id>300</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-07-11</start-date>
-        <end-date>1989-07-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
         <remarks>Accompanied President Bush.</remarks>
@@ -438,8 +438,8 @@
         <id>301</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-07-13</start-date>
-        <end-date>1989-07-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Accompanied President Bush to the Economic Summit Meeting.</remarks>
@@ -452,8 +452,8 @@
         <id>302</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-07-17</start-date>
-        <end-date>1989-07-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague</locale>
         <remarks>Accompanied President Bush.</remarks>
@@ -466,8 +466,8 @@
         <id>303</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-07-28</start-date>
-        <end-date>1989-07-31</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended the opening of the International Conference on Cambodia. Also met with             Soviet Foreign Minister Shevardnadze.</remarks>
@@ -480,8 +480,8 @@
         <id>304</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-08-06</start-date>
-        <end-date>1989-08-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>Attended the 7th meeting of the U.S.-Mexico Binati.</remarks>
@@ -494,8 +494,8 @@
         <id>305</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-10-27</start-date>
-        <end-date>1989-10-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
         <remarks>Accompanied President Bush to Hemispheric Summit Meeting.</remarks>
@@ -508,8 +508,8 @@
         <id>306</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-11-01</start-date>
-        <end-date>1989-11-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="australia">Australia</country>
         <locale>Sydney, Canberra</locale>
         <remarks>Attended U.S.-Australian Bilateral Ministerial Meeting and Conference on Asia             Pacific Economic Cooperation.</remarks>
@@ -522,8 +522,8 @@
         <id>307</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-12-01</start-date>
-        <end-date>1989-12-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="malta">Malta</country>
         <locale>Valletta, Marsaxlokk Bay</locale>
         <remarks>Accompanied President Bush to meetings with Soviet President Gorbachev.</remarks>
@@ -536,8 +536,8 @@
         <id>308</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-12-03</start-date>
-        <end-date>1989-12-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Accompanied President Bush to meetings with NATO heads of state and             government.</remarks>
@@ -550,8 +550,8 @@
         <id>309</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-12-11</start-date>
-        <end-date>1989-12-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Prime Minister Thatcher and Foreign Secretary Hurd.</remarks>
@@ -564,8 +564,8 @@
         <id>310</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-12-11</start-date>
-        <end-date>1989-12-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>West Berlin</locale>
         <remarks>Met with West German Chancellor Kohl; delivered a public address.</remarks>
@@ -578,8 +578,8 @@
         <id>311</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-12-12</start-date>
-        <end-date>1989-12-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="german-democratic-republic">German Democratic Republic</country>
         <locale>Potsdam</locale>
         <remarks>Met with East German Prime Minister Modrow and with religious leaders.</remarks>
@@ -592,8 +592,8 @@
         <id>312</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-12-13</start-date>
-        <end-date>1989-12-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Discussed aid to Eastern Europe with representatives of the Group of 24; attended a             NATO Foreign Ministers Meeting.</remarks>
@@ -606,8 +606,8 @@
         <id>313</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-12-16</start-date>
-        <end-date>1989-12-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="netherlands-antilles">Netherlands Antilles</country>
         <locale>St. Maartin</locale>
         <remarks>Accompanied President Bush en route to meeting with French President             Mitterrand.</remarks>
@@ -620,8 +620,8 @@
         <id>314</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1989-12-16</start-date>
-        <end-date>1989-12-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>St. Martin Island (West Indies)</locale>
         <remarks>Accompanied President Bush to an informal meeting with President             Mitterrand.</remarks>
@@ -634,8 +634,8 @@
         <id>315</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-02-06</start-date>
-        <end-date>1990-02-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ireland">Ireland</country>
         <locale>Shannon</locale>
         <remarks>Met with French Foreign Minister Dumas.</remarks>
@@ -648,8 +648,8 @@
         <id>316</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-02-06</start-date>
-        <end-date>1990-02-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="czechoslovakia">Czechoslovakia</country>
         <locale>Prague</locale>
         <remarks>Met with President Havel; delivered an address at Charles University.</remarks>
@@ -662,8 +662,8 @@
         <id>317</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-02-07</start-date>
-        <end-date>1990-02-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Met with Soviet leaders; addressed the International Affairs Committee of the             Supreme Soviet.</remarks>
@@ -676,8 +676,8 @@
         <id>318</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-02-10</start-date>
-        <end-date>1990-02-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="bulgaria">Bulgaria</country>
         <locale>Sofia</locale>
         <remarks>Met with Bulgarian officials and opposition leaders.</remarks>
@@ -690,8 +690,8 @@
         <id>319</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-02-11</start-date>
-        <end-date>1990-02-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="romania">Romania</country>
         <locale>Bucharest</locale>
         <remarks>Met with Romanian officials and opposition leaders.</remarks>
@@ -704,8 +704,8 @@
         <id>320</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-02-11</start-date>
-        <end-date>1990-02-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Attended Open Skies Ministerial Conference of NATO and Warsaw Pact Foreign             Ministers.</remarks>
@@ -718,8 +718,8 @@
         <id>321</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-02-15</start-date>
-        <end-date>1990-02-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="colombia">Colombia</country>
         <locale>Cartagena</locale>
         <remarks>Accompanied President Bush to Drug Summit Meeting with the Presidents of Colombia,             Bolivia, and Peru.</remarks>
@@ -732,8 +732,8 @@
         <id>322</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-03-19</start-date>
-        <end-date>1990-03-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="namibia">Namibia</country>
         <locale>Windhoek</locale>
         <remarks>Attended Namibian independence ceremonies. Met with Soviet Foreign Minister             Shevardnadze.</remarks>
@@ -746,8 +746,8 @@
         <id>323</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-03-22</start-date>
-        <end-date>1990-03-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="south-africa">South Africa</country>
         <locale>Cape Town, Johannesburg, Soweto</locale>
         <remarks>Met with President De Klerk, South African officials, and leaders of the African             National Congress (ANC).</remarks>
@@ -760,8 +760,8 @@
         <id>324</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-03-23</start-date>
-        <end-date>1990-03-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</country>
         <locale>Kinshasa</locale>
         <remarks>Met with President Mobutu and with UNITA leader Savimbi.</remarks>
@@ -774,8 +774,8 @@
         <id>325</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-04-13</start-date>
-        <end-date>1990-04-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Accompanied President Bush to an informal meeting with Prime Minister             Thatcher.</remarks>
@@ -788,8 +788,8 @@
         <id>326</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-05-03</start-date>
-        <end-date>1990-05-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Met with NATO and European Community Foreign Ministers.</remarks>
@@ -802,8 +802,8 @@
         <id>327</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-05-04</start-date>
-        <end-date>1990-05-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Attended Two-Plus-Four Ministerial Meeting on German reunification.</remarks>
@@ -816,8 +816,8 @@
         <id>328</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-05-06</start-date>
-        <end-date>1990-05-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
         <remarks>Met with Polish officials and leaders of Solidarity.</remarks>
@@ -830,8 +830,8 @@
         <id>329</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-05-15</start-date>
-        <end-date>1990-05-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow, Zagorsk, Radonezsh</locale>
         <remarks>Attended pre-summit and arms reduction negotiations with senior Soviet officials.             Also met with Egyptian President Mubarak and Lithuanian Prime Minister             Prunskiene.</remarks>
@@ -844,8 +844,8 @@
         <id>330</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-06-05</start-date>
-        <end-date>1990-06-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="denmark">Denmark</country>
         <locale>Copenhagen</locale>
         <remarks>Attended CSCE Meeting and met with Soviet Foreign Minister Shevardnadze.</remarks>
@@ -858,8 +858,8 @@
         <id>331</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-06-06</start-date>
-        <end-date>1990-06-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Turnberry (Scotland)</locale>
         <remarks>Attended NATO Foreign Ministers meeting.</remarks>
@@ -872,8 +872,8 @@
         <id>332</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-06-17</start-date>
-        <end-date>1990-06-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="guatemala">Guatemala</country>
         <locale>Guatemala City, Antigua Guatemala</locale>
         <remarks>Met with Presidents of the Central American Republics.</remarks>
@@ -886,8 +886,8 @@
         <id>333</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-06-20</start-date>
-        <end-date>1990-06-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="german-democratic-republic">German Democratic Republic</country>
         <locale>East Berlin</locale>
         <remarks>Attended Two-Plus-Four Foreign Ministers Meeting.</remarks>
@@ -900,8 +900,8 @@
         <id>334</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-06-23</start-date>
-        <end-date>1990-06-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ireland">Ireland</country>
         <locale>Shannon</locale>
         <remarks>Met with Foreign Minister Collins.</remarks>
@@ -914,8 +914,8 @@
         <id>335</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-07-03</start-date>
-        <end-date>1990-07-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended meeting of the Group of 24.</remarks>
@@ -928,8 +928,8 @@
         <id>336</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-07-05</start-date>
-        <end-date>1990-07-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Accompanied President Bush to NATO Summit Meeting.</remarks>
@@ -942,8 +942,8 @@
         <id>337</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-07-16</start-date>
-        <end-date>1990-07-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended Two-Plus-Four Foreign Ministers Meeting.</remarks>
@@ -956,8 +956,8 @@
         <id>338</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-07-26</start-date>
-        <end-date>1990-07-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
         <remarks>Attended ASEAN Post-Ministerial Conference.</remarks>
@@ -970,8 +970,8 @@
         <id>339</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-07-29</start-date>
-        <end-date>1990-07-31</end-date>
+        <start-date/>
+        <end-date/>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
         <remarks>Attended Second Asia-Pacific Economic Cooperation Meeting.</remarks>
@@ -984,8 +984,8 @@
         <id>340</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-07-31</start-date>
-        <end-date>1990-08-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Irkutsk</locale>
         <remarks>Met with Foreign Minister Shevardnadze.</remarks>
@@ -998,8 +998,8 @@
         <id>341</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-08-02</start-date>
-        <end-date>1990-08-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mongolia">Mongolia</country>
         <locale>Ulaanbaatar</locale>
         <remarks>Met with President Ochirbat and Foreign Minister Gombosuren.</remarks>
@@ -1012,8 +1012,8 @@
         <id>342</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-08-03</start-date>
-        <end-date>1990-08-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Met with Foreign Minister Shevardnadze; issued a joint statement on the Iraqi             invasion of Kuwait.</remarks>
@@ -1026,8 +1026,8 @@
         <id>343</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-08-08</start-date>
-        <end-date>1990-08-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
         <remarks>Met with President Ozal and senior Turkish officials.</remarks>
@@ -1040,8 +1040,8 @@
         <id>344</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-08-10</start-date>
-        <end-date>1990-08-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended a special session of the North Atlantic Council.</remarks>
@@ -1054,8 +1054,8 @@
         <id>345</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-09-06</start-date>
-        <end-date>1990-09-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah, Taif</locale>
         <remarks>Met with King Fahd and with Emir al-Sabah of Kuwait; discussed financing of U.S.             military presence. Visited U.S. military personnel.</remarks>
@@ -1068,8 +1068,8 @@
         <id>346</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-09-07</start-date>
-        <end-date>1990-09-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
         <remarks>Met with Sheikh al-Nahyan.</remarks>
@@ -1082,8 +1082,8 @@
         <id>347</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-09-07</start-date>
-        <end-date>1990-09-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo, Alexandria</locale>
         <remarks>Met with President Mubarak. Discussed increased Egyptian military commitment in the             Persian Gulf.</remarks>
@@ -1096,8 +1096,8 @@
         <id>348</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-09-08</start-date>
-        <end-date>1990-09-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Accompanied President Bush to summit meeting with Soviet President             Gorbachev.</remarks>
@@ -1110,8 +1110,8 @@
         <id>349</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-09-10</start-date>
-        <end-date>1990-09-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Briefed NATO Foreign Ministers on the U.S.-Soviet summit meeting and the Persian             Gulf crisis.</remarks>
@@ -1124,8 +1124,8 @@
         <id>350</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-09-10</start-date>
-        <end-date>1990-09-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Met with President Gorbachev and Foreign Minister Shevardnadze. Attended             Two-Plus-Four Foreign Ministers Meeting. Signed Treaty on the Final Settlement With             Respect to Germany.</remarks>
@@ -1138,8 +1138,8 @@
         <id>351</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-09-13</start-date>
-        <end-date>1990-09-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Met with President Assad and Foreign Minister Sharaa.</remarks>
@@ -1152,8 +1152,8 @@
         <id>352</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-09-15</start-date>
-        <end-date>1990-09-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with senior Italian officials.</remarks>
@@ -1166,8 +1166,8 @@
         <id>353</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-09-15</start-date>
-        <end-date>1990-09-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn, Ludwigshafen</locale>
         <remarks>Met with Chancellor Kohl and Foreign Minister Genscher.</remarks>
@@ -1180,8 +1180,8 @@
         <id>354</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-04</start-date>
-        <end-date>1990-11-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="bahrain">Bahrain</country>
         <locale>Manama</locale>
         <remarks>Met with Amir Sheikh Isa bin Sulman al-Khalifa.</remarks>
@@ -1194,8 +1194,8 @@
         <id>355</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-04</start-date>
-        <end-date>1990-11-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah, Taif</locale>
         <remarks>Met with King Fahd, Foreign Minister Prince Saud, and the Emir of Kuwait. Addressed             U.S. military personnel.</remarks>
@@ -1208,8 +1208,8 @@
         <id>356</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-06</start-date>
-        <end-date>1990-11-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak and Chinese Foreign Minister Qian.</remarks>
@@ -1222,8 +1222,8 @@
         <id>357</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-07</start-date>
-        <end-date>1990-11-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
         <remarks>Met with President Ozal.</remarks>
@@ -1236,8 +1236,8 @@
         <id>358</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-07</start-date>
-        <end-date>1990-11-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Met with President Gorbachev.</remarks>
@@ -1250,8 +1250,8 @@
         <id>359</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-09</start-date>
-        <end-date>1990-11-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Prime Minister Thatcher.</remarks>
@@ -1264,8 +1264,8 @@
         <id>360</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-10</start-date>
-        <end-date>1990-11-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with President Mitterrand.</remarks>
@@ -1278,8 +1278,8 @@
         <id>361</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-13</start-date>
-        <end-date>1990-11-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Met with Canadian External Affairs Secretary Clark.</remarks>
@@ -1292,8 +1292,8 @@
         <id>362</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-16</start-date>
-        <end-date>1990-11-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended U.S.-European Community Meeting.</remarks>
@@ -1306,8 +1306,8 @@
         <id>363</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-17</start-date>
-        <end-date>1990-11-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Discussed the Persian Gulf crisis with the Foreign Ministers of Ethiopia, Cote             d'Ivoire, and Zaire.</remarks>
@@ -1320,8 +1320,8 @@
         <id>364</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-17</start-date>
-        <end-date>1990-11-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed the Persian Gulf crisis with the Foreign Ministers of Romania, Finland,             France, the United Kingdom, and the Soviet Union. Joined President Bush for meetings             with Soviet President Gorbachev, CSCE Summit meeting, and signing of the Conventional             Forces in Europe Treaty.</remarks>
@@ -1334,8 +1334,8 @@
         <id>365</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-21</start-date>
-        <end-date>1990-11-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
         <remarks>Accompanied President Bush to meetings with King Fahd and the Amir of             Kuwait.</remarks>
@@ -1348,8 +1348,8 @@
         <id>366</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-22</start-date>
-        <end-date>1990-11-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="yemen">Yemen</country>
         <locale>Sana'a</locale>
         <remarks>Discussed the Persian Gulf crisis with President Salih.</remarks>
@@ -1362,8 +1362,8 @@
         <id>367</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-23</start-date>
-        <end-date>1990-11-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Accompanied President Bush to meeting with President Mubarak.</remarks>
@@ -1376,8 +1376,8 @@
         <id>368</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-11-24</start-date>
-        <end-date>1990-11-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
         <remarks>Discussed the Persian Gulf crisis with President Gaviria and Foreign Minister             Jaramillo.</remarks>
@@ -1390,8 +1390,8 @@
         <id>369</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1990-12-16</start-date>
-        <end-date>1990-12-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -1404,8 +1404,8 @@
         <id>370</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-06</start-date>
-        <end-date>1991-01-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Discussed the Persian Gulf crisis with Foreign Secretary Hurd, EC Chairman Poos,             Spanish Foreign Minister Fernandez Ordonez, and NATO Secretary General             Woerner.</remarks>
@@ -1418,8 +1418,8 @@
         <id>371</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-08</start-date>
-        <end-date>1991-01-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed the Persian Gulf crisis with President Mitterrand and Foreign Minister             Dumas.</remarks>
@@ -1432,8 +1432,8 @@
         <id>372</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-08</start-date>
-        <end-date>1991-01-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Bonn</locale>
         <remarks>Discussed the Persian Gulf crisis with Chancellor Kohl.</remarks>
@@ -1446,8 +1446,8 @@
         <id>373</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-08</start-date>
-        <end-date>1991-01-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Milan</locale>
         <remarks>Discussed the Persian Gulf crisis with Foreign Minister DeMichelis.</remarks>
@@ -1460,8 +1460,8 @@
         <id>374</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-08</start-date>
-        <end-date>1991-01-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Discussed the Persian Gulf crisis with Iraqi Foreign Minister Aziz.</remarks>
@@ -1474,8 +1474,8 @@
         <id>375</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-10</start-date>
-        <end-date>1991-01-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
         <remarks>Discussed the Persian Gulf crisis with King Fahd and Foreign Minister Prince             Saud.</remarks>
@@ -1488,8 +1488,8 @@
         <id>376</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-11</start-date>
-        <end-date>1991-01-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
         <remarks>Discussed the Persian Gulf Emirates crisis with Sheikh Zayed.</remarks>
@@ -1502,8 +1502,8 @@
         <id>377</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-11</start-date>
-        <end-date>1991-01-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Taif</locale>
         <remarks>Discussed the Persian Gulf crisis with the Amir of Kuwait. Addressed U.S. military             personnel in eastern Saudi Arabia.</remarks>
@@ -1516,8 +1516,8 @@
         <id>378</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-11</start-date>
-        <end-date>1991-01-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Persian Gulf crisis with President Mubarak and Foreign Minister             Abdel-Meguid.</remarks>
@@ -1530,8 +1530,8 @@
         <id>379</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-12</start-date>
-        <end-date>1991-01-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Persian Gulf crisis with President Assad and Foreign Minister             Sharaa.</remarks>
@@ -1544,8 +1544,8 @@
         <id>380</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-12</start-date>
-        <end-date>1991-01-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Incirlik, Ankara</locale>
         <remarks>Discussed the Persian Gulf crisis with President Ozal and Foreign Minister             Alptemocin.</remarks>
@@ -1558,8 +1558,8 @@
         <id>381</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-13</start-date>
-        <end-date>1991-01-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Alconbury</locale>
         <remarks>Discussed the Persian Gulf crisis with Prime Minister Major.</remarks>
@@ -1572,8 +1572,8 @@
         <id>382</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-01-13</start-date>
-        <end-date>1991-01-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Discussed the Persian Gulf crisis with Prime Minister Mulroney.</remarks>
@@ -1586,8 +1586,8 @@
         <id>383</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-03-08</start-date>
-        <end-date>1991-03-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Taif, Riyadh</locale>
         <remarks>Met with the Amir of Kuwait and with the Foreign Ministers of Egypt, Syria, and the             Gulf Cooperation Council.</remarks>
@@ -1600,8 +1600,8 @@
         <id>384</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-03-10</start-date>
-        <end-date>1991-03-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak.</remarks>
@@ -1614,8 +1614,8 @@
         <id>385</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-03-11</start-date>
-        <end-date>1991-03-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem, Karmeil</locale>
         <remarks>Discussed the Middle East peace process with President Herzog, Prime Minister             Shamir, Foreign Minister Levy, and Palestinian representatives.</remarks>
@@ -1628,8 +1628,8 @@
         <id>386</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-03-13</start-date>
-        <end-date>1991-03-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad and Foreign Minister             Sharaa.</remarks>
@@ -1642,8 +1642,8 @@
         <id>387</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-03-14</start-date>
-        <end-date>1991-03-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Met with President Gorbachev and Foreign Minister Bessmertnkyh.</remarks>
@@ -1656,8 +1656,8 @@
         <id>388</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-03-16</start-date>
-        <end-date>1991-03-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
         <remarks>Met with President Ozal and senior Turkish officials.</remarks>
@@ -1670,8 +1670,8 @@
         <id>389</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-07</start-date>
-        <end-date>1991-04-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Diyarbakir, Cukurca, Uzumlu</locale>
         <remarks>Discussed emergency aid to Kurdish refugees with President Ozal; visited refugee             camps.</remarks>
@@ -1684,8 +1684,8 @@
         <id>390</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-08</start-date>
-        <end-date>1991-04-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Shamir, Israeli             officials, and a Palestinian delegation.</remarks>
@@ -1698,8 +1698,8 @@
         <id>391</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-10</start-date>
-        <end-date>1991-04-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Middle East peace process with President Mubarak, Foreign Minister             Abdel-Meguid, and Saudi Foreign Minister Prince Saud.</remarks>
@@ -1712,8 +1712,8 @@
         <id>392</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-11</start-date>
-        <end-date>1991-04-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad, Foreign Minister             Sharaa, and Tunisian Foreign Minister Ben Yahya.</remarks>
@@ -1726,8 +1726,8 @@
         <id>393</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-12</start-date>
-        <end-date>1991-04-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Discussed the Middle East peace process with Jordanian Foreign Minister Masri. Also             discussed aid to Kurdish refugees with heads of international relief agencies.</remarks>
@@ -1740,8 +1740,8 @@
         <id>394</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-17</start-date>
-        <end-date>1991-04-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="luxembourg">Luxembourg</country>
         <locale>Luxembourg</locale>
         <remarks>Discussed aid to Kurdish refugees and the Middle East peace process with European             Community Foreign Ministers.</remarks>
@@ -1754,8 +1754,8 @@
         <id>395</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-18</start-date>
-        <end-date>1991-04-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with senior Israeli officials and             Palestinian representatives.</remarks>
@@ -1768,8 +1768,8 @@
         <id>396</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-20</start-date>
-        <end-date>1991-04-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Aqaba</locale>
         <remarks>Discussed the Middle East peace process with King Hussein.</remarks>
@@ -1782,8 +1782,8 @@
         <id>397</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-20</start-date>
-        <end-date>1991-04-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Middle East peace process with President Mubarak and Foreign Minister             Abdel-Meguid.</remarks>
@@ -1796,8 +1796,8 @@
         <id>398</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-21</start-date>
-        <end-date>1991-04-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
         <remarks>Discussed the Middle East peace process with King Fahd and Foreign Minister Prince             Saud.</remarks>
@@ -1810,8 +1810,8 @@
         <id>399</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-22</start-date>
-        <end-date>1991-04-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City</locale>
         <remarks>Discussed postwar economic assistance with the Amir and Crown Prince.</remarks>
@@ -1824,8 +1824,8 @@
         <id>400</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-22</start-date>
-        <end-date>1991-04-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with Foreign Minister Sharaa.</remarks>
@@ -1838,8 +1838,8 @@
         <id>401</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-24</start-date>
-        <end-date>1991-04-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Kislovodsk</locale>
         <remarks>Discussed the Middle East peace process and implementation of the CFE Treaty with             Foreign Minister Bessmertnykh.</remarks>
@@ -1852,8 +1852,8 @@
         <id>402</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-04-25</start-date>
-        <end-date>1991-04-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Shamir.</remarks>
@@ -1866,8 +1866,8 @@
         <id>403</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-05-11</start-date>
-        <end-date>1991-05-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad.</remarks>
@@ -1880,8 +1880,8 @@
         <id>404</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-05-12</start-date>
-        <end-date>1991-05-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Middle East peace process with President Mubarak and Soviet Foreign             Minister Bessmertnykh.</remarks>
@@ -1894,8 +1894,8 @@
         <id>405</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-05-14</start-date>
-        <end-date>1991-05-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed the Middle East peace process with King Hussein.</remarks>
@@ -1908,8 +1908,8 @@
         <id>406</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-05-14</start-date>
-        <end-date>1991-05-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Shamir and senior             Israeli officials.</remarks>
@@ -1922,8 +1922,8 @@
         <id>407</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-05-31</start-date>
-        <end-date>1991-06-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
         <remarks>Witnessed the signing of the Angola Peace Accords.</remarks>
@@ -1936,8 +1936,8 @@
         <id>408</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-06-05</start-date>
-        <end-date>1991-06-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="denmark">Denmark</country>
         <locale>Copenhagen</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -1950,8 +1950,8 @@
         <id>409</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-06-07</start-date>
-        <end-date>1991-06-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Met with Soviet Foreign Minister Bessmertnykh.</remarks>
@@ -1964,8 +1964,8 @@
         <id>410</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-06-17</start-date>
-        <end-date>1991-06-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Berlin, Halle</locale>
         <remarks>Attended CSCE Foreign Ministers' Meeting and discussed strategic arms reductions             with Soviet Foreign Minister Bessmertnykh.</remarks>
@@ -1978,8 +1978,8 @@
         <id>411</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-06-21</start-date>
-        <end-date>1991-06-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade</locale>
         <remarks>Met with Prime Minister Markovic and with the presidents of the 6             republics.</remarks>
@@ -1992,8 +1992,8 @@
         <id>412</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-06-22</start-date>
-        <end-date>1991-06-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="albania">Albania</country>
         <locale>Tirana</locale>
         <remarks>Met with President Alia and senior officials; addressed the Albanian             Parliament.</remarks>
@@ -2006,8 +2006,8 @@
         <id>413</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-07-15</start-date>
-        <end-date>1991-07-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended Economic Summit Meeting and accompanied President Bush to meetings with             Soviet President Gorbachev.</remarks>
@@ -2020,8 +2020,8 @@
         <id>414</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-07-18</start-date>
-        <end-date>1991-07-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed a Middle East peace conference with President Assad.</remarks>
@@ -2034,8 +2034,8 @@
         <id>415</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-07-19</start-date>
-        <end-date>1991-07-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo, Alexandria</locale>
         <remarks>Discussed a Middle East peace conference with President Mubarak.</remarks>
@@ -2048,8 +2048,8 @@
         <id>416</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-07-20</start-date>
-        <end-date>1991-07-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
         <remarks>Discussed a Middle East peace conference with King Fahd.</remarks>
@@ -2062,8 +2062,8 @@
         <id>417</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-07-21</start-date>
-        <end-date>1991-07-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed a Middle East peace conference with King Hussein.</remarks>
@@ -2076,8 +2076,8 @@
         <id>418</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-07-21</start-date>
-        <end-date>1991-07-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed a Middle East peace conference with Prime Minister Shamir, senior Israeli             officials, and Palestinian representatives.</remarks>
@@ -2090,8 +2090,8 @@
         <id>419</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-07-23</start-date>
-        <end-date>1991-07-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="malaysia">Malaysia</country>
         <locale>Kuala Lumpur</locale>
         <remarks>Attended meeting of ASEAN Foreign Ministers.</remarks>
@@ -2104,8 +2104,8 @@
         <id>420</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-07-25</start-date>
-        <end-date>1991-07-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mongolia">Mongolia</country>
         <locale>Ulaanbaatar</locale>
         <remarks>Met with senior Mongolian officials, addressed the Mongolian Parliament, and             observed wildlife in the Gobi Desert.</remarks>
@@ -2118,8 +2118,8 @@
         <id>421</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-07-29</start-date>
-        <end-date>1991-08-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Attended U.S.-Soviet Summit Meeting.</remarks>
@@ -2132,8 +2132,8 @@
         <id>422</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-08-01</start-date>
-        <end-date>1991-08-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed a Middle East peace conference with senior Israeli officials and             Palestinian representatives.</remarks>
@@ -2146,8 +2146,8 @@
         <id>423</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-08-02</start-date>
-        <end-date>1991-08-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed a Middle East peace conference with King Hussein and Foreign Minister             Masri.</remarks>
@@ -2160,8 +2160,8 @@
         <id>424</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-08-03</start-date>
-        <end-date>1991-08-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="morocco">Morocco</country>
         <locale>Rabat</locale>
         <remarks>Discussed a Middle East peace conference with King Hassan II and Foreign Minister             Filali.</remarks>
@@ -2174,8 +2174,8 @@
         <id>425</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-08-04</start-date>
-        <end-date>1991-08-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="tunisia">Tunisia</country>
         <locale>Tunis</locale>
         <remarks>Discussed a Middle East peace conference with President Ben Ali and Foreign             Minister Benyahia. Returned to Morocco afterwards.</remarks>
@@ -2188,8 +2188,8 @@
         <id>426</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-08-05</start-date>
-        <end-date>1991-08-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="algeria">Algeria</country>
         <locale>Algiers</locale>
         <remarks>Discussed a Middle East peace conference with President Benjedid and Foreign             Minister Ghozali.</remarks>
@@ -2202,8 +2202,8 @@
         <id>427</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-08-21</start-date>
-        <end-date>1991-08-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Met with NATO Foreign Ministers to discuss the coup in the Soviet Union.</remarks>
@@ -2216,8 +2216,8 @@
         <id>428</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-08</start-date>
-        <end-date>1991-09-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>Attended meeting of the U.S.-Mexico Binational Commission.</remarks>
@@ -2230,8 +2230,8 @@
         <id>429</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-10</start-date>
-        <end-date>1991-09-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow, St. Petersburg, Alma Ata</locale>
         <remarks>Met with senior officials of the Soviet Union, the Russian Republic, and             Kazakhstan. Attended the CSCE Conference on the Human Dimension.</remarks>
@@ -2244,8 +2244,8 @@
         <id>430</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-14</start-date>
-        <end-date>1991-09-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="estonia">Estonia</country>
         <locale>Tallinn</locale>
         <remarks>Met with Chairman Ruutel and Prime Minister Savisaar.</remarks>
@@ -2258,8 +2258,8 @@
         <id>431</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-14</start-date>
-        <end-date>1991-09-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="latvia">Latvia</country>
         <locale>Riga</locale>
         <remarks>Met with President Gorbunovs and Prime Minister Godmanis.</remarks>
@@ -2272,8 +2272,8 @@
         <id>432</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-14</start-date>
-        <end-date>1991-09-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="lithuania">Lithuania</country>
         <locale>Vilnius</locale>
         <remarks>Met with President Landsbergis and Prime Minister Vagnorius.</remarks>
@@ -2286,8 +2286,8 @@
         <id>433</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-16</start-date>
-        <end-date>1991-09-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed a Middle East peace conference with senior Israeli officials and             Palestinian representatives.</remarks>
@@ -2300,8 +2300,8 @@
         <id>434</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-17</start-date>
-        <end-date>1991-09-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed a Middle East peace conference with President Mubarak and Foreign             Minister Amr Moussa.</remarks>
@@ -2314,8 +2314,8 @@
         <id>435</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-18</start-date>
-        <end-date>1991-09-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed a Middle East peace conference with President Assad and Foreign Minister             Sharaa.</remarks>
@@ -2328,8 +2328,8 @@
         <id>436</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-19</start-date>
-        <end-date>1991-09-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed a Middle East peace conference with King Hussein.</remarks>
@@ -2342,8 +2342,8 @@
         <id>437</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-09-20</start-date>
-        <end-date>1991-09-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed a Middle East peace conference with President Assad.</remarks>
@@ -2356,8 +2356,8 @@
         <id>438</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-10-13</start-date>
-        <end-date>1991-10-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed a Middle East peace conference with President Mubarak.</remarks>
@@ -2370,8 +2370,8 @@
         <id>439</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-10-14</start-date>
-        <end-date>1991-10-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed a Middle East peace conference with King Hussein.</remarks>
@@ -2384,8 +2384,8 @@
         <id>440</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-10-15</start-date>
-        <end-date>1991-10-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed a Middle East peace conference with President Assad.</remarks>
@@ -2398,8 +2398,8 @@
         <id>441</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-10-16</start-date>
-        <end-date>1991-10-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed a Middle East peace conference with senior Israeli officials and             Palestinian representatives. Also met with Soviet Foreign Minister Pankin and announced             a Middle East Peace Conference.</remarks>
@@ -2412,8 +2412,8 @@
         <id>442</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-10-19</start-date>
-        <end-date>1991-10-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Discussed arrangements for a Middle East Peace Conference with senior Spanish             officials.</remarks>
@@ -2426,8 +2426,8 @@
         <id>443</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-10-22</start-date>
-        <end-date>1991-10-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended the signing of the Cambodian Comprehensive Peace Accords and discussed             normalization of relations with Vietnamese Foreign Minister Ngueyn.</remarks>
@@ -2440,8 +2440,8 @@
         <id>444</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-10-29</start-date>
-        <end-date>1991-11-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Accompanied President Bush to a meeting with Soviet President Gorbachev and to the             opening session of the Middle East Peace Conference.</remarks>
@@ -2454,8 +2454,8 @@
         <id>445</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-11-06</start-date>
-        <end-date>1991-11-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Accompanied President Bush to a NATO Summit Meeting.</remarks>
@@ -2468,8 +2468,8 @@
         <id>446</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-11-08</start-date>
-        <end-date>1991-11-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague</locale>
         <remarks>Accompanied President Bush to an European Community Summit Meeting.</remarks>
@@ -2482,8 +2482,8 @@
         <id>447</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-11-10</start-date>
-        <end-date>1991-11-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Miyazawa and Foreign Minister Watanabe.</remarks>
@@ -2496,8 +2496,8 @@
         <id>448</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-11-12</start-date>
-        <end-date>1991-11-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Attended Asia Pacific Economic Cooperation Conference.</remarks>
@@ -2510,8 +2510,8 @@
         <id>449</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-11-15</start-date>
-        <end-date>1991-11-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="china">China</country>
         <locale>Beijing</locale>
         <remarks>Met with President Yang and senior Chinese officials.</remarks>
@@ -2524,8 +2524,8 @@
         <id>450</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-12-15</start-date>
-        <end-date>1991-12-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Met with senior Soviet and Russian officials.</remarks>
@@ -2538,8 +2538,8 @@
         <id>451</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-12-17</start-date>
-        <end-date>1991-12-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="kyrgyzstan">Kirghizia</country>
         <locale>Bishkek</locale>
         <remarks>Met with President Akyev.</remarks>
@@ -2552,8 +2552,8 @@
         <id>452</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-12-17</start-date>
-        <end-date>1991-12-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="kazakhstan">Kazakhstan</country>
         <locale>Alma Ata</locale>
         <remarks>Met with President Nazarbayev.</remarks>
@@ -2566,8 +2566,8 @@
         <id>453</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-12-18</start-date>
-        <end-date>1991-12-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belarus">Byelorussia</country>
         <locale>Minsk</locale>
         <remarks>Soviet Chairman Shuskevich and Foreign Minister Kravchenko.</remarks>
@@ -2580,8 +2580,8 @@
         <id>454</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-12-18</start-date>
-        <end-date>1991-12-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ukraine">Ukraine</country>
         <locale>Kiev</locale>
         <remarks>Met with President Kravchuk.</remarks>
@@ -2594,8 +2594,8 @@
         <id>455</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1991-12-19</start-date>
-        <end-date>1991-12-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting and met with Foreign Ministers of the European             Community.</remarks>
@@ -2608,8 +2608,8 @@
         <id>456</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-01-16</start-date>
-        <end-date>1992-01-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>Attended the signing of the Salvadoran Peace Treaty.</remarks>
@@ -2622,8 +2622,8 @@
         <id>457</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-01-16</start-date>
-        <end-date>1992-01-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="el-salvador">El Salvador</country>
         <locale>San Salvador</locale>
         <remarks>Addressed the Salvadoran National Assembly.</remarks>
@@ -2636,8 +2636,8 @@
         <id>458</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-01-17</start-date>
-        <end-date>1992-01-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="nicaragua">Nicaragua</country>
         <locale>Managua</locale>
         <remarks>Met with President Chamorro.</remarks>
@@ -2650,8 +2650,8 @@
         <id>459</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-01-27</start-date>
-        <end-date>1992-01-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Attended Middle East peace conference.</remarks>
@@ -2664,8 +2664,8 @@
         <id>460</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-01-30</start-date>
-        <end-date>1992-01-30</end-date>
+        <start-date/>
+        <end-date/>
         <country id="czechoslovakia">Czechoslovakia</country>
         <locale>Prague</locale>
         <remarks>Attended CSCE Council of Ministers Meeting.</remarks>
@@ -2678,8 +2678,8 @@
         <id>461</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-02-09</start-date>
-        <end-date>1992-02-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Frankfurt</locale>
         <remarks>Attended ceremonies inaugurating emergency aid to the former Soviet             republics.</remarks>
@@ -2692,8 +2692,8 @@
         <id>462</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-02-11</start-date>
-        <end-date>1992-02-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="moldova">Moldova</country>
         <locale>Kishenev</locale>
         <remarks>Met with President Snegur.</remarks>
@@ -2706,8 +2706,8 @@
         <id>463</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-02-11</start-date>
-        <end-date>1992-02-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="armenia">Armenia</country>
         <locale>Yerevan</locale>
         <remarks>Met with President Ter-Petrossian.</remarks>
@@ -2720,8 +2720,8 @@
         <id>464</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-02-12</start-date>
-        <end-date>1992-02-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="azerbaijan">Azerbaijan</country>
         <locale>Baku</locale>
         <remarks>Met with President Mutalibov and discussed possible establishment of diplomatic             relations.</remarks>
@@ -2734,8 +2734,8 @@
         <id>465</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-02-12</start-date>
-        <end-date>1992-02-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="tajikistan">Tajikistan</country>
         <locale>Dushanbe</locale>
         <remarks>Met with President Nabiyev and discussed possible establishment of diplomatic             relations.</remarks>
@@ -2748,8 +2748,8 @@
         <id>466</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-02-12</start-date>
-        <end-date>1992-02-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkmenistan">Turkmenistan</country>
         <locale>Ashkhabad</locale>
         <remarks>Met with President Niyazov.</remarks>
@@ -2762,8 +2762,8 @@
         <id>467</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-02-14</start-date>
-        <end-date>1992-02-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Yekaterinburg, Chelyabinsk-70</locale>
         <remarks>Met with former Soviet nuclear scientists.</remarks>
@@ -2776,8 +2776,8 @@
         <id>468</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-02-15</start-date>
-        <end-date>1992-02-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="uzbekistan">Uzbekistan</country>
         <locale>Tashkent, Samarkand</locale>
         <remarks>Met with President Karimov and Uzbek political leaders.</remarks>
@@ -2790,8 +2790,8 @@
         <id>469</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-02-16</start-date>
-        <end-date>1992-02-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
         <remarks>Discussed strategic arms reductions with President Yeltsin and Foreign Minister             Kozyrev.</remarks>
@@ -2804,8 +2804,8 @@
         <id>470</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-03-09</start-date>
-        <end-date>1992-03-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting and met with North Atlantic Cooperation Council             Foreign Ministers. Discussed peace-keeping efforts in Yugoslavia with European Community             Foreign Ministers, and strategic arms reductions with Russian Foreign Minister             Kozyrev.</remarks>
@@ -2818,8 +2818,8 @@
         <id>471</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-05-22</start-date>
-        <end-date>1992-05-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Prime Minister Major.</remarks>
@@ -2832,8 +2832,8 @@
         <id>472</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-05-23</start-date>
-        <end-date>1992-05-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
         <remarks>Attended Conference on Assistance to the New Independent States. Signed protocol             making Russia, Belarus, Kazakhstan and Ukraine parties to the START Treaty.</remarks>
@@ -2846,8 +2846,8 @@
         <id>473</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-05-25</start-date>
-        <end-date>1992-05-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="georgia">Georgia</country>
         <locale>Tblisi</locale>
         <remarks>Met with State Council Chairman Shevardnadze and Prime Minister Sigua.</remarks>
@@ -2860,8 +2860,8 @@
         <id>474</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-06-11</start-date>
-        <end-date>1992-06-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Discussed strategic arms reductions with Russian Foreign Minister             Kozyrev.</remarks>
@@ -2874,8 +2874,8 @@
         <id>475</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-05</start-date>
-        <end-date>1992-07-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
         <remarks>Accompanied President Bush on a visit.</remarks>
@@ -2888,8 +2888,8 @@
         <id>476</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-05</start-date>
-        <end-date>1992-07-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Munich</locale>
         <remarks>Accompanied President Bush to the Economic Summit Meeting and to meetings with             Russian President Yeltsin.</remarks>
@@ -2902,8 +2902,8 @@
         <id>477</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-08</start-date>
-        <end-date>1992-07-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Accompanied President Bush to the CSCE Summit Meeting.</remarks>
@@ -2916,8 +2916,8 @@
         <id>478</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-19</start-date>
-        <end-date>1992-07-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Rabin, Israeli             officials, and Palestinian representatives.</remarks>
@@ -2930,8 +2930,8 @@
         <id>479</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-21</start-date>
-        <end-date>1992-07-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed the Middle East peace process and the Iraq crisis with King             Hussein.</remarks>
@@ -2944,8 +2944,8 @@
         <id>480</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-21</start-date>
-        <end-date>1992-07-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process and the Iraq crisis with President             Assad.</remarks>
@@ -2958,8 +2958,8 @@
         <id>481</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-22</start-date>
-        <end-date>1992-07-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Middle East peace process and the Iraq crisis with President             Mubarak.</remarks>
@@ -2972,8 +2972,8 @@
         <id>482</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-22</start-date>
-        <end-date>1992-07-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process and the Iraq crisis with President             Assad.</remarks>
@@ -2986,8 +2986,8 @@
         <id>483</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-23</start-date>
-        <end-date>1992-07-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="lebanon">Lebanon</country>
         <locale>Zahle</locale>
         <remarks>Discussed the Middle East peace process and the Taif Accord with President             Hrawi.</remarks>
@@ -3000,8 +3000,8 @@
         <id>484</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-23</start-date>
-        <end-date>1992-07-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
         <remarks>Discussed the Middle East peace process and the Iraq crisis with King Fahd and             Foreign Minister Prince Saud.</remarks>
@@ -3014,8 +3014,8 @@
         <id>485</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-24</start-date>
-        <end-date>1992-07-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="maldives">Maldives</country>
         <locale>Malé</locale>
         <remarks>Met with President Gayoom en route to the Philippines.</remarks>
@@ -3028,8 +3028,8 @@
         <id>486</id>
         <role>secretary</role>
         <name>James Addison Baker</name>
-        <start-date>1992-07-25</start-date>
-        <end-date>1992-07-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Attended ASEAN Post-Ministerial Conference.</remarks>

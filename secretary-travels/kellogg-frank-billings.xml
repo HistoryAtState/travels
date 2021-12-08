@@ -4,8 +4,8 @@
         <id>971</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
-        <start-date>1927-08-07</start-date>
-        <end-date>1927-08-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ft. Erie</locale>
         <remarks>Attended dedication of the "Peace Bridge" between Buffalo, New York and Ft.             Erie.</remarks>
@@ -18,8 +18,8 @@
         <id>972</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
-        <start-date>1928-01-15</start-date>
-        <end-date>1928-01-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="cuba">Cuba</country>
         <locale>Havana</locale>
         <remarks>Attended the Sixth International Conference of American States with President             Coolidge. Left U.S. January 14; returned January 20.</remarks>
@@ -32,8 +32,8 @@
         <id>973</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
-        <start-date>1928-02-08</start-date>
-        <end-date>1928-02-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Official visit.</remarks>
@@ -46,8 +46,8 @@
         <id>974</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
-        <start-date>1928-08-24</start-date>
-        <end-date>1928-08-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Negotiated and signed the Treaty on the Renunciation of War (Kellogg-Briand Pact).             Left U.S. August 19.</remarks>
@@ -60,8 +60,8 @@
         <id>975</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
-        <start-date>1928-08-30</start-date>
-        <end-date>1928-09-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ireland">Ireland</country>
         <locale>Kingstown, Dublin</locale>
         <remarks>Official visit while returning from Paris.</remarks>
@@ -74,8 +74,8 @@
         <id>976</id>
         <role>secretary</role>
         <name>Frank Billings Kellogg</name>
-        <start-date>1928-09-04</start-date>
-        <end-date>1928-09-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Cherbourg</locale>
         <remarks>Embarked for the U.S.; returned September 10.</remarks>

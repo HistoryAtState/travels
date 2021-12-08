@@ -4,8 +4,8 @@
         <id>733</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
-        <start-date>1920-12-10</start-date>
-        <end-date>1920-12-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bridgetown (Barbados)</locale>
         <remarks>Met with British colonial officials during a refueling stop en route to South             America. Left U.S. December 4.</remarks>
@@ -18,8 +18,8 @@
         <id>734</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
-        <start-date>1920-12-21</start-date>
-        <end-date>1920-12-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
         <remarks>Official visit; repaid visit by President Pessoa.</remarks>
@@ -32,8 +32,8 @@
         <id>735</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
-        <start-date>1920-12-28</start-date>
-        <end-date>1920-12-31</end-date>
+        <start-date/>
+        <end-date/>
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
         <remarks>Official visit; repaid 1918 visit by President (then Foreign Minister)             Brum.</remarks>
@@ -46,8 +46,8 @@
         <id>736</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
-        <start-date>1921-01-01</start-date>
-        <end-date>1921-01-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
         <remarks>Official visit.</remarks>
@@ -60,8 +60,8 @@
         <id>737</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
-        <start-date>1921-01-19</start-date>
-        <end-date>1921-01-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Port-of-Spain</locale>
         <remarks>Met with British colonial (Trinidad) officials while returning from South America.             Returned to U.S. January 26.</remarks>

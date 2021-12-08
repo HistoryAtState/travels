@@ -4,8 +4,8 @@
         <id>2382</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-02-16</start-date>
-        <end-date>2001-02-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>San Cristobal</locale>
         <remarks>Meeting with President Fox.</remarks>
@@ -18,8 +18,8 @@
         <id>2383</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-04-20</start-date>
-        <end-date>2001-04-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Quebec</locale>
         <remarks>Attended the Summit of the Americas.</remarks>
@@ -32,8 +32,8 @@
         <id>2384</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-06-12</start-date>
-        <end-date>2001-06-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Met with King Juan Carlos I and President Aznar.</remarks>
@@ -46,8 +46,8 @@
         <id>2385</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-06-13</start-date>
-        <end-date>2001-06-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Summit Meeting.</remarks>
@@ -60,8 +60,8 @@
         <id>2386</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-06-14</start-date>
-        <end-date>2001-06-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="sweden">Sweden</country>
         <locale>Goteborg</locale>
         <remarks>Attended U.S.-European Union Summit Meeting; met with King Carl XVI             Gustav.</remarks>
@@ -74,8 +74,8 @@
         <id>2387</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-06-15</start-date>
-        <end-date>2001-06-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
         <remarks>State visit.</remarks>
@@ -88,8 +88,8 @@
         <id>2388</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-06-16</start-date>
-        <end-date>2001-06-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="slovenia">Slovenia</country>
         <locale>Kranj</locale>
         <remarks>Met with Prime Minister Drnovsek and Russian President Putin.</remarks>
@@ -102,8 +102,8 @@
         <id>2389</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-07-18</start-date>
-        <end-date>2001-07-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Chequers, Halton, Brize Norton</locale>
         <remarks>Met with Prime Minister Blain and Queen Elizabeth II.</remarks>
@@ -116,8 +116,8 @@
         <id>2390</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-07-20</start-date>
-        <end-date>2001-07-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Genoa, Castel Gandolfo, Rome</locale>
         <remarks>Attended the G-8 Economic Summit. Met with Pope John Paul II at Castel Gandolfo and             with Prime Minister Berlusconi and President Ciampi in Rome.</remarks>
@@ -130,8 +130,8 @@
         <id>2391</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-07-24</start-date>
-        <end-date>2001-07-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="kosovo">Yugoslavia (Kosovo)</country>
         <locale>Camp Bondsteel</locale>
         <remarks>Addressed U.S. military personnel.</remarks>
@@ -144,8 +144,8 @@
         <id>2392</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2001-10-18</start-date>
-        <end-date>2001-10-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="china">China</country>
         <locale>Shanghai</locale>
         <remarks>Attended the APEC Summit Meeting.</remarks>
@@ -158,8 +158,8 @@
         <id>2393</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-02-17</start-date>
-        <end-date>2002-02-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Koizumi and Emperor Akihito. Addressed the Diet.</remarks>
@@ -172,8 +172,8 @@
         <id>2394</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-02-19</start-date>
-        <end-date>2002-02-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul, Dorasan, Osan</locale>
         <remarks>Met with President Kin Dae-Jung, visited the Demilitarized Zone, addressed U.S.             military personnel.</remarks>
@@ -186,8 +186,8 @@
         <id>2395</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-02-21</start-date>
-        <end-date>2002-02-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="china">China</country>
         <locale>Beijing</locale>
         <remarks>Met with President Jiang and Premier Zhu.</remarks>
@@ -200,8 +200,8 @@
         <id>2396</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-03-21</start-date>
-        <end-date>2002-03-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Monterrey</locale>
         <remarks>Attended the International Conference on Financing for Development and met with             President Fox.</remarks>
@@ -214,8 +214,8 @@
         <id>2397</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-03-23</start-date>
-        <end-date>2002-03-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="peru">Peru</country>
         <locale>Lima</locale>
         <remarks>Met with the Presidents of Peru, Colombia, and Bolivia, and with the Vice President             of Ecuador.</remarks>
@@ -228,8 +228,8 @@
         <id>2398</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-03-24</start-date>
-        <end-date>2002-03-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="el-salvador">El Salvador</country>
         <locale>San Salvador</locale>
         <remarks>Attended a summit meeting with Central American heads of state.</remarks>
@@ -242,8 +242,8 @@
         <id>2399</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-05-22</start-date>
-        <end-date>2002-05-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
         <remarks>Met with Chancellor Schroeder and addressed the Bundestag.</remarks>
@@ -256,8 +256,8 @@
         <id>2400</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-05-23</start-date>
-        <end-date>2002-05-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Moscow, St. Petersburg</locale>
         <remarks>Summit meeting with President Putin. Signed strategic arms reduction             treaty.</remarks>
@@ -270,8 +270,8 @@
         <id>2401</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-05-26</start-date>
-        <end-date>2002-05-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris, St. Mere- Eglise, Colleville</locale>
         <remarks>Met with President Chirac and delivered a Memorial Day address in             Normandy.</remarks>
@@ -284,8 +284,8 @@
         <id>2402</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-05-27</start-date>
-        <end-date>2002-05-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Ciampi and Prime Minister Berlusconi. Attended NATO Summit             Meeting and inaugurated the NATO-Russia Council.</remarks>
@@ -298,8 +298,8 @@
         <id>2403</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-05-28</start-date>
-        <end-date>2002-05-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
@@ -312,8 +312,8 @@
         <id>2404</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-06-25</start-date>
-        <end-date>2002-06-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Kananaskis (Alberta)</locale>
         <remarks>Attended the G-8 Economic Summit.</remarks>
@@ -326,8 +326,8 @@
         <id>2405</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-10-26</start-date>
-        <end-date>2002-10-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Los Cabos</locale>
         <remarks>Attended APEC Summit Meeting.</remarks>
@@ -340,8 +340,8 @@
         <id>2406</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-11-19</start-date>
-        <end-date>2002-11-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="czech-republic">Czech Republic</country>
         <locale>Prague</locale>
         <remarks>Attended NATO and EAPC Summit Meetings.</remarks>
@@ -354,8 +354,8 @@
         <id>2407</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-11-22</start-date>
-        <end-date>2002-11-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>St. Petersburg</locale>
         <remarks>Met with President Putin.</remarks>
@@ -368,8 +368,8 @@
         <id>2408</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-11-22</start-date>
-        <end-date>2002-11-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="lithuania">Lithuania</country>
         <locale>Vilnius</locale>
         <remarks>Met with the Presidents of the Baltic States.</remarks>
@@ -382,8 +382,8 @@
         <id>2409</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2002-11-23</start-date>
-        <end-date>2002-11-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="romania">Romania</country>
         <locale>Bucharest</locale>
         <remarks>Met with President Iliescu.</remarks>
@@ -396,8 +396,8 @@
         <id>2410</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-03-16</start-date>
-        <end-date>2003-03-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="portugal">Portugal</country>
         <locale>Terceira Island (Azores)</locale>
         <remarks>Discussed the Iraq crisis with British Prime Minister Blair, Spanish President             Aznar, and Portuguese Prime Minister Durao.</remarks>
@@ -410,8 +410,8 @@
         <id>2411</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-04-07</start-date>
-        <end-date>2003-04-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Belfast, Hillsborough (Northern Ireland)</locale>
         <remarks>Met with Prime Minister Blair to discuss the reconstruction of Iraq. Also met with             Irish Prime Minister Ahern and Northern Irish political leaders.</remarks>
@@ -424,8 +424,8 @@
         <id>2412</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-05-30</start-date>
-        <end-date>2003-05-31</end-date>
+        <start-date/>
+        <end-date/>
         <country id="poland">Poland</country>
         <locale>Krakow, Auschwitz-Birkenau</locale>
         <remarks>Met with President Kwasniewski and Prime Minister Miller; visited former Nazi             concentration camps.</remarks>
@@ -438,8 +438,8 @@
         <id>2413</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-05-31</start-date>
-        <end-date>2003-06-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>St. Petersburg</locale>
         <remarks>Met with President Putin and attended ceremonies commemorating the city’s 300th             anniversary.</remarks>
@@ -452,8 +452,8 @@
         <id>2414</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-06-01</start-date>
-        <end-date>2003-06-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Evian-les-Bains</locale>
         <remarks>Attended the G-8 Economic Summit and met with Chinese President Hu             Jintao.</remarks>
@@ -466,8 +466,8 @@
         <id>2415</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-06-02</start-date>
-        <end-date>2003-06-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
         <remarks>Attended “Red Sea Summit” with the leaders of Bahrain, Egypt, Jordan, and Saudi             Arabia, and with Palestinian Prime Minister Abbas.</remarks>
@@ -480,8 +480,8 @@
         <id>2416</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-06-04</start-date>
-        <end-date>2003-06-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Aqaba</locale>
         <remarks>Attended meetings with Israeli Prime Minister Sharon and Palestinian Prime Minister             Abbas. Met with King Abdullah II.</remarks>
@@ -494,8 +494,8 @@
         <id>2417</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-06-04</start-date>
-        <end-date>2003-06-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="qatar">Qatar</country>
         <locale>Doha</locale>
         <remarks>Met with Emir Hamad Thani, visited U.S. Central Command headquarters and addressed             U.S. military personnel. Overflew Baghdad en route to Qatar.</remarks>
@@ -508,8 +508,8 @@
         <id>2418</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-07-08</start-date>
-        <end-date>2003-07-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="senegal">Senegal</country>
         <locale>Dakar, Goree Island</locale>
         <remarks>Met with President Wade.</remarks>
@@ -522,8 +522,8 @@
         <id>2419</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-07-08</start-date>
-        <end-date>2003-07-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="south-africa">South Africa</country>
         <locale>Pretoria</locale>
         <remarks>Met with President Mbeki.</remarks>
@@ -536,8 +536,8 @@
         <id>2420</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-07-10</start-date>
-        <end-date>2003-07-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="botswana">Botswana</country>
         <locale>Gaborone</locale>
         <remarks>Met with President Mogae. Toured Mokoldi Nature Reserve.</remarks>
@@ -550,8 +550,8 @@
         <id>2421</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-07-11</start-date>
-        <end-date>2003-07-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="uganda">Uganda</country>
         <locale>Kampala</locale>
         <remarks>Met with President Musaveni.</remarks>
@@ -564,8 +564,8 @@
         <id>2422</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-07-11</start-date>
-        <end-date>2003-07-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="nigeria">Nigeria</country>
         <locale>Abuja</locale>
         <remarks>Met with President Obasanjo.</remarks>
@@ -578,8 +578,8 @@
         <id>2423</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-10-17</start-date>
-        <end-date>2003-10-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Koizumi.</remarks>
@@ -592,8 +592,8 @@
         <id>2424</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-10-18</start-date>
-        <end-date>2003-10-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Addressed a joint session of the Philippine Congress and met with President             Arroyo-Macapagal.</remarks>
@@ -606,8 +606,8 @@
         <id>2425</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-10-18</start-date>
-        <end-date>2003-10-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
         <remarks>Attended the APEC Summit Meeting.</remarks>
@@ -620,8 +620,8 @@
         <id>2426</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-10-21</start-date>
-        <end-date>2003-10-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
         <remarks>Met with Prime Minister Goh Chok Tong.</remarks>
@@ -634,8 +634,8 @@
         <id>2427</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-10-22</start-date>
-        <end-date>2003-10-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="indonesia">Indonesia</country>
         <locale>Denpasar (Bali)</locale>
         <remarks>Met with President Sukarnoputri and Muslim religious leaders.</remarks>
@@ -648,8 +648,8 @@
         <id>2428</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-10-22</start-date>
-        <end-date>2003-10-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="australia">Australia</country>
         <locale>Canberra</locale>
         <remarks>Met with Prime Minister Howard and addressed Parliament.</remarks>
@@ -662,8 +662,8 @@
         <id>2429</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-11-18</start-date>
-        <end-date>2003-11-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Sedgefield</locale>
         <remarks>State Visit.</remarks>
@@ -676,8 +676,8 @@
         <id>2430</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2003-11-27</start-date>
-        <end-date>2003-11-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
         <remarks>Met with members of the Coalition Provisional Authority and the Iraqi Governing             Council and addressed U.S. military personnel.</remarks>
@@ -690,8 +690,8 @@
         <id>2431</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2004-01-12</start-date>
-        <end-date>2004-01-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Monterrey</locale>
         <remarks>Attended the Special Summit of the Americas.</remarks>
@@ -704,8 +704,8 @@
         <id>2432</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2004-06-04</start-date>
-        <end-date>2004-06-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Ciampi and Prime Minister Berlusconi.</remarks>
@@ -718,8 +718,8 @@
         <id>2433</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2004-06-04</start-date>
-        <end-date>2004-06-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Met with Pope John Paul II.</remarks>
@@ -732,8 +732,8 @@
         <id>2434</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2004-06-05</start-date>
-        <end-date>2004-06-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris, Colleville, Caen, Arromanches</locale>
         <remarks>Met with President Chirac and commemorated the 60th anniversary of D-Day.</remarks>
@@ -746,8 +746,8 @@
         <id>2435</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2004-06-25</start-date>
-        <end-date>2004-06-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ireland">Ireland</country>
         <locale>Shannon, Dromoland Castle</locale>
         <remarks>Attended U.S.-EU Summit meeting and met with Prime Minister Ahern.</remarks>
@@ -760,8 +760,8 @@
         <id>2436</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2004-06-26</start-date>
-        <end-date>2004-06-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Istanbul</locale>
         <remarks>Met with President Sezer and Prime Minister Erdogan and attended NATO Summit             meeting in Istanbul.</remarks>
@@ -774,8 +774,8 @@
         <id>2437</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2004-11-19</start-date>
-        <end-date>2004-11-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="chile">Chile</country>
         <locale>Santiago</locale>
         <remarks>Attended APEC Summit Meeting.</remarks>
@@ -788,8 +788,8 @@
         <id>2438</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2004-11-22</start-date>
-        <end-date>2004-11-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="colombia">Colombia</country>
         <locale>Cartagena</locale>
         <remarks>Met with President Uribe.</remarks>
@@ -802,8 +802,8 @@
         <id>2439</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2004-11-30</start-date>
-        <end-date>2004-12-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa, Gatineau, Halifax</locale>
         <remarks>Met with Prime Minister Martin.</remarks>
@@ -816,8 +816,8 @@
         <id>2440</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-02-20</start-date>
-        <end-date>2005-02-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO and EU Summit Meetings.</remarks>
@@ -830,8 +830,8 @@
         <id>2441</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-02-23</start-date>
-        <end-date>2005-02-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Mainz, Wiesbaden</locale>
         <remarks>Met with Chancellor Schroeder and visited U.S. military personnel.</remarks>
@@ -844,8 +844,8 @@
         <id>2442</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-02-23</start-date>
-        <end-date>2005-02-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="slovakia">Slovakia</country>
         <locale>Bratislava</locale>
         <remarks>Met with President Dzurinda and Russian President Putin.</remarks>
@@ -858,8 +858,8 @@
         <id>2443</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-04-06</start-date>
-        <end-date>2005-04-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Attended the funeral of Pope John Paul II.</remarks>
@@ -872,8 +872,8 @@
         <id>2444</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-04-06</start-date>
-        <end-date>2005-04-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Ciampi and Prime Minister Berlusconi.</remarks>
@@ -886,8 +886,8 @@
         <id>2445</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-05-06</start-date>
-        <end-date>2005-05-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="latvia">Latvia</country>
         <locale>Riga</locale>
         <remarks>Met with the presidents of the Baltic States.</remarks>
@@ -900,8 +900,8 @@
         <id>2446</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-05-07</start-date>
-        <end-date>2005-05-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="netherlands">Netherlands</country>
         <locale>Maastricht, Valkenburg, Margraten</locale>
         <remarks>Met with Prime Minister Balkenende and gave an address at a U.S. military             cemetery.</remarks>
@@ -914,8 +914,8 @@
         <id>2447</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-05-08</start-date>
-        <end-date>2005-05-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
         <remarks>Met with President Putin and attended ceremonies commemorating VE Day.</remarks>
@@ -928,8 +928,8 @@
         <id>2448</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-05-09</start-date>
-        <end-date>2005-05-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="georgia">Georgia</country>
         <locale>Tbilisi</locale>
         <remarks>Met with President Saakashvili.</remarks>
@@ -942,8 +942,8 @@
         <id>2449</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-07-05</start-date>
-        <end-date>2005-07-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="denmark">Denmark</country>
         <locale>Kastrup, Fredensborg, Copenhagen</locale>
         <remarks>Met with Queen Margrethe II and Prime Minister Rasmussen.</remarks>
@@ -956,8 +956,8 @@
         <id>2450</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-07-06</start-date>
-        <end-date>2005-07-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Gleneagles (Scotland)</locale>
         <remarks>Attended the G-8 Economic Summit.</remarks>
@@ -970,8 +970,8 @@
         <id>2451</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-11-03</start-date>
-        <end-date>2005-11-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="argentina">Argentina</country>
         <locale>Mar del Plata</locale>
         <remarks>Attended the Summit of the Americas.</remarks>
@@ -984,8 +984,8 @@
         <id>2452</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-11-05</start-date>
-        <end-date>2005-11-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="brazil">Brazil</country>
         <locale>Brasilia</locale>
         <remarks>Met with President Lula da Silva.</remarks>
@@ -998,8 +998,8 @@
         <id>2453</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-11-06</start-date>
-        <end-date>2005-11-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
         <remarks>Met with President Martin Torrijos.</remarks>
@@ -1012,8 +1012,8 @@
         <id>2454</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-11-15</start-date>
-        <end-date>2005-11-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Kyoto</locale>
         <remarks>Met with Prime Minister Koizumi.</remarks>
@@ -1026,8 +1026,8 @@
         <id>2455</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-11-16</start-date>
-        <end-date>2005-11-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Pusan, Gyeongju, Osan</locale>
         <remarks>Attended APEC Summit meeting and met with Russian President Putin.</remarks>
@@ -1040,8 +1040,8 @@
         <id>2456</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-11-20</start-date>
-        <end-date>2005-11-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="china">China</country>
         <locale>Beijing</locale>
         <remarks>Met with President Hu and Prime Minister Wen.</remarks>
@@ -1054,8 +1054,8 @@
         <id>2457</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2005-11-21</start-date>
-        <end-date>2005-11-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mongolia">Mongolia</country>
         <locale>Ulaanbaatar</locale>
         <remarks>Met with President Enkhbayar and Prime Minister Elbegdorj.</remarks>
@@ -1068,8 +1068,8 @@
         <id>2458</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-02-28</start-date>
-        <end-date>2006-02-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ireland">Ireland</country>
         <locale>Shannon</locale>
         <remarks>Met with U.S. Marines who were en route to Iraq.</remarks>
@@ -1082,8 +1082,8 @@
         <id>2459</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-03-01</start-date>
-        <end-date>2006-03-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="afghanistan">Afghanistan</country>
         <locale>Bagram, Kabul</locale>
         <remarks>Met with President Karzai, dedicated new U.S. Embassy, and addressed U.S. military             personnel.</remarks>
@@ -1096,8 +1096,8 @@
         <id>2460</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-03-01</start-date>
-        <end-date>2006-03-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="india">India</country>
         <locale>New Delhi, Hyderabad</locale>
         <remarks>Met with Prime Minister Singh. Signed nuclear cooperation agreement.</remarks>
@@ -1110,8 +1110,8 @@
         <id>2461</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-03-03</start-date>
-        <end-date>2006-03-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad</locale>
         <remarks>Met with President Musharraf.</remarks>
@@ -1124,8 +1124,8 @@
         <id>2462</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-03-30</start-date>
-        <end-date>2006-03-31</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Cancun, Chichen-Itza</locale>
         <remarks>Met with President Fox and Canadian Prime Minister Harper.</remarks>
@@ -1138,8 +1138,8 @@
         <id>2463</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-06-13</start-date>
-        <end-date>2006-06-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
         <remarks>Met with Prime Minister Maliki and addressed U.S. military personnel.</remarks>
@@ -1152,8 +1152,8 @@
         <id>2464</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-06-20</start-date>
-        <end-date>2006-06-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Attended the U.S.-EU Summit.</remarks>
@@ -1166,8 +1166,8 @@
         <id>2465</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-06-21</start-date>
-        <end-date>2006-06-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
         <remarks>Met with President Solyom, Prime Minister Gyurcsany and commemorated the 50th             anniversary of the Hungarian Uprising.</remarks>
@@ -1180,8 +1180,8 @@
         <id>2466</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-07-12</start-date>
-        <end-date>2006-07-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Stralsund, Trinwillershagen</locale>
         <remarks>Met with Chancellor Merkel.</remarks>
@@ -1194,8 +1194,8 @@
         <id>2467</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-07-14</start-date>
-        <end-date>2006-07-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>St. Petersburg</locale>
         <remarks>Attended the G-8 Economic Summit. Met with President Hu of China, July 16; and             President Lula of Brazil and Prime Minister Singh of India, July 17.</remarks>
@@ -1208,8 +1208,8 @@
         <id>2468</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-11-15</start-date>
-        <end-date>2006-11-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
         <remarks>Met with President Putin.</remarks>
@@ -1222,8 +1222,8 @@
         <id>2469</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-11-16</start-date>
-        <end-date>2006-11-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
         <remarks>Met with Acting President Pillay and Prime Minister Lee. Addressed National             Singapore University.</remarks>
@@ -1236,8 +1236,8 @@
         <id>2470</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-11-17</start-date>
-        <end-date>2006-11-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="vietnam">Vietnam</country>
         <locale>Hanoi, Ho Chi Minh City</locale>
         <remarks>Attended APEC Leaders’ Meeting.</remarks>
@@ -1250,8 +1250,8 @@
         <id>2471</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-11-20</start-date>
-        <end-date>2006-11-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta, Bogor</locale>
         <remarks>Met with President Yudhoyono.</remarks>
@@ -1264,8 +1264,8 @@
         <id>2472</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-11-27</start-date>
-        <end-date>2006-11-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="estonia">Estonia</country>
         <locale>Tallinn</locale>
         <remarks>Met with President Ilves.</remarks>
@@ -1278,8 +1278,8 @@
         <id>2473</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-11-28</start-date>
-        <end-date>2006-11-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="latvia">Latvia</country>
         <locale>Riga</locale>
         <remarks>Attended NATO Summit Meeting.</remarks>
@@ -1292,8 +1292,8 @@
         <id>2474</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2006-11-29</start-date>
-        <end-date>2006-11-30</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Met with King Abdullah II and Iraqi Prime Minister al-Maliki.</remarks>
@@ -1306,8 +1306,8 @@
         <id>2475</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-03-08</start-date>
-        <end-date>2007-03-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="brazil">Brazil</country>
         <locale>Sao Paulo</locale>
         <remarks>Met with President Lula da Silva.</remarks>
@@ -1320,8 +1320,8 @@
         <id>2476</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-03-09</start-date>
-        <end-date>2007-03-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
         <remarks>Met with President Tabare Vazquez.</remarks>
@@ -1334,8 +1334,8 @@
         <id>2477</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-03-11</start-date>
-        <end-date>2007-03-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
         <remarks>Met with President Uribe.</remarks>
@@ -1348,8 +1348,8 @@
         <id>2478</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-03-11</start-date>
-        <end-date>2007-03-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="guatemala">Guatemala</country>
         <locale>Guatemala City, Santa Cruz Balanya, Iximche</locale>
         <remarks>Met with President Berger.</remarks>
@@ -1362,8 +1362,8 @@
         <id>2479</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-03-12</start-date>
-        <end-date>2007-03-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Merida, Uxmal</locale>
         <remarks>Met with President Calderon. Visited Mayan ruins.</remarks>
@@ -1376,8 +1376,8 @@
         <id>2480</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-06-04</start-date>
-        <end-date>2007-06-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="czech-republic">Czech Republic</country>
         <locale>Prague</locale>
         <remarks>Met with President Klaus and Prime Minister Topolanek. Addressed Conference on             Democracy and Security.</remarks>
@@ -1390,8 +1390,8 @@
         <id>2481</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-06-05</start-date>
-        <end-date>2007-06-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Heiligen-damm</locale>
         <remarks>Attended the G-8 Summit Meeting. Also met with Chinese President Hu             Jintao.</remarks>
@@ -1404,8 +1404,8 @@
         <id>2482</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-06-08</start-date>
-        <end-date>2007-06-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="poland">Poland</country>
         <locale>Gdansk, Jurata Hel.</locale>
         <remarks>Met with President Kaczynski.</remarks>
@@ -1418,8 +1418,8 @@
         <id>2483</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-06-08</start-date>
-        <end-date>2007-06-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with Prime Minister Prodi and President Napolitano.</remarks>
@@ -1432,8 +1432,8 @@
         <id>2484</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-06-09</start-date>
-        <end-date>2007-06-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Benedict XVI.</remarks>
@@ -1446,8 +1446,8 @@
         <id>2485</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-06-10</start-date>
-        <end-date>2007-06-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="albania">Albania</country>
         <locale>Tirana</locale>
         <remarks>Met with President Moisu and Prime Minister Berisha.</remarks>
@@ -1460,8 +1460,8 @@
         <id>2486</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-06-10</start-date>
-        <end-date>2007-06-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="bulgaria">Bulgaria</country>
         <locale>Sofia</locale>
         <remarks>Met with President Parvanov and Prime Minister Stanishev.</remarks>
@@ -1474,8 +1474,8 @@
         <id>2487</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-08-20</start-date>
-        <end-date>2007-08-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Montebello, Quebec</locale>
         <remarks>Attended North American Leaders’ Summit with Mexican President Calderon and             Canadian Prime Minister Harper.</remarks>
@@ -1488,8 +1488,8 @@
         <id>2488</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-09-03</start-date>
-        <end-date>2007-09-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="iraq">Iraq</country>
         <locale>Al-Assad Air Force Base</locale>
         <remarks>Met with Gen. Petraeus, Secretary of State Rice, Secretary of Defense Gates, senior             U.S. officials, and Iraqi political leaders.</remarks>
@@ -1502,8 +1502,8 @@
         <id>2489</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2007-09-03</start-date>
-        <end-date>2007-09-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="australia">Australia</country>
         <locale>Sydney</locale>
         <remarks>Attended APEC Leaders’ Meeting.</remarks>
@@ -1516,8 +1516,8 @@
         <id>2490</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-01-09</start-date>
-        <end-date>2008-01-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Met with Prime Minister Olmert and President Peres. Visited Yad Vashem.</remarks>
@@ -1530,8 +1530,8 @@
         <id>2491</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-01-10</start-date>
-        <end-date>2008-01-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Ramallah, Bethlehem</locale>
         <remarks>Met with President Abbas and visited the Church of the Nativity.</remarks>
@@ -1544,8 +1544,8 @@
         <id>2492</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-01-11</start-date>
-        <end-date>2008-01-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City, Camp Arifjan</locale>
         <remarks>Attended Roundtable on Democracy and Development. Met with Gen. Petraeus and             Ambassador Crocker at Camp Arifjan and addressed U.S. military personnel.</remarks>
@@ -1558,8 +1558,8 @@
         <id>2493</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-01-12</start-date>
-        <end-date>2008-01-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="bahrain">Bahrain</country>
         <locale>Manama</locale>
         <remarks>Met with King Hamad bin Isa al –Khalifa. Addressed U.S. military             personnel.</remarks>
@@ -1572,8 +1572,8 @@
         <id>2494</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-01-13</start-date>
-        <end-date>2008-01-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi, Dubai</locale>
         <remarks>Met with President Khalifa bin Zayid al Nuhayyin and Crown Prince Sheikh             Mohammed.</remarks>
@@ -1586,8 +1586,8 @@
         <id>2495</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-01-14</start-date>
-        <end-date>2008-01-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh, Al-Janadriyah</locale>
         <remarks>Met with King Abdullah.</remarks>
@@ -1600,8 +1600,8 @@
         <id>2496</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-01-16</start-date>
-        <end-date>2008-01-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
         <remarks>Met with President Mubarak.</remarks>
@@ -1614,8 +1614,8 @@
         <id>2497</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-02-16</start-date>
-        <end-date>2008-02-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="benin">Benin</country>
         <locale>Porto Novo</locale>
         <remarks>Met with President Boni.</remarks>
@@ -1628,8 +1628,8 @@
         <id>2498</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-02-16</start-date>
-        <end-date>2008-02-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="tanzania">Tanzania</country>
         <locale>Dar es Salaam, Arusha</locale>
         <remarks>Met with President Kikwete, signed Millennium Challenge agreement.</remarks>
@@ -1642,8 +1642,8 @@
         <id>2499</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-02-19</start-date>
-        <end-date>2008-02-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="rwanda">Rwanda</country>
         <locale>Kigali</locale>
         <remarks>Met with President Kagame and dedicated new Embassy.</remarks>
@@ -1656,8 +1656,8 @@
         <id>2500</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-02-19</start-date>
-        <end-date>2008-02-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ghana">Ghana</country>
         <locale>Accra</locale>
         <remarks>Met with President Kufuor.</remarks>
@@ -1670,8 +1670,8 @@
         <id>2501</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-02-21</start-date>
-        <end-date>2008-02-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="liberia">Liberia</country>
         <locale>Liberia</locale>
         <remarks>Met with President Johnson Sirleaf.</remarks>
@@ -1684,8 +1684,8 @@
         <id>2502</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-03-31</start-date>
-        <end-date>2008-04-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ukraine">Ukraine</country>
         <locale>Kyiv</locale>
         <remarks>Met with President Yushchenko and Prime Minister Tymoshenko.</remarks>
@@ -1698,8 +1698,8 @@
         <id>2503</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-04-02</start-date>
-        <end-date>2008-04-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="romania">Romania</country>
         <locale>Bucharest</locale>
         <remarks>Met with President Basescu and Prime Minister Popescu-Tariceanu. Attended NATO,             Euro-Atlantic Partnership Council, NATO-Ukraine Commission, and NATO-Russia Council             Summit Meetings.</remarks>
@@ -1712,8 +1712,8 @@
         <id>2504</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-04-04</start-date>
-        <end-date>2008-04-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="croatia">Croatia</country>
         <locale>Zagreb</locale>
         <remarks>Met with President Mesic.</remarks>
@@ -1726,8 +1726,8 @@
         <id>2505</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-04-05</start-date>
-        <end-date>2008-04-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Sochi</locale>
         <remarks>Met with President Putin and President-elect Medvedev.</remarks>
@@ -1740,8 +1740,8 @@
         <id>2506</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-05-14</start-date>
-        <end-date>2008-05-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem, Masada</locale>
         <remarks>Met with President Peres and Prime Minister Olmert. Addressed the Knesset.             Commemorated Israel’s 60th anniversary.</remarks>
@@ -1754,8 +1754,8 @@
         <id>2507</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-05-16</start-date>
-        <end-date>2008-05-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh, Al-Janadriyah</locale>
         <remarks>Met with King Abdullah.</remarks>
@@ -1768,8 +1768,8 @@
         <id>2508</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-05-17</start-date>
-        <end-date>2008-05-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
         <remarks>Met with President Mubarak, King Abdullah II of Jordan, Palestinian Authority             President Abbas and Prime Minister Fayyad, Afghan President Karzai and Pakistani Prime             Minister Gilan. Addressed the World Economic Forum.</remarks>
@@ -1782,8 +1782,8 @@
         <id>2509</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-06-09</start-date>
-        <end-date>2008-06-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="slovenia">Slovenia</country>
         <locale>Ljubljana</locale>
         <remarks>Met with President Turk and Prime Minister Jansa. Attended the EU-US Summit             Meeting.</remarks>
@@ -1796,8 +1796,8 @@
         <id>2510</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-06-10</start-date>
-        <end-date>2008-06-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Meseberg</locale>
         <remarks>Met with Chancellor Merkel.</remarks>
@@ -1810,8 +1810,8 @@
         <id>2511</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-06-11</start-date>
-        <end-date>2008-06-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Napolitano and Prime Minister Berlusconi.</remarks>
@@ -1824,8 +1824,8 @@
         <id>2512</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-06-13</start-date>
-        <end-date>2008-06-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Met with Pope Benedict XVI.</remarks>
@@ -1838,8 +1838,8 @@
         <id>2513</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-06-13</start-date>
-        <end-date>2008-06-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with President Sarkozy. Addressed the OECD. Attended wreath-laying ceremonies             at Suresnes and Mont Valerien.</remarks>
@@ -1852,8 +1852,8 @@
         <id>2514</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-06-15</start-date>
-        <end-date>2008-06-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Belfast</locale>
         <remarks>Met with Queen Elizabeth II at Windsor Castle. Met with Prime Minister Blair and             Quartet Representative Blair. In Belfast, met with First Minister Robertson and Deputy             First Minister McGuinness.</remarks>
@@ -1866,8 +1866,8 @@
         <id>2515</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-07-06</start-date>
-        <end-date>2008-07-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Toyako</locale>
         <remarks>Attended the G-8 Economic Summit. Also met with Tanzanian President Kikwete, Indian             Prime Minister Singh, Chinese President Hu, and South Korean President Lee.</remarks>
@@ -1880,8 +1880,8 @@
         <id>2516</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-08-05</start-date>
-        <end-date>2008-08-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul, Yongsan</locale>
         <remarks>Met with President Lee and addressed U.S. military personnel.</remarks>
@@ -1894,8 +1894,8 @@
         <id>2517</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-08-06</start-date>
-        <end-date>2008-08-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
         <remarks>Met with Prime Minister Samak and addressed Burmese activists.</remarks>
@@ -1908,8 +1908,8 @@
         <id>2518</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-08-07</start-date>
-        <end-date>2008-08-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="china">China</country>
         <locale>Beijing</locale>
         <remarks>Attended opening ceremonies of the Olympic Games. Dedicated a new U.S. Embassy. Met             with President Hu and Russian Prime Minister Putin.</remarks>
@@ -1922,8 +1922,8 @@
         <id>2519</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-11-21</start-date>
-        <end-date>2008-11-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="peru">Peru</country>
         <locale>Lima</locale>
         <remarks>Attended the APEC Summit Meeting and met with President Garcia.</remarks>
@@ -1936,8 +1936,8 @@
         <id>2520</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-12-14</start-date>
-        <end-date>2008-12-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
         <remarks>Met with President Talabani and Prime Minister Maliki. Signed Strategic Framework             and Security Agreements. Visited U.S. military personnel.</remarks>
@@ -1950,8 +1950,8 @@
         <id>2521</id>
         <role>president</role>
         <name>George W. Bush</name>
-        <start-date>2008-12-14</start-date>
-        <end-date>2008-12-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
         <remarks>Met with President Karzai and visited U.S. military personnel.</remarks>

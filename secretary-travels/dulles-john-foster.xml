@@ -4,8 +4,8 @@
         <id>738</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-01-31</start-date>
-        <end-date>1953-02-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with senior Italian officials.</remarks>
@@ -18,8 +18,8 @@
         <id>739</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-02-01</start-date>
-        <end-date>1953-02-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with senior French officials and with representatives of NATO and the             Organization for European Economic Cooperation.</remarks>
@@ -32,8 +32,8 @@
         <id>740</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-02-03</start-date>
-        <end-date>1953-02-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Prime Minister Churchill and Foreign Secretary Eden.</remarks>
@@ -46,8 +46,8 @@
         <id>741</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-02-05</start-date>
-        <end-date>1953-02-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Met with President Heuss and Chancellor Adenauer.</remarks>
@@ -60,8 +60,8 @@
         <id>742</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-02-06</start-date>
-        <end-date>1953-02-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="netherlands">Netherlands</country>
         <locale>Amsterdam</locale>
         <remarks>Met with Queen Juliana and Foreign Minister Beyen.</remarks>
@@ -74,8 +74,8 @@
         <id>743</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-02-07</start-date>
-        <end-date>1953-02-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Met with senior Belgian officials.</remarks>
@@ -88,8 +88,8 @@
         <id>744</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-02-08</start-date>
-        <end-date>1953-02-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="luxembourg">Luxembourg</country>
         <locale>Luxembourg</locale>
         <remarks>Met with representatives of the European Coal and Steel Community.</remarks>
@@ -102,8 +102,8 @@
         <id>745</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-04-21</start-date>
-        <end-date>1953-04-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended 11th meeting of the North Atlantic Council.</remarks>
@@ -116,8 +116,8 @@
         <id>746</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-11</start-date>
-        <end-date>1953-05-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Met with Prime Minister Naguib, Foreign Minister Fawzi, and Egyptian military             leaders. Attended regional conference of U.S. Ambassadors.</remarks>
@@ -130,8 +130,8 @@
         <id>747</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-13</start-date>
-        <end-date>1953-05-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Met with Prime Minister Ben Gurion and Foreign Minister Sharett.</remarks>
@@ -144,8 +144,8 @@
         <id>748</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-14</start-date>
-        <end-date>1953-05-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Met with Prime Minister Mulqui and Foreign Minister Khalidy.</remarks>
@@ -158,8 +158,8 @@
         <id>749</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-15</start-date>
-        <end-date>1953-05-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Met with President Shishakli.</remarks>
@@ -172,8 +172,8 @@
         <id>750</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-16</start-date>
-        <end-date>1953-05-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
         <remarks>Met with President Chamoun and senior Lebanese officials.</remarks>
@@ -186,8 +186,8 @@
         <id>751</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-17</start-date>
-        <end-date>1953-05-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
         <remarks>Met with Prime Minister Madfai and senior Iraqi officials.</remarks>
@@ -200,8 +200,8 @@
         <id>752</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-18</start-date>
-        <end-date>1953-05-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh, Dhahran</locale>
         <remarks>Met with King Ibn Saud and senior Saudi officials.</remarks>
@@ -214,8 +214,8 @@
         <id>753</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-20</start-date>
-        <end-date>1953-05-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="india">India</country>
         <locale>New Delhi</locale>
         <remarks>Met with Prime Minister Nehru and senior Indian officials.</remarks>
@@ -228,8 +228,8 @@
         <id>754</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-22</start-date>
-        <end-date>1953-05-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="pakistan">Pakistan</country>
         <locale>Karachi</locale>
         <remarks>Met with Prime Minister Ali and senior Pakistani officials.</remarks>
@@ -242,8 +242,8 @@
         <id>755</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-25</start-date>
-        <end-date>1953-05-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Istanbul</locale>
         <remarks>Met with President Bayer, Prime Minister Menderes, and senior Turkish             officials.</remarks>
@@ -256,8 +256,8 @@
         <id>756</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-27</start-date>
-        <end-date>1953-05-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
         <remarks>Met with Prime Minister Papagos and senior Greek officials.</remarks>
@@ -270,8 +270,8 @@
         <id>757</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-05-28</start-date>
-        <end-date>1953-05-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="libya">Libya</country>
         <locale>Tripoli</locale>
         <remarks>Met with Prime Minister Muntasser and senior Libyan officials.</remarks>
@@ -284,8 +284,8 @@
         <id>758</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-08-02</start-date>
-        <end-date>1953-08-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Stopped en route to Korea.</remarks>
@@ -298,8 +298,8 @@
         <id>759</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-08-03</start-date>
-        <end-date>1953-08-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Signed Korean Mutual Defense Treaty.</remarks>
@@ -312,8 +312,8 @@
         <id>760</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-08-08</start-date>
-        <end-date>1953-08-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Yoshida while returning to U.S. Announced return of the             Amami Islands to Japan. Returned to U.S. August 10.</remarks>
@@ -326,8 +326,8 @@
         <id>761</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-10-15</start-date>
-        <end-date>1953-10-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with the British and French Foreign Ministers.</remarks>
@@ -340,8 +340,8 @@
         <id>762</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-12-04</start-date>
-        <end-date>1953-12-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Accompanied President Eisenhower to the Three-Power Conference.</remarks>
@@ -354,8 +354,8 @@
         <id>763</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1953-12-12</start-date>
-        <end-date>1953-12-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended 12th NATO Foreign Ministers Meeting.</remarks>
@@ -368,8 +368,8 @@
         <id>764</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-01-22</start-date>
-        <end-date>1954-02-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
         <remarks>Attended Big Four Foreign Ministers Meeting. Sessions of February 1-6, 15, and 17             were held in East Berlin.</remarks>
@@ -382,8 +382,8 @@
         <id>765</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-02-18</start-date>
-        <end-date>1954-02-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Met with Chancellor Adenauer.</remarks>
@@ -396,8 +396,8 @@
         <id>766</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-02-28</start-date>
-        <end-date>1954-03-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="venezuela">Venezuela</country>
         <locale>Caracas</locale>
         <remarks>Attended 10th Inter-American Conference.</remarks>
@@ -410,8 +410,8 @@
         <id>767</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-04-11</start-date>
-        <end-date>1954-04-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Discussed the situation in Indochina with Foreign Secretary Eden.</remarks>
@@ -424,8 +424,8 @@
         <id>768</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-04-13</start-date>
-        <end-date>1954-04-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed the situation in Indochina with Foreign Minister Bidault.</remarks>
@@ -438,8 +438,8 @@
         <id>769</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-04-21</start-date>
-        <end-date>1954-04-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended meeting of the North Atlantic Council.</remarks>
@@ -452,8 +452,8 @@
         <id>770</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-04-24</start-date>
-        <end-date>1954-05-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Attended Geneva Conference on Indochina and Korea.</remarks>
@@ -466,8 +466,8 @@
         <id>771</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-05-03</start-date>
-        <end-date>1954-05-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Milan</locale>
         <remarks>Met with Prime Minister Scelba while returning to U.S. Returned May 4.</remarks>
@@ -480,8 +480,8 @@
         <id>772</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-07-13</start-date>
-        <end-date>1954-07-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Conferred with Prime Ministers Eden and Mendes-France on the Genera             Conference.</remarks>
@@ -494,8 +494,8 @@
         <id>773</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-09-03</start-date>
-        <end-date>1954-09-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Signed the Southeast Asia Collective Defense Treaty (Manila Pact).</remarks>
@@ -508,8 +508,8 @@
         <id>774</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-09-09</start-date>
-        <end-date>1954-09-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
         <remarks>Met with President Chiang Kai-shek while returning from Manila.</remarks>
@@ -522,8 +522,8 @@
         <id>775</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-09-09</start-date>
-        <end-date>1954-09-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Yoshida and Foreign Minister Okazaki en route from             Manila.</remarks>
@@ -536,8 +536,8 @@
         <id>776</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-09-16</start-date>
-        <end-date>1954-09-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Met with Chancellor Adenauer.</remarks>
@@ -550,8 +550,8 @@
         <id>777</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-09-17</start-date>
-        <end-date>1954-09-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Conferred with British officials during return from Bonn.</remarks>
@@ -564,8 +564,8 @@
         <id>778</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-09-26</start-date>
-        <end-date>1954-10-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended Nine-Power Conference on Germany.</remarks>
@@ -578,8 +578,8 @@
         <id>779</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-10-20</start-date>
-        <end-date>1954-10-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended NATO, Four- and Nine-Power Conferences. Returned to U.S. October             25.</remarks>
@@ -592,8 +592,8 @@
         <id>780</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1954-12-15</start-date>
-        <end-date>1954-12-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended North Atlantic Council meeting.</remarks>
@@ -606,8 +606,8 @@
         <id>781</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-01-29</start-date>
-        <end-date>1955-02-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>The Bahamas</locale>
         <remarks>Vacation.</remarks>
@@ -620,8 +620,8 @@
         <id>782</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-02-21</start-date>
-        <end-date>1955-02-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Met with President Magsaysay en route to Bangkok.</remarks>
@@ -634,8 +634,8 @@
         <id>783</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-02-22</start-date>
-        <end-date>1955-02-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
         <remarks>Attended First Meeting of the SEATO Ministerial Council.</remarks>
@@ -648,8 +648,8 @@
         <id>784</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-02-26</start-date>
-        <end-date>1955-02-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="burma">Burma</country>
         <locale>Rangoon</locale>
         <remarks>Met with Premier U Nu and senior Burmese officials.</remarks>
@@ -662,8 +662,8 @@
         <id>785</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-02-27</start-date>
-        <end-date>1955-02-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="laos">Laos</country>
         <locale>Vientiane</locale>
         <remarks>Met with Crown Prince Savang and senior Laotian officials.</remarks>
@@ -676,8 +676,8 @@
         <id>786</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-02-28</start-date>
-        <end-date>1955-02-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="cambodia">Cambodia</country>
         <locale>Phnom Penh</locale>
         <remarks>Met with King Sihanouk and senior Cambodian officials.</remarks>
@@ -690,8 +690,8 @@
         <id>787</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-02-28</start-date>
-        <end-date>1955-03-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="vietnam">Vietnam</country>
         <locale>Saigon</locale>
         <remarks>Met with Premier Diem and senior Vietnamese officials.</remarks>
@@ -704,8 +704,8 @@
         <id>788</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-03-01</start-date>
-        <end-date>1955-03-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Attended the opening session of a Chiefs of Mission Conference.</remarks>
@@ -718,8 +718,8 @@
         <id>789</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-03-03</start-date>
-        <end-date>1955-03-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
         <remarks>Exchanged instruments of ratification of the Mutual Defense Treaty.</remarks>
@@ -732,8 +732,8 @@
         <id>790</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-03-17</start-date>
-        <end-date>1955-03-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Official visit.</remarks>
@@ -746,8 +746,8 @@
         <id>791</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-05-07</start-date>
-        <end-date>1955-05-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended North Atlantic Council meeting.</remarks>
@@ -760,8 +760,8 @@
         <id>792</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-05-13</start-date>
-        <end-date>1955-05-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Signed the Austrian State Treaty.</remarks>
@@ -774,8 +774,8 @@
         <id>793</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-07-14</start-date>
-        <end-date>1955-07-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with the French and British Foreign Ministers and attended a North Atlantic             Council meeting.</remarks>
@@ -788,8 +788,8 @@
         <id>794</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-07-16</start-date>
-        <end-date>1955-07-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Accompanied President Eisenhower to the Heads of Government Conference.</remarks>
@@ -802,8 +802,8 @@
         <id>795</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-09-25</start-date>
-        <end-date>1955-09-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Attended meeting of the Joint U.S.-Canadian Commission on Trade and Economic             Affairs.</remarks>
@@ -816,8 +816,8 @@
         <id>796</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-10-22</start-date>
-        <end-date>1955-10-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Gronchi and Foreign Minister Martino. Left Washington October             21.</remarks>
@@ -830,8 +830,8 @@
         <id>797</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-10-23</start-date>
-        <end-date>1955-10-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Audience with Pope Pius XII.</remarks>
@@ -844,8 +844,8 @@
         <id>798</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-10-23</start-date>
-        <end-date>1955-10-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended working group and NATO Ministerial Meetings.</remarks>
@@ -858,8 +858,8 @@
         <id>799</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-10-26</start-date>
-        <end-date>1955-11-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Attended meeting of the Foreign Ministers of the United Kingdom, France, the Soviet             Union, and the United States.</remarks>
@@ -872,8 +872,8 @@
         <id>800</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-11-01</start-date>
-        <end-date>1955-11-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Met with Generalissimo Franco.</remarks>
@@ -886,8 +886,8 @@
         <id>801</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-11-05</start-date>
-        <end-date>1955-11-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Unofficial visit. Attended opening of the Vienna State Opera.</remarks>
@@ -900,8 +900,8 @@
         <id>802</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-11-06</start-date>
-        <end-date>1955-11-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Pula, Brioni</locale>
         <remarks>Met with President Tito.</remarks>
@@ -914,8 +914,8 @@
         <id>803</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1955-12-14</start-date>
-        <end-date>1955-12-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -928,8 +928,8 @@
         <id>804</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-03</start-date>
-        <end-date>1956-03-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Malta</locale>
         <remarks>Stopped en route to Pakistan.</remarks>
@@ -942,8 +942,8 @@
         <id>805</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-05</start-date>
-        <end-date>1956-03-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="pakistan">Pakistan</country>
         <locale>Karachi</locale>
         <remarks>Attended Second SEATO Council Meeting.</remarks>
@@ -956,8 +956,8 @@
         <id>806</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-09</start-date>
-        <end-date>1956-03-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="india">India</country>
         <locale>New Delhi</locale>
         <remarks>Met with Prime Minister Nehru and senior Indian officials.</remarks>
@@ -970,8 +970,8 @@
         <id>807</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-11</start-date>
-        <end-date>1956-03-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="sri-lanka">Ceylon</country>
         <locale>Colombo (Sri Lanka)</locale>
         <remarks>Met with Prime Minister Kotelawala.</remarks>
@@ -984,8 +984,8 @@
         <id>808</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-12</start-date>
-        <end-date>1956-03-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="indonesia">Indonesia</country>
         <locale>Djakarta</locale>
         <remarks>Met with President Sukarno and senior Indonesian officials.</remarks>
@@ -998,8 +998,8 @@
         <id>809</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-13</start-date>
-        <end-date>1956-03-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
         <remarks>Met with Premier Pibul and senior Thai officials.</remarks>
@@ -1012,8 +1012,8 @@
         <id>810</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-14</start-date>
-        <end-date>1956-03-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="vietnam">Vietnam</country>
         <locale>Saigon</locale>
         <remarks>Met with President Diem and senior Vietnamese officials.</remarks>
@@ -1026,8 +1026,8 @@
         <id>811</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-15</start-date>
-        <end-date>1956-03-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Met with President Magsaysay and senior Philippine officials.</remarks>
@@ -1040,8 +1040,8 @@
         <id>812</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-16</start-date>
-        <end-date>1956-03-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
         <remarks>Met with President Chiang and senior Chinese Nationalist officials.</remarks>
@@ -1054,8 +1054,8 @@
         <id>813</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-17</start-date>
-        <end-date>1956-03-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Met with President Rhee and senior Korean officials.</remarks>
@@ -1068,8 +1068,8 @@
         <id>814</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-03-18</start-date>
-        <end-date>1956-03-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Met with Premier Hatoyama and Foreign Minister Shigemitsu.</remarks>
@@ -1082,8 +1082,8 @@
         <id>815</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-05-02</start-date>
-        <end-date>1956-05-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -1096,8 +1096,8 @@
         <id>816</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-07-21</start-date>
-        <end-date>1956-07-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
         <remarks>Accompanied President Eisenhower to a meeting of the Presidents of the American             Republics.</remarks>
@@ -1110,8 +1110,8 @@
         <id>817</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-07-24</start-date>
-        <end-date>1956-07-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
         <remarks>Met with President Rojas Pinilla and senior Colombian officials.</remarks>
@@ -1124,8 +1124,8 @@
         <id>818</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-07-25</start-date>
-        <end-date>1956-07-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ecuador">Ecuador</country>
         <locale>Quito</locale>
         <remarks>Met with Foreign Minister Villagomez Yepez.</remarks>
@@ -1138,8 +1138,8 @@
         <id>819</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-07-26</start-date>
-        <end-date>1956-07-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="peru">Peru</country>
         <locale>Lima</locale>
         <remarks>Attended the inauguration of President Prado Ugarteche.</remarks>
@@ -1152,8 +1152,8 @@
         <id>820</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-08-01</start-date>
-        <end-date>1956-08-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended Tripartite Conference on the Suez Canal with the British and French             Foreign Ministers.</remarks>
@@ -1166,8 +1166,8 @@
         <id>821</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-08-15</start-date>
-        <end-date>1956-08-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended 22-Power conference on Suez Canal.</remarks>
@@ -1180,8 +1180,8 @@
         <id>822</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-09-18</start-date>
-        <end-date>1956-09-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended Second Suez Conference.</remarks>
@@ -1194,8 +1194,8 @@
         <id>823</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1956-12-09</start-date>
-        <end-date>1956-12-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -1208,8 +1208,8 @@
         <id>824</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1957-03-09</start-date>
-        <end-date>1957-03-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="australia">Australia</country>
         <locale>Canberra</locale>
         <remarks>Attended Third Meeting of SEATO Council of Ministers. Left Washington March 6;             returned March 17.</remarks>
@@ -1222,8 +1222,8 @@
         <id>825</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1957-03-21</start-date>
-        <end-date>1957-03-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
         <remarks>Attended a meeting between President Eisenhower and Prime Minister             Macmillan.</remarks>
@@ -1236,8 +1236,8 @@
         <id>826</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1957-05-02</start-date>
-        <end-date>1957-05-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -1250,8 +1250,8 @@
         <id>827</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1957-05-05</start-date>
-        <end-date>1957-05-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with Prime Minister Mollet and attended meeting of U.S. Chiefs of Mission to             European countries.</remarks>
@@ -1264,8 +1264,8 @@
         <id>828</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1957-07-26</start-date>
-        <end-date>1957-07-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Kingston, Ottawa</locale>
         <remarks>Personal and private visit. Met informally with Prime Minister             Diefenbaker.</remarks>
@@ -1278,8 +1278,8 @@
         <id>829</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1957-07-29</start-date>
-        <end-date>1957-08-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended UN disarmament conference.</remarks>
@@ -1292,8 +1292,8 @@
         <id>830</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1957-12-13</start-date>
-        <end-date>1957-12-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Accompanied President Eisenhower to meeting of NATO Heads of Government.</remarks>
@@ -1306,8 +1306,8 @@
         <id>831</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1957-12-20</start-date>
-        <end-date>1957-12-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Met with Generalissimo Franco and senior Spanish officials while returning from             Paris.</remarks>
@@ -1320,8 +1320,8 @@
         <id>832</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-01-23</start-date>
-        <end-date>1958-01-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="morocco">Morocco</country>
         <locale>Marrakesh</locale>
         <remarks>Met with King Mohammed V, Foreign Minister Balafrej, and senior Moroccan             officials.</remarks>
@@ -1334,8 +1334,8 @@
         <id>833</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-01-24</start-date>
-        <end-date>1958-01-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="iran">Iran</country>
         <locale>Tehran</locale>
         <remarks>Met with Shah Mohammed Reza Pahlavi and senior Iranian officials.</remarks>
@@ -1348,8 +1348,8 @@
         <id>834</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-01-26</start-date>
-        <end-date>1958-01-30</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Ankara</locale>
         <remarks>Attended Baghdad Pact Ministerial Meeting.</remarks>
@@ -1362,8 +1362,8 @@
         <id>835</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-03-10</start-date>
-        <end-date>1958-03-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Attended Fourth Meeting of the SEATO Ministerial Council. Left U.S. March             7.</remarks>
@@ -1376,8 +1376,8 @@
         <id>836</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-03-14</start-date>
-        <end-date>1958-03-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
         <remarks>Met with President Chiang and attended a conference of U.S. Chiefs of Mission to             Asian countries. Returned March 18.</remarks>
@@ -1390,8 +1390,8 @@
         <id>837</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-05-03</start-date>
-        <end-date>1958-05-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="denmark">Denmark</country>
         <locale>Copenhagen</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
@@ -1404,8 +1404,8 @@
         <id>838</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-05-08</start-date>
-        <end-date>1958-05-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>West Berlin</locale>
         <remarks>Met with city and U.S. officials.</remarks>
@@ -1418,8 +1418,8 @@
         <id>839</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-05-08</start-date>
-        <end-date>1958-05-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended the opening session of a conference of U.S. Chiefs of Mission to European             countries.</remarks>
@@ -1432,8 +1432,8 @@
         <id>840</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-07-04</start-date>
-        <end-date>1958-07-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed nuclear armaments with President De Gaulle.</remarks>
@@ -1446,8 +1446,8 @@
         <id>841</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-07-08</start-date>
-        <end-date>1958-07-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Accompanied President Eisenhower on an informal visit.</remarks>
@@ -1460,8 +1460,8 @@
         <id>842</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-07-26</start-date>
-        <end-date>1958-07-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Met with Chancellor Adenauer on way to meeting of the Baghdad Pact.</remarks>
@@ -1474,8 +1474,8 @@
         <id>843</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-07-26</start-date>
-        <end-date>1958-07-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Attended the 5th Ministerial Meeting of the Baghdad Pact.</remarks>
@@ -1488,8 +1488,8 @@
         <id>844</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-08-04</start-date>
-        <end-date>1958-08-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro, Brasilia</locale>
         <remarks>Official visit.</remarks>
@@ -1502,8 +1502,8 @@
         <id>845</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-10-18</start-date>
-        <end-date>1958-10-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Met with President Gronchi and senior Italian officials.</remarks>
@@ -1516,8 +1516,8 @@
         <id>846</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-10-19</start-date>
-        <end-date>1958-10-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="holy-see">Vatican City</country>
         <locale/>
         <remarks>Attended funeral ceremonies for Pope Pius XII.</remarks>
@@ -1530,8 +1530,8 @@
         <id>847</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-10-19</start-date>
-        <end-date>1958-10-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Brize Norton</locale>
         <remarks>Met with Foreign Secretary Lloyd en route to Taipei.</remarks>
@@ -1544,8 +1544,8 @@
         <id>848</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-10-21</start-date>
-        <end-date>1958-10-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
         <remarks>Consultations concerning the Mutual Defense Treaty.</remarks>
@@ -1558,8 +1558,8 @@
         <id>849</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-11-30</start-date>
-        <end-date>1958-12-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>Attended the inauguration of President Lopez Mateos.</remarks>
@@ -1572,8 +1572,8 @@
         <id>850</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-12-13</start-date>
-        <end-date>1958-12-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended NATO Ministerial Meeting and a Big Four Ministers meeting.</remarks>
@@ -1586,8 +1586,8 @@
         <id>851</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1958-12-19</start-date>
-        <end-date>1959-01-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>High Rock (Jamaica)</locale>
         <remarks>Vacation.</remarks>
@@ -1600,8 +1600,8 @@
         <id>852</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1959-02-04</start-date>
-        <end-date>1959-02-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Prime Minister Macmillan and Foreign Secretary Lloyd.</remarks>
@@ -1614,8 +1614,8 @@
         <id>853</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1959-02-06</start-date>
-        <end-date>1959-02-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with President De Gaulle, Foreign Minister Couve de Murville, and NATO             Secretary General Spaak.</remarks>
@@ -1628,8 +1628,8 @@
         <id>854</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
-        <start-date>1959-02-07</start-date>
-        <end-date>1959-02-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
         <remarks>Met with Chancellor Adenauer and Foreign Minister Von Brentano.</remarks>

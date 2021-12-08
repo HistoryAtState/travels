@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="christopher-warren-minor" role="secretary">
+        <id>3290</id>
+        <role>secretary</role>
+        <name>Warren Minor Christopher</name>
+        <start-date/>
+        <end-date/>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Accompanied President Clinton to Vatican City for meetings with senior church             officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="christopher-warren-minor" role="secretary">
         <id>496</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-18</start-date>
-        <end-date>1993-02-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed Middle East peace process with President Mubarak and Foreign Minister             Moussa.</remarks>
@@ -18,8 +32,8 @@
         <id>497</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-19</start-date>
-        <end-date>1993-02-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed the Middle East peace process with King Hussein.</remarks>
@@ -32,8 +46,8 @@
         <id>498</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-20</start-date>
-        <end-date>1993-02-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad.</remarks>
@@ -46,8 +60,8 @@
         <id>499</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-21</start-date>
-        <end-date>1993-02-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
         <remarks>Discussed the Middle East peace process with King Fahd.</remarks>
@@ -60,8 +74,8 @@
         <id>500</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-22</start-date>
-        <end-date>1993-02-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City</locale>
         <remarks>Discussed the Persian Gulf crisis with Sheikh al-Sabah.</remarks>
@@ -74,8 +88,8 @@
         <id>501</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-22</start-date>
-        <end-date>1993-02-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="cyprus">Cyprus</country>
         <locale>Larnaca</locale>
         <remarks>Stopped en route to Beirut.</remarks>
@@ -88,8 +102,8 @@
         <id>502</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-22</start-date>
-        <end-date>1993-02-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Hariri.</remarks>
@@ -102,8 +116,8 @@
         <id>503</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-22</start-date>
-        <end-date>1993-02-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with senior Israeli officials and             Palestinian representatives.</remarks>
@@ -116,8 +130,8 @@
         <id>504</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-25</start-date>
-        <end-date>1993-02-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Met with Russian Foreign Minister Kozyrev.</remarks>
@@ -130,8 +144,8 @@
         <id>505</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-02-25</start-date>
-        <end-date>1993-02-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Discussed the Yugoslav civil war with NATO Foreign Ministers.</remarks>
@@ -144,8 +158,8 @@
         <id>506</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-04-02</start-date>
-        <end-date>1993-04-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Vancouver</locale>
         <remarks>Accompanied President Clinton to a summit meeting with Russian President             Yeltsin.</remarks>
@@ -158,8 +172,8 @@
         <id>507</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-04-13</start-date>
-        <end-date>1993-04-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Attended a meeting of the G-7 Foreign and Finance Ministers on aid to the former             Soviet Union.</remarks>
@@ -172,8 +186,8 @@
         <id>508</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-05-02</start-date>
-        <end-date>1993-05-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Chevening</locale>
         <remarks>Discussed the Bosnian crisis with senior British officials and with the Foreign             Ministers of Spain and Greece.</remarks>
@@ -186,8 +200,8 @@
         <id>509</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-05-03</start-date>
-        <end-date>1993-05-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed the Bosnian crisis with senior French officials.</remarks>
@@ -200,8 +214,8 @@
         <id>510</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-05-04</start-date>
-        <end-date>1993-05-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
         <remarks>Discussed the Bosnian crisis with senior Russian officials.</remarks>
@@ -214,8 +228,8 @@
         <id>511</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-05-05</start-date>
-        <end-date>1993-05-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Discussed the Bosnian crisis with NATO officials.</remarks>
@@ -228,8 +242,8 @@
         <id>512</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-05-06</start-date>
-        <end-date>1993-05-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Bonn</locale>
         <remarks>Discussed the Bosnian crisis with senior German officials.</remarks>
@@ -242,8 +256,8 @@
         <id>513</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-05-07</start-date>
-        <end-date>1993-05-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Discussed the Bosnian crisis with senior Italian officials.</remarks>
@@ -256,8 +270,8 @@
         <id>514</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-06-08</start-date>
-        <end-date>1993-06-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="luxembourg">Luxembourg</country>
         <locale>Luxembourg</locale>
         <remarks>Met with EC Foreign Ministers.</remarks>
@@ -270,8 +284,8 @@
         <id>515</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-06-09</start-date>
-        <end-date>1993-06-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
         <remarks>Attended NATO and NACC Ministerial Meetings.</remarks>
@@ -284,8 +298,8 @@
         <id>516</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-06-12</start-date>
-        <end-date>1993-06-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Istanbul</locale>
         <remarks>Met with President Demirel and senior Turkish officials.</remarks>
@@ -298,8 +312,8 @@
         <id>517</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-06-14</start-date>
-        <end-date>1993-06-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Addressed World Conference on Human Rights.</remarks>
@@ -312,8 +326,8 @@
         <id>518</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-07-06</start-date>
-        <end-date>1993-07-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Accompanied President Clinton to the Economic Summit Meeting and to meetings with             Russian President Yeltsin.</remarks>
@@ -326,8 +340,8 @@
         <id>519</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-07-10</start-date>
-        <end-date>1993-07-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
         <remarks>Accompanied President Clinton.</remarks>
@@ -340,8 +354,8 @@
         <id>520</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-07-23</start-date>
-        <end-date>1993-07-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
         <remarks>Attended ASEAN Post-Ministerial Conference.</remarks>
@@ -354,8 +368,8 @@
         <id>521</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-08-02</start-date>
-        <end-date>1993-08-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo, Alexandria</locale>
         <remarks>Discussed the Middle East peace process.</remarks>
@@ -368,8 +382,8 @@
         <id>522</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-08-03</start-date>
-        <end-date>1993-08-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process.</remarks>
@@ -382,8 +396,8 @@
         <id>523</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-08-04</start-date>
-        <end-date>1993-08-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process.</remarks>
@@ -396,8 +410,8 @@
         <id>524</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-08-04</start-date>
-        <end-date>1993-08-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="lebanon">Lebanon</country>
         <locale>Zahle</locale>
         <remarks>Discussed the Middle East peace process.</remarks>
@@ -410,8 +424,8 @@
         <id>525</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-08-05</start-date>
-        <end-date>1993-08-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process.</remarks>
@@ -424,8 +438,8 @@
         <id>526</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-08-05</start-date>
-        <end-date>1993-08-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed the Middle East peace process.</remarks>
@@ -438,8 +452,8 @@
         <id>527</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-08-05</start-date>
-        <end-date>1993-08-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process.</remarks>
@@ -452,8 +466,8 @@
         <id>528</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-08-06</start-date>
-        <end-date>1993-08-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process.</remarks>
@@ -466,8 +480,8 @@
         <id>529</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-08-06</start-date>
-        <end-date>1993-08-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Aviano</locale>
         <remarks>Discussed the Bosnian conflict with U.S. and NATO military officials.</remarks>
@@ -480,8 +494,8 @@
         <id>530</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-10-21</start-date>
-        <end-date>1993-10-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
         <remarks>Met with Foreign Minister Jeszensky and addressed the American Chamber of             Commerce.</remarks>
@@ -494,8 +508,8 @@
         <id>531</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-10-21</start-date>
-        <end-date>1993-10-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
         <remarks>Met with senior Russian officials and addressed the Academy of the National             Economy.</remarks>
@@ -508,8 +522,8 @@
         <id>532</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-10-23</start-date>
-        <end-date>1993-10-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="kazakhstan">Kazakhstan</country>
         <locale>Almaty</locale>
         <remarks>Met with President Nazarbayev and signed taxation and economic assistance             agreements.</remarks>
@@ -522,8 +536,8 @@
         <id>533</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-10-24</start-date>
-        <end-date>1993-10-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ukraine">Ukraine</country>
         <locale>Kiev</locale>
         <remarks>Met with President Kravchuk and senior Ukrainian officials.</remarks>
@@ -536,8 +550,8 @@
         <id>534</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-10-26</start-date>
-        <end-date>1993-10-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belarus">Belarus</country>
         <locale>Minsk</locale>
         <remarks>Met with Chairman Shushkevich and senior officials.</remarks>
@@ -550,8 +564,8 @@
         <id>535</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-10-26</start-date>
-        <end-date>1993-10-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="latvia">Latvia</country>
         <locale>Riga</locale>
         <remarks>Met with the Foreign Ministers of the Baltic States.</remarks>
@@ -564,8 +578,8 @@
         <id>536</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-11-29</start-date>
-        <end-date>1993-12-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
         <remarks>Attended CSCE Conference.</remarks>
@@ -578,8 +592,8 @@
         <id>537</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-01</start-date>
-        <end-date>1993-12-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Met with EC Foreign Ministers and attended NATO and NACC Ministerial             Meetings.</remarks>
@@ -592,8 +606,8 @@
         <id>538</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-03</start-date>
-        <end-date>1993-12-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with senior Israeli officials.</remarks>
@@ -606,8 +620,8 @@
         <id>539</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-05</start-date>
-        <end-date>1993-12-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with senior Syrian officials.</remarks>
@@ -620,8 +634,8 @@
         <id>540</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-06</start-date>
-        <end-date>1993-12-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed the Middle East peace process with senior Jordanian officials and PLO             Chairman Arafat.</remarks>
@@ -634,8 +648,8 @@
         <id>541</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-06</start-date>
-        <end-date>1993-12-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with senior Israeli officials and             Palestinian representatives.</remarks>
@@ -648,8 +662,8 @@
         <id>542</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-08</start-date>
-        <end-date>1993-12-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Middle East peace process with senior Egyptian officials.</remarks>
@@ -662,8 +676,8 @@
         <id>543</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-09</start-date>
-        <end-date>1993-12-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with senior Syrian officials.</remarks>
@@ -676,8 +690,8 @@
         <id>544</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-09</start-date>
-        <end-date>1993-12-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with senior Israeli officials.</remarks>
@@ -690,8 +704,8 @@
         <id>545</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-10</start-date>
-        <end-date>1993-12-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="tunisia">Tunisia</country>
         <locale>Tunis</locale>
         <remarks>Discussed the Middle East peace process with PLO Chairman Arafat.</remarks>
@@ -704,8 +718,8 @@
         <id>546</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1993-12-10</start-date>
-        <end-date>1993-12-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="morocco">Morocco</country>
         <locale>Rabat</locale>
         <remarks>Discussed the Middle East peace process with King Hassan II.</remarks>
@@ -718,8 +732,8 @@
         <id>547</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-01-09</start-date>
-        <end-date>1994-01-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Accompanied President Clinton to NATO Summit Meeting.</remarks>
@@ -732,8 +746,8 @@
         <id>548</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-01-11</start-date>
-        <end-date>1994-01-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="czech-republic">Czech Republic</country>
         <locale>Prague</locale>
         <remarks>Accompanied President Clinton to meetings with the Presidents of the Czech             Republic, Poland, and Hungary; and with the Prime Minister of Slovakia.</remarks>
@@ -746,8 +760,8 @@
         <id>549</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-01-12</start-date>
-        <end-date>1994-01-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ukraine">Ukraine</country>
         <locale>Kiev</locale>
         <remarks>Accompanied President Clinton to a meeting with President Kravchuk.</remarks>
@@ -760,8 +774,8 @@
         <id>550</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-01-12</start-date>
-        <end-date>1994-01-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
         <remarks>Accompanied President Clinton to meetings with President Yeltsin and senior Russian             officials.</remarks>
@@ -774,8 +788,8 @@
         <id>551</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-01-15</start-date>
-        <end-date>1994-01-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belarus">Belarus</country>
         <locale>Minsk</locale>
         <remarks>Accompanied President Clinton to a meeting with Chairman Shushkevich.</remarks>
@@ -788,8 +802,8 @@
         <id>552</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-01-15</start-date>
-        <end-date>1994-01-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Accompanied President Clinton to a meeting with Syrian President Assad.</remarks>
@@ -802,8 +816,8 @@
         <id>553</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-01-21</start-date>
-        <end-date>1994-01-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="norway">Norway</country>
         <locale>Oslo</locale>
         <remarks>Attended the funeral of Norwegian Foreign Minister Holst. Met with Israeli Foreign             Minister Peres and PLO Chairman Arafat.</remarks>
@@ -816,8 +830,8 @@
         <id>554</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-01-23</start-date>
-        <end-date>1994-01-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with Chinese Foreign Minister Qian and discussed the Bosnian conflict with             senior French officials.</remarks>
@@ -830,8 +844,8 @@
         <id>555</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-03-07</start-date>
-        <end-date>1994-03-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="australia">Australia</country>
         <locale>Canberra</locale>
         <remarks>Attended Australia-U.S. Ministerial Meeting.</remarks>
@@ -844,8 +858,8 @@
         <id>556</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-03-09</start-date>
-        <end-date>1994-03-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Met with senior Japanese officials and attended a meeting of the International             Committee on the Reconstruction of Cambodia.</remarks>
@@ -858,8 +872,8 @@
         <id>557</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-03-11</start-date>
-        <end-date>1994-03-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
         <remarks>Met with senior Chinese officials.</remarks>
@@ -872,8 +886,8 @@
         <id>558</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-03-14</start-date>
-        <end-date>1994-03-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Vladivostok</locale>
         <remarks>Met with Foreign Minister Kozyrev.</remarks>
@@ -886,8 +900,8 @@
         <id>559</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-04-25</start-date>
-        <end-date>1994-04-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Discussed the Bosnian conflict with the Foreign Ministers of the United Kingdom and             France. Also met with King Hussein of Jordan.</remarks>
@@ -900,8 +914,8 @@
         <id>560</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-04-26</start-date>
-        <end-date>1994-04-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Met with Russian Foreign Minister Kozyrev.</remarks>
@@ -914,8 +928,8 @@
         <id>561</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-04-27</start-date>
-        <end-date>1994-04-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
         <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council.</remarks>
@@ -928,8 +942,8 @@
         <id>562</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-04-27</start-date>
-        <end-date>1994-04-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak, the Foreign Ministers of Egypt and Israel, and PLO             Chairman Arafat.</remarks>
@@ -942,8 +956,8 @@
         <id>563</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-04-28</start-date>
-        <end-date>1994-04-30</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Rabin.</remarks>
@@ -956,8 +970,8 @@
         <id>564</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-04-30</start-date>
-        <end-date>1994-05-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus, Palmyra</locale>
         <remarks>Discussed the status of the Golan Heights with President Assad and Foreign Minister             Sharaa.</remarks>
@@ -970,8 +984,8 @@
         <id>565</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-05-01</start-date>
-        <end-date>1994-05-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the status of the Golan Heights with Prime Minister Rabin.</remarks>
@@ -984,8 +998,8 @@
         <id>566</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-05-03</start-date>
-        <end-date>1994-05-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Attended the signing of the agreement to implement the Israel-Palestinian             Declaration of Principles, and discussed the Bosnian conflict with Russian Foreign             Minister Kozyrev.</remarks>
@@ -998,8 +1012,8 @@
         <id>567</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-05-08</start-date>
-        <end-date>1994-05-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Mexico City</locale>
         <remarks>Attended meeting of the U.S.-Mexico Binational Commission.</remarks>
@@ -1012,8 +1026,8 @@
         <id>568</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-05-13</start-date>
-        <end-date>1994-05-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Attended conference of European Union Foreign Ministers on the Bosnian             conflict.</remarks>
@@ -1026,8 +1040,8 @@
         <id>569</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-05-15</start-date>
-        <end-date>1994-05-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the future status of the Golan Heights with President Assad.</remarks>
@@ -1040,8 +1054,8 @@
         <id>570</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-05-16</start-date>
-        <end-date>1994-05-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the future status of the Golan Heights with Prime Minister             Rabin.</remarks>
@@ -1054,8 +1068,8 @@
         <id>571</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-05-17</start-date>
-        <end-date>1994-05-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Jericho</locale>
         <remarks>Met with members of the Governing Council.</remarks>
@@ -1068,8 +1082,8 @@
         <id>572</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-05-18</start-date>
-        <end-date>1994-05-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the future status of the Golan Heights with President Assad.</remarks>
@@ -1082,8 +1096,8 @@
         <id>573</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-05-18</start-date>
-        <end-date>1994-05-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Israel-Syrian peace process with President Mubarak.</remarks>
@@ -1093,25 +1107,11 @@
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="christopher-warren-minor" role="secretary">
-        <id>3290</id>
-        <role>secretary</role>
-        <name>Warren Minor Christopher</name>
-        <start-date>1994-06-02</start-date>
-        <end-date>1994-06-02</end-date>
-        <country id="holy-see">Vatican City</country>
-        <locale/>
-        <remarks>Accompanied President Clinton to Vatican City for meetings with senior church             officials.</remarks>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
-    </trip>
-    <trip who="christopher-warren-minor" role="secretary">
         <id>574</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-06-02</start-date>
-        <end-date>1994-06-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Rome, Nettuno</locale>
         <remarks>Accompanied President Clinton to meetings with Prime Minister Berlusconi, President             Scalfaro, and senior Italian officials.</remarks>
@@ -1124,8 +1124,8 @@
         <id>575</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-06-04</start-date>
-        <end-date>1994-06-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Cambridge, London, Portsmouth</locale>
         <remarks>Accompanied President Clinton to meeting with Prime Minister Major and to D-Day             commemorative ceremonies.</remarks>
@@ -1138,8 +1138,8 @@
         <id>576</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-06-06</start-date>
-        <end-date>1994-06-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Caen, Colleville, Paris</locale>
         <remarks>Accompanied President Clinton to D-Day memorial ceremonies and to meetings with             President Mitterrand and senior French officials. Addressed OECD ministerial             meeting.</remarks>
@@ -1152,8 +1152,8 @@
         <id>577</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-06-08</start-date>
-        <end-date>1994-06-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="turkey">Turkey</country>
         <locale>Istanbul</locale>
         <remarks>Attended NATO and NACC Ministerial Meetings.</remarks>
@@ -1166,8 +1166,8 @@
         <id>578</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-06-22</start-date>
-        <end-date>1994-06-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting and met with Russian Foreign Minister             Kozyrev.</remarks>
@@ -1180,8 +1180,8 @@
         <id>579</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-01</start-date>
-        <end-date>1994-07-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Private visit to London.</remarks>
@@ -1194,8 +1194,8 @@
         <id>580</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-05</start-date>
-        <end-date>1994-07-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Attended ministerial meeting of the Contact Group on Bosnia.</remarks>
@@ -1208,8 +1208,8 @@
         <id>581</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-06</start-date>
-        <end-date>1994-07-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="latvia">Latvia</country>
         <locale>Riga</locale>
         <remarks>Accompanied President Clinton to a meeting with the Presidents of the Baltic             States.</remarks>
@@ -1222,8 +1222,8 @@
         <id>582</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-06</start-date>
-        <end-date>1994-07-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
         <remarks>Accompanied President Clinton.</remarks>
@@ -1236,8 +1236,8 @@
         <id>583</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-07</start-date>
-        <end-date>1994-07-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="italy">Italy</country>
         <locale>Naples</locale>
         <remarks>Accompanied President Clinton to the G-7 Economic Summit and to meetings with             Russian President Yeltsin.</remarks>
@@ -1250,8 +1250,8 @@
         <id>584</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-11</start-date>
-        <end-date>1994-07-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Bonn, Berlin</locale>
         <remarks>Accompanied President Clinton to meetings with Chancellor Kohl and EU President             Delors.</remarks>
@@ -1264,8 +1264,8 @@
         <id>585</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-18</start-date>
-        <end-date>1994-07-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Rabin and Foreign             Minister Peres.</remarks>
@@ -1278,8 +1278,8 @@
         <id>586</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-19</start-date>
-        <end-date>1994-07-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad and Foreign Minster             Sharaa.</remarks>
@@ -1292,8 +1292,8 @@
         <id>587</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-20</start-date>
-        <end-date>1994-07-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman, South Shuneh, Petra</locale>
         <remarks>Attended U.S.-Jordan-Israel Trilateral Economic Committee meeting.</remarks>
@@ -1306,8 +1306,8 @@
         <id>588</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-21</start-date>
-        <end-date>1994-07-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Gaza</locale>
         <remarks>Met with PLO Chairman Arafat.</remarks>
@@ -1320,8 +1320,8 @@
         <id>589</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-21</start-date>
-        <end-date>1994-07-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Rabin.</remarks>
@@ -1334,8 +1334,8 @@
         <id>590</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-22</start-date>
-        <end-date>1994-07-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad.</remarks>
@@ -1348,8 +1348,8 @@
         <id>591</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-07-30</start-date>
-        <end-date>1994-07-30</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Attended a meeting of Contact Group Foreign Ministers about the Bosnian             conflict.</remarks>
@@ -1362,8 +1362,8 @@
         <id>592</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-08-06</start-date>
-        <end-date>1994-08-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Alexandria</locale>
         <remarks>Discussed the Middle East Peace Process with President Mubarak and PLO Chairman             Arafat.</remarks>
@@ -1376,8 +1376,8 @@
         <id>593</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-08-06</start-date>
-        <end-date>1994-08-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Rabin and Foreign             Minister Peres.</remarks>
@@ -1390,8 +1390,8 @@
         <id>594</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-08-07</start-date>
-        <end-date>1994-08-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad and Foreign Minister             Sharaa.</remarks>
@@ -1404,8 +1404,8 @@
         <id>595</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-08-08</start-date>
-        <end-date>1994-08-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Aqaba, Amman</locale>
         <remarks>Attended inauguration of the Jordan-Israel Border Crossing, and discussed the             Middle East peace process with King Hussein.</remarks>
@@ -1418,8 +1418,8 @@
         <id>596</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-08-08</start-date>
-        <end-date>1994-08-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Rabin and Foreign             Minister Peres.</remarks>
@@ -1432,8 +1432,8 @@
         <id>597</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-08-17</start-date>
-        <end-date>1994-08-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended memorial service for NATO Secretary General Woerner.</remarks>
@@ -1446,8 +1446,8 @@
         <id>598</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-09-08</start-date>
-        <end-date>1994-09-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
         <remarks>Attended farewell ceremony for departing Allied troops.</remarks>
@@ -1460,8 +1460,8 @@
         <id>599</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-09</start-date>
-        <end-date>1994-10-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with senior Israeli officials.</remarks>
@@ -1474,8 +1474,8 @@
         <id>600</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-11</start-date>
-        <end-date>1994-10-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with senior Syrian officials.</remarks>
@@ -1488,8 +1488,8 @@
         <id>601</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-11</start-date>
-        <end-date>1994-10-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed the Middle East peace process with senior Jordanian officials.</remarks>
@@ -1502,8 +1502,8 @@
         <id>602</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-12</start-date>
-        <end-date>1994-10-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City, Camp Doha</locale>
         <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council and the United             Kingdom. Addressed U.S. military personnel.</remarks>
@@ -1516,8 +1516,8 @@
         <id>603</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-12</start-date>
-        <end-date>1994-10-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with senior Israeli officials.</remarks>
@@ -1530,8 +1530,8 @@
         <id>604</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-13</start-date>
-        <end-date>1994-10-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with senior Syrian officials.</remarks>
@@ -1544,8 +1544,8 @@
         <id>605</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-14</start-date>
-        <end-date>1994-10-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Middle East peace process with President Mubarak and PLO Chairman             Arafat.</remarks>
@@ -1558,8 +1558,8 @@
         <id>606</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-14</start-date>
-        <end-date>1994-10-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Frankfurt</locale>
         <remarks>Commented to the press on the Middle East peace process and the Iraq-Kuwait             crisis.</remarks>
@@ -1572,8 +1572,8 @@
         <id>607</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-15</start-date>
-        <end-date>1994-10-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="haiti">Haiti</country>
         <locale>Port-au-Prince</locale>
         <remarks>Attended the return of President Aristide.</remarks>
@@ -1586,8 +1586,8 @@
         <id>608</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-25</start-date>
-        <end-date>1994-10-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Accompanied President Clinton to meetings with President Mubarak and PLO Chairman             Arafat.</remarks>
@@ -1600,8 +1600,8 @@
         <id>609</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-26</start-date>
-        <end-date>1994-10-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Aqaba, Wadi Arava, Amman</locale>
         <remarks>Accompanied President Clinton to the signing of the Israel-Jordan peace treaty and             to meetings with senior Jordanian officials.</remarks>
@@ -1614,8 +1614,8 @@
         <id>610</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-27</start-date>
-        <end-date>1994-10-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Accompanied President Clinton to a meeting with President Assad.</remarks>
@@ -1628,8 +1628,8 @@
         <id>611</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-27</start-date>
-        <end-date>1994-10-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Accompanied President Clinton to meetings with senior Israeli officials.</remarks>
@@ -1642,8 +1642,8 @@
         <id>612</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-28</start-date>
-        <end-date>1994-10-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City</locale>
         <remarks>Accompanied President Clinton to a meeting with the Amir of Kuwait.</remarks>
@@ -1656,8 +1656,8 @@
         <id>613</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-28</start-date>
-        <end-date>1994-10-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>King Khalid Military City, Riyadh</locale>
         <remarks>Accompanied President Clinton to a meeting with King Fahd.</remarks>
@@ -1670,8 +1670,8 @@
         <id>614</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-10-30</start-date>
-        <end-date>1994-11-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="morocco">Morocco</country>
         <locale>Casablanca</locale>
         <remarks>Attended Middle East and North Africa Economic Summit Conference.</remarks>
@@ -1684,8 +1684,8 @@
         <id>615</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-11-08</start-date>
-        <end-date>1994-11-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul, Osan</locale>
         <remarks>Discussed the security situation on the Korean Peninsula with senior Korean             officials, addressed Korean-American Friendship Society and U.S. military             personnel.</remarks>
@@ -1698,8 +1698,8 @@
         <id>616</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-11-10</start-date>
-        <end-date>1994-11-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
         <remarks>Attended APEC Ministerial Meeting.</remarks>
@@ -1712,8 +1712,8 @@
         <id>617</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-11-12</start-date>
-        <end-date>1994-11-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Accompanied President Clinton during a State Visit.</remarks>
@@ -1726,8 +1726,8 @@
         <id>618</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-11-13</start-date>
-        <end-date>1994-11-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta, Bogor</locale>
         <remarks>Attended APEC Summit Meeting.</remarks>
@@ -1740,8 +1740,8 @@
         <id>619</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-11-16</start-date>
-        <end-date>1994-11-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
         <remarks>Met with senior Thai officials.</remarks>
@@ -1754,8 +1754,8 @@
         <id>620</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-12-01</start-date>
-        <end-date>1994-12-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO, NACC, and Contact Group Ministerial Meetings.</remarks>
@@ -1768,8 +1768,8 @@
         <id>621</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-12-04</start-date>
-        <end-date>1994-12-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
         <remarks>Attended CSCE Summit Meeting.</remarks>
@@ -1782,8 +1782,8 @@
         <id>622</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-12-06</start-date>
-        <end-date>1994-12-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad.</remarks>
@@ -1796,8 +1796,8 @@
         <id>623</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-12-06</start-date>
-        <end-date>1994-12-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Rabin.</remarks>
@@ -1810,8 +1810,8 @@
         <id>624</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1994-12-07</start-date>
-        <end-date>1994-12-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Gaza</locale>
         <remarks>Discussed the Middle East peace process with Chairman Arafat.</remarks>
@@ -1824,8 +1824,8 @@
         <id>625</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-01-17</start-date>
-        <end-date>1995-01-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Met with Russian Foreign Minister Kozyrev.</remarks>
@@ -1838,8 +1838,8 @@
         <id>626</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-02-23</start-date>
-        <end-date>1995-02-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
         <remarks>Accompanied President Clinton on a state visit.</remarks>
@@ -1852,8 +1852,8 @@
         <id>627</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-08</start-date>
-        <end-date>1995-03-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Discussed the Middle East peace process with senior Egyptian officials.</remarks>
@@ -1866,8 +1866,8 @@
         <id>628</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-09</start-date>
-        <end-date>1995-03-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with senior Israeli officials.</remarks>
@@ -1880,8 +1880,8 @@
         <id>629</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-10</start-date>
-        <end-date>1995-03-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Gaza</locale>
         <remarks>Discussed the Middle East peace process with Chairman Arafat.</remarks>
@@ -1894,8 +1894,8 @@
         <id>630</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-12</start-date>
-        <end-date>1995-03-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
         <remarks>Met with the Gulf Cooperation Council Foreign Ministers and discussed the situation             in Iraq with King Fahd.</remarks>
@@ -1908,8 +1908,8 @@
         <id>631</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-12</start-date>
-        <end-date>1995-03-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad.</remarks>
@@ -1922,8 +1922,8 @@
         <id>632</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-13</start-date>
-        <end-date>1995-03-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed the Middle East process with King Hussein.</remarks>
@@ -1936,8 +1936,8 @@
         <id>633</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-13</start-date>
-        <end-date>1995-03-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with senior Israeli officials.</remarks>
@@ -1950,8 +1950,8 @@
         <id>634</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-14</start-date>
-        <end-date>1995-03-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad.</remarks>
@@ -1964,8 +1964,8 @@
         <id>635</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-21</start-date>
-        <end-date>1995-03-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Met with French Foreign Minister Juppe.</remarks>
@@ -1978,8 +1978,8 @@
         <id>636</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-03-22</start-date>
-        <end-date>1995-03-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Met with Russian Foreign Minister Kozyrev.</remarks>
@@ -1992,8 +1992,8 @@
         <id>637</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-05-09</start-date>
-        <end-date>1995-05-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
         <remarks>Accompanied President Clinton to summit meeting.</remarks>
@@ -2006,8 +2006,8 @@
         <id>638</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-05-11</start-date>
-        <end-date>1995-05-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ukraine">Ukraine</country>
         <locale>Kiev</locale>
         <remarks>Accompanied President Clinton on state visit.</remarks>
@@ -2020,8 +2020,8 @@
         <id>639</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-05-29</start-date>
-        <end-date>1995-06-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague, Noordwijk</locale>
         <remarks>Attended a meeting of the Contact Group Foreign Ministers and NATO and NACC             Ministerial Meetings.</remarks>
@@ -2034,8 +2034,8 @@
         <id>640</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-01</start-date>
-        <end-date>1995-06-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
         <remarks>Signed Agreement on Cooperation and Defense.</remarks>
@@ -2048,8 +2048,8 @@
         <id>641</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-01</start-date>
-        <end-date>1995-06-02</end-date>
+        <start-date/>
+        <end-date/>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Met with senior Spanish officials.</remarks>
@@ -2062,8 +2062,8 @@
         <id>642</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-04</start-date>
-        <end-date>1995-06-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="haiti">Haiti</country>
         <locale>Montrouis</locale>
         <remarks>Attended an OAS ministerial meeting and the inauguration of a new Haitian police             force.</remarks>
@@ -2076,8 +2076,8 @@
         <id>643</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-08</start-date>
-        <end-date>1995-06-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
         <remarks>Discussed the Israel-Syrian peace process with Prime Minister Rabin and Foreign             Minister Peres.</remarks>
@@ -2090,8 +2090,8 @@
         <id>644</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-09</start-date>
-        <end-date>1995-06-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak and Israeli Prime Minister Rabin.</remarks>
@@ -2104,8 +2104,8 @@
         <id>645</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-10</start-date>
-        <end-date>1995-06-10</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Israel-Syrian peace process with President Assad.</remarks>
@@ -2118,8 +2118,8 @@
         <id>646</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-10</start-date>
-        <end-date>1995-06-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Israel-Syrian peace process with Prime Minister Rabin.</remarks>
@@ -2132,8 +2132,8 @@
         <id>647</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-11</start-date>
-        <end-date>1995-06-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Jericho</locale>
         <remarks>Met with PLO Chairman Arafat.</remarks>
@@ -2146,8 +2146,8 @@
         <id>648</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-11</start-date>
-        <end-date>1995-06-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Discussed the Middle East peace process with King Hussein.</remarks>
@@ -2160,8 +2160,8 @@
         <id>649</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-06-15</start-date>
-        <end-date>1995-06-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="canada">Canada</country>
         <locale>Halifax (Nova Scotia)</locale>
         <remarks>G-7 Economic Summit.</remarks>
@@ -2174,8 +2174,8 @@
         <id>650</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-07-20</start-date>
-        <end-date>1995-07-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Discussed the Bosnian conflict with NATO and Contact Group             representatives.</remarks>
@@ -2188,8 +2188,8 @@
         <id>651</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-07-31</start-date>
-        <end-date>1995-08-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="brunei">Brunei Darussalam</country>
         <locale>Bandar Seri Begawan</locale>
         <remarks>Met with the Foreign Ministers of China and Russia and attended ASEAN Post-             Ministerial Conference.</remarks>
@@ -2202,8 +2202,8 @@
         <id>652</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-08-03</start-date>
-        <end-date>1995-08-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="malaysia">Malaysia</country>
         <locale>Kuala Lumpur</locale>
         <remarks>Discussed the Bosnian conflict with Prime Minister Mahathir; signed commercial and             educational exchange agreements.</remarks>
@@ -2216,8 +2216,8 @@
         <id>653</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-08-04</start-date>
-        <end-date>1995-08-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="cambodia">Cambodia</country>
         <locale>Phnom Penh</locale>
         <remarks>Met with King Sihanouk and senior Cambodian officials. Signed AID and OPIC             agreements.</remarks>
@@ -2230,8 +2230,8 @@
         <id>654</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-08-05</start-date>
-        <end-date>1995-08-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="vietnam">Vietnam</country>
         <locale>Hanoi</locale>
         <remarks>Signed agreements normalizing relations with Vietnam and opened the U.S.             Embassy.</remarks>
@@ -2244,8 +2244,8 @@
         <id>655</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-10-29</start-date>
-        <end-date>1995-10-30</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
         <remarks>Attended the opening session of the Middle East and North Africa Economic             Summit.</remarks>
@@ -2258,8 +2258,8 @@
         <id>656</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-10-30</start-date>
-        <end-date>1995-10-30</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Israel-Syrian peace process with President Assad.</remarks>
@@ -2272,8 +2272,8 @@
         <id>657</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-11-05</start-date>
-        <end-date>1995-11-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Accompanied President Clinton to the funeral of Prime Minister Rabin.</remarks>
@@ -2286,8 +2286,8 @@
         <id>658</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-11-16</start-date>
-        <end-date>1995-11-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Osaka</locale>
         <remarks>Attended APEC Ministerial Meeting.</remarks>
@@ -2300,8 +2300,8 @@
         <id>659</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-12-02</start-date>
-        <end-date>1995-12-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
         <remarks>Attended European Union Summit Meeting.</remarks>
@@ -2314,8 +2314,8 @@
         <id>660</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-12-04</start-date>
-        <end-date>1995-12-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO and NACC Ministerial Meetings.</remarks>
@@ -2328,8 +2328,8 @@
         <id>661</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-12-14</start-date>
-        <end-date>1995-12-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended the signing of the Bosnian Peace Treaty.</remarks>
@@ -2342,8 +2342,8 @@
         <id>662</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-12-14</start-date>
-        <end-date>1995-12-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Israel-Syrian peace process.</remarks>
@@ -2356,8 +2356,8 @@
         <id>663</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-12-15</start-date>
-        <end-date>1995-12-17</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Israel-Syrian peace process.</remarks>
@@ -2370,8 +2370,8 @@
         <id>664</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-12-16</start-date>
-        <end-date>1995-12-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="jordan">Jordan</country>
         <locale>Aqaba</locale>
         <remarks>Discussed the Middle East peace process with King Hussein.</remarks>
@@ -2384,8 +2384,8 @@
         <id>665</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1995-12-16</start-date>
-        <end-date>1995-12-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Jericho</locale>
         <remarks>Discussed the Middle East peace process with Chairman Arafat.</remarks>
@@ -2398,8 +2398,8 @@
         <id>666</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-01-10</start-date>
-        <end-date>1996-01-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Israel-Syrian peace process with senior Israeli officials and King             Hussein of Jordan.</remarks>
@@ -2412,8 +2412,8 @@
         <id>667</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-01-11</start-date>
-        <end-date>1996-01-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Israel-Syrian peace process with President Assad.</remarks>
@@ -2426,8 +2426,8 @@
         <id>668</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-01-13</start-date>
-        <end-date>1996-01-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Gaza</locale>
         <remarks>Discussed the Middle East peace process with Chairman Arafat.</remarks>
@@ -2440,8 +2440,8 @@
         <id>669</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-02</start-date>
-        <end-date>1996-02-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="croatia">Croatia</country>
         <locale>Zagreb</locale>
         <remarks>Met with President Tudjman.</remarks>
@@ -2454,8 +2454,8 @@
         <id>670</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-03</start-date>
-        <end-date>1996-02-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
         <locale>Tuzla</locale>
         <remarks>Visited U.S. troops and met with President Izetbegovic.</remarks>
@@ -2468,8 +2468,8 @@
         <id>671</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-04</start-date>
-        <end-date>1996-02-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade</locale>
         <remarks>Met with President Milosevic.</remarks>
@@ -2482,8 +2482,8 @@
         <id>672</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-05</start-date>
-        <end-date>1996-02-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Israel-Syrian peace process with Prime Minister Peres.</remarks>
@@ -2496,8 +2496,8 @@
         <id>673</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-06</start-date>
-        <end-date>1996-02-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Discussed the Israel-Syrian peace process with President Assad.</remarks>
@@ -2510,8 +2510,8 @@
         <id>674</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-07</start-date>
-        <end-date>1996-02-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Gaza</locale>
         <remarks>Met with Chairman Arafat.</remarks>
@@ -2524,8 +2524,8 @@
         <id>675</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-08</start-date>
-        <end-date>1996-02-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
         <remarks>Met with Russian Foreign Minister Primakov and Ukrainian President             Kuchma.</remarks>
@@ -2538,8 +2538,8 @@
         <id>676</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-26</start-date>
-        <end-date>1996-02-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="el-salvador">El Salvador</country>
         <locale>San Salvador</locale>
         <remarks>Address the Legislative Assembly and met with the Presidents of El Salvador,             Honduras, and Costa Rica, the Prime Minister of Belize, and the Vice President of             Nicaragua.</remarks>
@@ -2552,8 +2552,8 @@
         <id>677</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-27</start-date>
-        <end-date>1996-02-28</end-date>
+        <start-date/>
+        <end-date/>
         <country id="chile">Chile</country>
         <locale>Santiago</locale>
         <remarks>Met with President Frei and Foreign Minister Insulza.</remarks>
@@ -2566,8 +2566,8 @@
         <id>678</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-02-28</start-date>
-        <end-date>1996-03-01</end-date>
+        <start-date/>
+        <end-date/>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
         <remarks>Met with President Menem and Foreign Minister Di Tella. Signed agreement on space             cooperation.</remarks>
@@ -2580,8 +2580,8 @@
         <id>679</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-03-01</start-date>
-        <end-date>1996-03-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="brazil">Brazil</country>
         <locale>Sao Paulo, Brasilia, Manaus</locale>
         <remarks>Met with President Cardoso and Foreign Minister Lampreia. Signed agreement on             peaceful uses of atomic energy, visited National Institute for Amazon             Research.</remarks>
@@ -2594,8 +2594,8 @@
         <id>680</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-03-03</start-date>
-        <end-date>1996-03-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="trinidad-and-tobago">Trinidad and Tobago</country>
         <locale>Port-of-Spain</locale>
         <remarks>Signed extradition and legal assistance treaties.</remarks>
@@ -2608,8 +2608,8 @@
         <id>681</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-03-13</start-date>
-        <end-date>1996-03-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
         <remarks>Accompanied President Clinton to the Summit of the Peacemakers.</remarks>
@@ -2622,8 +2622,8 @@
         <id>682</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-03-13</start-date>
-        <end-date>1996-03-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem, Tel Aviv</locale>
         <remarks>Accompanied President Clinton and held further discussions with Israeli officials             on cooperation against terrorism.</remarks>
@@ -2636,8 +2636,8 @@
         <id>683</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-03-16</start-date>
-        <end-date>1996-03-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Discussed the situation in Bosnia with senior NATO officials.</remarks>
@@ -2650,8 +2650,8 @@
         <id>684</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-03-17</start-date>
-        <end-date>1996-03-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Attended meeting with the Presidents of Serbia and Croatia, and the Acting             President of Bosnia; and addressed the Conference on Disarmament.</remarks>
@@ -2664,8 +2664,8 @@
         <id>685</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-03-18</start-date>
-        <end-date>1996-03-19</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ukraine">Ukraine</country>
         <locale>Kiev</locale>
         <remarks>Met with President Kuchma and Foreign Minister Udovenko.</remarks>
@@ -2678,8 +2678,8 @@
         <id>686</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-03-19</start-date>
-        <end-date>1996-03-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="czech-republic">Czech Republic</country>
         <locale>Prague</locale>
         <remarks>Attended a meeting of Central and Eastern European Foreign Ministers.</remarks>
@@ -2692,8 +2692,8 @@
         <id>687</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-03-21</start-date>
-        <end-date>1996-03-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
         <remarks>Met with President Yeltsin and Foreign Minister Primakov and attended a meeting of             Contact Group Foreign Ministers.</remarks>
@@ -2706,8 +2706,8 @@
         <id>688</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-15</start-date>
-        <end-date>1996-04-16</end-date>
+        <start-date/>
+        <end-date/>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Cheju Island</locale>
         <remarks>Accompanied President Clinton to a meeting with President Kim.</remarks>
@@ -2720,8 +2720,8 @@
         <id>689</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-16</start-date>
-        <end-date>1996-04-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
         <remarks>Accompanied President Clinton on a State Visit.</remarks>
@@ -2734,8 +2734,8 @@
         <id>690</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-18</start-date>
-        <end-date>1996-04-20</end-date>
+        <start-date/>
+        <end-date/>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague</locale>
         <remarks>Met with Foreign Minister Van Mierlo and Chinese Foreign Minister Qian.</remarks>
@@ -2748,8 +2748,8 @@
         <id>691</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-20</start-date>
-        <end-date>1996-04-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2762,8 +2762,8 @@
         <id>692</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-21</start-date>
-        <end-date>1996-04-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2776,8 +2776,8 @@
         <id>693</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-21</start-date>
-        <end-date>1996-04-22</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2790,8 +2790,8 @@
         <id>694</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-22</start-date>
-        <end-date>1996-04-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2804,8 +2804,8 @@
         <id>695</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-23</start-date>
-        <end-date>1996-04-23</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2818,8 +2818,8 @@
         <id>696</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-23</start-date>
-        <end-date>1996-04-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2832,8 +2832,8 @@
         <id>697</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-24</start-date>
-        <end-date>1996-04-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2846,8 +2846,8 @@
         <id>698</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-24</start-date>
-        <end-date>1996-04-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="lebanon">Lebanon</country>
         <locale>Shtoura</locale>
         <remarks>Met with Prime Minister Hariri and Speaker Berri; attempted to resolve the             Israel-Lebanon conflict.</remarks>
@@ -2860,8 +2860,8 @@
         <id>699</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-24</start-date>
-        <end-date>1996-04-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2874,8 +2874,8 @@
         <id>700</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-25</start-date>
-        <end-date>1996-04-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict. Also met with Lebanese Prime             Minister Hariri and Speaker Berri.</remarks>
@@ -2888,8 +2888,8 @@
         <id>701</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-25</start-date>
-        <end-date>1996-04-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2902,8 +2902,8 @@
         <id>702</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-26</start-date>
-        <end-date>1996-04-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
         <remarks>Attempted to resolve the Israel-Lebanon conflict.</remarks>
@@ -2916,8 +2916,8 @@
         <id>703</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-04-26</start-date>
-        <end-date>1996-04-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Announced Israel-Lebanon cease-fire agreement.</remarks>
@@ -2930,8 +2930,8 @@
         <id>704</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-05-06</start-date>
-        <end-date>1996-05-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
         <remarks>Attended meeting of the U.S.-Mexico Binational Commission.</remarks>
@@ -2944,8 +2944,8 @@
         <id>705</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-06-02</start-date>
-        <end-date>1996-06-03</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Discussed implementation of the Dayton Accords with the Presidents of Bosnia,             Croatia, and Serbia, and with representatives of IFOR and OSCE.</remarks>
@@ -2958,8 +2958,8 @@
         <id>706</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-06-03</start-date>
-        <end-date>1996-06-04</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
         <remarks>Attended meetings of NATO, NACC, and Contact Group Foreign Ministers.</remarks>
@@ -2972,8 +2972,8 @@
         <id>707</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-06-25</start-date>
-        <end-date>1996-06-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Met with Prime Minister Netanyahu and Foreign Minister Levy.</remarks>
@@ -2986,8 +2986,8 @@
         <id>708</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-06-26</start-date>
-        <end-date>1996-06-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak and Chairman Arafat.</remarks>
@@ -3000,8 +3000,8 @@
         <id>709</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-06-26</start-date>
-        <end-date>1996-06-26</end-date>
+        <start-date/>
+        <end-date/>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Dhahran</locale>
         <remarks>Met with Foreign Minister Prince Saud and with U.S. and Saudi military             personnel.</remarks>
@@ -3014,8 +3014,8 @@
         <id>710</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-06-26</start-date>
-        <end-date>1996-06-29</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Lyon</locale>
         <remarks>Attended the G-7 Economic Summit Meeting.</remarks>
@@ -3028,8 +3028,8 @@
         <id>711</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-07-23</start-date>
-        <end-date>1996-07-25</end-date>
+        <start-date/>
+        <end-date/>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
         <remarks>Ministerial Conference. Met with the Indonesian Human Rights Commission and with             Russian Foreign Minister Primakov.</remarks>
@@ -3042,8 +3042,8 @@
         <id>712</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-07-25</start-date>
-        <end-date>1996-07-27</end-date>
+        <start-date/>
+        <end-date/>
         <country id="australia">Australia</country>
         <locale>Sydney</locale>
         <remarks>Attended Australia-U.S. Ministerial talks.</remarks>
@@ -3056,8 +3056,8 @@
         <id>713</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-08-13</start-date>
-        <end-date>1996-08-13</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Discussed implementation of the Dayton Accords with senior NATO and OSCE             officials.</remarks>
@@ -3070,8 +3070,8 @@
         <id>714</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-08-13</start-date>
-        <end-date>1996-08-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
         <remarks>Met with the Presidents of Bosnia, Croatia, and Serbia.</remarks>
@@ -3084,8 +3084,8 @@
         <id>715</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-08-15</start-date>
-        <end-date>1996-08-15</end-date>
+        <start-date/>
+        <end-date/>
         <country id="bosnia-herzegovina">Bosnia</country>
         <locale>Sarajevo</locale>
         <remarks>Met with President Izetbegovic and five political leaders to discuss national             elections.</remarks>
@@ -3098,8 +3098,8 @@
         <id>716</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-09-05</start-date>
-        <end-date>1996-09-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Discussed the Northern Iraq and Bosnian crises with Prime Minister Major and             Foreign Secretary Rifkind.</remarks>
@@ -3112,8 +3112,8 @@
         <id>717</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-09-05</start-date>
-        <end-date>1996-09-05</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Discussed the Northern Iraq and Bosnian crises with President Chirac and Foreign             Minister de Charette.</remarks>
@@ -3126,8 +3126,8 @@
         <id>718</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-09-06</start-date>
-        <end-date>1996-09-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="germany">Germany</country>
         <locale>Stuttgart, Bonn</locale>
         <remarks>Met with Foreign Minister Kinkel and delivered a commemorative address.</remarks>
@@ -3140,8 +3140,8 @@
         <id>719</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-09-07</start-date>
-        <end-date>1996-09-08</end-date>
+        <start-date/>
+        <end-date/>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
         <remarks>Met with Israeli Foreign Minister Levy.</remarks>
@@ -3154,8 +3154,8 @@
         <id>720</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-10-06</start-date>
-        <end-date>1996-10-07</end-date>
+        <start-date/>
+        <end-date/>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
         <remarks>Discussed the Israeli-Palestinian conflict with Prime Minister Netanyahu.</remarks>
@@ -3168,8 +3168,8 @@
         <id>721</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-10-06</start-date>
-        <end-date>1996-10-06</end-date>
+        <start-date/>
+        <end-date/>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Gaza</locale>
         <remarks>Discussed the Israeli-Palestinian conflict with PLO Chairman Arafat.</remarks>
@@ -3182,8 +3182,8 @@
         <id>722</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-10-07</start-date>
-        <end-date>1996-10-09</end-date>
+        <start-date/>
+        <end-date/>
         <country id="mali">Mali</country>
         <locale>Bamako</locale>
         <remarks>Met with President Konare and Foreign Minister Traore.</remarks>
@@ -3196,8 +3196,8 @@
         <id>723</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-10-09</start-date>
-        <end-date>1996-10-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="ethiopia">Ethiopia</country>
         <locale>Addis Ababa</locale>
         <remarks>Met with Prime Minister Zenawi and discussed plans for an African crisis-response             force with OAU officials.</remarks>
@@ -3210,8 +3210,8 @@
         <id>724</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-10-11</start-date>
-        <end-date>1996-10-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="tanzania">Tanzania</country>
         <locale>Arusha</locale>
         <remarks>Discussed the Burundi crisis with the Presidents of Tanzania, Kenya, and Uganda.             Also met with the Chief Prosecutor of the International War Crimes Tribunal.</remarks>
@@ -3224,8 +3224,8 @@
         <id>725</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-10-12</start-date>
-        <end-date>1996-10-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="south-africa">South Africa</country>
         <locale>Cape Town, Johannesburg, Pretoria</locale>
         <remarks>Met with President Mandela and delivered an address at the University of the             Witwatersrand.</remarks>
@@ -3238,8 +3238,8 @@
         <id>726</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-10-14</start-date>
-        <end-date>1996-10-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="angola">Angola</country>
         <locale>Luanda</locale>
         <remarks>Met with President dos Santos and visited UN military observers.</remarks>
@@ -3252,8 +3252,8 @@
         <id>727</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-11-12</start-date>
-        <end-date>1996-11-12</end-date>
+        <start-date/>
+        <end-date/>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
         <remarks>Attended Middle East and North Africa Economic Conference.</remarks>
@@ -3266,8 +3266,8 @@
         <id>728</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-11-12</start-date>
-        <end-date>1996-11-14</end-date>
+        <start-date/>
+        <end-date/>
         <country id="france">France</country>
         <locale>Paris</locale>
         <remarks>Attended a meeting of the Steering Board of the Bosnian Peace Implementation             Council.</remarks>
@@ -3280,8 +3280,8 @@
         <id>729</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-11-18</start-date>
-        <end-date>1996-11-18</end-date>
+        <start-date/>
+        <end-date/>
         <country id="japan">Japan</country>
         <locale>Sapporo</locale>
         <remarks>Overnight stop while en route to China.</remarks>
@@ -3294,8 +3294,8 @@
         <id>730</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-11-19</start-date>
-        <end-date>1996-11-21</end-date>
+        <start-date/>
+        <end-date/>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing, Shanghai</locale>
         <remarks>Met with senior Chinese officials and made a speech at Fudan University.</remarks>
@@ -3308,8 +3308,8 @@
         <id>731</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-11-21</start-date>
-        <end-date>1996-11-24</end-date>
+        <start-date/>
+        <end-date/>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
         <remarks>Attended APEC Ministerial Meeting.</remarks>
@@ -3322,8 +3322,8 @@
         <id>732</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
-        <start-date>1996-12-09</start-date>
-        <end-date>1996-12-11</end-date>
+        <start-date/>
+        <end-date/>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
