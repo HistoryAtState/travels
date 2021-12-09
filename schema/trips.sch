@@ -13,8 +13,8 @@
 
     <pattern>
         <rule context="remarks">
-            <assert test="normalize-space(.) ne ''">Remarks cannot be empty.</assert>
-            <assert test="matches(., '\p{P}$')">Remarks must end with a punctuation character.</assert>
+            <assert test="normalize-space(.) ne ''" role="warn">Remarks should not be empty.</assert>
+            <assert test="normalize-space(.) eq '' or matches(., '\p{P}$')" role="warn">Remarks should end with a punctuation character.</assert>
         </rule>
     </pattern>
 
