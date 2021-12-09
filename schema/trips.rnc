@@ -19,6 +19,6 @@ start =
       element created-by { xsd:NCName },
       element created-datetime { xsd:dateTime },
       element last-modified-by { xsd:NCName },
-      element last-modified-datetime { xsd:NMTOKEN }
+      element last-modified-datetime { xsd:dateTime }
     }+
   }
