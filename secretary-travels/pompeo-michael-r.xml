@@ -1190,4 +1190,759 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3930</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-01-19</start-date>
+        <end-date>2020-01-19</end-date>
+        <country id="germany">Germany</country>
+        <locale>Berlin</locale>
+        <remarks>Attended the jointly hosted German-UN international conference on Libya.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2021-06-01T11:30:00-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3931</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-01-20</start-date>
+        <end-date>2020-01-20</end-date>
+        <country id="colombia">Colombia</country>
+        <locale>Bogota</locale>
+        <remarks>Addressed the Third Western Hemisphere Counterterrorism Ministerial and met with President Duque and other regional leaders.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2021-06-01T11:44:00-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3932</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-01-21</start-date>
+        <end-date>2020-01-21</end-date>
+        <country id="costa-rica">Costa Rica</country>
+        <locale>San Jose</locale>
+        <remarks>Met with President Carlos Alvarado and visited the Joint Operations Center.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2021-06-01T12:08:00-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3933</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-01-21</start-date>
+        <end-date>2020-01-23</end-date>
+        <country id="jamaica">Jamaica</country>
+        <locale>Kingston</locale>
+        <remarks>Met with Prime Minister Holness, conducted a multilateral roundtable discussion with Caribbean leaders, and delivered remarks on U.S.-Caribbean relations.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:09:35-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3934</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-01-29</start-date>
+        <end-date>2020-01-29</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with U.K. Prime Minister Boris Johnson and U.K. Foreign Secretary Dominic Raab.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:12:00-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3935</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-01-30</start-date>
+        <end-date>2020-01-30</end-date>
+        <country id="ukraine">Ukraine</country>
+        <locale>Kyiv</locale>
+        <remarks>Met with President Zelenskyy, Foreign Minister Prystaiko, and Defense Minister Zahorodnyuk.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:13:28-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:24-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3936</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-01</start-date>
+        <end-date>2020-02-01</end-date>
+        <country id="belarus">Belarus</country>
+        <locale>Minsk</locale>
+        <remarks>Met with President Lukashenka and Foreign Minister Makei.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:15:26-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3937</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-01</start-date>
+        <end-date>2020-02-02</end-date>
+        <country id="kazakhstan">Kazakhstan</country>
+        <locale/>
+        <remarks>Met with Kazakhstani President Tokayev, First President Nazarbayev, and Foreign Minister Tileuberdi.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:16:52-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3938</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-02</start-date>
+        <end-date>2020-02-03</end-date>
+        <country id="uzbekistan">Uzbekistan</country>
+        <locale>Tashkent</locale>
+        <remarks>Met with President Mirziyoyev and Foreign Minister Kamilov. Participated in a C5+1 Ministerial with the foreign ministers of Kazakhstan, the Kyrgyz Republic, Tajikistan, Turkmenistan, and Uzbekistan.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:19:28-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3939</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-14</start-date>
+        <end-date>2020-02-14</end-date>
+        <country id="germany">Germany</country>
+        <locale>Munich</locale>
+        <remarks>Led the U.S. delegation to the Munich Security Conference.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:21:49-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3940</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-15</start-date>
+        <end-date>2020-02-16</end-date>
+        <country id="senegal">Senegal</country>
+        <locale>Dakar</locale>
+        <remarks>Met with President Macky Sall and Foreign Minister Amadou Ba.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:23:23-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3941</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-17</start-date>
+        <end-date>2020-02-17</end-date>
+        <country id="angola">Angola</country>
+        <locale>Luanda</locale>
+        <remarks>Met with President Joao Lourenço and Foreign Minister Manuel Augusto.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:42:23-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3943</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-17</start-date>
+        <end-date>2020-02-19</end-date>
+        <country id="ethiopia">Ethiopia</country>
+        <locale>Addis Ababa</locale>
+        <remarks>Met with Prime Minister Abiy Ahmed and President Sahle-Work Zewde. Also met with African Union Commission Chairperson Moussa Faki Mahamat.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:44:45-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3944</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-19</start-date>
+        <end-date>2020-02-21</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Discussed regional and bilateral issues with Saudi leadership.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:46:11-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3945</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-21</start-date>
+        <end-date>2020-02-21</end-date>
+        <country id="oman">Oman</country>
+        <locale>Muscat</locale>
+        <remarks>Met with Sultan Haitham bin Tarik and expressed his condolences on the death of Oman’s Sultan Qaboos bin Said.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:47:32-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3946</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-02-28</start-date>
+        <end-date>2020-03-01</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Qatari Amir Sheikh Tamim bin Hamad Al Thani and Foreign Minister Sheikh Mohammad bin Abdulrahman Al Thani. Attended the signing of the U.S.-Taliban Peace Deal.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:49:10-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3947</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-03-23</start-date>
+        <end-date>2020-03-23</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Kabul</locale>
+        <remarks>Met with Afghan President Ashraf Ghani and Afghan Security Ministers.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:50:23-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3948</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-03-23</start-date>
+        <end-date>2020-03-23</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Taliban officials.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:51:47-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3949</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-05-13</start-date>
+        <end-date>2020-05-13</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu and Speaker of the Knesset Benny Gantz.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:53:03-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3950</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-07-20</start-date>
+        <end-date>2020-07-22</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Boris Johnson and Foreign Secretary Dominic Raab.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-01T12:55:00-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3951</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-07-22</start-date>
+        <end-date>2020-07-22</end-date>
+        <country id="denmark">Denmark</country>
+        <locale>Copenhagen</locale>
+        <remarks>Met with Danish Prime Minister Mette Frederiksen. Also met with Danish Minister of Foreign Affairs Jeppe Koford, Faroese Minister of Foreign Affairs and Education Jenis av Rana, and Greenlandic Minister of Foreign Affairs and Energy Steen Lynge.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T11:12:05-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3952</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-11</start-date>
+        <end-date>2020-08-12</end-date>
+        <country id="czech-republic">Czech Republic</country>
+        <locale>Pilsen, Prague</locale>
+        <remarks>Joined Foreign Minister Petricek in Pilsen to commemorate the liberation of Western Czechoslovakia. In Prague, met with Prime Minister Babis and had a courtesy call with President Zeman.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T11:13:45-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3954</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-13</start-date>
+        <end-date>2020-08-13</end-date>
+        <country id="slovenia">Slovenia</country>
+        <locale>Ljubljana</locale>
+        <remarks>Met with President Pahor and Prime Minister Jansa.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T11:16:41-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:24-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3955</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-14</start-date>
+        <end-date>2020-08-14</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Met with Foreign Minister Schallenberg and Chancellor Kurz. Also met with IAEA Director General Grossi.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T11:18:05-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3956</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-15</start-date>
+        <end-date>2020-08-15</end-date>
+        <country id="poland">Poland</country>
+        <locale>Warsaw</locale>
+        <remarks>Met with Prime Minister Morawiecki and Foreign Minister Czaputowicz. Also met with President Duda.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:14:10-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3957</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-16</start-date>
+        <end-date>2020-08-16</end-date>
+        <country id="dominican-republic">Dominican Republic</country>
+        <locale>Santo Domingo</locale>
+        <remarks>Led the U.S. delegation to the presidential inauguration of Luis Abinader.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:15:35-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3958</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-23</start-date>
+        <end-date>2020-08-24</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:16:51-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3959</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-25</start-date>
+        <end-date>2020-08-25</end-date>
+        <country id="sudan">Sudan</country>
+        <locale>Khartoum</locale>
+        <remarks>Met with Prime Minister Abdalla Hamdok and Sovereign Council Chair General Abdel Fattah el-Burhan.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:18:01-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3960</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-26</start-date>
+        <end-date>2020-08-26</end-date>
+        <country id="bahrain">Bahrain</country>
+        <locale>Manama</locale>
+        <remarks>Met with King Hamad Al Khalifa and Crown Prince Salman bin Hamad Al Khalifa.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:19:32-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:24-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3961</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-26</start-date>
+        <end-date>2020-08-26</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with Minister of Foreign Affairs and International Cooperation Sheikh Abdullah bin Zayed Al Nahyan.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:20:37-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3962</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-08-27</start-date>
+        <end-date>2020-08-27</end-date>
+        <country id="oman">Oman</country>
+        <locale>Muscat</locale>
+        <remarks>Met with Sultan Haitham bin Tarik Al Said.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:21:48-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3963</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-09-11</start-date>
+        <end-date>2020-09-12</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Attended the opening ceremony of Afghanistan peace negotiations.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:22:55-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3964</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-09-12</start-date>
+        <end-date>2020-09-12</end-date>
+        <country id="cyprus">Cyprus</country>
+        <locale>Nicosia</locale>
+        <remarks>Met with President Anastasiades and Foreign Minister Christodoulides.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:24:19-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3965</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-09-17</start-date>
+        <end-date>2020-09-17</end-date>
+        <country id="suriname">Suriname</country>
+        <locale>Paramaribo</locale>
+        <remarks>Met with President Chan Santokhi.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:25:29-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3966</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-09-18</start-date>
+        <end-date>2020-09-18</end-date>
+        <locale/>
+        <remarks>Met with President Irfaan Ali and CARICOM Secretary-General Irwin LaRocque.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:26:52-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3967</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-09-18</start-date>
+        <end-date>2020-09-18</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Boa Vista</locale>
+        <remarks>Met with Foreign Minister Ernesto Araujo.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:32:31-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3968</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-09-19</start-date>
+        <end-date>2020-09-19</end-date>
+        <country id="colombia">Colombia</country>
+        <locale>Bogota</locale>
+        <remarks>Met with Colombian President Ivan Duque.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:33:51-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:24-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3969</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-09-28</start-date>
+        <end-date>2020-09-29</end-date>
+        <country id="greece">Greece</country>
+        <locale>Thessaloniki, Crete</locale>
+        <remarks>Met with Prime Minister Mitsotakis and Foreign Minister Dendias.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:35:16-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3970</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-09-30</start-date>
+        <end-date>2020-10-01</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with Prime Minister Conte and Foreign Minister Di Maio.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:36:15-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3971</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-09-30</start-date>
+        <end-date>2020-09-30</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Met with Secretary of State Cardinal Parolin and Secretary for Relations with States Archbishop Gallagher.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:37:38-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3972</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-10-02</start-date>
+        <end-date>2020-10-02</end-date>
+        <country id="croatia">Croatia</country>
+        <locale>Dubrovnik</locale>
+        <remarks>Met with Prime Minister Plenković, Foreign Minister Grlić Radman, and Defense Minister Banožić.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:38:59-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3973</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-10-04</start-date>
+        <end-date>2020-10-06</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Prime Minister Suga and participated in the second meeting of the Quad Foreign Ministers of Australia (Payne), India (Jaishankar), and Japan (Motegi).</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:40:21-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3974</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-10-25</start-date>
+        <end-date>2020-10-27</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi</locale>
+        <remarks>Led, with Secretary of Defense Mark T. Esper, the third annual U.S.-India 2+2 Ministerial Dialogue. Met with Minister of External Affairs Subrahmanyam Jaishankar and Minister of Defense Rajnath Singh.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:41:22-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3975</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-10-27</start-date>
+        <end-date>2020-10-28</end-date>
+        <country id="sri-lanka">Sri Lanka</country>
+        <locale>Colombo (Sri Lanka)</locale>
+        <remarks>Met with President Rajapaksa and Foreign Minister Gunawardena.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:43:07-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3976</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-10-28</start-date>
+        <end-date>2020-10-28</end-date>
+        <country id="maldives">Maldives</country>
+        <locale>Malé</locale>
+        <remarks>Met with President Solih and Foreign Minister Abdulla Shahid.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:44:23-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3977</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-10-28</start-date>
+        <end-date>2020-10-29</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Jakarta</locale>
+        <remarks>Met with President Joko Widodo and Foreign Minister Retno Marsudi.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:45:52-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3978</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-10-29</start-date>
+        <end-date>2020-10-30</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi</locale>
+        <remarks>Met with Prime Minister Phuc, Foreign Minister Minh, and Minister for Public Security Lam.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:47:05-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3979</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-11-13</start-date>
+        <end-date>2020-11-16</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Macron and Foreign Minister Le Drian.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:48:29-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:24-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3980</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-11-16</start-date>
+        <end-date>2020-11-16</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul</locale>
+        <remarks>Met with His All Holiness the Ecumenical Patriarch of Constantinople, Bartholomew I.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:49:25-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:22-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3981</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-11-17</start-date>
+        <end-date>2020-11-18</end-date>
+        <country id="georgia">Georgia</country>
+        <locale>Tbilisi</locale>
+        <remarks>Met with President Zourabichvili, Prime Minister Gakharia, and Foreign Minister Zalkaliani. Also met with Patriarch of the Georgian Orthodox Church, Hi Holiness Ilia II.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:50:37-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3983</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-11-18</start-date>
+        <end-date>2020-11-19</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu and Foreign Minister Gabi Ashkenazi. Also held trilateral meeting with Prime Minister Netanyahu and Bahraini Foreign Minister Abdullatif bin Rashid Al Zayani.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:51:50-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3984</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-11-21</start-date>
+        <end-date>2020-11-21</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with Abu Dhabi Crown Prince Mohammed bin Zayd.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:53:07-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3985</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-11-21</start-date>
+        <end-date>2020-11-21</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Amir Tamim bin Hamad Al Thani and Deputy Prime Minister and Minister of Foreign Affairs Mohammed bin Abdulrahman Al Thani. Also met with delegations representing the Islamic Republic of Afghanistan and the Taliban in Afghanistan peace negotiations.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:54:46-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
+    <trip who="pompeo-michael-r" role="secretary">
+        <id>3986</id>
+        <role>secretary</role>
+        <name>Michael R. Pompeo</name>
+        <start-date>2020-11-22</start-date>
+        <end-date>2020-11-22</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with Crown Prince Mohammed bin Salman.</remarks>
+        <created-by/>
+        <created-datetime>2021-06-02T13:56:17-04:00</created-datetime>
+        <last-modified-by/>
+        <last-modified-datetime>2021-12-09T07:35:23-04:00</last-modified-datetime>
+    </trip>
 </trips>
