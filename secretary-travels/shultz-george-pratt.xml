@@ -1,0 +1,3797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1919</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-10-02</start-date>
+        <end-date>1982-10-03</end-date>
+        <country id="canada">Canada</country>
+        <locale>La Sapiniere</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1920</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-10-09</start-date>
+        <end-date>1982-10-09</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Tijuana</locale>
+        <remarks>Accompanied President Reagan to a meeting with President-elect De la Madrid.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1921</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-10-24</start-date>
+        <end-date>1982-10-25</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Met with Secretary for External Affairs MacEachen.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1922</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-11-30</start-date>
+        <end-date>1982-12-03</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia, Sao Paulo</locale>
+        <remarks>Accompanied President Reagan on an official working visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1923</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-03</start-date>
+        <end-date>1982-12-03</end-date>
+        <country id="colombia">Colombia</country>
+        <locale>Bogota</locale>
+        <remarks>Accompanied President Reagan on an official working visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1924</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-03</start-date>
+        <end-date>1982-12-04</end-date>
+        <country id="costa-rica">Costa Rica</country>
+        <locale>San Jose</locale>
+        <remarks>Accompanied President Reagan on an official working visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1925</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-04</start-date>
+        <end-date>1982-12-04</end-date>
+        <country id="honduras">Honduras</country>
+        <locale>San Pedro Sula</locale>
+        <remarks>Accompanied President Reagan on an official working visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1926</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-07</start-date>
+        <end-date>1982-12-09</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Met with Chancellor Kohl and Foreign Minister Genscher.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1927</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-08</start-date>
+        <end-date>1982-12-11</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Ministerial Meeting and met with European Economic Community officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1928</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-11</start-date>
+        <end-date>1982-12-11</end-date>
+        <country id="netherlands">Netherlands</country>
+        <locale>The Hague</locale>
+        <remarks>Met with Queen Beatrix and senior Dutch officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1929</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-11</start-date>
+        <end-date>1982-12-14</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with President Pertini and senior Italian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1930</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-14</start-date>
+        <end-date>1982-12-15</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Mitterrand and senior French officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1931</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-15</start-date>
+        <end-date>1982-12-16</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Met with Prime Minister Gonzalez and with Western delegates to the CSCE Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1932</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1982-12-16</start-date>
+        <end-date>1982-12-19</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Thatcher and Foreign Secretary Pym.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1933</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-01-30</start-date>
+        <end-date>1983-02-02</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Nakasone and Foreign Minister Abe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1934</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-02-02</start-date>
+        <end-date>1983-02-06</end-date>
+        <country id="china">China</country>
+        <locale>Beijing</locale>
+        <remarks>Met with Chairman Deng, Premier Zhao, and senior Chinese officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1935</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-02-06</start-date>
+        <end-date>1983-02-08</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Chun and Prime Minister Kim. Visited American and Korean military personnel.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1936</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-02-08</start-date>
+        <end-date>1983-02-09</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Hong Kong</locale>
+        <remarks>Attended a meeting of Chiefs of U.S. Diplomatic Missions in Asia and the Pacific.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1937</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-02-10</start-date>
+        <end-date>1983-02-10</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Stopped while returning to U.S.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1938</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-04-18</start-date>
+        <end-date>1983-04-19</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico, D.F.</locale>
+        <remarks>Attended the 3rd meeting of U.S.-Mexico Binational Commission.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1939</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-04-25</start-date>
+        <end-date>1983-04-27</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Attempted to negotiate the withdrawal of foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1940</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-04-27</start-date>
+        <end-date>1983-04-28</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Attempted to negotiate the withdrawal of foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1941</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-04-28</start-date>
+        <end-date>1983-04-28</end-date>
+        <country id="lebanon">Lebanon</country>
+        <locale>Beirut</locale>
+        <remarks>Attempted to negotiate the withdrawal of foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1942</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-04-28</start-date>
+        <end-date>1983-04-30</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Attempted to negotiate the withdrawal of foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1943</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-04-30</start-date>
+        <end-date>1983-05-01</end-date>
+        <country id="lebanon">Lebanon</country>
+        <locale>Beirut</locale>
+        <remarks>Attempted to negotiate the withdrawal of foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1944</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-05-01</start-date>
+        <end-date>1983-05-03</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Attempted to negotiate the withdrawal of foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1945</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-05-03</start-date>
+        <end-date>1983-05-04</end-date>
+        <country id="lebanon">Lebanon</country>
+        <locale>Beirut</locale>
+        <remarks>Attempted to negotiate the withdrawal of foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1946</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-05-04</start-date>
+        <end-date>1983-05-06</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Attempted to negotiate the withdrawal of foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1947</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-05-06</start-date>
+        <end-date>1983-05-06</end-date>
+        <country id="syria">Syria</country>
+        <locale>Damascus</locale>
+        <remarks>Discussed the proposed Israeli-Lebanon agreement with President Assad.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1948</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-05-06</start-date>
+        <end-date>1983-05-07</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Discussed the proposed Israeli-Lebanon agreement with King Hussein.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1949</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-05-08</start-date>
+        <end-date>1983-05-08</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jidda</locale>
+        <remarks>Discussed the proposed Israeli-Lebanon agreement with Foreign Minister Prince Saud.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1950</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-05-08</start-date>
+        <end-date>1983-05-08</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem, Tel Aviv</locale>
+        <remarks>Discussed the proposed Israeli-Lebanon agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1951</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-05-08</start-date>
+        <end-date>1983-05-08</end-date>
+        <country id="lebanon">Lebanon</country>
+        <locale>Beirut</locale>
+        <remarks>Discussed the proposed Israeli-Lebanon agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1952</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-05-08</start-date>
+        <end-date>1983-05-11</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended OECD meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1953</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-06-09</start-date>
+        <end-date>1983-06-10</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1954</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-06-26</start-date>
+        <end-date>1983-06-26</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Met with President Marcos and senior Philippin officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1955</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-06-26</start-date>
+        <end-date>1983-06-29</end-date>
+        <country id="thailand">Thailand</country>
+        <locale>Bangkok</locale>
+        <remarks>Addressed the opening session of the ASEAN Post- Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1956</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-06-30</start-date>
+        <end-date>1983-07-02</end-date>
+        <country id="india">India</country>
+        <locale>Agra, New Delhi</locale>
+        <remarks>Attended a meeting of the U.S.-Indian Joint Commission.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1957</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-07-02</start-date>
+        <end-date>1983-07-04</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale>Islamabad, Peshawar</locale>
+        <remarks>Met with President Zia and Foreign Minister Yaqub Khan. Visited an Afghan refugee camp.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1958</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-07-04</start-date>
+        <end-date>1983-07-05</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jidda</locale>
+        <remarks>Discussed means of withdrawing foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1959</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-07-05</start-date>
+        <end-date>1983-07-05</end-date>
+        <country id="lebanon">Lebanon</country>
+        <locale>Beirut</locale>
+        <remarks>Discussed means of withdrawing foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1960</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-07-05</start-date>
+        <end-date>1983-07-06</end-date>
+        <country id="syria">Syria</country>
+        <locale>Damascus</locale>
+        <remarks>Discussed means of withdrawing foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1961</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-07-06</start-date>
+        <end-date>1983-07-07</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv</locale>
+        <remarks>Discussed means of withdrawing foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1962</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-07-07</start-date>
+        <end-date>1983-07-07</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Discussed means of withdrawing foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1963</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-07-07</start-date>
+        <end-date>1983-07-07</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed means of withdrawing foreign forces from Lebanon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1964</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-08-14</start-date>
+        <end-date>1983-08-14</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>La Paz (Baja California)</locale>
+        <remarks>Accompanied President Reagan to a meeting with President de la Madrid.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1965</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-09-07</start-date>
+        <end-date>1983-09-09</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Attended the final session of the CSCE Follow-up Meeting. Met with Soviet Foreign Minister Gromyko.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1966</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-10-17</start-date>
+        <end-date>1983-10-20</end-date>
+        <country id="canada">Canada</country>
+        <locale>Halifax (Nova Scotia)</locale>
+        <remarks>Signed the Great Lakes Phosphorus Load Reduction Agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1967</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-10-26</start-date>
+        <end-date>1983-10-27</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Discussed the Lebanon situation with the Foreign Ministers of France, Italy, and the United Kingdom.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1968</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-11-09</start-date>
+        <end-date>1983-11-12</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Accompanied President Reagan on a State visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1969</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-11-12</start-date>
+        <end-date>1983-11-14</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Accompanied President Reagan on a State visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1970</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-12-06</start-date>
+        <end-date>1983-12-07</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Met with Chancellor Kohl and Foreign Minister enscher.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1971</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-12-07</start-date>
+        <end-date>1983-12-09</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1972</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-12-09</start-date>
+        <end-date>1983-12-10</end-date>
+        <country id="tunisia">Tunisia</country>
+        <locale>Tunis</locale>
+        <remarks>Met with President Bourguiba and senior Tunisian oficials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1973</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-12-10</start-date>
+        <end-date>1983-12-12</end-date>
+        <country id="morocco">Morocco</country>
+        <locale>Rabat</locale>
+        <remarks>Met with King Hassan II.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1974</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1983-12-12</start-date>
+        <end-date>1983-12-13</end-date>
+        <country id="portugal">Portugal</country>
+        <locale>Lisbon</locale>
+        <remarks>Signed a new agreement relating to economic and military assistance.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1975</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-01-15</start-date>
+        <end-date>1984-01-16</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Thatcher and Foreign Secretary Howe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1976</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-01-16</start-date>
+        <end-date>1984-01-19</end-date>
+        <country id="sweden">Sweden</country>
+        <locale>Stockholm</locale>
+        <remarks>Attended the opening session of the Conference on Confidence- and Security-Building Measures and Disarmament in Europe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1977</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-01-19</start-date>
+        <end-date>1984-01-19</end-date>
+        <country id="norway">Norway</country>
+        <locale>Oslo</locale>
+        <remarks>Met with King Olav V and Foreign Minister Stray.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1978</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-01-31</start-date>
+        <end-date>1984-01-31</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>San Salvador</locale>
+        <remarks>Met with President Magana and senior Salvadoran officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1979</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-02-01</start-date>
+        <end-date>1984-02-03</end-date>
+        <country id="venezuela">Venezuela</country>
+        <locale>Caracas</locale>
+        <remarks>Attended the inauguration of President Lusinchi and met with Central American Foreign Ministers.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1980</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-02-03</start-date>
+        <end-date>1984-02-07</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia</locale>
+        <remarks>Signed a bilateral science and technology agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1981</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-02-07</start-date>
+        <end-date>1984-02-07</end-date>
+        <country id="grenada">Grenada</country>
+        <locale>St. George's</locale>
+        <remarks>Met with the Governor General and members of the interim government; attended 10th anniversary of independence celebrations.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1982</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-02-07</start-date>
+        <end-date>1984-02-08</end-date>
+        <country id="barbados">Barbados</country>
+        <locale>Bridgetown</locale>
+        <remarks>Met with representatives of the Organization of Eastern Caribbean States.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1983</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-02-16</start-date>
+        <end-date>1984-02-20</end-date>
+        <country id="bahamas">Bahamas</country>
+        <locale>Nassau</locale>
+        <remarks>Vacation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1984</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-04-26</start-date>
+        <end-date>1984-05-01</end-date>
+        <country id="china">China</country>
+        <locale>Beijing, Xian, Shanghai</locale>
+        <remarks>Accompanied President Reagan on a State visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1985</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-05-01</start-date>
+        <end-date>1984-05-02</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Chun and senior Korean officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1986</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-05-02</start-date>
+        <end-date>1984-05-02</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Stopped while returning to U.S.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1987</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-06-01</start-date>
+        <end-date>1984-06-01</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>San Salvador</locale>
+        <remarks>Attended the inauguration of President Duarte.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1988</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-06-01</start-date>
+        <end-date>1984-06-01</end-date>
+        <country id="nicaragua">Nicaragua</country>
+        <locale>Managua</locale>
+        <remarks>Met with Comandante Ortega.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1989</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-06-02</start-date>
+        <end-date>1984-06-04</end-date>
+        <country id="ireland">Ireland</country>
+        <locale>Dublin</locale>
+        <remarks>Accompanied President Reagan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1990</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-06-04</start-date>
+        <end-date>1984-06-09</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Accompanied President Reagan to the Economic Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1991</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-07-07</start-date>
+        <end-date>1984-07-08</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Hong Kong</locale>
+        <remarks>Met with British colonial officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1992</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-07-09</start-date>
+        <end-date>1984-07-10</end-date>
+        <country id="malaysia">Malaysia</country>
+        <locale>Kuala Lumpur</locale>
+        <remarks>Met with Prime Minister Mahathir and senior Malaysian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1993</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-07-10</start-date>
+        <end-date>1984-07-11</end-date>
+        <country id="singapore">Singapore</country>
+        <locale>Singapore</locale>
+        <remarks>Met with Prime Minister Lee and senior officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1994</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-07-11</start-date>
+        <end-date>1984-07-14</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Jakarta</locale>
+        <remarks>Attended ASEAN discussions.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1995</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-07-14</start-date>
+        <end-date>1984-07-15</end-date>
+        <country id="australia">Australia</country>
+        <locale>Canberra</locale>
+        <remarks>Met with Prime Minister Hawke and Foreign Minister Hayden.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1996</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-07-15</start-date>
+        <end-date>1984-07-17</end-date>
+        <country id="new-zealand">New Zealand</country>
+        <locale>Wellington</locale>
+        <remarks>Attended ANZUS Council Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1997</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-10-10</start-date>
+        <end-date>1984-10-10</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>San Salvador</locale>
+        <remarks>Met with President Duarte and senior Salvadoran officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1998</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-10-10</start-date>
+        <end-date>1984-10-11</end-date>
+        <country id="panama">Panama</country>
+        <locale>Panama City</locale>
+        <remarks>Attended the inauguration of President Barletta.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>1999</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-10-11</start-date>
+        <end-date>1984-10-12</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico, D.F.</locale>
+        <remarks>Met with President De la Madrid and senior Mexican officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2000</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-10-15</start-date>
+        <end-date>1984-10-16</end-date>
+        <country id="canada">Canada</country>
+        <locale>Toronto</locale>
+        <remarks>Met with Secretary for External Affairs Clark.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2001</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-11-10</start-date>
+        <end-date>1984-11-13</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia</locale>
+        <remarks>Attended OAS General Assembly Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2002</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-12-11</start-date>
+        <end-date>1984-12-12</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Chevening</locale>
+        <remarks>Met with Foreign Secretary Howe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2003</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-12-12</start-date>
+        <end-date>1984-12-15</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2004</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1984-12-15</start-date>
+        <end-date>1984-12-15</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Ludwigshafen</locale>
+        <remarks>Met with Chancellor Kohl.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2005</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-01-06</start-date>
+        <end-date>1985-01-08</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Discussed future strategic arms negotiations with Soviet Foreign Minister Gromyko.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2006</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-02-15</start-date>
+        <end-date>1985-02-18</end-date>
+        <country id="bahamas">Bahamas</country>
+        <locale>Nassau</locale>
+        <remarks>Vacation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2007</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-02-28</start-date>
+        <end-date>1985-02-28</end-date>
+        <country id="ecuador">Ecuador</country>
+        <locale>Guayaquil</locale>
+        <remarks>Met with President Febres Cordero.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2008</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-03-01</start-date>
+        <end-date>1985-03-02</end-date>
+        <country id="uruguay">Uruguay</country>
+        <locale>Montevideo</locale>
+        <remarks>Attended the inauguration of President Sanguinetti. Returned to Washington March 3.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2009</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-03-12</start-date>
+        <end-date>1985-03-13</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Moscow</locale>
+        <remarks>Accompanied Vice President Bush to the funeral of Soviet President Chernenko.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2010</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-03-14</start-date>
+        <end-date>1985-03-14</end-date>
+        <country id="iceland">Iceland</country>
+        <locale>Reykjavik</locale>
+        <remarks>Met with Foreign Minister Hallgrimsson while returning from Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2011</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-03-17</start-date>
+        <end-date>1985-03-18</end-date>
+        <country id="canada">Canada</country>
+        <locale>Quebec</locale>
+        <remarks>Accompanied President Reagan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2012</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-04-30</start-date>
+        <end-date>1985-05-06</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Accompanied President Reagan to the Economic Summit Meeting and on a State visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2013</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-05-06</start-date>
+        <end-date>1985-05-08</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Accompanied President Reagan on a State visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2014</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-05-08</start-date>
+        <end-date>1985-05-08</end-date>
+        <country id="france">France</country>
+        <locale>Strasbourg</locale>
+        <remarks>Accompanied President Reagan to the European Parliament.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2015</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-05-08</start-date>
+        <end-date>1985-05-10</end-date>
+        <country id="portugal">Portugal</country>
+        <locale>Lisbon</locale>
+        <remarks>Accompanied President Reagan on a State visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2016</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-05-10</start-date>
+        <end-date>1985-05-12</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Discussed the Middle East peace process with Foreign Minister Shamir.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2017</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-05-12</start-date>
+        <end-date>1985-05-12</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed the Middle East peace process with President Mubarak.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2018</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-05-12</start-date>
+        <end-date>1985-05-13</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Aqaba</locale>
+        <remarks>Discussed the Middle East peace process with King Hussein.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2019</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-05-13</start-date>
+        <end-date>1985-05-15</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Attended ceremonies commemorating the 30th anniversary of the Austrian State Treaty. Met with Soviet Foreign Minister Gromyko.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2020</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-06-06</start-date>
+        <end-date>1985-06-07</end-date>
+        <country id="portugal">Portugal</country>
+        <locale>Lisbon</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2021</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-06-07</start-date>
+        <end-date>1985-06-08</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Thatcher. Attended a conference of U.S. Chiefs of Mission. Returned by way of Bermuda.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2022</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-07-06</start-date>
+        <end-date>1985-07-07</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Hong Kong</locale>
+        <remarks>Stopped en route to Thailand.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2023</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-07-08</start-date>
+        <end-date>1985-07-10</end-date>
+        <country id="thailand">Thailand</country>
+        <locale>Bangkok</locale>
+        <remarks>Met with Prime Minister Prem and senior Thai officials. Also visited Cambodian refugee camps on the Thai border.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2024</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-07-10</start-date>
+        <end-date>1985-07-12</end-date>
+        <country id="malaysia">Malaysia</country>
+        <locale>Kuala Lumpur</locale>
+        <remarks>Attended ASEAN Post-Ministerial consultation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2025</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-07-13</start-date>
+        <end-date>1985-07-16</end-date>
+        <country id="australia">Australia</country>
+        <locale>Perth, Canberra</locale>
+        <remarks>Attended ANZUS Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2026</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-07-16</start-date>
+        <end-date>1985-07-16</end-date>
+        <country id="fiji">Fiji</country>
+        <locale>Nadi</locale>
+        <remarks>Met with Prime Minister Mara.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2027</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-07-25</start-date>
+        <end-date>1985-07-26</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico, D.F.</locale>
+        <remarks>Attended a meeting of U.S.-Mexico Binational Commission.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2028</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-07-29</start-date>
+        <end-date>1985-08-01</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Attended ceremonies commemorating 10th anniversary of the Final Act of the Conference on Security and Cooperation in Europe. Met with Soviet Foreign Minister Shevardnadze.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2029</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-10-15</start-date>
+        <end-date>1985-10-15</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Addressed a special meeting of NATO Foreign Ministers.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2030</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-10-27</start-date>
+        <end-date>1985-10-28</end-date>
+        <country id="canada">Canada</country>
+        <locale>Calgary (Alberta)</locale>
+        <remarks>Met with Secretary for External Affairs Clark.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2031</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-11-02</start-date>
+        <end-date>1985-11-02</end-date>
+        <country id="ireland">Ireland</country>
+        <locale>Shannon</locale>
+        <remarks>Held a press conference while en route to Finland.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2032</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-11-03</start-date>
+        <end-date>1985-11-03</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Met with President Koivisto and Foreign Minister Vayrynen while en route to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2033</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-11-04</start-date>
+        <end-date>1985-11-05</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Moscow</locale>
+        <remarks>Discussed preparations for the Geneva Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2034</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-11-06</start-date>
+        <end-date>1985-11-06</end-date>
+        <country id="iceland">Iceland</country>
+        <locale>Reykjavik</locale>
+        <remarks>Met with Prime Minister Finnbogadottir and Foreign Minister Mathiesen.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2035</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-11-16</start-date>
+        <end-date>1985-11-21</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Accompanied President Reagan to the Summit Meeting with Soviet General Secretary Gorbachev.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2036</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-11-21</start-date>
+        <end-date>1985-11-21</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a special session of the North Atlantic Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2037</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-12-01</start-date>
+        <end-date>1985-12-01</end-date>
+        <country id="colombia">Colombia</country>
+        <locale>Cartagena</locale>
+        <remarks>Attended the opening session of OAS General Assembly.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2038</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-12-10</start-date>
+        <end-date>1985-12-11</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Thatcher and Foreign Secretary Howe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2039</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-12-11</start-date>
+        <end-date>1985-12-13</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Ministerial Meeting and a U.S.-European Community Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2040</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-12-13</start-date>
+        <end-date>1985-12-14</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Met with Chancellor Kohl and Foreign Minister Genscher.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2041</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-12-14</start-date>
+        <end-date>1985-12-15</end-date>
+        <country id="germany">Germany</country>
+        <locale>West Berlin</locale>
+        <remarks>Addressed the Berlin Press Conference and signed the Golden Book.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2042</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-12-15</start-date>
+        <end-date>1985-12-15</end-date>
+        <country id="romania">Romania</country>
+        <locale>Bucharest</locale>
+        <remarks>Met with President Ceausescu and senior Romanian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2043</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-12-15</start-date>
+        <end-date>1985-12-17</end-date>
+        <country id="hungary">Hungary</country>
+        <locale>Budapest</locale>
+        <remarks>Met with First Secretary Kadar and senior Hungarian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2044</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1985-12-17</start-date>
+        <end-date>1985-12-18</end-date>
+        <country id="yugoslavia">Yugoslavia</country>
+        <locale>Belgrade</locale>
+        <remarks>Met with Prime Minister Planinc and Foreign Affairs Secretary Dizdarevic.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2045</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-01-03</start-date>
+        <end-date>1986-01-03</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexicali</locale>
+        <remarks>Accompanied President Reagan to a meeting with President de la Madrid.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2046</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-02-12</start-date>
+        <end-date>1986-02-17</end-date>
+        <country id="bahamas">Bahamas</country>
+        <locale>Nassau</locale>
+        <remarks>Vacation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2047</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-02-20</start-date>
+        <end-date>1986-02-20</end-date>
+        <country id="grenada">Grenada</country>
+        <locale>St. George's</locale>
+        <remarks>Accompanied President Reagan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2048</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-03-14</start-date>
+        <end-date>1986-03-16</end-date>
+        <country id="sweden">Sweden</country>
+        <locale>Stockholm</locale>
+        <remarks>Attended the funeral of Prime Minister Palme and met with Soviet Premier Ryzhkov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2049</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-03-21</start-date>
+        <end-date>1986-03-21</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Mitterrand and Prime Minister Chirac.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2050</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-03-22</start-date>
+        <end-date>1986-03-25</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul, Ankara</locale>
+        <remarks>Discussed economic and defense matters with Prime Minister Ozal and senior Turkish officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2051</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-03-25</start-date>
+        <end-date>1986-03-28</end-date>
+        <country id="greece">Greece</country>
+        <locale>Athens</locale>
+        <remarks>Discussed defense issues with Prime Minister Papandreou and senior Greek officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2052</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-03-28</start-date>
+        <end-date>1986-03-30</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with Prime Minister Craxi and senior Italian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2053</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-03-29</start-date>
+        <end-date>1986-03-29</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Audience with Pope John Paul II.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2054</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-04-29</start-date>
+        <end-date>1986-05-02</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Bali</locale>
+        <remarks>Accompanied President Reagan to ASEAN Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2055</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-05-02</start-date>
+        <end-date>1986-05-07</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Accompanied President Reagan to the Economic Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2056</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-05-07</start-date>
+        <end-date>1986-05-08</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Chun and senior Korean officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2057</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-05-08</start-date>
+        <end-date>1986-05-09</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Met with President Aquino and Vice President Laurel.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2058</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-05-29</start-date>
+        <end-date>1986-05-30</end-date>
+        <country id="canada">Canada</country>
+        <locale>Halifax (Nova Scotia)</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2059</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-06-21</start-date>
+        <end-date>1986-06-23</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Hong Kong</locale>
+        <remarks>Stopped en route to China.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2060</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-06-23</start-date>
+        <end-date>1986-06-24</end-date>
+        <country id="singapore">Singapore</country>
+        <locale>Singapore</locale>
+        <remarks>Met with Prime Minister Lee and senior officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2061</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-06-24</start-date>
+        <end-date>1986-06-24</end-date>
+        <country id="brunei">Brunei Darussalam</country>
+        <locale>Bandar Seri Begawan</locale>
+        <remarks>Met with Sultan Hassanal Bolkiah.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2062</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-06-24</start-date>
+        <end-date>1986-06-28</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Attended ASEAN Post-Ministerial Meeting. Also met with New Zealand Prime Minister Lange.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2063</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-06-28</start-date>
+        <end-date>1986-06-28</end-date>
+        <country id="palau">Palau</country>
+        <locale>Koror</locale>
+        <remarks>Met with Prime Minister Selii.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2064</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-08-06</start-date>
+        <end-date>1986-08-07</end-date>
+        <country id="colombia">Colombia</country>
+        <locale>Bogota</locale>
+        <remarks>Attended the inauguration of President Barco.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2065</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-08-15</start-date>
+        <end-date>1986-08-15</end-date>
+        <country id="haiti">Haiti</country>
+        <locale>Port-au-Prince</locale>
+        <remarks>Met with President Namphy.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2066</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-08-15</start-date>
+        <end-date>1986-08-15</end-date>
+        <country id="dominican-republic">Dominican Republic</country>
+        <locale>Santo Domingo</locale>
+        <remarks>Attended the inauguration of President Balaguer.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2067</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-10-09</start-date>
+        <end-date>1986-10-12</end-date>
+        <country id="iceland">Iceland</country>
+        <locale>Reykjavik</locale>
+        <remarks>Accompanied President Reagan to a meeting with Soviet General Secretary Gorbachev.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2068</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-10-13</start-date>
+        <end-date>1986-10-13</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Briefed NATO Foreign Ministers on the U.S.-Soviet pre-summit meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2069</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-10-16</start-date>
+        <end-date>1986-10-16</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>San Salvador</locale>
+        <remarks>Met with President Duarte. Assessed earthquake damage.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2070</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-11-04</start-date>
+        <end-date>1986-11-06</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Attended the opening of the Follow-up Meeting of the Conference on Security and Cooperation in Europe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2071</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-11-06</start-date>
+        <end-date>1986-11-06</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with Prime Minister Chirac.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2072</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-11-10</start-date>
+        <end-date>1986-11-11</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale>Guatemala City</locale>
+        <remarks>Attended OAS General Assembly Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2073</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-11-21</start-date>
+        <end-date>1986-11-21</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Met with Secretary for External Affairs Clark.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2074</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-12-09</start-date>
+        <end-date>1986-12-10</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Chevening</locale>
+        <remarks>Met with Foreign Secretary Howe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2075</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1986-12-10</start-date>
+        <end-date>1986-12-12</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2076</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-01-06</start-date>
+        <end-date>1987-01-07</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Bermuda</locale>
+        <remarks>Met with Foreign Secretary Howe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2077</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-01-08</start-date>
+        <end-date>1987-01-09</end-date>
+        <country id="senegal">Senegal</country>
+        <locale>Dakar</locale>
+        <remarks>Met with President Diouf.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2078</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-01-09</start-date>
+        <end-date>1987-01-09</end-date>
+        <country id="cameroon">Cameroon</country>
+        <locale>Douala</locale>
+        <remarks>Met with President Biya.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2079</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-01-09</start-date>
+        <end-date>1987-01-12</end-date>
+        <country id="kenya">Kenya</country>
+        <locale>Nairobi</locale>
+        <remarks>Met with President Moi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2080</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-01-12</start-date>
+        <end-date>1987-01-12</end-date>
+        <country id="nigeria">Nigeria</country>
+        <locale>Lagos</locale>
+        <remarks>Met with President Babangida.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2081</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-01-12</start-date>
+        <end-date>1987-01-14</end-date>
+        <country id="cote-divoire">Cote d'Ivoire</country>
+        <locale>Abidjan</locale>
+        <remarks>Met with President Houphouet-Boigny.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2082</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-01-14</start-date>
+        <end-date>1987-01-14</end-date>
+        <country id="liberia">Liberia</country>
+        <locale>Monrovia</locale>
+        <remarks>Met with President Doe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2083</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-02-27</start-date>
+        <end-date>1987-03-01</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Hong Kong</locale>
+        <remarks>Stopped en route to China.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2084</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-03-01</start-date>
+        <end-date>1987-03-06</end-date>
+        <country id="china">China</country>
+        <locale>Beijing, Guelin, Dalian, Shanghai, Qufu</locale>
+        <remarks>Met with Chairman Deng, Premier Zhao, and Chinese officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2085</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-03-06</start-date>
+        <end-date>1987-03-06</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Chun and senior Korean officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2086</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-03-06</start-date>
+        <end-date>1987-03-07</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Prime Minister Nakasone and senior Japanese officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2087</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-04-05</start-date>
+        <end-date>1987-04-06</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Accompanied President Reagan on an official visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2088</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-04-11</start-date>
+        <end-date>1987-04-11</end-date>
+        <country id="ireland">Ireland</country>
+        <locale>Shannon</locale>
+        <remarks>Held a press briefing en route to Finland.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2089</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-04-12</start-date>
+        <end-date>1987-04-13</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Met with President Koivisto en route to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2090</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-04-13</start-date>
+        <end-date>1987-04-15</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Moscow</locale>
+        <remarks>Discussed limitations of intermediate-range nuclear arms.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2091</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-04-15</start-date>
+        <end-date>1987-04-16</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Briefed NATO Foreign Ministers on his visit to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2092</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-06-03</start-date>
+        <end-date>1987-06-11</end-date>
+        <country id="italy">Italy</country>
+        <locale>Venice</locale>
+        <remarks>Accompanied President Reagan to the Economic Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2093</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-06-11</start-date>
+        <end-date>1987-06-12</end-date>
+        <country id="iceland">Iceland</country>
+        <locale>Reykjavik</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2094</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-06-13</start-date>
+        <end-date>1987-06-17</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Met with President Aquino. Signed an emergency aid package. Visited Corregidor.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2095</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-06-17</start-date>
+        <end-date>1987-06-20</end-date>
+        <country id="singapore">Singapore</country>
+        <locale>Singapore</locale>
+        <remarks>Attended ASEAN Post-Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2096</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-06-20</start-date>
+        <end-date>1987-06-22</end-date>
+        <country id="australia">Australia</country>
+        <locale>Sydney</locale>
+        <remarks>Met with Prime Minister Hawke and Foreign Minister Hayden.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2097</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-06-22</start-date>
+        <end-date>1987-06-22</end-date>
+        <country id="samoa">Western Samoa</country>
+        <locale>Apia</locale>
+        <remarks>Met with Prime Minister Kolone.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2098</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-07-02</start-date>
+        <end-date>1987-07-02</end-date>
+        <country id="canada">Canada</country>
+        <locale>Windsor (Ontario)</locale>
+        <remarks>Met with Secretary for External Affairs Clark.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2099</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-10-16</start-date>
+        <end-date>1987-10-17</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem, Tel Aviv</locale>
+        <remarks>Met with Prime Minister Shamir and Foreign Minister Peres.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2100</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-10-17</start-date>
+        <end-date>1987-10-17</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jeddah</locale>
+        <remarks>Met with King Fahd.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2101</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-10-17</start-date>
+        <end-date>1987-10-19</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem, Tel Aviv, Rehovot</locale>
+        <remarks>Further meetings with Israeli officials. Received an honorary degree from the Weizmann Institute.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2102</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-10-19</start-date>
+        <end-date>1987-10-19</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Mubarak.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2103</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-10-19</start-date>
+        <end-date>1987-10-20</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with King Hussein of Jordan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2104</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-10-20</start-date>
+        <end-date>1987-10-21</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Met with President Koivisto en route to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2105</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-10-22</start-date>
+        <end-date>1987-10-23</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Moscow</locale>
+        <remarks>Discussed INF limitations with Soviet officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2106</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-10-23</start-date>
+        <end-date>1987-10-24</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Briefed NATO Foreign Ministers on his visit to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2107</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-11-22</start-date>
+        <end-date>1987-11-25</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Attended INF negotiations with Soviet Foreign Minister Shevardnadze.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2108</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-11-25</start-date>
+        <end-date>1987-11-25</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Briefed NATO Foreign Ministers on the INF negotiations.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2109</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-12-11</start-date>
+        <end-date>1987-12-12</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a NATO Ministerial Meeting and met with EEC representatives. Signed the INF Basing Inspection Agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2110</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-12-12</start-date>
+        <end-date>1987-12-13</end-date>
+        <country id="denmark">Denmark</country>
+        <locale>Copenhagen</locale>
+        <remarks>Met with Prime Minister Schlueter and Foreign Minister Ellemann-Jensen.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2111</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-12-13</start-date>
+        <end-date>1987-12-15</end-date>
+        <country id="norway">Norway</country>
+        <locale>Oslo</locale>
+        <remarks>Met with King Olav V and senior Norwegian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2112</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-12-15</start-date>
+        <end-date>1987-12-15</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Met with Chancellor Kohl and senior West German officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2113</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1987-12-15</start-date>
+        <end-date>1987-12-16</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Thatcher and Foreign Secretary Howe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2114</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-01-11</start-date>
+        <end-date>1988-01-11</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Signed the Arctic Cooperation Agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2115</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-13</start-date>
+        <end-date>1988-02-13</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mazatlan</locale>
+        <remarks>Accompanied President Reagan to a meeting with President de la Madrid.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2116</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-20</start-date>
+        <end-date>1988-02-21</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Met with President Koivisto en route to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2117</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-21</start-date>
+        <end-date>1988-02-23</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Moscow</locale>
+        <remarks>Met with Foreign Minister Shevardnadze and General Secretary Gorbachev.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2118</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-23</start-date>
+        <end-date>1988-02-23</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Briefed NATO Foreign Ministers on his visit to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2119</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-25</start-date>
+        <end-date>1988-02-27</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Met with Prime Minister Shamir and senior Israeli officials. Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2120</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-27</start-date>
+        <end-date>1988-02-27</end-date>
+        <country id="syria">Syria</country>
+        <locale>Damascus</locale>
+        <remarks>Met with President Assad and Foreign Minister Khaddam regarding a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2121</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-27</start-date>
+        <end-date>1988-02-27</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with Crown Prince Hassan and Prime Minister Rifai regarding a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2122</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-28</start-date>
+        <end-date>1988-02-28</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Briefed Israeli officials on his visits to Jordan and Syria.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2123</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-28</start-date>
+        <end-date>1988-02-28</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed a Middle East peace initiative with President Mubarak.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2124</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-28</start-date>
+        <end-date>1988-02-28</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2125</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-29</start-date>
+        <end-date>1988-02-29</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Briefed Crown Prince Hassan and senior officials on meetings with other Arab leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2126</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-02-29</start-date>
+        <end-date>1988-03-01</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2127</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-03-01</start-date>
+        <end-date>1988-03-01</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with King Hussein of Jordan regarding a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2128</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-03-01</start-date>
+        <end-date>1988-03-03</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Summit Meeting with President Reagan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2129</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-03-03</start-date>
+        <end-date>1988-03-03</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with King Hussein of Jordan regarding a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2130</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-03-03</start-date>
+        <end-date>1988-03-04</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2131</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-03-04</start-date>
+        <end-date>1988-03-04</end-date>
+        <country id="syria">Syria</country>
+        <locale>Damascus</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2132</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-03-04</start-date>
+        <end-date>1988-03-04</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2133</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-01</start-date>
+        <end-date>1988-04-03</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Signed a Scientific and Technological Cooperation Agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2134</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-02</start-date>
+        <end-date>1988-04-02</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Audience with Pope John Paul II.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2135</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-03</start-date>
+        <end-date>1988-04-04</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2136</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-05</start-date>
+        <end-date>1988-04-05</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2137</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-05</start-date>
+        <end-date>1988-04-05</end-date>
+        <country id="syria">Syria</country>
+        <locale>Damascus</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2138</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-06</start-date>
+        <end-date>1988-04-06</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2139</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-06</start-date>
+        <end-date>1988-04-06</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2140</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-07</start-date>
+        <end-date>1988-04-07</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Qasim</locale>
+        <remarks>Met with King Fahd.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2141</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-07</start-date>
+        <end-date>1988-04-08</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2142</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-08</start-date>
+        <end-date>1988-04-08</end-date>
+        <country id="cyprus">Cyprus</country>
+        <locale>Larnaca</locale>
+        <remarks>Met with Lebanese President Gemayel.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2143</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-14</start-date>
+        <end-date>1988-04-14</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Attended the signing of an agreement for the withdrawal of Soviet forces from Afghanistan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2144</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-20</start-date>
+        <end-date>1988-04-20</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Met with President Loivisto en route to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2145</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-21</start-date>
+        <end-date>1988-04-24</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Moscow, Kiev, Tblisi</locale>
+        <remarks>Discussed preparations for the U.S.-Soviet Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2146</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-04-25</start-date>
+        <end-date>1988-04-25</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Briefed NATO Foreign Ministers on his visit to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2147</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-05-11</start-date>
+        <end-date>1988-05-12</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Met with Soviet Foreign Minister Shevardnadze; discussed INF verification procedures.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2148</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-05-13</start-date>
+        <end-date>1988-05-13</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Met with NATO Foreign Ministers.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2149</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-05-27</start-date>
+        <end-date>1988-05-29</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Accompanied President Reagan to meetings with President Koivisto en route to Moscow.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2150</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-05-29</start-date>
+        <end-date>1988-06-02</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Moscow</locale>
+        <remarks>Accompanied President Reagan to a Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>3965</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-02</start-date>
+        <end-date>1988-06-02</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Briefed NATO Foreign Ministers on the Moscow Summit.</remarks>
+        <created-by>bottsjd</created-by>
+        <created-datetime>2020-10-28T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2020-10-28T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2151</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-03</start-date>
+        <end-date>1988-06-04</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2152</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-04</start-date>
+        <end-date>1988-06-04</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2153</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-05</start-date>
+        <end-date>1988-06-05</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2154</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-05</start-date>
+        <end-date>1988-06-05</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2155</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-06</start-date>
+        <end-date>1988-06-06</end-date>
+        <country id="syria">Syria</country>
+        <locale>Damascus</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2156</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-06</start-date>
+        <end-date>1988-06-07</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Luxor, Cairo</locale>
+        <remarks>Discussed a Middle East peace initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2157</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-07</start-date>
+        <end-date>1988-06-10</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2158</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-19</start-date>
+        <end-date>1988-06-21</end-date>
+        <country id="canada">Canada</country>
+        <locale>Toronto</locale>
+        <remarks>Accompanied President Reagan to the Economic Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2159</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-29</start-date>
+        <end-date>1988-06-29</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale>Guatemala City</locale>
+        <remarks>Met with President Vicinio Cerezo. Signed an economic assistance agreement. Met with Nicaraguan Resistance leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2160</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-30</start-date>
+        <end-date>1988-06-30</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>San Salvador</locale>
+        <remarks>Met with Acting President Castillo Claramount and Salvadoran officials and military officers. Signed an economic assistance agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2161</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-06-30</start-date>
+        <end-date>1988-06-30</end-date>
+        <country id="honduras">Honduras</country>
+        <locale>Tegucigalpa, Palmerola Air Force Base</locale>
+        <remarks>Met with President Azcona. Signed a health sector project agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2162</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-01</start-date>
+        <end-date>1988-07-01</end-date>
+        <country id="costa-rica">Costa Rica</country>
+        <locale>San Jose</locale>
+        <remarks>Met with President Arias.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2163</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-06</start-date>
+        <end-date>1988-07-09</end-date>
+        <country id="thailand">Thailand</country>
+        <locale>Bangkok</locale>
+        <remarks>Attended the ASEAN Post-Ministerial Conference.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2164</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-09</start-date>
+        <end-date>1988-07-09</end-date>
+        <country id="malaysia">Malaysia</country>
+        <locale>Kuala Lumpur</locale>
+        <remarks>Met with Prime Minister Mahathir.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2165</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-09</start-date>
+        <end-date>1988-07-11</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Jakarta</locale>
+        <remarks>Met with President Suharto and senior Indonesian officials. Signed agreements on double taxation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2166</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-11</start-date>
+        <end-date>1988-07-13</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Met with President Aquino and senior Philippine officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2167</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-13</start-date>
+        <end-date>1988-07-14</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Hong Kong</locale>
+        <remarks>Met with British colonial officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2168</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-14</start-date>
+        <end-date>1988-07-16</end-date>
+        <country id="china">China</country>
+        <locale>Beijing</locale>
+        <remarks>Met with Chairman Deng and senior Chinese officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2169</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-16</start-date>
+        <end-date>1988-07-18</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Roh and senior Korean officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2170</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-18</start-date>
+        <end-date>1988-07-20</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Prime Minister Takeshita and Foreign Minister Uno.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2171</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-07-20</start-date>
+        <end-date>1988-07-20</end-date>
+        <country id="marshall-islands">Marshall Islands</country>
+        <locale>Majuro</locale>
+        <remarks>Attended a commemorative ceremony.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2172</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-01</start-date>
+        <end-date>1988-08-01</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale>Guatemala City</locale>
+        <remarks>Met with the Foreign Ministers of Guatemala, Costa Rica, Honduras, and El Salvador.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2173</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-02</start-date>
+        <end-date>1988-08-04</end-date>
+        <country id="argentina">Argentina</country>
+        <locale>Buenos Aires</locale>
+        <remarks>Met with President Alfonsin and senior Argentine officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2174</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-04</start-date>
+        <end-date>1988-08-04</end-date>
+        <country id="uruguay">Uruguay</country>
+        <locale>Montevideo</locale>
+        <remarks>Met with President Sanguinetti and senior Uruguayan officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2175</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-04</start-date>
+        <end-date>1988-08-08</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Rio de Janeiro, Brasilia</locale>
+        <remarks>Met with President Sarney and senior Brazilian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2176</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-08</start-date>
+        <end-date>1988-08-09</end-date>
+        <country id="bolivia">Bolivia</country>
+        <locale>La Paz</locale>
+        <remarks>Met with President Paz and senior Bolivian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2177</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-09</start-date>
+        <end-date>1988-08-09</end-date>
+        <country id="costa-rica">Costa Rica</country>
+        <locale>San Jose</locale>
+        <remarks>Met with President Arias.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2178</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-09</start-date>
+        <end-date>1988-08-09</end-date>
+        <country id="honduras">Honduras</country>
+        <locale>Tegucigalpa</locale>
+        <remarks>Met with President Azcona.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2179</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-09</start-date>
+        <end-date>1988-08-09</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>San Salvador</locale>
+        <remarks>Met with Acting President Castillo Claramount.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2180</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-10</start-date>
+        <end-date>1988-08-10</end-date>
+        <country id="ecuador">Ecuador</country>
+        <locale>Quito</locale>
+        <remarks>Met with President-elect Borja.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2181</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-19</start-date>
+        <end-date>1988-08-19</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Stopped en route to Pakistan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2182</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-19</start-date>
+        <end-date>1988-08-20</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale>Islamabad</locale>
+        <remarks>Attended the funeral of President Zia.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2183</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-08-21</start-date>
+        <end-date>1988-08-21</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with Foreign Minister Ghali while returning to U.S.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2184</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-11-14</start-date>
+        <end-date>1988-11-14</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>San Salvador</locale>
+        <remarks>Attended OAS General Assembly Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2185</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-12-01</start-date>
+        <end-date>1988-12-01</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico, D.F.</locale>
+        <remarks>Attended the inauguration of President Salinas de Gortari.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2186</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1988-12-07</start-date>
+        <end-date>1988-12-09</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO and EEC Ministerial Meetings.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2187</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1989-01-06</start-date>
+        <end-date>1989-01-08</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended the Conference on the Prohibition of Chemical Weapons.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="shultz-george-pratt" role="secretary">
+        <id>2188</id>
+        <role>secretary</role>
+        <name>George Pratt Shultz</name>
+        <start-date>1989-01-16</start-date>
+        <end-date>1989-01-18</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Attended the closing session of the CSCE Follow-up Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

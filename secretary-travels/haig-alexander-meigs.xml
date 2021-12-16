@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>855</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-03-10</start-date>
+        <end-date>1981-03-11</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Accompanied President Reagan on a State visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>856</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-04-04</start-date>
+        <end-date>1981-04-05</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Reviewed the Middle East peace process with President Sadat and Foreign Minister Ali.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>857</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-04-05</start-date>
+        <end-date>1981-04-06</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Reviewed the Middle East peace process with Prime Minister Begin and Foreign Minister Shamir.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>858</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-04-06</start-date>
+        <end-date>1981-04-07</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Reviewed the Middle East peace process with King Hussein and Prime Minister Rifai.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>859</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-04-07</start-date>
+        <end-date>1981-04-08</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Discussed the Middle East peace process and AWACS sales with King Fahd and Foreign Minister Prince Saud.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>860</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-04-08</start-date>
+        <end-date>1981-04-08</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with Foreign Minister Colombo.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>861</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-04-08</start-date>
+        <end-date>1981-04-09</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Met with King Juan Carlos, Prime Minister Calvo Sotelo, and senior Spanish officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>862</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-04-09</start-date>
+        <end-date>1981-04-11</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Thatcher and Foreign Secretary Lord Carrington.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>863</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-04-11</start-date>
+        <end-date>1981-04-11</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Giscard d'Estaing and Foreign Minister Francois-Poncet.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>864</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-04-12</start-date>
+        <end-date>1981-04-12</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Met with Chancellor Schmidt and Foreign Minister Genscher.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>865</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-05-02</start-date>
+        <end-date>1981-05-05</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>866</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-05-05</start-date>
+        <end-date>1981-05-05</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Stopped en route to U.S. from NATO meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>867</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-06-12</start-date>
+        <end-date>1981-06-14</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Hong Kong</locale>
+        <remarks>Official visit. Stopped en route to China.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>868</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-06-14</start-date>
+        <end-date>1981-06-17</end-date>
+        <country id="china">China</country>
+        <locale>Beijing</locale>
+        <remarks>Met with Chairman Hua, Premier Zhao, and senior Chinese officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>869</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-06-17</start-date>
+        <end-date>1981-06-20</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Attended ASEAN Foreign Ministers Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>870</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-06-21</start-date>
+        <end-date>1981-06-23</end-date>
+        <country id="new-zealand">New Zealand</country>
+        <locale>Wellington</locale>
+        <remarks>Attended ANZUS Council Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>871</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-07-10</start-date>
+        <end-date>1981-07-11</end-date>
+        <country id="bahamas">Bahamas</country>
+        <locale>Nassau</locale>
+        <remarks>Attended a meeting with the Canadian, Mexican, and Venezuelan Foreign Ministers on economic cooperation in the Caribbean.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>872</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-07-19</start-date>
+        <end-date>1981-07-21</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa, Montebello</locale>
+        <remarks>Accompanied President Reagan to Economic Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>873</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-07-31</start-date>
+        <end-date>1981-08-02</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Cancun</locale>
+        <remarks>Attended a Foreign Ministers meeting preliminary to Conference on Cooperation and Development.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>874</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-09-11</start-date>
+        <end-date>1981-09-12</end-date>
+        <country id="spain">Spain</country>
+        <locale>Marbella</locale>
+        <remarks>Met with Saudi Arabian Crown Prince Fahd.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>875</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-09-12</start-date>
+        <end-date>1981-09-13</end-date>
+        <country id="yugoslavia">Yugoslavia</country>
+        <locale>Belgrade</locale>
+        <remarks>Official visit; met with President Kraigher and senior Yugoslav officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>876</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-09-13</start-date>
+        <end-date>1981-09-13</end-date>
+        <country id="germany">Germany</country>
+        <locale>West Berlin</locale>
+        <remarks>Addressed the Berlin Press Association.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>877</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-09-13</start-date>
+        <end-date>1981-09-14</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Met with Foreign Minister Genscher.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>878</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-10-09</start-date>
+        <end-date>1981-10-12</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Attended the funeral of President Sadat.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>879</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-10-21</start-date>
+        <end-date>1981-10-24</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Cancun</locale>
+        <remarks>Accompanied President Reagan to the International Meeting on Cooperation and Development.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>880</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-11-23</start-date>
+        <end-date>1981-11-24</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico, D.F.</locale>
+        <remarks>Deposited the instrument of ratification of the Treaty for the Prohibition of Nuclear Weapons in Latin America.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>881</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-12-02</start-date>
+        <end-date>1981-12-04</end-date>
+        <country id="saint-lucia">St. Lucia</country>
+        <locale>Castries</locale>
+        <remarks>Attended OAS General Assembly Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>882</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1981-12-09</start-date>
+        <end-date>1981-12-13</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>883</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-01-10</start-date>
+        <end-date>1982-01-12</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a special NATO Ministerial meeting on the situation in Poland.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>884</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-01-12</start-date>
+        <end-date>1982-01-14</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed the Egyptian- Israeli peace process with President Mubarak.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>885</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-01-14</start-date>
+        <end-date>1982-01-15</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Discussed the Egyptian-Israeli peace process with Prime Minister Begin.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>886</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-01-24</start-date>
+        <end-date>1982-01-27</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Met with Soviet Foreign Minister Gromyko.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>887</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-01-27</start-date>
+        <end-date>1982-01-28</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Discussed prospects for Palestinian autonomy talks with Israeli officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>888</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-01-28</start-date>
+        <end-date>1982-01-29</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed prospects for Palestinian autonomy talks with Egyptian officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>889</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-01-29</start-date>
+        <end-date>1982-01-29</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Thatcher while returning to U.S.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>890</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-02-07</start-date>
+        <end-date>1982-02-10</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Attended CSCE Follow-up Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>891</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-02-10</start-date>
+        <end-date>1982-02-11</end-date>
+        <country id="portugal">Portugal</country>
+        <locale>Lisbon</locale>
+        <remarks>Met with Prime Minister Pinto and senior Portuguese officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>892</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-02-11</start-date>
+        <end-date>1982-02-12</end-date>
+        <country id="morocco">Morocco</country>
+        <locale>Marrakesh</locale>
+        <remarks>Met with King Hassan II and senior Moroccan officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>893</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-02-12</start-date>
+        <end-date>1982-02-13</end-date>
+        <country id="romania">Romania</country>
+        <locale>Bucharest</locale>
+        <remarks>Met with President Ceausescu and Foreign Minister Andrei.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>894</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-04-08</start-date>
+        <end-date>1982-04-09</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attempted to resolve the Falkland/Malvinas Islands crisis.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>895</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-04-09</start-date>
+        <end-date>1982-04-11</end-date>
+        <country id="argentina">Argentina</country>
+        <locale>Buenos Aires</locale>
+        <remarks>Attempted to resolve the Falkland/Malvinas crisis. Stopped in Dakar, Senegal, April 9 on way from London.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>896</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-04-12</start-date>
+        <end-date>1982-04-13</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attempted to resolve the Falkland/Malvinas crisis.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>897</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-04-15</start-date>
+        <end-date>1982-04-19</end-date>
+        <country id="argentina">Argentina</country>
+        <locale>Buenos Aires</locale>
+        <remarks>Attempted to resolve the Falkland/Malvinas crisis.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>898</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-04-19</start-date>
+        <end-date>1982-04-19</end-date>
+        <country id="venezuela">Venezuela</country>
+        <locale>Caracas</locale>
+        <remarks>Discussed the Falkland/ Malvinas crisis with Foreign Minister Zambrano.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>899</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-05-13</start-date>
+        <end-date>1982-05-15</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Ankara</locale>
+        <remarks>Official visit. Met with President Evren and senior Turkish officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>900</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-05-15</start-date>
+        <end-date>1982-05-16</end-date>
+        <country id="greece">Greece</country>
+        <locale>Athens</locale>
+        <remarks>Official visit. Met with President Karamanlis, Prime Minister Papandreou, and senior Greek officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>901</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-05-16</start-date>
+        <end-date>1982-05-18</end-date>
+        <country id="luxembourg">Luxembourg</country>
+        <locale>Luxembourg</locale>
+        <remarks>Attended NATO Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>902</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-06-02</start-date>
+        <end-date>1982-06-07</end-date>
+        <country id="france">France</country>
+        <locale>Paris, Versailles</locale>
+        <remarks>Accompanied President Reagan on State visit and to Economic Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>903</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-06-07</start-date>
+        <end-date>1982-06-07</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Accompanied President Reagan on a State visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>904</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-06-07</start-date>
+        <end-date>1982-06-07</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Accompanied President Reagan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>905</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-06-07</start-date>
+        <end-date>1982-06-09</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Accompanied President Reagan on a State visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>906</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-06-09</start-date>
+        <end-date>1982-06-11</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Accompanied President Reagan on a State visit and to a NATO Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="haig-alexander-meigs" role="secretary">
+        <id>907</id>
+        <role>secretary</role>
+        <name>Alexander Meigs Haig</name>
+        <start-date>1982-06-11</start-date>
+        <end-date>1982-06-11</end-date>
+        <country id="germany">Germany</country>
+        <locale>West Berlin</locale>
+        <remarks>Accompanied President Reagan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

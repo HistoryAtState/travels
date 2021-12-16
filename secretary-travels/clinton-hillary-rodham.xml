@@ -1,0 +1,3349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2986</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-02-16</start-date>
+        <end-date>2009-02-18</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Foreign Minister Nakasone.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2987</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-02-18</start-date>
+        <end-date>2009-02-19</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Jakarta</locale>
+        <remarks>Met with Foreign Minister Wirajuda and ASEAN Secretary General Pitsuwa.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2988</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-02-19</start-date>
+        <end-date>2009-02-20</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with Foreign Minister Yu; gave an address at Ewha Women’s University.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2989</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-02-20</start-date>
+        <end-date>2009-02-21</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>Met with Foreign Minister Yang.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2990</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-03-02</start-date>
+        <end-date>2009-03-03</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Sharm el-Sheikh</locale>
+        <remarks>Attended the International Conference in Support of the Palestinian Economy for the Reconstruction of Gaza.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2991</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-03-03</start-date>
+        <end-date>2009-03-05</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Met with President Peres, Prime Minister Olmert, and Foreign Minister Livni.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2992</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-03-04</start-date>
+        <end-date>2009-03-04</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with President Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2993</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-03-05</start-date>
+        <end-date>2009-03-06</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a NATO Foreign Ministers’ meeting and met with the EU and Swiss Foreign Ministers.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2994</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-03-06</start-date>
+        <end-date>2009-03-07</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Met with Russian Foreign Minister Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2995</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-03-07</start-date>
+        <end-date>2009-03-07</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Ankara</locale>
+        <remarks>Met with Foreign Minister Babacan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2996</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-03-25</start-date>
+        <end-date>2009-03-26</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico City, Monterrey</locale>
+        <remarks>Met with Foreign Secretary Espinosa and discussed the Merida Initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2997</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-03-31</start-date>
+        <end-date>2009-04-01</end-date>
+        <country id="netherlands">Netherlands</country>
+        <locale>The Hague</locale>
+        <remarks>Attended the International Conference of Afghanistan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2998</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-01</start-date>
+        <end-date>2009-04-03</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended the G-20 Economic Summit with President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>2999</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-03</start-date>
+        <end-date>2009-04-04</end-date>
+        <country id="france">France</country>
+        <locale>Strasbourg</locale>
+        <remarks>Accompanied President Obama to the NATO Summit Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3000</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-03</start-date>
+        <end-date>2009-04-04</end-date>
+        <country id="germany">Germany</country>
+        <locale>Baden-Baden</locale>
+        <remarks>Accompanied President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3001</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-04</start-date>
+        <end-date>2009-04-05</end-date>
+        <country id="czech-republic">Czech Republic</country>
+        <locale>Prague</locale>
+        <remarks>Accompanied President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3002</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-16</start-date>
+        <end-date>2009-04-16</end-date>
+        <country id="haiti">Haiti</country>
+        <locale>Port-au-Prince</locale>
+        <remarks>Met with President Preval and Prime Minister Pierre-Louis.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3003</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-16</start-date>
+        <end-date>2009-04-17</end-date>
+        <country id="dominican-republic">Dominican Republic</country>
+        <locale>Santo Domingo</locale>
+        <remarks>Met with President Fernandez.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3004</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-17</start-date>
+        <end-date>2009-04-19</end-date>
+        <country id="trinidad-and-tobago">Trinidad and Tobago</country>
+        <locale>Port of Spain</locale>
+        <remarks>Attended the Fifth Summit of the Americas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3005</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-24</start-date>
+        <end-date>2009-04-25</end-date>
+        <country id="kuwait">Kuwait</country>
+        <locale>Kuwait City</locale>
+        <remarks>Met with Foreign Minister al-Sabah and members of the Office of Military Cooperation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3006</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-25</start-date>
+        <end-date>2009-04-25</end-date>
+        <country id="iraq">Iraq</country>
+        <locale>Baghdad</locale>
+        <remarks>Met with President Talebani, Prime Minister al-Maliki and senior officials. Visited U.S. military personnel, a Provincial Reconstruction Team, and attended a town meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3007</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-04-26</start-date>
+        <end-date>2009-04-26</end-date>
+        <country id="lebanon">Lebanon</country>
+        <locale>Beirut</locale>
+        <remarks>Met with President Sleiman and Foreign Minister Salloukh.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3008</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-05-31</start-date>
+        <end-date>2009-06-01</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>San Salvador</locale>
+        <remarks>Attended the inauguration of President Funes and a ministerial meeting of Pathways to Prosperity in America.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3009</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-06-02</start-date>
+        <end-date>2009-06-02</end-date>
+        <country id="honduras">Honduras</country>
+        <locale>San Pedro Sula</locale>
+        <remarks>Attended an OAS General Assembly meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3010</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-06-13</start-date>
+        <end-date>2009-06-13</end-date>
+        <country id="canada">Canada</country>
+        <locale>Niagara Falls (Ontario)</locale>
+        <remarks>Commemorated the 100th anniversary of the Canada-U.S. Boundary Waters Treaty, and met with Foreign Minister Cannon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3011</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-07-17</start-date>
+        <end-date>2009-07-21</end-date>
+        <country id="india">India</country>
+        <locale>Mumbai, New Delhi</locale>
+        <remarks>Met with Prime Minister Singh and External Affairs Minister Krishna. Discussed a U.S.-India strategic partnership.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3012</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-07-21</start-date>
+        <end-date>2009-07-23</end-date>
+        <country id="thailand">Thailand</country>
+        <locale>Bangkok, Phuket</locale>
+        <remarks>Met with Prime Minister Abhisit and Foreign Minister Kasit. Attended the ASEAN Post-Ministerial Conference and Regional Forum in Phuket.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3013</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-08-04</start-date>
+        <end-date>2009-08-07</end-date>
+        <country id="kenya">Kenya</country>
+        <locale>Nairobi</locale>
+        <remarks>Attended the 8th AGOA Forum. Met with Somalian President Sheikh Ahmed.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3014</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-08-07</start-date>
+        <end-date>2009-08-09</end-date>
+        <country id="south-africa">South Africa</country>
+        <locale>Johannesburg, Pretoria, Durban</locale>
+        <remarks>Addressed an International Development Corporation event. Met with former Presidents Mandela and de Klerk and with President Zuma.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3015</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-08-09</start-date>
+        <end-date>2009-08-10</end-date>
+        <country id="angola">Angola</country>
+        <locale>Luanda</locale>
+        <remarks>Met with Foreign Minister dos Anjos, addressed the National Assembly and signed a memorandum of understanding with Chevron and USAID.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3016</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-08-10</start-date>
+        <end-date>2009-08-11</end-date>
+        <country id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</country>
+        <locale>Kinshasa, Goma</locale>
+        <remarks>Met with Prime Minister Muzito and President Kabila. Attended a round-table on gender-based violence issues.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3017</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-08-11</start-date>
+        <end-date>2009-08-13</end-date>
+        <country id="nigeria">Nigeria</country>
+        <locale>Abuja</locale>
+        <remarks>Met with Foreign Minister Maduekwe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3018</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-08-13</start-date>
+        <end-date>2009-08-14</end-date>
+        <country id="liberia">Liberia</country>
+        <locale>Monrovia</locale>
+        <remarks>Met with President Johnson-Sirleaf. Addressed the National Assembly.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3019</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-08-14</start-date>
+        <end-date>2009-08-14</end-date>
+        <country id="cape-verde">Cape Verde</country>
+        <locale>Sal</locale>
+        <remarks>Met with Prime Minister Neves.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3020</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-10-09</start-date>
+        <end-date>2009-10-10</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Zurich</locale>
+        <remarks>Witnessed the signing of a protocol to normalize relations between Armenia and Turkey.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3021</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-10-10</start-date>
+        <end-date>2009-10-12</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Brown and Foreign Secretary Miliband.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3022</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-10-11</start-date>
+        <end-date>2009-10-11</end-date>
+        <country id="ireland">Ireland</country>
+        <locale>Dublin</locale>
+        <remarks>Met with Prime Minister Cowen.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3023</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-10-11</start-date>
+        <end-date>2009-10-12</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Belfast</locale>
+        <remarks>Met with Northern Irish First Minister Robinson and Deputy First Minister McGuiness. Addressed the Northern Ireland Assembly and the Northern Ireland Business Working Group.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3024</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-10-12</start-date>
+        <end-date>2009-10-14</end-date>
+        <country id="russia">Russia</country>
+        <locale>Moscow, Kazan</locale>
+        <remarks>Met with President Medvedev and Foreign Minister Lavrov concerning arms control, nonproliferation, and counterterrorism. In Kazan, met with Tatarstan President Shaymiyev and attended a dialogue on diversity at Kazan State University.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3025</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-10-28</start-date>
+        <end-date>2009-10-30</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale>Islamabad, Lahore</locale>
+        <remarks>Met with Foreign Minister Qureshi. Announced several assistance programs.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3026</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-10-30</start-date>
+        <end-date>2009-10-30</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with Palestinian Authority President Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3027</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-10-30</start-date>
+        <end-date>2009-11-02</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Netanyahu and Foreign Minister Lieberman.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3028</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-11-02</start-date>
+        <end-date>2009-11-03</end-date>
+        <country id="morocco">Morocco</country>
+        <locale>Marrakesh</locale>
+        <remarks>Met with King Mohammed VI and Foreign Minister Fassi-Fihri and with the GCC+3 Foreign Ministers. Attended the 6th Forum for the Future.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3029</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-11-03</start-date>
+        <end-date>2009-11-04</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Mubarak, Foreign Minister Aboul Gheit, and Special Envoy Mitchell.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3030</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-11-08</start-date>
+        <end-date>2009-11-09</end-date>
+        <country id="germany">Germany</country>
+        <locale>Berlin</locale>
+        <remarks>Attended ceremonies commemorating the 20th anniversary of the fall of the Berlin Wall. Met with Chancellor Merkel and Foreign Minister Westerwelle.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3031</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-11-10</start-date>
+        <end-date>2009-11-12</end-date>
+        <country id="singapore">Singapore</country>
+        <locale>Singapore</locale>
+        <remarks>Attended APEC Forum and Ministerial meetings.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3032</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-11-12</start-date>
+        <end-date>2009-11-13</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Met with President Arroyo and Foreign Secretary Romulo. Announced new disaster relief program.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3033</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-11-13</start-date>
+        <end-date>2009-11-16</end-date>
+        <country id="singapore">Singapore</country>
+        <locale>Singapore</locale>
+        <remarks>Attended APEC Leaders’ Meeting with President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3034</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-11-16</start-date>
+        <end-date>2009-11-18</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing, Shanghai</locale>
+        <remarks>Accompanied President Obama. Dedicated the USA Pavilion at the Shanghai Expo.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3035</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-11-18</start-date>
+        <end-date>2009-11-19</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Kabul</locale>
+        <remarks>Attended the inauguration of President Karzai.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3036</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-12-04</start-date>
+        <end-date>2009-12-04</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a NATO Foreign Minister’s Meeting, a meeting of the NATO-Russia Council, and met with representatives of non-NATO ISAF-contributing countries.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3037</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2009-12-18</start-date>
+        <end-date>2009-12-19</end-date>
+        <country id="denmark">Denmark</country>
+        <locale>Copenhagen</locale>
+        <remarks>Attended the UN Climate Change Conference.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-20T18:03:04.023-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3982</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-01-16</start-date>
+        <end-date>2010-01-16</end-date>
+        <country id="haiti">Haiti</country>
+        <locale>Port-au-Prince</locale>
+        <remarks>Met with Haitian officials and assessed disaster relief efforts.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3983</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-01-25</start-date>
+        <end-date>2010-01-25</end-date>
+        <country id="canada">Canada</country>
+        <locale>Montreal</locale>
+        <remarks>Attended the Haiti Ministerial Preparatory Conference.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3984</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-01-26</start-date>
+        <end-date>2010-01-29</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended a ministerial meeting on Yemen and the International Conference on Afghanistan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3985</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-01-29</start-date>
+        <end-date>2010-01-29</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Sarkozy and Foreign Minister Kouchner. Delivered an address on European security.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3986</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-02-14</start-date>
+        <end-date>2010-02-15</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Amir Sheikh Hamad bin Khalifa al-Thani and Foreign Minister Hamad bin Jassin al-Thani. Addressed the U.S.-Islamic World Forum.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3987</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-02-15</start-date>
+        <end-date>2010-02-16</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh, Jeddah</locale>
+        <remarks>Met with King Abdullah and Foreign Minister Prince Saud. Visited the Organization of the Islamic Conference headquarters and made a speech at the Dar Al-Hekma College in Jeddah on February 16.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3988</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-03-01</start-date>
+        <end-date>2010-03-01</end-date>
+        <country id="uruguay">Uruguay</country>
+        <locale>Montevideo</locale>
+        <remarks>Attended the inauguration of President Mujica.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3989</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-03-01</start-date>
+        <end-date>2010-03-02</end-date>
+        <country id="argentina">Argentina</country>
+        <locale>Buenos Aires</locale>
+        <remarks>Met with President Fernandez de Kirchner.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3990</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-03-02</start-date>
+        <end-date>2010-03-02</end-date>
+        <country id="chile">Chile</country>
+        <locale>Santiago</locale>
+        <remarks>Met with President Bachelet and President-elect Pinera. Discussed disaster relief.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3991</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-03-02</start-date>
+        <end-date>2010-03-03</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia, Sao Paulo</locale>
+        <remarks>Met with President Lula da Silva and Foreign Minister Amorim. Held a Townterview at Zumbi dos Palmares University in Sao Paulo.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3057</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-03-04</start-date>
+        <end-date>2010-03-05</end-date>
+        <country id="costa-rica">Costa Rica</country>
+        <locale>San Jose</locale>
+        <remarks>Addressed the Pathways to Prosperity in the Americas Ministerial Meeting and met with President Arias and President-elect Chinchilla.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3058</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-03-05</start-date>
+        <end-date>2010-03-05</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale>Guatemala City</locale>
+        <remarks>Met with President Colom and with leaders of the Central American countries and the Dominican Republic.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3059</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-03-18</start-date>
+        <end-date>2010-03-19</end-date>
+        <country id="russia">Russia</country>
+        <locale>Moscow</locale>
+        <remarks>Attended a Quarted meeting and discussed strategic arms reductions.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3060</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-03-23</start-date>
+        <end-date>2010-03-23</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico City</locale>
+        <remarks>Attended a U.S.-Mexico High Level Consultative Group meeting and met with President Calderon and Foreign Secretary Espinosa.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3061</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-03-29</start-date>
+        <end-date>2010-03-30</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa, Gatineau</locale>
+        <remarks>Attended a meeting of the Foreign Ministers of the Arctic Coastal States and a meeting of the G-8 Foreign Ministers.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3062</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-04-08</start-date>
+        <end-date>2010-04-09</end-date>
+        <country id="czech-republic">Czech Republic</country>
+        <locale>Prague</locale>
+        <remarks>Accompanied President Obama to the signing of a Strategic Arms Reduction Treaty with Russia.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3063</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-04-22</start-date>
+        <end-date>2010-04-23</end-date>
+        <country id="estonia">Estonia</country>
+        <locale>Tallinn</locale>
+        <remarks>Attended a NATO Informal Ministerial Meeting. Met with President Ilves and Foreign Minister Paet.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3064</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-05-21</start-date>
+        <end-date>2010-05-21</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Foreign Minister Okada.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3065</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-05-21</start-date>
+        <end-date>2010-05-26</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Shanghai, Beijing</locale>
+        <remarks>Visited the Shanghai 2010 Expo and attended a dinner for sponsors of the USA Pavilion. In Beijing, attended the second meeting of the U.S.-China Strategic and Economic Dialogue.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3066</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-05-26</start-date>
+        <end-date>2010-05-26</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with Foreign Minister Yu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3067</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-06-06</start-date>
+        <end-date>2010-06-08</end-date>
+        <country id="peru">Peru</country>
+        <locale>Lima</locale>
+        <remarks>Attended a meeting of the General Assembly of the Organization of American States.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3068</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-06-08</start-date>
+        <end-date>2010-06-08</end-date>
+        <country id="ecuador">Ecuador</country>
+        <locale>Quito</locale>
+        <remarks>Met with President Correa.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3069</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-06-08</start-date>
+        <end-date>2010-06-09</end-date>
+        <country id="colombia">Colombia</country>
+        <locale>Bogota</locale>
+        <remarks>Met with President Uribe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3070</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-06-09</start-date>
+        <end-date>2010-06-10</end-date>
+        <country id="barbados">Barbados</country>
+        <locale>Bridgetown</locale>
+        <remarks>Attended a meeting of the CARICOM Foreign Ministers and announced the Caribbean Basin Security Initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3071</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-07-01</start-date>
+        <end-date>2010-07-02</end-date>
+        <country id="ukraine">Ukraine</country>
+        <locale>Kyiv</locale>
+        <remarks>Met with President Yanukovych and Foreign Minister Hryshchenko. Attended the second meeting of the U.S.-Ukraine Strategic Partnership.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3072</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-07-02</start-date>
+        <end-date>2010-07-03</end-date>
+        <country id="poland">Poland</country>
+        <locale>Krakow</locale>
+        <remarks>Met with Foreign Minister Sikorski. Commemorated the 10th anniversary of the founding of the Community of Democracies. Signed a ballistic missile defense agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3073</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-07-04</start-date>
+        <end-date>2010-07-04</end-date>
+        <country id="azerbaijan">Azerbaijan</country>
+        <locale>Baku</locale>
+        <remarks>Met with President Aliyev and Foreign Minister Mammadyarov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3074</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-07-04</start-date>
+        <end-date>2010-07-05</end-date>
+        <country id="armenia">Armenia</country>
+        <locale>Yerevan</locale>
+        <remarks>Met with President Sargsian and Foreign Minister Nalbandian and with civic leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3075</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-07-05</start-date>
+        <end-date>2010-07-05</end-date>
+        <country id="georgia">Georgia</country>
+        <locale>Tbilisi</locale>
+        <remarks>Met with President Saakashvili, Foreign Minister Vashadze, and political and civil leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3076</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-07-18</start-date>
+        <end-date>2010-07-19</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale>Islamabad</locale>
+        <remarks>Met with President Zardari, Prime Minister Gillani and Foreign Minister Qureshi. Attended a Strategic Dialogue meeting and announced a series of aid agreements. Promoted a trade agreement between Pakistan and Afghanistan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3077</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-07-19</start-date>
+        <end-date>2010-07-20</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Kabul</locale>
+        <remarks>Met with President Karzai and attended an international conference on the future of Afghanistan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3078</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-07-20</start-date>
+        <end-date>2010-07-21</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul, Panmunjon</locale>
+        <remarks>Commemorated the 60th anniversary of the Korean War. Visited the DMZ. With Secretary of Defense Gates, attended a 2+2 meeting with South Korea’s Foreign Minister and Minister of National Defense and with President Lee Myung-bak.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3079</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-07-21</start-date>
+        <end-date>2010-07-23</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi</locale>
+        <remarks>Attended the ASEAN Post-Ministerial Conference and Regional Forum Ministerial. Discussed the Lower Mekong Initiative.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3080</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-09-14</start-date>
+        <end-date>2010-09-25</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Sharm el-Sheikh</locale>
+        <remarks>Participated in Israeli-Palestinian negotiations.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3081</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-09-15</start-date>
+        <end-date>2010-09-16</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with President Peres and participated in Israeli-Palestinian negotiations.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3082</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-09-16</start-date>
+        <end-date>2010-09-16</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with President Abbas and Prime Minister Fayyad.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3083</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-09-16</start-date>
+        <end-date>2010-09-17</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with King Abdullah II.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3084</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-10-12</start-date>
+        <end-date>2010-10-12</end-date>
+        <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
+        <locale>Sarajevo</locale>
+        <remarks>Dedicated new embassy compound, met with senior officials and with civil society representatives.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3085</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-10-12</start-date>
+        <end-date>2010-10-13</end-date>
+        <country id="serbia">Serbia</country>
+        <locale>Belgrade</locale>
+        <remarks>Met with President Tadic.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3086</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-10-13</start-date>
+        <end-date>2010-10-13</end-date>
+        <country id="kosovo">Kosovo</country>
+        <locale>Pristina</locale>
+        <remarks>Met with Prime Minister Faci and with civil society representatives.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3087</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-10-13</start-date>
+        <end-date>2010-10-14</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a NATO Ministerial meeting and met with the European Council President and the High Representative for Foreign Affairs.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3088</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-10-29</start-date>
+        <end-date>2010-10-30</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi</locale>
+        <remarks>Attended the East Asia Summit and the Lower Mekong Initiative meetings.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3089</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-10-30</start-date>
+        <end-date>2010-10-30</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Hainan</locale>
+        <remarks>Met with State Councilor Dai Bingguo.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3090</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-10-30</start-date>
+        <end-date>2010-11-01</end-date>
+        <country id="cambodia">Cambodia</country>
+        <locale>Phnom Penh, Angkor Wat</locale>
+        <remarks>Met with Deputy Prime Minister and Foreign Minister Namhong.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3091</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-11-01</start-date>
+        <end-date>2010-11-03</end-date>
+        <country id="malaysia">Malaysia</country>
+        <locale>Kuala Lumpur</locale>
+        <remarks>Met with Foreign Minister Aman.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3092</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-11-03</start-date>
+        <end-date>2010-11-03</end-date>
+        <country id="papua-new-guinea">Papua New Guinea</country>
+        <locale>Port Moresby</locale>
+        <remarks>Met with Prime Minister Somare and visited a mangrove reforestation project.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3093</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-11-03</start-date>
+        <end-date>2010-11-05</end-date>
+        <country id="new-zealand">New Zealand</country>
+        <locale>Wellington, Christchurch</locale>
+        <remarks>Met with Prime Minister Key and Foreign Minister McCully. Visited the U.S. Antarctic Center.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3094</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-11-05</start-date>
+        <end-date>2010-11-07</end-date>
+        <country id="australia">Australia</country>
+        <locale>Melbourne</locale>
+        <remarks>Attended the Australia-United States Ministerial Consultation. Met with the Prime Minister Gillard and Foreign Minister Rudd.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3095</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-11-18</start-date>
+        <end-date>2010-11-20</end-date>
+        <country id="portugal">Portugal</country>
+        <locale>Lisbon</locale>
+        <remarks>Attended the NATO and U.S.-European Union Summits, the NATO-Russia Summit, and the International Security Assistance Force Summit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3096</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-11-30</start-date>
+        <end-date>2010-12-02</end-date>
+        <country id="kazakhstan">Kazakhstan</country>
+        <locale>Astana</locale>
+        <remarks>Led the U.S. delegation to the OSCE. Met with President Nazarbayev and Foreign Minister Saudabayev.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3097</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-12-02</start-date>
+        <end-date>2010-12-02</end-date>
+        <country id="kyrgyzstan">Kyrgyz Republic</country>
+        <locale>Bishkek</locale>
+        <remarks>Met with President Otunbayeva and addressed U.S. military personnel at the Manas Transit Center.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3098</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-12-02</start-date>
+        <end-date>2010-12-02</end-date>
+        <country id="uzbekistan">Uzbekistan</country>
+        <locale>Tashkent</locale>
+        <remarks>Met with President Karimov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3099</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-12-03</start-date>
+        <end-date>2010-12-04</end-date>
+        <country id="bahrain">Bahrain</country>
+        <locale>Manama</locale>
+        <remarks>Met with Foreign Minister al-Khalifa. Delivered the keynote address at the Manama Dialogue 2010.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3100</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2010-12-13</start-date>
+        <end-date>2010-12-13</end-date>
+        <country id="canada">Canada</country>
+        <locale>Wakefield (Quebec)</locale>
+        <remarks>Attended the North American Foreign Ministers’ Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3992</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-01-01</start-date>
+        <end-date>2011-01-01</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia</locale>
+        <remarks>Attended the inauguration of President Rouseff.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3151</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-01-09</start-date>
+        <end-date>2011-01-11</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Addressed the Masdar Institute.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3152</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-01-11</start-date>
+        <end-date>2011-01-11</end-date>
+        <country id="yemen">Yemen</country>
+        <locale>Sana'a</locale>
+        <remarks>Met with President Saleh. Addressed a Town Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3153</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-01-12</start-date>
+        <end-date>2011-01-12</end-date>
+        <country id="oman">Oman</country>
+        <locale>Muscat</locale>
+        <remarks>Addressed a Town Meeting with Omani Civil Society.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3154</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-01-12</start-date>
+        <end-date>2011-01-13</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Prime Minister al-Thani. Addressed the Seventh Forum for the Future.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3155</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-01-24</start-date>
+        <end-date>2011-01-24</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Guanajuato</locale>
+        <remarks>Met with Foreign Secretary Espinosa.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3156</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-01-30</start-date>
+        <end-date>2011-01-30</end-date>
+        <country id="haiti">Haiti</country>
+        <locale>Port-au-Prince</locale>
+        <remarks>Met with President Preval and with political and civic leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3157</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-02-05</start-date>
+        <end-date>2011-02-06</end-date>
+        <country id="germany">Germany</country>
+        <locale>Munich</locale>
+        <remarks>Attended the Munich Security Conference and exchanged ratifications of the new START Treaty with Russian Foreign Minister Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3158</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-02-28</start-date>
+        <end-date>2011-02-28</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Discussed the crisis in Libya and addressed the Conference on Disarmament and the UN Human Rights Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3159</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-03-14</start-date>
+        <end-date>2011-03-15</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended a G-8 Foreign Ministers’ Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3160</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-03-15</start-date>
+        <end-date>2011-03-17</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with Prime Minister Sharaf, Foreign Minister al-Araby, and civic leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3161</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-03-17</start-date>
+        <end-date>2011-03-17</end-date>
+        <country id="tunisia">Tunisia</country>
+        <locale>Tunis</locale>
+        <remarks>Met with Prime Minister Kefi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3162</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-03-19</start-date>
+        <end-date>2011-03-19</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended a Summit Meeting on the Libyan Crisis.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3163</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-03-29</start-date>
+        <end-date>2011-03-29</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended the International Conference on the Libyan Crisis.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3164</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-04-14</start-date>
+        <end-date>2011-04-15</end-date>
+        <country id="germany">Germany</country>
+        <locale>Berlin</locale>
+        <remarks>Attended a NATO Foreign Ministers’ Meeting and meetings of the NATO-Georgia and NATO Ukraine Commisions and the NATO-Russia Council. Attended a memorial Service for Ambassador Holbrooke and received the Rathenau Prize.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3165</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-04-16</start-date>
+        <end-date>2011-04-17</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Lee and Foreign Minister Kim.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3166</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-04-17</start-date>
+        <end-date>2011-04-17</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Prime Minister Kan and Foreign Minister Matsumoto.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3167</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-05-05</start-date>
+        <end-date>2011-05-06</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Attended a Libya Contact Group Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3168</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-05-11</start-date>
+        <end-date>2011-05-12</end-date>
+        <country id="denmark">Denmark (Greenland)</country>
+        <locale>Nuuk</locale>
+        <remarks>Attended the Seventh Ministerial Meeting of the Arctic Council. Signed Arctic Search and Rescue Agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3169</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-05-23</start-date>
+        <end-date>2011-05-25</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Accompanied President Obama on a State Visit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3170</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-05-25</start-date>
+        <end-date>2011-05-26</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended the 5oth Anniversary OECD Ministerial Meeting. Inaugurated UNESCO’s Global Partnership for Girls’ and Women’s Education.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3171</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-05-27</start-date>
+        <end-date>2011-05-27</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale>Islamabad</locale>
+        <remarks>Met with President Zardari and Pakistani government and military leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3172</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-06-09</start-date>
+        <end-date>2011-06-10</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Attended a meeting of the Libya Contact Group.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3173</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-06-10</start-date>
+        <end-date>2011-06-11</end-date>
+        <country id="zambia">Zambia</country>
+        <locale>Lusaka</locale>
+        <remarks>Attended a meeting of the African Growth and Opportunity Act Ministerial Forum. Met with President Banda.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3174</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-06-11</start-date>
+        <end-date>2011-06-13</end-date>
+        <country id="tanzania">Tanzania</country>
+        <locale>Dar es Salaam</locale>
+        <remarks>Attended a meeting on nutrition and the 1,000 Days Initiative. Met with President Kikwete.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3175</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-06-13</start-date>
+        <end-date>2011-06-14</end-date>
+        <country id="ethiopia">Ethiopia</country>
+        <locale>Addis Ababa</locale>
+        <remarks>Addressed the African Union Assembly. Met with Chairperson Ping and Ethiopian Prime Minister Zenawi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3176</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-06-22</start-date>
+        <end-date>2011-06-22</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale>Guatemala City</locale>
+        <remarks>Attended the Conference of Support for the Central American Security Strategy.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3177</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-06-22</start-date>
+        <end-date>2011-06-22</end-date>
+        <country id="jamaica">Jamaica</country>
+        <locale>Montego Bay</locale>
+        <remarks>Attended the High Level U.S.-Caribbean Conference.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3178</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-06-29</start-date>
+        <end-date>2011-06-30</end-date>
+        <country id="hungary">Hungary</country>
+        <locale>Budapest</locale>
+        <remarks>Dedicated the Lantos Institute. Met with Prime Minister Orban and Foreign Minister Martonyi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3179</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-06-30</start-date>
+        <end-date>2011-07-01</end-date>
+        <country id="lithuania">Lithuania</country>
+        <locale>Vilnius</locale>
+        <remarks>Attended the 6th Ministerial meeting of the Community of Democracies. Met with President Grybauskaite and Prime Minister Kubilius.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3180</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-07-01</start-date>
+        <end-date>2011-07-02</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Met with President Rodriquez Zapatero and Foreign Minister Jimenez.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3181</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-07-15</start-date>
+        <end-date>2011-07-17</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul</locale>
+        <remarks>Attended a Libya Contact Group meeting. Met with President Gul, Prime Minister Erdogan, and Foreign Minister Davutoglu. Attended a meeting of the Organization of the Islamic Conference on combating religious intolerance.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3182</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-07-17</start-date>
+        <end-date>2011-07-18</end-date>
+        <country id="greece">Greece</country>
+        <locale>Athens</locale>
+        <remarks>Met with President Papoulios, Prime Minister Panandreou, and Foreign Minister Lambrinidis. Signed a memorandum of understanding to preserve Greece’s cultural heritage.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3183</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-07-21</start-date>
+        <end-date>2011-07-25</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Bali</locale>
+        <remarks>Attended the ASEAN Regional Forum and the U.S.-Lower Mekong Ministerial meetings, the Second U.S.-Indonesia Joint Committee meeting, and the U.S.-Japan-Republic of Korea Trilateral meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3184</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-07-25</start-date>
+        <end-date>2011-07-25</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Hong Kong, Shenzhen</locale>
+        <remarks>Met with the Hong Kong Executive and Legislative Council, and with State Councilor Dai Bingguo in Shenzhen.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3185</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-09-01</start-date>
+        <end-date>2011-09-01</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended a meeting of the Contact Group on Libya.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3186</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-10-18</start-date>
+        <end-date>2011-10-19</end-date>
+        <country id="malta">Malta</country>
+        <locale>Valletta</locale>
+        <remarks>Met with Prime Minister Gonzi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3187</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-10-18</start-date>
+        <end-date>2011-10-18</end-date>
+        <country id="libya">Libya</country>
+        <locale>Tripoli</locale>
+        <remarks>Met with Transitional National Council President Jalil and Prime Minister Jabril.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3188</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-10-19</start-date>
+        <end-date>2011-10-20</end-date>
+        <country id="oman">Oman</country>
+        <locale>Muscat</locale>
+        <remarks>Met with Sultan Qaboos.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3189</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-10-20</start-date>
+        <end-date>2011-10-20</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Kabul</locale>
+        <remarks>Met with President Karzai and Afghan civil leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3190</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-10-20</start-date>
+        <end-date>2011-10-21</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale>Islamabad</locale>
+        <remarks>Met with Prime Minister Gilani, Foreign Minister Khar, and President Zardari.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3191</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-10-21</start-date>
+        <end-date>2011-10-22</end-date>
+        <country id="tajikistan">Tajikistan</country>
+        <locale>Dushanbe</locale>
+        <remarks>Met with President Rahmon and Foreign Minister Zarifi. Addressed civil society representatives.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3192</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-10-22</start-date>
+        <end-date>2011-10-22</end-date>
+        <country id="uzbekistan">Uzbekistan</country>
+        <locale>Tashkent</locale>
+        <remarks>Met with President Karimov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3193</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-11-15</start-date>
+        <end-date>2011-11-16</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Signed the Manila Declaration and a Partnership for Growth agreement. Received the Order of Lakandula.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3194</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-11-16</start-date>
+        <end-date>2011-11-17</end-date>
+        <country id="thailand">Thailand</country>
+        <locale>Bangkok</locale>
+        <remarks>Met with Prime Minister Yingluck Shinawatra. Announced flood recovery assistance.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3195</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-11-17</start-date>
+        <end-date>2011-11-19</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Bali</locale>
+        <remarks>Attended the East Asia Summit and the U.S.-ASEAN Leaders Meeting. Addressed the Millenium Challenge Corporation signing ceremony.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3196</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-11-30</start-date>
+        <end-date>2011-11-30</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Busan</locale>
+        <remarks>Attended the Fourth High-Level Forum on Aid Effectiveness and the Partnership for Growth Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3197</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-11-30</start-date>
+        <end-date>2011-12-02</end-date>
+        <country id="burma">Burma</country>
+        <locale>Nay Pyi Taw, Rangoon</locale>
+        <remarks>Met with President Thein Sein, Foreign Minister Lwin, Aung San Suu Kyi, and civic and minority representatives.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3198</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-12-05</start-date>
+        <end-date>2011-12-05</end-date>
+        <country id="germany">Germany</country>
+        <locale>Bonn</locale>
+        <remarks>Attended the International Conference for Afghanistan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3199</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-12-06</start-date>
+        <end-date>2011-12-06</end-date>
+        <country id="lithuania">Lithuania</country>
+        <locale>Vilnius</locale>
+        <remarks>Attended an OSCE Ministerial Meeting. Met with members of Belarus civil society.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3200</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-12-06</start-date>
+        <end-date>2011-12-07</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Commemorated International Human Rights Day and the anniversaries of the Refugee and Statelessness Conventions. Met with members of the Syrian National Council. Addressed the 7th Biological and Toxin Weapons Review Conference.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3201</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-12-07</start-date>
+        <end-date>2011-12-08</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended the NATO Ministerial Meeting and a meeting of the NATO-Russia Council. Signed the U.S.-Slovak Joint Action Plan to Combat Nuclear Smuggling.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3202</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-12-08</start-date>
+        <end-date>2011-12-08</end-date>
+        <country id="netherlands">Netherlands</country>
+        <locale>The Hague</locale>
+        <remarks>Met with Foreign Minister Rosenthal and addressed the Conference on Internet Freedom.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3488</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2011-12-23</start-date>
+        <end-date>2011-12-23</end-date>
+        <country id="czech-republic">Czech Republic</country>
+        <locale>Prague</locale>
+        <remarks>Attended the funeral of former President Vaclav Havel.</remarks>
+        <created-by>marrsaw</created-by>
+        <created-datetime>2015-03-23T16:59:41.331-04:00</created-datetime>
+        <last-modified-by>marrsaw</last-modified-by>
+        <last-modified-datetime>2015-03-23T16:59:41.331-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3211</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-01-15</start-date>
+        <end-date>2012-01-15</end-date>
+        <country id="cape-verde">Cape Verde</country>
+        <locale>Sal</locale>
+        <remarks>Refueling stop en route to Liberia.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3212</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-01-16</start-date>
+        <end-date>2012-01-17</end-date>
+        <country id="liberia">Liberia</country>
+        <locale>Monrovia</locale>
+        <remarks>Attended the inauguration of President Ellen Johnson Sirleaf; dedicated a new U.S. Embassy compound.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3213</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-01-17</start-date>
+        <end-date>2012-01-17</end-date>
+        <country id="cote-divoire">Cote d'Ivoire</country>
+        <locale>Abidjan</locale>
+        <remarks>Met with President Alassane Ouattara and Foreign Minister Daniel Kablan Duncan. Addressed the Center for Research and Action for Peace.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3214</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-01-17</start-date>
+        <end-date>2012-01-17</end-date>
+        <country id="togo">Togo</country>
+        <locale>Lome</locale>
+        <remarks>Met with President Faure Gnassingbe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3215</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-01-17</start-date>
+        <end-date>2012-01-17</end-date>
+        <country id="cape-verde">Cape Verde</country>
+        <locale>Sal</locale>
+        <remarks>Met with President Jose Neves.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3216</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-02-04</start-date>
+        <end-date>2012-02-05</end-date>
+        <country id="germany">Germany</country>
+        <locale>Munich</locale>
+        <remarks>Attended the 48th Munich Security Conference.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3217</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-02-05</start-date>
+        <end-date>2012-02-05</end-date>
+        <country id="bulgaria">Bulgaria</country>
+        <locale>Sofia</locale>
+        <remarks>Met with President Rosen Plevneliev, senior officials and young Roma professionals.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3218</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-02-19</start-date>
+        <end-date>2012-02-20</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Los Cabos</locale>
+        <remarks>Attended a G-20 Ministerial Meeting. Signed U.S.-Mexico Transboundary Agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3219</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-02-23</start-date>
+        <end-date>2012-02-24</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended the Conference on Somalia.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3220</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-02-24</start-date>
+        <end-date>2012-02-25</end-date>
+        <country id="tunisia">Tunisia</country>
+        <locale>Tunis</locale>
+        <remarks>Attended the “Friends of Syria” meeting. Met with President Moncef Marzouki and Prime Minister Hamadi Jebali. Held a townhall meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3221</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-02-25</start-date>
+        <end-date>2012-02-26</end-date>
+        <country id="algeria">Algeria</country>
+        <locale>Algiers</locale>
+        <remarks>Met with President Abdelaziz Bouteflika and held a civil society roundtable.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3222</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-02-26</start-date>
+        <end-date>2012-02-26</end-date>
+        <country id="morocco">Morocco</country>
+        <locale>Rabat</locale>
+        <remarks>Met with Royal Counselor Fahri Fihri and Foreign Minister Saad Eddine al-Othmani. Hosted the ground-breaking ceremony for a new Embassy.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3223</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-03-30</start-date>
+        <end-date>2012-03-31</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with King Abdullah and Foreign Minister Prince Saud. Attended the First Ministerial Meeting of the Gulf Cooperation Council-U.S. Strategic Cooperation Forum.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3224</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-03-31</start-date>
+        <end-date>2012-04-01</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul</locale>
+        <remarks>Attended the second meeting of the “Friends of the Syrian People.” Met with Prime Minister Tayyip Erdogan, Foreign Minister Ahmed Davutoglu, Arab League Secretary-General Nabil al-Araby, and the Syrian National Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3225</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-04-13</start-date>
+        <end-date>2012-04-16</end-date>
+        <country id="colombia">Colombia</country>
+        <locale>Cartagena</locale>
+        <remarks>Attended the 6th Summit of the Americas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3226</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-04-16</start-date>
+        <end-date>2012-04-18</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia</locale>
+        <remarks>Attended the 3rd U.S.-Brazil Global Partnership Dialogue. Addressed the First Annual meeting of the Open Government Partnership.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3227</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-04-18</start-date>
+        <end-date>2012-04-19</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended a joint meeting of NATO Foreign and Defense Ministers, and a meeting of the NATO-Russia Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3228</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-04-19</start-date>
+        <end-date>2012-04-19</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended an ad hoc ministerial meeting on Syria.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3229</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-05-02</start-date>
+        <end-date>2012-05-05</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>Attended the 4th joint meeting of the U.S.-China Economic and Strategic Dialogue and the 3rd U.S.-China High Level Consultation on People-to-People Exchange.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3230</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-05-05</start-date>
+        <end-date>2012-05-06</end-date>
+        <country id="bangladesh">Bangladesh</country>
+        <locale>Dhaka</locale>
+        <remarks>Met with Prime Minister Sheikh Hasina Wajed, Foreign Minister Dipu Moni, and civil society representatives. Signed Agreement to Establish Partnership.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3231</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-05-06</start-date>
+        <end-date>2012-05-08</end-date>
+        <country id="india">India</country>
+        <locale>Kolkata, New Delhi</locale>
+        <remarks>Attended an Anti-Trafficking Champions event. Met with Prime Minister Manmohan Singh and Foreign Minister Somanahalli Krishna.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3232</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-05-31</start-date>
+        <end-date>2012-06-01</end-date>
+        <country id="denmark">Denmark</country>
+        <locale>Copenhagen</locale>
+        <remarks>Met with Queen Margrethe II, Prime Minister Helle Thorning-Schmidt, and Foreign Minister Villy Sovndal. Attended a green partnership for growth event.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3233</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-05-31</start-date>
+        <end-date>2012-06-03</end-date>
+        <country id="norway">Norway</country>
+        <locale>Oslo, Tromso</locale>
+        <remarks>Met with King Harald V, Prime Minister Jens Stoltenberg, and Foreign Minister Jonas Stoere. Addressed a global health conference. Took part in a meeting on the High North at Tromso.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:37:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3234</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-03</start-date>
+        <end-date>2012-06-04</end-date>
+        <country id="sweden">Sweden</country>
+        <locale>Stockholm</locale>
+        <remarks>Met with Prime Minister Fredrik Reinfeldt and Foreign Minister Carl Bildt. Addressed a meeting of the Climate and Clean Air Coalition.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3235</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-04</start-date>
+        <end-date>2012-06-05</end-date>
+        <country id="armenia">Armenia</country>
+        <locale>Yerevan</locale>
+        <remarks>Met with President Serz Sargsian and Foreign Minister Eduard Nalbandian. Addressed the Universal Rights Award Ceremony.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3236</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-05</start-date>
+        <end-date>2012-06-06</end-date>
+        <country id="georgia">Georgia</country>
+        <locale>Batumi</locale>
+        <remarks>Met with President Mikheil Saakashvili and Prime Minister Nika Gilauri. Opened the omnibus session of the U.S.-Georgia Strategic Partnership Commission.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3237</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-06</start-date>
+        <end-date>2012-06-07</end-date>
+        <country id="azerbaijan">Azerbaijan</country>
+        <locale>Baku</locale>
+        <remarks>Met with President Ilham Alyiev and Foreign Minister Elmar Mammadyarov. Attended the Caspian Oil and Gas Show.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3238</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-07</start-date>
+        <end-date>2012-06-07</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul</locale>
+        <remarks>Met with Foreign Minister Ahmet Davutoglu, Deputy Prime Minister Ali Babacan, and Swiss Foreign Minister Didier Burkhalter. Co-chaired the Global Counterterrorism Forum.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3239</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-18</start-date>
+        <end-date>2012-06-19</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Los Cabos</locale>
+        <remarks>Attended the G-20 Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3240</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-20</start-date>
+        <end-date>2012-06-22</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Rio de Janeiro</locale>
+        <remarks>Attended the UN Conference on Sustainable Development.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3241</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-27</start-date>
+        <end-date>2012-06-28</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Met with President Sauli Niinisto, Prime Minister Jyrki Katainen, and Foreign Minister Erkki Tuomioja. Signed General Security of Information Agreement. Attended Climate Clean Air Coalition Event.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3242</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-28</start-date>
+        <end-date>2012-06-28</end-date>
+        <country id="latvia">Latvia</country>
+        <locale>Riga</locale>
+        <remarks>Met with President Andris Berzins, Prime Minister Valdis Dombrovskis, and Foreign Minister Edgar Rinkevics. Signed Academic Exchange Program Agreement and an agreement supporting justice sector reform in Moldova. Dedicated Sumner Welles Street.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3243</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-28</start-date>
+        <end-date>2012-06-29</end-date>
+        <country id="russia">Russia</country>
+        <locale>St. Petersburg</locale>
+        <remarks>Attended the APEC Women and the Economy Forum. Met with Foreign Minister Sergei Lavrov.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3244</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-06-29</start-date>
+        <end-date>2012-06-30</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Attended a P3 meeting and the opening session of the Action Group on Syria.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3245</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-07-06</start-date>
+        <end-date>2012-07-07</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Francois Hollande, Foreign Minister Laurent Fabius, Syrian opposition leaders, and Palestinian Authority President Mahmoud Abbas. Attended a Friends of the Syrian People Ministerial Meeting.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3246</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-07-07</start-date>
+        <end-date>2012-07-07</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Kabul</locale>
+        <remarks>Met with President Hamid Karzai. Announced the designation of Afghanistan as a Major Non-NATO Ally.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3247</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-07-07</start-date>
+        <end-date>2012-07-09</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Prime Minister Yoshihiko Noda and Foreign Minister Koichiro Gemba. Attended the Conference on Afghanistan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3248</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-07-09</start-date>
+        <end-date>2012-07-09</end-date>
+        <country id="mongolia">Mongolia</country>
+        <locale>Ulaanbaatar</locale>
+        <remarks>Met with President Tsakhiagiin Elbegdorj and Prime Minister Sukhbaatar Batbold. Addressed the International Women’s Leadership Forum, the Leaders Engaged in New Democracies Network, and the Community of Democracies Governing Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3249</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-07-10</start-date>
+        <end-date>2012-07-11</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi</locale>
+        <remarks>Met with Prime Minister Nguyen Tan Dung and Foreign Minister Pham Binh Minh. Attended an American Chamber of Commerce Reception.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3250</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-07-11</start-date>
+        <end-date>2012-07-11</end-date>
+        <country id="laos">Laos</country>
+        <locale>Vientiane</locale>
+        <remarks>Met with Prime Minister Thongsing Thammavong and Foreign Minister Thongloun Sisoulith.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3251</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-07-11</start-date>
+        <end-date>2012-07-13</end-date>
+        <country id="cambodia">Cambodia</country>
+        <locale>Phnom Penh, Siem Reap</locale>
+        <remarks>Met with Prime Minister Hun Sen. Attended the U.S.-ASEAN and East Asia Summit Ministerial Meetings and the East Asia Regional Forum Retreat. Attended a Friends of the Lower Mekong Ministerial Meeting. In Siem Reap, met with the Prime Minister of Thailand and the President of Burma, addressed the Gender Equality and Women’s Empowerment Policy Dialogue, and attended a U.S.-ASEAN Business Forum.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3252</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-07-14</start-date>
+        <end-date>2012-07-16</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo, Alexandria</locale>
+        <remarks>Met with President Mohammed Morsi, Foreign Minister Mohamed Kamel Amr, Field Marshal Mohamed Tantawi, and Christian leaders. Dedicated the Consulate General at Alexandria.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3253</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-07-16</start-date>
+        <end-date>2012-07-16</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with President Shimon Peres, Prime Minister Benjamin Netanyahu, Foreign Minister Avigdor Liberman, Defense Minister Ehud Barak, Palestinian Authority President Salam Fayyad, and Quartet Representative Tony Blair.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3254</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-01</start-date>
+        <end-date>2012-08-02</end-date>
+        <country id="senegal">Senegal</country>
+        <locale>Dakar</locale>
+        <remarks>Met with President Macky Sali.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3255</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-02</start-date>
+        <end-date>2012-08-04</end-date>
+        <country id="uganda">Uganda</country>
+        <locale>Kampala</locale>
+        <remarks>Met with President Yoweri Musaven. Addressed Human Rights Defenders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3256</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-03</start-date>
+        <end-date>2012-08-03</end-date>
+        <country id="south-sudan">South Sudan</country>
+        <locale>Juba</locale>
+        <remarks>Met with President Salva Kiir and Foreign Minister Nhial Deng Nhial. Afterwards returned to Kampala.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3257</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-04</start-date>
+        <end-date>2012-08-05</end-date>
+        <country id="kenya">Kenya</country>
+        <locale>Nairobi</locale>
+        <remarks>Met with President Mwai Kibaki, Chief Justice Willy Mutunga, Prime Minister Raila Odinga, Somali Roadmap Signatories and the Independent Electoral and Boundaries Commission and Civil Society.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3258</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-05</start-date>
+        <end-date>2012-08-06</end-date>
+        <country id="malawi">Malawi</country>
+        <locale>Lilongwe</locale>
+        <remarks>Met with President Joyce Banda. Visited Camp GLOW and the Lumbadze Group.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3259</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-06</start-date>
+        <end-date>2012-08-09</end-date>
+        <country id="south-africa">South Africa</country>
+        <locale>Qunu, Johannesburg, Cape Town</locale>
+        <remarks>Met with former President Nelson Mandela at Qunu. Attended U.S.-South Africa Business Partnership Summit and U.S.-South Africa Strategic Dialogue Plenary Session in Johannesburg. Met with Foreign Minister Maite Nekoana-Mashabane and AU Chair-Designate Nkosazana Dlamini-Zuma. Participated in a PEPFAR Transition signing and met with former President F.W. de Klerk in Cape Town.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3260</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-09</start-date>
+        <end-date>2012-08-09</end-date>
+        <country id="nigeria">Nigeria</country>
+        <locale>Abuja</locale>
+        <remarks>Met with President Goodluck Jonathan, the Nigerian National Security Council, and Anti-Corruption Leaders.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3261</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-09</start-date>
+        <end-date>2012-08-10</end-date>
+        <country id="ghana">Ghana</country>
+        <locale>Accra</locale>
+        <remarks>Met with President John Dramani Mahama. Attended funeral service for the late President John Atta Mills.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3262</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-10</start-date>
+        <end-date>2012-08-11</end-date>
+        <country id="benin">Benin</country>
+        <locale>Cotonou</locale>
+        <remarks>Met with President Boni Yayi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3263</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-11</start-date>
+        <end-date>2012-08-12</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Istanbul</locale>
+        <remarks>Met with President Abdullah Gul, Prime Minister Recep Erdogan, Foreign Minister Ahmet Davutoglu, and Syrian activists and refugees.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3264</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-08-31</start-date>
+        <end-date>2012-09-02</end-date>
+        <country id="cook-islands">Cook Islands</country>
+        <locale>Raratonga</locale>
+        <remarks>Attended the Pacific Island Forum.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3265</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-09-03</start-date>
+        <end-date>2012-09-04</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Jakarta</locale>
+        <remarks>Met with Foreign Minister Marty Natalegawa, President Susilo Yudhoyono and ASEAN Secretary-General Surin Pitsuwan. Discussed U.S.-Indonesian Comprehensive Partnership.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3266</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-09-04</start-date>
+        <end-date>2012-09-06</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>Met with Foreign Minister Yang Jiechi, President Hu Jintao, Premier Wen Jiabao, and State Councilor Dai Bingguo.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3267</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-09-06</start-date>
+        <end-date>2012-09-06</end-date>
+        <country id="timor-leste">Timor Leste</country>
+        <locale>Dili</locale>
+        <remarks>Met with President Taur Ruak and Prime Minister Xanana Gusmao.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3268</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-09-06</start-date>
+        <end-date>2012-09-07</end-date>
+        <country id="brunei">Brunei</country>
+        <locale>Bandar Seri Begawan</locale>
+        <remarks>Met with Sultan Hassanal Bolkiah and Foreign Minister Prince Mohamed. Inaugurated Brunei-U.S. English Language Enrichment Project.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3269</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-09-07</start-date>
+        <end-date>2012-09-09</end-date>
+        <country id="russia">Russia</country>
+        <locale>Vladivostok</locale>
+        <remarks>Attended APEC Economic Leaders Meeting. Signed a Memorandum of Understanding on U.S.-Russian Cooperation in the Antarctic and a Joint Statement on Strengthening U.S.-Russian Inter-Regional Cooperation.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3270</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-10-15</start-date>
+        <end-date>2012-10-16</end-date>
+        <country id="peru">Peru</country>
+        <locale>Lima</locale>
+        <remarks>Met with President Ollanta Humala. Addressed Conference on Power: Women as Drivers of Growth and Social Inclusion.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3271</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-10-22</start-date>
+        <end-date>2012-10-22</end-date>
+        <country id="haiti">Haiti</country>
+        <locale>Cap Haitien</locale>
+        <remarks>Attended the opening of the Caracol Industrial Park. Met with President Michel Martelly and Prime Minister Laurent Lamothe.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3272</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-10-29</start-date>
+        <end-date>2012-10-30</end-date>
+        <country id="algeria">Algeria</country>
+        <locale>Algiers</locale>
+        <remarks>Met with President Abdelaziz Bouteflika.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3273</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-10-30</start-date>
+        <end-date>2012-10-30</end-date>
+        <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
+        <locale>Sarajevo</locale>
+        <remarks>Met with EU High Representative Catherine Ashton and the members of the Bosnian Presidency.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3274</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-10-30</start-date>
+        <end-date>2012-10-31</end-date>
+        <country id="serbia">Serbia</country>
+        <locale>Belgrade</locale>
+        <remarks>Met with EU High Representative Ashton and Prime Minister Ivaca Dacic.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3275</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-10-31</start-date>
+        <end-date>2012-10-31</end-date>
+        <country id="kosovo">Kosovo</country>
+        <locale>Pristina</locale>
+        <remarks>Met with EU High Representative Ashton and President Atifete Jahjaga and Prime Minister Hashim Thaci.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3276</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-10-31</start-date>
+        <end-date>2012-11-01</end-date>
+        <country id="croatia">Croatia</country>
+        <locale>Zagreb</locale>
+        <remarks>Met with President Ivo Josipovic, Prime Minister Zoran Milanovic, and Foreign Minister Vesna Pusic.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3277</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-11-01</start-date>
+        <end-date>2012-11-01</end-date>
+        <country id="albania">Albania</country>
+        <locale>Tirana</locale>
+        <remarks>Met with President Bujar Nishani, Prime Minister Sali Berisha, and Socialist Party leader Edi Rama. Addressed the Parliament and received the Order of the National Flag.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3278</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-11-13</start-date>
+        <end-date>2012-11-15</end-date>
+        <country id="australia">Australia</country>
+        <locale>Perth, Adelaide</locale>
+        <remarks>Met with Prime Minister Julia Gillard, Foreign Minister Robert Carr, and Defense Minister Stephen Smith. Opened the Perth USAsia Center. Attended the Australia-United States Ministerial Consultations.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3279</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-11-16</start-date>
+        <end-date>2012-11-18</end-date>
+        <country id="singapore">Singapore</country>
+        <locale>Singapore</locale>
+        <remarks>Met with former Prime Minister Lee Kuan Yew, Prime Minister Lee Hsien Loong, and Foreign Minister Kasiviswanathan Shanmugam.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3280</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-11-18</start-date>
+        <end-date>2012-11-19</end-date>
+        <country id="thailand">Thailand</country>
+        <locale>Bangkok</locale>
+        <remarks>Met with President Yingluck Chinnawat. Joined President Obama.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3281</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-11-19</start-date>
+        <end-date>2012-11-19</end-date>
+        <country id="burma">Burma (Myanmar)</country>
+        <locale>Rangoon</locale>
+        <remarks>Accompanied President Obama. Met with President Thein Sein and opposition leader Aung San Suu Kyi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3282</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-11-19</start-date>
+        <end-date>2012-11-20</end-date>
+        <country id="cambodia">Cambodia</country>
+        <locale>Phnom Penh</locale>
+        <remarks>Attended U.S.-ASEAN Leaders’ Meeting and the East Asia Summit.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3283</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-11-20</start-date>
+        <end-date>2012-11-21</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Discussed the Gaza Crisis with Prime Minister Benjamin Netanyahu and UN Secretary-General Ban Ki-Moon.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3284</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-11-21</start-date>
+        <end-date>2012-11-21</end-date>
+        <country id="palestinian-authority">Palestinian Authority</country>
+        <locale>Ramallah</locale>
+        <remarks>Discussed the Gaza Crisis with President Mahmoud Abbas.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3285</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-11-21</start-date>
+        <end-date>2012-11-21</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Discussed the Gaza Crisis with President Mohammed Morsi and Foreign Minister Mohamed Kamal Amr.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3286</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-12-03</start-date>
+        <end-date>2012-12-04</end-date>
+        <country id="czech-republic">Czech Republic</country>
+        <locale>Prague</locale>
+        <remarks>Met with Prime Minister Petr Necas and Foreign Minister Karel Schwarzenberg.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3287</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-12-04</start-date>
+        <end-date>2012-12-05</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended the 28th session of the North Atlantic Council and meetings of the NATO-Georgia Council, with Non-NATO ISAF Contributing Countries, and the U.S.-EU Energy Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3288</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-12-06</start-date>
+        <end-date>2012-12-07</end-date>
+        <country id="ireland">Ireland</country>
+        <locale>Dublin</locale>
+        <remarks>Attended the OSCE Ministerial Council meeting, and met with President Michael Higgins and Prime Minister Enda Kenny.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+    <trip who="clinton-hillary-rodham" role="secretary">
+        <id>3289</id>
+        <role>secretary</role>
+        <name>Hillary Rodham Clinton</name>
+        <start-date>2012-12-07</start-date>
+        <end-date>2012-12-07</end-date>
+        <country id="united-kingdom">United Kingdom (Northern Ireland)</country>
+        <locale>Belfast</locale>
+        <remarks>Met with First Minister Peter Robinson and Deputy First Minister Martin McGuinness.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-01-30T19:24:22.822-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
+    </trip>
+</trips>
