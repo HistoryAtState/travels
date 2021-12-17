@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="seward-william-henry" role="secretary">
+        <id>1915</id>
+        <role>secretary</role>
+        <name>William Henry Seward</name>
+        <start-date>1866-01-09</start-date>
+        <end-date>1866-01-12</end-date>
+        <country id="denmark">Denmark</country>
+        <locale>St. Thomas, St. Croix, Frederikstadt, Christianstadt (Virgin Islands)</locale>
+        <remarks>Met with Danish colonial officials during a working vacation. Also met with former Mexican President Santa Anna. Departed from Washington January 1.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="seward-william-henry" role="secretary">
+        <id>1916</id>
+        <role>secretary</role>
+        <name>William Henry Seward</name>
+        <start-date>1866-01-14</start-date>
+        <end-date>1866-01-14</end-date>
+        <country id="dominican-republic">Dominican Republic</country>
+        <locale>Santo Domingo</locale>
+        <remarks>Met with President Baez and his Cabinet.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="seward-william-henry" role="secretary">
+        <id>1917</id>
+        <role>secretary</role>
+        <name>William Henry Seward</name>
+        <start-date>1866-01-16</start-date>
+        <end-date>1866-01-17</end-date>
+        <country id="haiti">Haiti</country>
+        <locale>Port-au-Prince</locale>
+        <remarks>Met with President Geffrand and his Cabinet.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="seward-william-henry" role="secretary">
+        <id>1918</id>
+        <role>secretary</role>
+        <name>William Henry Seward</name>
+        <start-date>1866-01-20</start-date>
+        <end-date>1866-01-23</end-date>
+        <country id="spain">Spain</country>
+        <locale>Havana (Cuba)</locale>
+        <remarks>Met with Spanish colonial officials. Returned to U.S. January 28.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>
