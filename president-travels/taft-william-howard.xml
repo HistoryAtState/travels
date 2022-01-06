@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="taft-william-howard" role="president">
-        <id>2656</id>
+        <id>2655</id>
         <role>president</role>
         <name>William Howard Taft</name>
         <start-date>1909-01-29</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="taft-william-howard" role="president">
-        <id>2657</id>
+        <id>2656</id>
         <role>president</role>
         <name>William Howard Taft</name>
         <start-date>1909-10-16</start-date>

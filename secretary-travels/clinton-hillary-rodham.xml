@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2986</id>
+        <id>2985</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-02-16</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2987</id>
+        <id>2986</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-02-18</start-date>
@@ -29,7 +29,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2988</id>
+        <id>2987</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-02-19</start-date>
@@ -43,7 +43,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2989</id>
+        <id>2988</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-02-20</start-date>
@@ -57,7 +57,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2990</id>
+        <id>2989</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-03-02</start-date>
@@ -71,7 +71,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2991</id>
+        <id>2990</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-03-03</start-date>
@@ -85,7 +85,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2992</id>
+        <id>2991</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-03-04</start-date>
@@ -99,7 +99,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2993</id>
+        <id>2992</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-03-05</start-date>
@@ -113,7 +113,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2994</id>
+        <id>2993</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-03-06</start-date>
@@ -127,7 +127,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2995</id>
+        <id>2994</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-03-07</start-date>
@@ -141,7 +141,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2996</id>
+        <id>2995</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-03-25</start-date>
@@ -155,7 +155,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2997</id>
+        <id>2996</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-03-31</start-date>
@@ -169,7 +169,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2998</id>
+        <id>2997</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-01</start-date>
@@ -183,7 +183,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>2999</id>
+        <id>2998</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-03</start-date>
@@ -197,7 +197,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3000</id>
+        <id>2999</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-03</start-date>
@@ -211,7 +211,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3001</id>
+        <id>3000</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-04</start-date>
@@ -225,7 +225,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3002</id>
+        <id>3001</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-16</start-date>
@@ -239,7 +239,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3003</id>
+        <id>3002</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-16</start-date>
@@ -253,7 +253,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3004</id>
+        <id>3003</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-17</start-date>
@@ -267,7 +267,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3005</id>
+        <id>3004</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-24</start-date>
@@ -281,7 +281,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3006</id>
+        <id>3005</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-25</start-date>
@@ -295,7 +295,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3007</id>
+        <id>3006</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-04-26</start-date>
@@ -309,7 +309,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3008</id>
+        <id>3007</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-05-31</start-date>
@@ -323,7 +323,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3009</id>
+        <id>3008</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-06-02</start-date>
@@ -337,7 +337,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3010</id>
+        <id>3009</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-06-13</start-date>
@@ -351,7 +351,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3011</id>
+        <id>3010</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-07-17</start-date>
@@ -365,7 +365,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3012</id>
+        <id>3011</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-07-21</start-date>
@@ -379,7 +379,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3013</id>
+        <id>3012</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-08-04</start-date>
@@ -393,7 +393,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3014</id>
+        <id>3013</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-08-07</start-date>
@@ -407,7 +407,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3015</id>
+        <id>3014</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-08-09</start-date>
@@ -421,7 +421,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3016</id>
+        <id>3015</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-08-10</start-date>
@@ -435,7 +435,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3017</id>
+        <id>3016</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-08-11</start-date>
@@ -449,7 +449,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3018</id>
+        <id>3017</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-08-13</start-date>
@@ -463,7 +463,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3019</id>
+        <id>3018</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-08-14</start-date>
@@ -477,7 +477,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3020</id>
+        <id>3019</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-10-09</start-date>
@@ -491,7 +491,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3021</id>
+        <id>3020</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-10-10</start-date>
@@ -505,7 +505,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3022</id>
+        <id>3021</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-10-11</start-date>
@@ -519,7 +519,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3023</id>
+        <id>3022</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-10-11</start-date>
@@ -533,7 +533,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3024</id>
+        <id>3023</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-10-12</start-date>
@@ -547,7 +547,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3025</id>
+        <id>3024</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-10-28</start-date>
@@ -561,7 +561,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3026</id>
+        <id>3025</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-10-30</start-date>
@@ -575,7 +575,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3027</id>
+        <id>3026</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-10-30</start-date>
@@ -589,7 +589,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3028</id>
+        <id>3027</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-11-02</start-date>
@@ -603,7 +603,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3029</id>
+        <id>3028</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-11-03</start-date>
@@ -617,7 +617,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3030</id>
+        <id>3029</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-11-08</start-date>
@@ -631,7 +631,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3031</id>
+        <id>3030</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-11-10</start-date>
@@ -645,7 +645,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3032</id>
+        <id>3031</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-11-12</start-date>
@@ -659,7 +659,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3033</id>
+        <id>3032</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-11-13</start-date>
@@ -673,7 +673,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3034</id>
+        <id>3033</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-11-16</start-date>
@@ -687,7 +687,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3035</id>
+        <id>3034</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-11-18</start-date>
@@ -701,7 +701,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3036</id>
+        <id>3035</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-12-04</start-date>
@@ -715,7 +715,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3037</id>
+        <id>3036</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2009-12-18</start-date>
@@ -729,7 +729,7 @@
         <last-modified-datetime>2010-10-20T18:03:04.023-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3982</id>
+        <id>3902</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-01-16</start-date>
@@ -743,7 +743,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3983</id>
+        <id>3903</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-01-25</start-date>
@@ -757,7 +757,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3984</id>
+        <id>3904</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-01-26</start-date>
@@ -771,7 +771,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3985</id>
+        <id>3905</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-01-29</start-date>
@@ -785,7 +785,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3986</id>
+        <id>3906</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-02-14</start-date>
@@ -799,7 +799,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3987</id>
+        <id>3907</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-02-15</start-date>
@@ -813,7 +813,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3988</id>
+        <id>3908</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-03-01</start-date>
@@ -827,7 +827,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3989</id>
+        <id>3909</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-03-01</start-date>
@@ -841,7 +841,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3990</id>
+        <id>3910</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-03-02</start-date>
@@ -855,7 +855,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3991</id>
+        <id>3911</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-03-02</start-date>
@@ -869,7 +869,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3057</id>
+        <id>3056</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-03-04</start-date>
@@ -883,7 +883,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3058</id>
+        <id>3057</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-03-05</start-date>
@@ -897,7 +897,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3059</id>
+        <id>3058</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-03-18</start-date>
@@ -911,7 +911,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3060</id>
+        <id>3059</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-03-23</start-date>
@@ -925,7 +925,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3061</id>
+        <id>3060</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-03-29</start-date>
@@ -939,7 +939,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3062</id>
+        <id>3061</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-04-08</start-date>
@@ -953,7 +953,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3063</id>
+        <id>3062</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-04-22</start-date>
@@ -967,7 +967,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3064</id>
+        <id>3063</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-05-21</start-date>
@@ -981,7 +981,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3065</id>
+        <id>3064</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-05-21</start-date>
@@ -995,7 +995,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3066</id>
+        <id>3065</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-05-26</start-date>
@@ -1009,7 +1009,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3067</id>
+        <id>3066</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-06-06</start-date>
@@ -1023,7 +1023,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3068</id>
+        <id>3067</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-06-08</start-date>
@@ -1037,7 +1037,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3069</id>
+        <id>3068</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-06-08</start-date>
@@ -1051,7 +1051,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3070</id>
+        <id>3069</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-06-09</start-date>
@@ -1065,7 +1065,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3071</id>
+        <id>3070</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-07-01</start-date>
@@ -1079,7 +1079,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3072</id>
+        <id>3071</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-07-02</start-date>
@@ -1093,7 +1093,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3073</id>
+        <id>3072</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-07-04</start-date>
@@ -1107,7 +1107,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3074</id>
+        <id>3073</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-07-04</start-date>
@@ -1121,7 +1121,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3075</id>
+        <id>3074</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-07-05</start-date>
@@ -1135,7 +1135,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3076</id>
+        <id>3075</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-07-18</start-date>
@@ -1149,7 +1149,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3077</id>
+        <id>3076</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-07-19</start-date>
@@ -1163,7 +1163,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3078</id>
+        <id>3077</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-07-20</start-date>
@@ -1177,7 +1177,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3079</id>
+        <id>3078</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-07-21</start-date>
@@ -1191,7 +1191,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3080</id>
+        <id>3079</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-09-14</start-date>
@@ -1205,7 +1205,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3081</id>
+        <id>3080</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-09-15</start-date>
@@ -1219,7 +1219,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3082</id>
+        <id>3081</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-09-16</start-date>
@@ -1233,7 +1233,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3083</id>
+        <id>3082</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-09-16</start-date>
@@ -1247,7 +1247,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3084</id>
+        <id>3083</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-10-12</start-date>
@@ -1261,7 +1261,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3085</id>
+        <id>3084</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-10-12</start-date>
@@ -1275,7 +1275,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3086</id>
+        <id>3085</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-10-13</start-date>
@@ -1289,7 +1289,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3087</id>
+        <id>3086</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-10-13</start-date>
@@ -1303,7 +1303,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3088</id>
+        <id>3087</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-10-29</start-date>
@@ -1317,7 +1317,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3089</id>
+        <id>3088</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-10-30</start-date>
@@ -1331,7 +1331,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3090</id>
+        <id>3089</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-10-30</start-date>
@@ -1345,7 +1345,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3091</id>
+        <id>3090</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-11-01</start-date>
@@ -1359,7 +1359,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3092</id>
+        <id>3091</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-11-03</start-date>
@@ -1373,7 +1373,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3093</id>
+        <id>3092</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-11-03</start-date>
@@ -1387,7 +1387,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3094</id>
+        <id>3093</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-11-05</start-date>
@@ -1401,7 +1401,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3095</id>
+        <id>3094</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-11-18</start-date>
@@ -1415,7 +1415,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3096</id>
+        <id>3095</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-11-30</start-date>
@@ -1429,7 +1429,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3097</id>
+        <id>3096</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-12-02</start-date>
@@ -1443,7 +1443,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3098</id>
+        <id>3097</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-12-02</start-date>
@@ -1457,7 +1457,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3099</id>
+        <id>3098</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-12-03</start-date>
@@ -1471,7 +1471,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3100</id>
+        <id>3099</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2010-12-13</start-date>
@@ -1485,7 +1485,7 @@
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3992</id>
+        <id>3912</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-01-01</start-date>
@@ -1499,7 +1499,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3151</id>
+        <id>3150</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-01-09</start-date>
@@ -1513,7 +1513,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3152</id>
+        <id>3151</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-01-11</start-date>
@@ -1527,7 +1527,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3153</id>
+        <id>3152</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-01-12</start-date>
@@ -1541,7 +1541,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3154</id>
+        <id>3153</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-01-12</start-date>
@@ -1555,7 +1555,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3155</id>
+        <id>3154</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-01-24</start-date>
@@ -1569,7 +1569,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3156</id>
+        <id>3155</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-01-30</start-date>
@@ -1583,7 +1583,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3157</id>
+        <id>3156</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-02-05</start-date>
@@ -1597,7 +1597,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3158</id>
+        <id>3157</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-02-28</start-date>
@@ -1611,7 +1611,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3159</id>
+        <id>3158</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-03-14</start-date>
@@ -1625,7 +1625,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3160</id>
+        <id>3159</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-03-15</start-date>
@@ -1639,7 +1639,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3161</id>
+        <id>3160</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-03-17</start-date>
@@ -1653,7 +1653,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3162</id>
+        <id>3161</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-03-19</start-date>
@@ -1667,7 +1667,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3163</id>
+        <id>3162</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-03-29</start-date>
@@ -1681,7 +1681,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3164</id>
+        <id>3163</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-04-14</start-date>
@@ -1695,7 +1695,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3165</id>
+        <id>3164</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-04-16</start-date>
@@ -1709,7 +1709,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3166</id>
+        <id>3165</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-04-17</start-date>
@@ -1723,7 +1723,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3167</id>
+        <id>3166</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-05-05</start-date>
@@ -1737,7 +1737,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3168</id>
+        <id>3167</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-05-11</start-date>
@@ -1751,7 +1751,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3169</id>
+        <id>3168</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-05-23</start-date>
@@ -1765,7 +1765,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3170</id>
+        <id>3169</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-05-25</start-date>
@@ -1779,7 +1779,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3171</id>
+        <id>3170</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-05-27</start-date>
@@ -1793,7 +1793,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3172</id>
+        <id>3171</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-06-09</start-date>
@@ -1807,7 +1807,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3173</id>
+        <id>3172</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-06-10</start-date>
@@ -1821,7 +1821,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3174</id>
+        <id>3173</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-06-11</start-date>
@@ -1835,7 +1835,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3175</id>
+        <id>3174</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-06-13</start-date>
@@ -1849,7 +1849,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3176</id>
+        <id>3175</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-06-22</start-date>
@@ -1863,7 +1863,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3177</id>
+        <id>3176</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-06-22</start-date>
@@ -1877,7 +1877,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3178</id>
+        <id>3177</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-06-29</start-date>
@@ -1891,7 +1891,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3179</id>
+        <id>3178</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-06-30</start-date>
@@ -1905,7 +1905,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3180</id>
+        <id>3179</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-07-01</start-date>
@@ -1919,7 +1919,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3181</id>
+        <id>3180</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-07-15</start-date>
@@ -1933,7 +1933,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3182</id>
+        <id>3181</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-07-17</start-date>
@@ -1947,7 +1947,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3183</id>
+        <id>3182</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-07-21</start-date>
@@ -1961,7 +1961,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3184</id>
+        <id>3183</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-07-25</start-date>
@@ -1975,7 +1975,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3185</id>
+        <id>3184</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-09-01</start-date>
@@ -1989,7 +1989,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3186</id>
+        <id>3185</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-10-18</start-date>
@@ -2003,7 +2003,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3187</id>
+        <id>3186</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-10-18</start-date>
@@ -2017,7 +2017,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3188</id>
+        <id>3187</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-10-19</start-date>
@@ -2031,7 +2031,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3189</id>
+        <id>3188</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-10-20</start-date>
@@ -2045,7 +2045,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3190</id>
+        <id>3189</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-10-20</start-date>
@@ -2059,7 +2059,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3191</id>
+        <id>3190</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-10-21</start-date>
@@ -2073,7 +2073,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3192</id>
+        <id>3191</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-10-22</start-date>
@@ -2087,7 +2087,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3193</id>
+        <id>3192</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-11-15</start-date>
@@ -2101,7 +2101,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3194</id>
+        <id>3193</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-11-16</start-date>
@@ -2115,7 +2115,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3195</id>
+        <id>3194</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-11-17</start-date>
@@ -2129,7 +2129,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3196</id>
+        <id>3195</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-11-30</start-date>
@@ -2143,7 +2143,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3197</id>
+        <id>3196</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-11-30</start-date>
@@ -2157,7 +2157,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3198</id>
+        <id>3197</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-12-05</start-date>
@@ -2171,7 +2171,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3199</id>
+        <id>3198</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-12-06</start-date>
@@ -2185,7 +2185,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3200</id>
+        <id>3199</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-12-06</start-date>
@@ -2199,7 +2199,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3201</id>
+        <id>3200</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-12-07</start-date>
@@ -2213,7 +2213,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3202</id>
+        <id>3201</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-12-08</start-date>
@@ -2227,7 +2227,7 @@
         <last-modified-datetime>2012-04-11T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3488</id>
+        <id>3408</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2011-12-23</start-date>
@@ -2241,7 +2241,7 @@
         <last-modified-datetime>2015-03-23T16:59:41.331-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3211</id>
+        <id>3210</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-01-15</start-date>
@@ -2255,7 +2255,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3212</id>
+        <id>3211</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-01-16</start-date>
@@ -2269,7 +2269,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3213</id>
+        <id>3212</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-01-17</start-date>
@@ -2283,7 +2283,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3214</id>
+        <id>3213</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-01-17</start-date>
@@ -2297,7 +2297,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3215</id>
+        <id>3214</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-01-17</start-date>
@@ -2311,7 +2311,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3216</id>
+        <id>3215</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-02-04</start-date>
@@ -2325,7 +2325,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3217</id>
+        <id>3216</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-02-05</start-date>
@@ -2339,7 +2339,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3218</id>
+        <id>3217</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-02-19</start-date>
@@ -2353,7 +2353,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3219</id>
+        <id>3218</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-02-23</start-date>
@@ -2367,7 +2367,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3220</id>
+        <id>3219</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-02-24</start-date>
@@ -2381,7 +2381,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3221</id>
+        <id>3220</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-02-25</start-date>
@@ -2395,7 +2395,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3222</id>
+        <id>3221</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-02-26</start-date>
@@ -2409,7 +2409,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3223</id>
+        <id>3222</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-03-30</start-date>
@@ -2423,7 +2423,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3224</id>
+        <id>3223</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-03-31</start-date>
@@ -2437,7 +2437,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3225</id>
+        <id>3224</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-04-13</start-date>
@@ -2451,7 +2451,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3226</id>
+        <id>3225</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-04-16</start-date>
@@ -2465,7 +2465,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3227</id>
+        <id>3226</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-04-18</start-date>
@@ -2479,7 +2479,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3228</id>
+        <id>3227</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-04-19</start-date>
@@ -2493,7 +2493,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3229</id>
+        <id>3228</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-05-02</start-date>
@@ -2507,7 +2507,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3230</id>
+        <id>3229</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-05-05</start-date>
@@ -2521,7 +2521,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3231</id>
+        <id>3230</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-05-06</start-date>
@@ -2535,7 +2535,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3232</id>
+        <id>3231</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-05-31</start-date>
@@ -2549,7 +2549,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3233</id>
+        <id>3232</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-05-31</start-date>
@@ -2563,7 +2563,7 @@
         <last-modified-datetime>2013-01-30T19:37:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3234</id>
+        <id>3233</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-03</start-date>
@@ -2577,7 +2577,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3235</id>
+        <id>3234</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-04</start-date>
@@ -2591,7 +2591,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3236</id>
+        <id>3235</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-05</start-date>
@@ -2605,7 +2605,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3237</id>
+        <id>3236</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-06</start-date>
@@ -2619,7 +2619,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3238</id>
+        <id>3237</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-07</start-date>
@@ -2633,7 +2633,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3239</id>
+        <id>3238</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-18</start-date>
@@ -2647,7 +2647,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3240</id>
+        <id>3239</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-20</start-date>
@@ -2661,7 +2661,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3241</id>
+        <id>3240</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-27</start-date>
@@ -2675,7 +2675,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3242</id>
+        <id>3241</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-28</start-date>
@@ -2689,7 +2689,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3243</id>
+        <id>3242</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-28</start-date>
@@ -2703,7 +2703,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3244</id>
+        <id>3243</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-06-29</start-date>
@@ -2717,7 +2717,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3245</id>
+        <id>3244</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-07-06</start-date>
@@ -2731,7 +2731,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3246</id>
+        <id>3245</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-07-07</start-date>
@@ -2745,7 +2745,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3247</id>
+        <id>3246</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-07-07</start-date>
@@ -2759,7 +2759,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3248</id>
+        <id>3247</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-07-09</start-date>
@@ -2773,7 +2773,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3249</id>
+        <id>3248</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-07-10</start-date>
@@ -2787,7 +2787,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3250</id>
+        <id>3249</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-07-11</start-date>
@@ -2801,7 +2801,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3251</id>
+        <id>3250</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-07-11</start-date>
@@ -2815,7 +2815,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3252</id>
+        <id>3251</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-07-14</start-date>
@@ -2829,7 +2829,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3253</id>
+        <id>3252</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-07-16</start-date>
@@ -2843,7 +2843,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3254</id>
+        <id>3253</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-01</start-date>
@@ -2857,7 +2857,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3255</id>
+        <id>3254</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-02</start-date>
@@ -2871,7 +2871,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3256</id>
+        <id>3255</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-03</start-date>
@@ -2885,7 +2885,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3257</id>
+        <id>3256</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-04</start-date>
@@ -2899,7 +2899,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3258</id>
+        <id>3257</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-05</start-date>
@@ -2913,7 +2913,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3259</id>
+        <id>3258</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-06</start-date>
@@ -2927,7 +2927,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3260</id>
+        <id>3259</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-09</start-date>
@@ -2941,7 +2941,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3261</id>
+        <id>3260</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-09</start-date>
@@ -2955,7 +2955,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3262</id>
+        <id>3261</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-10</start-date>
@@ -2969,7 +2969,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3263</id>
+        <id>3262</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-11</start-date>
@@ -2983,7 +2983,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3264</id>
+        <id>3263</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-08-31</start-date>
@@ -2997,7 +2997,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3265</id>
+        <id>3264</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-09-03</start-date>
@@ -3011,7 +3011,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3266</id>
+        <id>3265</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-09-04</start-date>
@@ -3025,7 +3025,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3267</id>
+        <id>3266</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-09-06</start-date>
@@ -3039,7 +3039,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3268</id>
+        <id>3267</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-09-06</start-date>
@@ -3053,7 +3053,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3269</id>
+        <id>3268</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-09-07</start-date>
@@ -3067,7 +3067,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3270</id>
+        <id>3269</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-10-15</start-date>
@@ -3081,7 +3081,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3271</id>
+        <id>3270</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-10-22</start-date>
@@ -3095,7 +3095,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3272</id>
+        <id>3271</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-10-29</start-date>
@@ -3109,7 +3109,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3273</id>
+        <id>3272</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-10-30</start-date>
@@ -3123,7 +3123,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3274</id>
+        <id>3273</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-10-30</start-date>
@@ -3137,7 +3137,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3275</id>
+        <id>3274</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-10-31</start-date>
@@ -3151,7 +3151,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3276</id>
+        <id>3275</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-10-31</start-date>
@@ -3165,7 +3165,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3277</id>
+        <id>3276</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-11-01</start-date>
@@ -3179,7 +3179,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3278</id>
+        <id>3277</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-11-13</start-date>
@@ -3193,7 +3193,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3279</id>
+        <id>3278</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-11-16</start-date>
@@ -3207,7 +3207,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3280</id>
+        <id>3279</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-11-18</start-date>
@@ -3221,7 +3221,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3281</id>
+        <id>3280</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-11-19</start-date>
@@ -3235,7 +3235,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3282</id>
+        <id>3281</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-11-19</start-date>
@@ -3249,7 +3249,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3283</id>
+        <id>3282</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-11-20</start-date>
@@ -3263,7 +3263,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3284</id>
+        <id>3283</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-11-21</start-date>
@@ -3277,7 +3277,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3285</id>
+        <id>3284</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-11-21</start-date>
@@ -3291,7 +3291,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3286</id>
+        <id>3285</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-12-03</start-date>
@@ -3305,7 +3305,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3287</id>
+        <id>3286</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-12-04</start-date>
@@ -3319,7 +3319,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3288</id>
+        <id>3287</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-12-06</start-date>
@@ -3333,7 +3333,7 @@
         <last-modified-datetime>2013-01-30T19:24:22.822-04:00</last-modified-datetime>
     </trip>
     <trip who="clinton-hillary-rodham" role="secretary">
-        <id>3289</id>
+        <id>3288</id>
         <role>secretary</role>
         <name>Hillary Rodham Clinton</name>
         <start-date>2012-12-07</start-date>

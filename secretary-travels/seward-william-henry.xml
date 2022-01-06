@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="seward-william-henry" role="secretary">
-        <id>1915</id>
+        <id>1914</id>
         <role>secretary</role>
         <name>William Henry Seward</name>
         <start-date>1866-01-09</start-date>
@@ -15,7 +15,7 @@
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="seward-william-henry" role="secretary">
-        <id>1916</id>
+        <id>1915</id>
         <role>secretary</role>
         <name>William Henry Seward</name>
         <start-date>1866-01-14</start-date>
@@ -29,7 +29,7 @@
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="seward-william-henry" role="secretary">
-        <id>1917</id>
+        <id>1916</id>
         <role>secretary</role>
         <name>William Henry Seward</name>
         <start-date>1866-01-16</start-date>
@@ -43,7 +43,7 @@
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="seward-william-henry" role="secretary">
-        <id>1918</id>
+        <id>1917</id>
         <role>secretary</role>
         <name>William Henry Seward</name>
         <start-date>1866-01-20</start-date>
