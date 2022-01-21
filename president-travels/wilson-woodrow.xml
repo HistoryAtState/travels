@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="wilson-woodrow" role="president">
+        <id>2657</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1912-11-18</start-date>
+        <end-date>1912-12-13</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Bermuda</locale>
+        <remarks>Vacation. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="wilson-woodrow" role="president">
+        <id>2658</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1918-12-14</start-date>
+        <end-date>1918-12-25</end-date>
+        <country id="france">France</country>
+        <locale>Paris, Chaumont</locale>
+        <remarks>Attended Preliminary to the Paris Peace Conference. Departed the U.S. December 4.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="wilson-woodrow" role="president">
+        <id>2659</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1918-12-26</start-date>
+        <end-date>1918-12-31</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London, Carlisle, Manchester</locale>
+        <remarks>Met with Prime Minister Lloyd George and King George V.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="wilson-woodrow" role="president">
+        <id>2660</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1918-12-31</start-date>
+        <end-date>1919-01-01</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Stopover en route to Italy.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="wilson-woodrow" role="president">
+        <id>2661</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1919-01-01</start-date>
+        <end-date>1919-01-06</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome, Genoa, Milan, Turin</locale>
+        <remarks>Met with King Victor Emnanuel III and Prime Minister Orlando.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="wilson-woodrow" role="president">
+        <id>2662</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1919-01-04</start-date>
+        <end-date>1919-01-04</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Audience with Pope Benedict XV.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="wilson-woodrow" role="president">
+        <id>2663</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1919-01-07</start-date>
+        <end-date>1919-02-14</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended Paris Peace Conference. Arrived In the U.S. February 24.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="wilson-woodrow" role="president">
+        <id>2664</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1919-03-14</start-date>
+        <end-date>1919-06-18</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended Paris Peace Conference. Departed the U.S. March 5.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="wilson-woodrow" role="president">
+        <id>2665</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1919-06-18</start-date>
+        <end-date>1919-06-19</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels, Charleroi, Malines, Louvain</locale>
+        <remarks>Met with King Albert, addressed Parliament.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="wilson-woodrow" role="president">
+        <id>2666</id>
+        <role>president</role>
+        <name>Woodrow Wilson</name>
+        <start-date>1919-06-20</start-date>
+        <end-date>1919-06-28</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended Paris Peace Conference. Returned to U.S. July 8.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="harding-warren-g" role="president">
+        <id>2667</id>
+        <role>president</role>
+        <name>Warren G. Harding</name>
+        <start-date>1920-11-24</start-date>
+        <end-date>1920-11-24</end-date>
+        <country id="panama">Panama</country>
+        <locale>Colon, Baihos</locale>
+        <remarks>Informal visit to Canal Zone. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="harding-warren-g" role="president">
+        <id>2668</id>
+        <role>president</role>
+        <name>Warren G. Harding</name>
+        <start-date>1920-11-30</start-date>
+        <end-date>1920-11-30</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Kingston (Jamaica)</locale>
+        <remarks>Stopped while returning to the U.S. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="harding-warren-g" role="president">
+        <id>2669</id>
+        <role>president</role>
+        <name>Warren G. Harding</name>
+        <start-date>1923-07-26</start-date>
+        <end-date>1923-07-26</end-date>
+        <country id="canada">Canada</country>
+        <locale>Vancouver</locale>
+        <remarks>Official reception during return from Alaska.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

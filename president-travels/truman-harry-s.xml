@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="truman-harry-s" role="president">
+        <id>2733</id>
+        <role>president</role>
+        <name>Harry S Truman</name>
+        <start-date>1945-07-15</start-date>
+        <end-date>1945-07-15</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Antwerp, Brussels</locale>
+        <remarks>Disembarked en route to Potsdam.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="truman-harry-s" role="president">
+        <id>2734</id>
+        <role>president</role>
+        <name>Harry S Truman</name>
+        <start-date>1945-07-16</start-date>
+        <end-date>1945-08-02</end-date>
+        <country id="germany">Germany</country>
+        <locale>Potsdam</locale>
+        <remarks>Potsdam Conference with British Prime Ministers Churchill and Attlee and Soviet Premier Stalin.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="truman-harry-s" role="president">
+        <id>2735</id>
+        <role>president</role>
+        <name>Harry S Truman</name>
+        <start-date>1945-08-02</start-date>
+        <end-date>1945-08-02</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Plymouth</locale>
+        <remarks>Informal meeting with King George VI.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="truman-harry-s" role="president">
+        <id>3202</id>
+        <role>president</role>
+        <name>Harry S Truman</name>
+        <start-date>1946-08-22</start-date>
+        <end-date>1946-08-30</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Bermuda</locale>
+        <remarks>Informal visit; met with the Governor of Bermuda, Admiral Sir Ralph Leatham, K.C.B. and inspected U.S. military facilities.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-09-25T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-09-25T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="truman-harry-s" role="president">
+        <id>2736</id>
+        <role>president</role>
+        <name>Harry S Truman</name>
+        <start-date>1947-03-03</start-date>
+        <end-date>1947-03-06</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico, D.F.</locale>
+        <remarks>State visit; met with President Alerman.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="truman-harry-s" role="president">
+        <id>2737</id>
+        <role>president</role>
+        <name>Harry S Truman</name>
+        <start-date>1947-06-10</start-date>
+        <end-date>1947-06-12</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>Official visit; met with Governor General Alexander and Prime Minister Mackenzie King.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="truman-harry-s" role="president">
+        <id>2738</id>
+        <role>president</role>
+        <name>Harry S Truman</name>
+        <start-date>1947-09-01</start-date>
+        <end-date>1947-09-07</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Rio de Janeiro</locale>
+        <remarks>State visit; addressed Rio de Janiero Conference for the Maintenance of Continental Peace and Security and the Brazilian Congress.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

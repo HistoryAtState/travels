@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="roosevelt-theodore" role="president">
+        <id>2654</id>
+        <role>president</role>
+        <name>Theodore Roosevelt</name>
+        <start-date>1906-11-14</start-date>
+        <end-date>1906-11-17</end-date>
+        <country id="panama">Panama</country>
+        <locale>Colon, Panama City</locale>
+        <remarks>To inspect construction of Panama Canal. First visit abroad by any President or President-elect. Departed the U.S. November 9; returned to U.S. November 26.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

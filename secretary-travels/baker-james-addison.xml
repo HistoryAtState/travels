@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="baker-james-addison" role="secretary">
         <id>270</id>
@@ -10,9 +10,9 @@
         <locale>Ottawa</locale>
         <remarks>Accompanied President Bush on a working visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>271</id>
@@ -24,9 +24,9 @@
         <locale>Reykjavik</locale>
         <remarks>Met with Foreign Minister Hannibalsson.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>272</id>
@@ -38,9 +38,9 @@
         <locale>London</locale>
         <remarks>Met with Foreign Secretary Howe.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>273</id>
@@ -50,12 +50,11 @@
         <end-date>1989-02-14</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Discussed modernization of short-range NATO nuclear missiles with Foreign Minister
-            Genscher.</remarks>
+        <remarks>Discussed modernization of short-range NATO nuclear missiles with Foreign Minister Genscher.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>274</id>
@@ -67,9 +66,9 @@
         <locale>Copenhagen</locale>
         <remarks>Met with Foreign Minister Ellemann-Jensen.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>275</id>
@@ -81,9 +80,9 @@
         <locale>Oslo</locale>
         <remarks>Met with Prime Minister Brundtland and Foreign Minister Stoltenberg.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>276</id>
@@ -95,9 +94,9 @@
         <locale>Ankara</locale>
         <remarks>Met with Prime Minister Ozal and Foreign Minister Yilmaz.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>277</id>
@@ -109,9 +108,9 @@
         <locale>Athens</locale>
         <remarks>Met with Prime Minister Papandreou and Foreign Minister Papoulias.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>278</id>
@@ -123,9 +122,9 @@
         <locale>Rome</locale>
         <remarks>Met with Foreign Minister Andreotti.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>279</id>
@@ -137,9 +136,9 @@
         <locale>Madrid</locale>
         <remarks>Met with Foreign Minister Fernandez-Ordonez.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>280</id>
@@ -151,9 +150,9 @@
         <locale>Lisbon</locale>
         <remarks>Met with Prime Minister Cavaco Silva and Foreign Minister Pinheiro.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>281</id>
@@ -165,9 +164,9 @@
         <locale>Brussels</locale>
         <remarks>Met with Foreign Minister Tindemans and NATO officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>282</id>
@@ -179,9 +178,9 @@
         <locale>Luxembourg</locale>
         <remarks>Met with Prime Minister Santer and Foreign Minister Poos.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>283</id>
@@ -193,9 +192,9 @@
         <locale>The Hague</locale>
         <remarks>Met with Foreign Minister van den Broek.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>284</id>
@@ -207,9 +206,9 @@
         <locale>Paris</locale>
         <remarks>Met with Prime Minister Rocard and Foreign Minister Dumas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>285</id>
@@ -221,9 +220,9 @@
         <locale>Tokyo</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>286</id>
@@ -235,9 +234,9 @@
         <locale>Seoul</locale>
         <remarks>Accompanied President Bush on an official visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>287</id>
@@ -247,13 +246,11 @@
         <end-date>1989-03-07</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Attended CSCE Meetings on confidence- and security-building measures and
-            conventional armed forces in Europe. Met with Soviet Foreign Minister
-            Shevardnadze.</remarks>
+        <remarks>Attended CSCE Meetings on confidence- and security-building measures and conventional armed forces in Europe. Met with Soviet Foreign Minister Shevardnadze.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>288</id>
@@ -265,9 +262,9 @@
         <locale>Helsinki</locale>
         <remarks>Overnight stop en route to Moscow.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>289</id>
@@ -277,12 +274,11 @@
         <end-date>1989-05-11</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Met with President Gorbachev, senior Soviet officials, and human rights
-            activists.</remarks>
+        <remarks>Met with President Gorbachev, senior Soviet officials, and human rights activists.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>290</id>
@@ -294,9 +290,9 @@
         <locale>Brussels</locale>
         <remarks>Briefed NATO Foreign Ministers on his visit to Moscow.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>291</id>
@@ -306,12 +302,11 @@
         <end-date>1989-05-28</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Accompanied President Bush. Also met with South African Foreign Minister
-            Botha.</remarks>
+        <remarks>Accompanied President Bush. Also met with South African Foreign Minister Botha.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>292</id>
@@ -323,9 +318,9 @@
         <locale/>
         <remarks>Audience with Pope John Paul II.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>293</id>
@@ -337,9 +332,9 @@
         <locale>Brussels</locale>
         <remarks>Accompanied President Bush to NATO Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>294</id>
@@ -351,9 +346,9 @@
         <locale>Bonn</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>295</id>
@@ -365,9 +360,9 @@
         <locale>London</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>296</id>
@@ -377,12 +372,11 @@
         <end-date>1989-07-05</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended the Multilateral Assistance Initiative for the Philippines
-            conference.</remarks>
+        <remarks>Attended the Multilateral Assistance Initiative for the Philippines conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>297</id>
@@ -394,9 +388,9 @@
         <locale>Bandar Seri Begawan</locale>
         <remarks>Attended ASEAN Post-Ministerial Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>298</id>
@@ -408,9 +402,9 @@
         <locale>Muscat</locale>
         <remarks>Stopped while traveling to Poland to join President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>299</id>
@@ -422,9 +416,9 @@
         <locale>Warsaw, Gdansk</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>300</id>
@@ -436,9 +430,9 @@
         <locale>Budapest</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>301</id>
@@ -450,9 +444,9 @@
         <locale>Paris</locale>
         <remarks>Accompanied President Bush to the Economic Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>302</id>
@@ -464,9 +458,9 @@
         <locale>The Hague</locale>
         <remarks>Accompanied President Bush.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>303</id>
@@ -476,12 +470,11 @@
         <end-date>1989-07-31</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended the opening of the International Conference on Cambodia. Also met with
-            Soviet Foreign Minister Shevardnadze.</remarks>
+        <remarks>Attended the opening of the International Conference on Cambodia. Also met with Soviet Foreign Minister Shevardnadze.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>304</id>
@@ -493,9 +486,9 @@
         <locale>Mexico, D.F.</locale>
         <remarks>Attended the 7th meeting of the U.S.-Mexico Binati.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>305</id>
@@ -507,9 +500,9 @@
         <locale>San Jose</locale>
         <remarks>Accompanied President Bush to Hemispheric Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>306</id>
@@ -519,12 +512,11 @@
         <end-date>1989-11-08</end-date>
         <country id="australia">Australia</country>
         <locale>Sydney, Canberra</locale>
-        <remarks>Attended U.S.-Australian Bilateral Ministerial Meeting and Conference on Asia
-            Pacific Economic Cooperation.</remarks>
+        <remarks>Attended U.S.-Australian Bilateral Ministerial Meeting and Conference on Asia Pacific Economic Cooperation.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>307</id>
@@ -536,9 +528,9 @@
         <locale>Valletta, Marsaxlokk Bay</locale>
         <remarks>Accompanied President Bush to meetings with Soviet President Gorbachev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>308</id>
@@ -548,12 +540,11 @@
         <end-date>1989-12-04</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Accompanied President Bush to meetings with NATO heads of state and
-            government.</remarks>
+        <remarks>Accompanied President Bush to meetings with NATO heads of state and government.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>309</id>
@@ -565,9 +556,9 @@
         <locale>London</locale>
         <remarks>Met with Prime Minister Thatcher and Foreign Secretary Hurd.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>310</id>
@@ -579,9 +570,9 @@
         <locale>West Berlin</locale>
         <remarks>Met with West German Chancellor Kohl; delivered a public address.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>311</id>
@@ -593,9 +584,9 @@
         <locale>Potsdam</locale>
         <remarks>Met with East German Prime Minister Modrow and with religious leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>312</id>
@@ -605,12 +596,11 @@
         <end-date>1989-12-15</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Discussed aid to Eastern Europe with representatives of the Group of 24; attended a
-            NATO Foreign Ministers Meeting.</remarks>
+        <remarks>Discussed aid to Eastern Europe with representatives of the Group of 24; attended a NATO Foreign Ministers Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>313</id>
@@ -620,12 +610,11 @@
         <end-date>1989-12-16</end-date>
         <country id="netherlands-antilles">Netherlands Antilles</country>
         <locale>St. Maartin</locale>
-        <remarks>Accompanied President Bush en route to meeting with French President
-            Mitterrand.</remarks>
+        <remarks>Accompanied President Bush en route to meeting with French President Mitterrand.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>314</id>
@@ -635,12 +624,11 @@
         <end-date>1989-12-16</end-date>
         <country id="france">France</country>
         <locale>St. Martin Island (West Indies)</locale>
-        <remarks>Accompanied President Bush to an informal meeting with President
-            Mitterrand.</remarks>
+        <remarks>Accompanied President Bush to an informal meeting with President Mitterrand.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>315</id>
@@ -652,9 +640,9 @@
         <locale>Shannon</locale>
         <remarks>Met with French Foreign Minister Dumas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>316</id>
@@ -666,9 +654,9 @@
         <locale>Prague</locale>
         <remarks>Met with President Havel; delivered an address at Charles University.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>317</id>
@@ -678,12 +666,11 @@
         <end-date>1990-02-10</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Met with Soviet leaders; addressed the International Affairs Committee of the
-            Supreme Soviet.</remarks>
+        <remarks>Met with Soviet leaders; addressed the International Affairs Committee of the Supreme Soviet.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>318</id>
@@ -695,9 +682,9 @@
         <locale>Sofia</locale>
         <remarks>Met with Bulgarian officials and opposition leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>319</id>
@@ -709,9 +696,9 @@
         <locale>Bucharest</locale>
         <remarks>Met with Romanian officials and opposition leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>320</id>
@@ -721,12 +708,11 @@
         <end-date>1990-02-13</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Attended Open Skies Ministerial Conference of NATO and Warsaw Pact Foreign
-            Ministers.</remarks>
+        <remarks>Attended Open Skies Ministerial Conference of NATO and Warsaw Pact Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>321</id>
@@ -736,12 +722,11 @@
         <end-date>1990-02-15</end-date>
         <country id="colombia">Colombia</country>
         <locale>Cartagena</locale>
-        <remarks>Accompanied President Bush to Drug Summit Meeting with the Presidents of Colombia,
-            Bolivia, and Peru.</remarks>
+        <remarks>Accompanied President Bush to Drug Summit Meeting with the Presidents of Colombia, Bolivia, and Peru.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>322</id>
@@ -751,12 +736,11 @@
         <end-date>1990-03-22</end-date>
         <country id="namibia">Namibia</country>
         <locale>Windhoek</locale>
-        <remarks>Attended Namibian independence ceremonies. Met with Soviet Foreign Minister
-            Shevardnadze.</remarks>
+        <remarks>Attended Namibian independence ceremonies. Met with Soviet Foreign Minister Shevardnadze.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>323</id>
@@ -766,12 +750,11 @@
         <end-date>1990-03-23</end-date>
         <country id="south-africa">South Africa</country>
         <locale>Cape Town, Johannesburg, Soweto</locale>
-        <remarks>Met with President De Klerk, South African officials, and leaders of the African
-            National Congress (ANC).</remarks>
+        <remarks>Met with President De Klerk, South African officials, and leaders of the African National Congress (ANC).</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>324</id>
@@ -783,9 +766,9 @@
         <locale>Kinshasa</locale>
         <remarks>Met with President Mobutu and with UNITA leader Savimbi.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>325</id>
@@ -795,12 +778,11 @@
         <end-date>1990-04-14</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
-        <remarks>Accompanied President Bush to an informal meeting with Prime Minister
-            Thatcher.</remarks>
+        <remarks>Accompanied President Bush to an informal meeting with Prime Minister Thatcher.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>326</id>
@@ -812,9 +794,9 @@
         <locale>Brussels</locale>
         <remarks>Met with NATO and European Community Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>327</id>
@@ -826,9 +808,9 @@
         <locale>Bonn</locale>
         <remarks>Attended Two-Plus-Four Ministerial Meeting on German reunification.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>328</id>
@@ -840,9 +822,9 @@
         <locale>Warsaw</locale>
         <remarks>Met with Polish officials and leaders of Solidarity.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>329</id>
@@ -852,13 +834,11 @@
         <end-date>1990-05-19</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow, Zagorsk, Radonezsh</locale>
-        <remarks>Attended pre-summit and arms reduction negotiations with senior Soviet officials.
-            Also met with Egyptian President Mubarak and Lithuanian Prime Minister
-            Prunskiene.</remarks>
+        <remarks>Attended pre-summit and arms reduction negotiations with senior Soviet officials. Also met with Egyptian President Mubarak and Lithuanian Prime Minister Prunskiene.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>330</id>
@@ -870,9 +850,9 @@
         <locale>Copenhagen</locale>
         <remarks>Attended CSCE Meeting and met with Soviet Foreign Minister Shevardnadze.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>331</id>
@@ -884,9 +864,9 @@
         <locale>Turnberry (Scotland)</locale>
         <remarks>Attended NATO Foreign Ministers meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>332</id>
@@ -898,9 +878,9 @@
         <locale>Guatemala City, Antigua Guatemala</locale>
         <remarks>Met with Presidents of the Central American Republics.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>333</id>
@@ -912,9 +892,9 @@
         <locale>East Berlin</locale>
         <remarks>Attended Two-Plus-Four Foreign Ministers Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>334</id>
@@ -926,9 +906,9 @@
         <locale>Shannon</locale>
         <remarks>Met with Foreign Minister Collins.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>335</id>
@@ -940,9 +920,9 @@
         <locale>Brussels</locale>
         <remarks>Attended meeting of the Group of 24.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>336</id>
@@ -954,9 +934,9 @@
         <locale>London</locale>
         <remarks>Accompanied President Bush to NATO Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>337</id>
@@ -968,9 +948,9 @@
         <locale>Paris</locale>
         <remarks>Attended Two-Plus-Four Foreign Ministers Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>338</id>
@@ -982,9 +962,9 @@
         <locale>Jakarta</locale>
         <remarks>Attended ASEAN Post-Ministerial Conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>339</id>
@@ -996,9 +976,9 @@
         <locale>Singapore</locale>
         <remarks>Attended Second Asia-Pacific Economic Cooperation Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>340</id>
@@ -1010,9 +990,9 @@
         <locale>Irkutsk</locale>
         <remarks>Met with Foreign Minister Shevardnadze.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>341</id>
@@ -1024,9 +1004,9 @@
         <locale>Ulaanbaatar</locale>
         <remarks>Met with President Ochirbat and Foreign Minister Gombosuren.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>342</id>
@@ -1036,12 +1016,11 @@
         <end-date>1990-08-03</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Met with Foreign Minister Shevardnadze; issued a joint statement on the Iraqi
-            invasion of Kuwait.</remarks>
+        <remarks>Met with Foreign Minister Shevardnadze; issued a joint statement on the Iraqi invasion of Kuwait.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>343</id>
@@ -1053,9 +1032,9 @@
         <locale>Ankara</locale>
         <remarks>Met with President Ozal and senior Turkish officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>344</id>
@@ -1067,9 +1046,9 @@
         <locale>Brussels</locale>
         <remarks>Attended a special session of the North Atlantic Council.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>345</id>
@@ -1079,12 +1058,11 @@
         <end-date>1990-09-07</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah, Taif</locale>
-        <remarks>Met with King Fahd and with Emir al-Sabah of Kuwait; discussed financing of U.S.
-            military presence. Visited U.S. military personnel.</remarks>
+        <remarks>Met with King Fahd and with Emir al-Sabah of Kuwait; discussed financing of U.S. military presence. Visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>346</id>
@@ -1096,9 +1074,9 @@
         <locale>Abu Dhabi</locale>
         <remarks>Met with Sheikh al-Nahyan.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>347</id>
@@ -1108,12 +1086,11 @@
         <end-date>1990-09-08</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo, Alexandria</locale>
-        <remarks>Met with President Mubarak. Discussed increased Egyptian military commitment in the
-            Persian Gulf.</remarks>
+        <remarks>Met with President Mubarak. Discussed increased Egyptian military commitment in the Persian Gulf.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>348</id>
@@ -1123,12 +1100,11 @@
         <end-date>1990-09-10</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Accompanied President Bush to summit meeting with Soviet President
-            Gorbachev.</remarks>
+        <remarks>Accompanied President Bush to summit meeting with Soviet President Gorbachev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>349</id>
@@ -1138,12 +1114,11 @@
         <end-date>1990-09-10</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Briefed NATO Foreign Ministers on the U.S.-Soviet summit meeting and the Persian
-            Gulf crisis.</remarks>
+        <remarks>Briefed NATO Foreign Ministers on the U.S.-Soviet summit meeting and the Persian Gulf crisis.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>350</id>
@@ -1153,13 +1128,11 @@
         <end-date>1990-09-13</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Met with President Gorbachev and Foreign Minister Shevardnadze. Attended
-            Two-Plus-Four Foreign Ministers Meeting. Signed Treaty on the Final Settlement With
-            Respect to Germany.</remarks>
+        <remarks>Met with President Gorbachev and Foreign Minister Shevardnadze. Attended Two-Plus-Four Foreign Ministers Meeting. Signed Treaty on the Final Settlement With Respect to Germany.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>351</id>
@@ -1171,9 +1144,9 @@
         <locale>Damascus</locale>
         <remarks>Met with President Assad and Foreign Minister Sharaa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>352</id>
@@ -1185,9 +1158,9 @@
         <locale>Rome</locale>
         <remarks>Met with senior Italian officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>353</id>
@@ -1199,9 +1172,9 @@
         <locale>Bonn, Ludwigshafen</locale>
         <remarks>Met with Chancellor Kohl and Foreign Minister Genscher.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>354</id>
@@ -1213,9 +1186,9 @@
         <locale>Manama</locale>
         <remarks>Met with Amir Sheikh Isa bin Sulman al-Khalifa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>355</id>
@@ -1225,12 +1198,11 @@
         <end-date>1990-11-06</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah, Taif</locale>
-        <remarks>Met with King Fahd, Foreign Minister Prince Saud, and the Emir of Kuwait. Addressed
-            U.S. military personnel.</remarks>
+        <remarks>Met with King Fahd, Foreign Minister Prince Saud, and the Emir of Kuwait. Addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>356</id>
@@ -1242,9 +1214,9 @@
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak and Chinese Foreign Minister Qian.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>357</id>
@@ -1256,9 +1228,9 @@
         <locale>Ankara</locale>
         <remarks>Met with President Ozal.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>358</id>
@@ -1270,9 +1242,9 @@
         <locale>Moscow</locale>
         <remarks>Met with President Gorbachev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>359</id>
@@ -1284,9 +1256,9 @@
         <locale>London</locale>
         <remarks>Met with Prime Minister Thatcher.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>360</id>
@@ -1298,9 +1270,9 @@
         <locale>Paris</locale>
         <remarks>Met with President Mitterrand.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>361</id>
@@ -1312,9 +1284,9 @@
         <locale>Bermuda</locale>
         <remarks>Met with Canadian External Affairs Secretary Clark.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>362</id>
@@ -1326,9 +1298,9 @@
         <locale>Brussels</locale>
         <remarks>Attended U.S.-European Community Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>363</id>
@@ -1338,12 +1310,11 @@
         <end-date>1990-11-17</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Discussed the Persian Gulf crisis with the Foreign Ministers of Ethiopia, Cote
-            d'Ivoire, and Zaire.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with the Foreign Ministers of Ethiopia, Cote d'Ivoire, and Zaire.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>364</id>
@@ -1353,14 +1324,11 @@
         <end-date>1990-11-21</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Discussed the Persian Gulf crisis with the Foreign Ministers of Romania, Finland,
-            France, the United Kingdom, and the Soviet Union. Joined President Bush for meetings
-            with Soviet President Gorbachev, CSCE Summit meeting, and signing of the Conventional
-            Forces in Europe Treaty.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with the Foreign Ministers of Romania, Finland, France, the United Kingdom, and the Soviet Union. Joined President Bush for meetings with Soviet President Gorbachev, CSCE Summit meeting, and signing of the Conventional Forces in Europe Treaty.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>365</id>
@@ -1370,12 +1338,11 @@
         <end-date>1990-11-22</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Accompanied President Bush to meetings with King Fahd and the Amir of
-            Kuwait.</remarks>
+        <remarks>Accompanied President Bush to meetings with King Fahd and the Amir of Kuwait.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>366</id>
@@ -1387,9 +1354,9 @@
         <locale>Sana'a</locale>
         <remarks>Discussed the Persian Gulf crisis with President Salih.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>367</id>
@@ -1401,9 +1368,9 @@
         <locale>Cairo</locale>
         <remarks>Accompanied President Bush to meeting with President Mubarak.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>368</id>
@@ -1413,12 +1380,11 @@
         <end-date>1990-11-24</end-date>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
-        <remarks>Discussed the Persian Gulf crisis with President Gaviria and Foreign Minister
-            Jaramillo.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with President Gaviria and Foreign Minister Jaramillo.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>369</id>
@@ -1430,9 +1396,9 @@
         <locale>Brussels</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>370</id>
@@ -1442,13 +1408,11 @@
         <end-date>1991-01-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed the Persian Gulf crisis with Foreign Secretary Hurd, EC Chairman Poos,
-            Spanish Foreign Minister Fernandez Ordonez, and NATO Secretary General
-            Woerner.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with Foreign Secretary Hurd, EC Chairman Poos, Spanish Foreign Minister Fernandez Ordonez, and NATO Secretary General Woerner.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>371</id>
@@ -1458,12 +1422,11 @@
         <end-date>1991-01-08</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Discussed the Persian Gulf crisis with President Mitterrand and Foreign Minister
-            Dumas.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with President Mitterrand and Foreign Minister Dumas.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>372</id>
@@ -1475,9 +1438,9 @@
         <locale>Bonn</locale>
         <remarks>Discussed the Persian Gulf crisis with Chancellor Kohl.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>373</id>
@@ -1489,9 +1452,9 @@
         <locale>Milan</locale>
         <remarks>Discussed the Persian Gulf crisis with Foreign Minister DeMichelis.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>374</id>
@@ -1503,9 +1466,9 @@
         <locale>Geneva</locale>
         <remarks>Discussed the Persian Gulf crisis with Iraqi Foreign Minister Aziz.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>375</id>
@@ -1515,12 +1478,11 @@
         <end-date>1991-01-11</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Discussed the Persian Gulf crisis with King Fahd and Foreign Minister Prince
-            Saud.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with King Fahd and Foreign Minister Prince Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>376</id>
@@ -1532,9 +1494,9 @@
         <locale>Abu Dhabi</locale>
         <remarks>Discussed the Persian Gulf Emirates crisis with Sheikh Zayed.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>377</id>
@@ -1544,12 +1506,11 @@
         <end-date>1991-01-11</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Taif</locale>
-        <remarks>Discussed the Persian Gulf crisis with the Amir of Kuwait. Addressed U.S. military
-            personnel in eastern Saudi Arabia.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with the Amir of Kuwait. Addressed U.S. military personnel in eastern Saudi Arabia.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>378</id>
@@ -1559,12 +1520,11 @@
         <end-date>1991-01-12</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Persian Gulf crisis with President Mubarak and Foreign Minister
-            Abdel-Meguid.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with President Mubarak and Foreign Minister Abdel-Meguid.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>379</id>
@@ -1574,12 +1534,11 @@
         <end-date>1991-01-12</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Discussed the Persian Gulf crisis with President Assad and Foreign Minister
-            Sharaa.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with President Assad and Foreign Minister Sharaa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>380</id>
@@ -1589,12 +1548,11 @@
         <end-date>1991-01-13</end-date>
         <country id="turkey">Turkey</country>
         <locale>Incirlik, Ankara</locale>
-        <remarks>Discussed the Persian Gulf crisis with President Ozal and Foreign Minister
-            Alptemocin.</remarks>
+        <remarks>Discussed the Persian Gulf crisis with President Ozal and Foreign Minister Alptemocin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>381</id>
@@ -1606,9 +1564,9 @@
         <locale>Alconbury</locale>
         <remarks>Discussed the Persian Gulf crisis with Prime Minister Major.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>382</id>
@@ -1620,9 +1578,9 @@
         <locale>Ottawa</locale>
         <remarks>Discussed the Persian Gulf crisis with Prime Minister Mulroney.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>383</id>
@@ -1632,12 +1590,11 @@
         <end-date>1991-03-10</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Taif, Riyadh</locale>
-        <remarks>Met with the Amir of Kuwait and with the Foreign Ministers of Egypt, Syria, and the
-            Gulf Cooperation Council.</remarks>
+        <remarks>Met with the Amir of Kuwait and with the Foreign Ministers of Egypt, Syria, and the Gulf Cooperation Council.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>384</id>
@@ -1649,9 +1606,9 @@
         <locale>Cairo</locale>
         <remarks>Met with President Mubarak.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>385</id>
@@ -1661,12 +1618,11 @@
         <end-date>1991-03-13</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem, Karmeil</locale>
-        <remarks>Discussed the Middle East peace process with President Herzog, Prime Minister
-            Shamir, Foreign Minister Levy, and Palestinian representatives.</remarks>
+        <remarks>Discussed the Middle East peace process with President Herzog, Prime Minister Shamir, Foreign Minister Levy, and Palestinian representatives.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>386</id>
@@ -1676,12 +1632,11 @@
         <end-date>1991-03-14</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Discussed the Middle East peace process with President Assad and Foreign Minister
-            Sharaa.</remarks>
+        <remarks>Discussed the Middle East peace process with President Assad and Foreign Minister Sharaa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>387</id>
@@ -1693,9 +1648,9 @@
         <locale>Moscow</locale>
         <remarks>Met with President Gorbachev and Foreign Minister Bessmertnkyh.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>388</id>
@@ -1707,9 +1662,9 @@
         <locale>Ankara</locale>
         <remarks>Met with President Ozal and senior Turkish officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>389</id>
@@ -1719,12 +1674,11 @@
         <end-date>1991-04-08</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Diyarbakir, Cukurca, Uzumlu</locale>
-        <remarks>Discussed emergency aid to Kurdish refugees with President Ozal; visited refugee
-            camps.</remarks>
+        <remarks>Discussed emergency aid to Kurdish refugees with President Ozal; visited refugee camps.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>390</id>
@@ -1734,12 +1688,11 @@
         <end-date>1991-04-10</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Middle East peace process with Prime Minister Shamir, Israeli
-            officials, and a Palestinian delegation.</remarks>
+        <remarks>Discussed the Middle East peace process with Prime Minister Shamir, Israeli officials, and a Palestinian delegation.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>391</id>
@@ -1749,12 +1702,11 @@
         <end-date>1991-04-11</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Middle East peace process with President Mubarak, Foreign Minister
-            Abdel-Meguid, and Saudi Foreign Minister Prince Saud.</remarks>
+        <remarks>Discussed the Middle East peace process with President Mubarak, Foreign Minister Abdel-Meguid, and Saudi Foreign Minister Prince Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>392</id>
@@ -1764,12 +1716,11 @@
         <end-date>1991-04-12</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Discussed the Middle East peace process with President Assad, Foreign Minister
-            Sharaa, and Tunisian Foreign Minister Ben Yahya.</remarks>
+        <remarks>Discussed the Middle East peace process with President Assad, Foreign Minister Sharaa, and Tunisian Foreign Minister Ben Yahya.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>393</id>
@@ -1779,12 +1730,11 @@
         <end-date>1991-04-12</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Discussed the Middle East peace process with Jordanian Foreign Minister Masri. Also
-            discussed aid to Kurdish refugees with heads of international relief agencies.</remarks>
+        <remarks>Discussed the Middle East peace process with Jordanian Foreign Minister Masri. Also discussed aid to Kurdish refugees with heads of international relief agencies.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>394</id>
@@ -1794,12 +1744,11 @@
         <end-date>1991-04-18</end-date>
         <country id="luxembourg">Luxembourg</country>
         <locale>Luxembourg</locale>
-        <remarks>Discussed aid to Kurdish refugees and the Middle East peace process with European
-            Community Foreign Ministers.</remarks>
+        <remarks>Discussed aid to Kurdish refugees and the Middle East peace process with European Community Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>395</id>
@@ -1809,12 +1758,11 @@
         <end-date>1991-04-20</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Middle East peace process with senior Israeli officials and
-            Palestinian representatives.</remarks>
+        <remarks>Discussed the Middle East peace process with senior Israeli officials and Palestinian representatives.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>396</id>
@@ -1826,9 +1774,9 @@
         <locale>Aqaba</locale>
         <remarks>Discussed the Middle East peace process with King Hussein.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>397</id>
@@ -1838,12 +1786,11 @@
         <end-date>1991-04-21</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Middle East peace process with President Mubarak and Foreign Minister
-            Abdel-Meguid.</remarks>
+        <remarks>Discussed the Middle East peace process with President Mubarak and Foreign Minister Abdel-Meguid.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>398</id>
@@ -1853,12 +1800,11 @@
         <end-date>1991-04-22</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Discussed the Middle East peace process with King Fahd and Foreign Minister Prince
-            Saud.</remarks>
+        <remarks>Discussed the Middle East peace process with King Fahd and Foreign Minister Prince Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>399</id>
@@ -1870,9 +1816,9 @@
         <locale>Kuwait City</locale>
         <remarks>Discussed postwar economic assistance with the Amir and Crown Prince.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>400</id>
@@ -1884,9 +1830,9 @@
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with Foreign Minister Sharaa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>401</id>
@@ -1896,12 +1842,11 @@
         <end-date>1991-04-25</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Kislovodsk</locale>
-        <remarks>Discussed the Middle East peace process and implementation of the CFE Treaty with
-            Foreign Minister Bessmertnykh.</remarks>
+        <remarks>Discussed the Middle East peace process and implementation of the CFE Treaty with Foreign Minister Bessmertnykh.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>402</id>
@@ -1913,9 +1858,9 @@
         <locale>Jerusalem</locale>
         <remarks>Discussed the Middle East peace process with Prime Minister Shamir.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>403</id>
@@ -1927,9 +1872,9 @@
         <locale>Damascus</locale>
         <remarks>Discussed the Middle East peace process with President Assad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>404</id>
@@ -1939,12 +1884,11 @@
         <end-date>1991-05-14</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Middle East peace process with President Mubarak and Soviet Foreign
-            Minister Bessmertnykh.</remarks>
+        <remarks>Discussed the Middle East peace process with President Mubarak and Soviet Foreign Minister Bessmertnykh.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>405</id>
@@ -1956,9 +1900,9 @@
         <locale>Amman</locale>
         <remarks>Discussed the Middle East peace process with King Hussein.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>406</id>
@@ -1968,12 +1912,11 @@
         <end-date>1991-05-16</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Middle East peace process with Prime Minister Shamir and senior
-            Israeli officials.</remarks>
+        <remarks>Discussed the Middle East peace process with Prime Minister Shamir and senior Israeli officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>407</id>
@@ -1985,9 +1928,9 @@
         <locale>Lisbon</locale>
         <remarks>Witnessed the signing of the Angola Peace Accords.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>408</id>
@@ -1999,9 +1942,9 @@
         <locale>Copenhagen</locale>
         <remarks>Attended NATO Ministerial Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>409</id>
@@ -2013,9 +1956,9 @@
         <locale>Geneva</locale>
         <remarks>Met with Soviet Foreign Minister Bessmertnykh.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>410</id>
@@ -2025,12 +1968,11 @@
         <end-date>1991-06-21</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin, Halle</locale>
-        <remarks>Attended CSCE Foreign Ministers' Meeting and discussed strategic arms reductions
-            with Soviet Foreign Minister Bessmertnykh.</remarks>
+        <remarks>Attended CSCE Foreign Ministers' Meeting and discussed strategic arms reductions with Soviet Foreign Minister Bessmertnykh.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>411</id>
@@ -2040,12 +1982,11 @@
         <end-date>1991-06-22</end-date>
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade</locale>
-        <remarks>Met with Prime Minister Markovic and with the presidents of the 6
-            republics.</remarks>
+        <remarks>Met with Prime Minister Markovic and with the presidents of the 6 republics.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>412</id>
@@ -2055,12 +1996,11 @@
         <end-date>1991-06-22</end-date>
         <country id="albania">Albania</country>
         <locale>Tirana</locale>
-        <remarks>Met with President Alia and senior officials; addressed the Albanian
-            Parliament.</remarks>
+        <remarks>Met with President Alia and senior officials; addressed the Albanian Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>413</id>
@@ -2070,12 +2010,11 @@
         <end-date>1991-07-18</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Attended Economic Summit Meeting and accompanied President Bush to meetings with
-            Soviet President Gorbachev.</remarks>
+        <remarks>Attended Economic Summit Meeting and accompanied President Bush to meetings with Soviet President Gorbachev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>414</id>
@@ -2087,9 +2026,9 @@
         <locale>Damascus</locale>
         <remarks>Discussed a Middle East peace conference with President Assad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>415</id>
@@ -2101,9 +2040,9 @@
         <locale>Cairo, Alexandria</locale>
         <remarks>Discussed a Middle East peace conference with President Mubarak.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>416</id>
@@ -2115,9 +2054,9 @@
         <locale>Jeddah</locale>
         <remarks>Discussed a Middle East peace conference with King Fahd.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>417</id>
@@ -2129,9 +2068,9 @@
         <locale>Amman</locale>
         <remarks>Discussed a Middle East peace conference with King Hussein.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>418</id>
@@ -2141,12 +2080,11 @@
         <end-date>1991-07-22</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed a Middle East peace conference with Prime Minister Shamir, senior Israeli
-            officials, and Palestinian representatives.</remarks>
+        <remarks>Discussed a Middle East peace conference with Prime Minister Shamir, senior Israeli officials, and Palestinian representatives.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>419</id>
@@ -2158,9 +2096,9 @@
         <locale>Kuala Lumpur</locale>
         <remarks>Attended meeting of ASEAN Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>420</id>
@@ -2170,12 +2108,11 @@
         <end-date>1991-07-29</end-date>
         <country id="mongolia">Mongolia</country>
         <locale>Ulaanbaatar</locale>
-        <remarks>Met with senior Mongolian officials, addressed the Mongolian Parliament, and
-            observed wildlife in the Gobi Desert.</remarks>
+        <remarks>Met with senior Mongolian officials, addressed the Mongolian Parliament, and observed wildlife in the Gobi Desert.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>421</id>
@@ -2187,9 +2124,9 @@
         <locale>Moscow</locale>
         <remarks>Attended U.S.-Soviet Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>422</id>
@@ -2199,12 +2136,11 @@
         <end-date>1991-08-02</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed a Middle East peace conference with senior Israeli officials and
-            Palestinian representatives.</remarks>
+        <remarks>Discussed a Middle East peace conference with senior Israeli officials and Palestinian representatives.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>423</id>
@@ -2214,12 +2150,11 @@
         <end-date>1991-08-03</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Discussed a Middle East peace conference with King Hussein and Foreign Minister
-            Masri.</remarks>
+        <remarks>Discussed a Middle East peace conference with King Hussein and Foreign Minister Masri.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>424</id>
@@ -2229,12 +2164,11 @@
         <end-date>1991-08-04</end-date>
         <country id="morocco">Morocco</country>
         <locale>Rabat</locale>
-        <remarks>Discussed a Middle East peace conference with King Hassan II and Foreign Minister
-            Filali.</remarks>
+        <remarks>Discussed a Middle East peace conference with King Hassan II and Foreign Minister Filali.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>425</id>
@@ -2244,12 +2178,11 @@
         <end-date>1991-08-04</end-date>
         <country id="tunisia">Tunisia</country>
         <locale>Tunis</locale>
-        <remarks>Discussed a Middle East peace conference with President Ben Ali and Foreign
-            Minister Benyahia. Returned to Morocco afterwards.</remarks>
+        <remarks>Discussed a Middle East peace conference with President Ben Ali and Foreign Minister Benyahia. Returned to Morocco afterwards.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>426</id>
@@ -2259,12 +2192,11 @@
         <end-date>1991-08-05</end-date>
         <country id="algeria">Algeria</country>
         <locale>Algiers</locale>
-        <remarks>Discussed a Middle East peace conference with President Benjedid and Foreign
-            Minister Ghozali.</remarks>
+        <remarks>Discussed a Middle East peace conference with President Benjedid and Foreign Minister Ghozali.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>427</id>
@@ -2276,9 +2208,9 @@
         <locale>Brussels</locale>
         <remarks>Met with NATO Foreign Ministers to discuss the coup in the Soviet Union.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>428</id>
@@ -2290,9 +2222,9 @@
         <locale>Mexico, D.F.</locale>
         <remarks>Attended meeting of the U.S.-Mexico Binational Commission.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>429</id>
@@ -2302,12 +2234,11 @@
         <end-date>1991-09-16</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow, St. Petersburg, Alma Ata</locale>
-        <remarks>Met with senior officials of the Soviet Union, the Russian Republic, and
-            Kazakhstan. Attended the CSCE Conference on the Human Dimension.</remarks>
+        <remarks>Met with senior officials of the Soviet Union, the Russian Republic, and Kazakhstan. Attended the CSCE Conference on the Human Dimension.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>430</id>
@@ -2319,9 +2250,9 @@
         <locale>Tallinn</locale>
         <remarks>Met with Chairman Ruutel and Prime Minister Savisaar.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>431</id>
@@ -2333,9 +2264,9 @@
         <locale>Riga</locale>
         <remarks>Met with President Gorbunovs and Prime Minister Godmanis.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>432</id>
@@ -2347,9 +2278,9 @@
         <locale>Vilnius</locale>
         <remarks>Met with President Landsbergis and Prime Minister Vagnorius.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>433</id>
@@ -2359,12 +2290,11 @@
         <end-date>1991-09-17</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed a Middle East peace conference with senior Israeli officials and
-            Palestinian representatives.</remarks>
+        <remarks>Discussed a Middle East peace conference with senior Israeli officials and Palestinian representatives.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>434</id>
@@ -2374,12 +2304,11 @@
         <end-date>1991-09-18</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed a Middle East peace conference with President Mubarak and Foreign
-            Minister Amr Moussa.</remarks>
+        <remarks>Discussed a Middle East peace conference with President Mubarak and Foreign Minister Amr Moussa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>435</id>
@@ -2389,12 +2318,11 @@
         <end-date>1991-09-19</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Discussed a Middle East peace conference with President Assad and Foreign Minister
-            Sharaa.</remarks>
+        <remarks>Discussed a Middle East peace conference with President Assad and Foreign Minister Sharaa.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>436</id>
@@ -2406,9 +2334,9 @@
         <locale>Amman</locale>
         <remarks>Discussed a Middle East peace conference with King Hussein.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>437</id>
@@ -2420,9 +2348,9 @@
         <locale>Damascus</locale>
         <remarks>Discussed a Middle East peace conference with President Assad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>438</id>
@@ -2434,9 +2362,9 @@
         <locale>Cairo</locale>
         <remarks>Discussed a Middle East peace conference with President Mubarak.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>439</id>
@@ -2448,9 +2376,9 @@
         <locale>Amman</locale>
         <remarks>Discussed a Middle East peace conference with King Hussein.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>440</id>
@@ -2462,9 +2390,9 @@
         <locale>Damascus</locale>
         <remarks>Discussed a Middle East peace conference with President Assad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>441</id>
@@ -2474,13 +2402,11 @@
         <end-date>1991-10-19</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed a Middle East peace conference with senior Israeli officials and
-            Palestinian representatives. Also met with Soviet Foreign Minister Pankin and announced
-            a Middle East Peace Conference.</remarks>
+        <remarks>Discussed a Middle East peace conference with senior Israeli officials and Palestinian representatives. Also met with Soviet Foreign Minister Pankin and announced a Middle East Peace Conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>442</id>
@@ -2490,12 +2416,11 @@
         <end-date>1991-10-19</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
-        <remarks>Discussed arrangements for a Middle East Peace Conference with senior Spanish
-            officials.</remarks>
+        <remarks>Discussed arrangements for a Middle East Peace Conference with senior Spanish officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>443</id>
@@ -2505,12 +2430,11 @@
         <end-date>1991-10-23</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended the signing of the Cambodian Comprehensive Peace Accords and discussed
-            normalization of relations with Vietnamese Foreign Minister Ngueyn.</remarks>
+        <remarks>Attended the signing of the Cambodian Comprehensive Peace Accords and discussed normalization of relations with Vietnamese Foreign Minister Ngueyn.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>444</id>
@@ -2520,12 +2444,11 @@
         <end-date>1991-11-03</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
-        <remarks>Accompanied President Bush to a meeting with Soviet President Gorbachev and to the
-            opening session of the Middle East Peace Conference.</remarks>
+        <remarks>Accompanied President Bush to a meeting with Soviet President Gorbachev and to the opening session of the Middle East Peace Conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>445</id>
@@ -2537,9 +2460,9 @@
         <locale>Rome</locale>
         <remarks>Accompanied President Bush to a NATO Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>446</id>
@@ -2551,9 +2474,9 @@
         <locale>The Hague</locale>
         <remarks>Accompanied President Bush to an European Community Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>447</id>
@@ -2565,9 +2488,9 @@
         <locale>Tokyo</locale>
         <remarks>Met with Prime Minister Miyazawa and Foreign Minister Watanabe.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>448</id>
@@ -2579,9 +2502,9 @@
         <locale>Seoul</locale>
         <remarks>Attended Asia Pacific Economic Cooperation Conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>449</id>
@@ -2593,9 +2516,9 @@
         <locale>Beijing</locale>
         <remarks>Met with President Yang and senior Chinese officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>450</id>
@@ -2607,9 +2530,9 @@
         <locale>Moscow</locale>
         <remarks>Met with senior Soviet and Russian officials.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>451</id>
@@ -2621,9 +2544,9 @@
         <locale>Bishkek</locale>
         <remarks>Met with President Akyev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>452</id>
@@ -2635,9 +2558,9 @@
         <locale>Alma Ata</locale>
         <remarks>Met with President Nazarbayev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>453</id>
@@ -2649,9 +2572,9 @@
         <locale>Minsk</locale>
         <remarks>Soviet Chairman Shuskevich and Foreign Minister Kravchenko.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>454</id>
@@ -2663,9 +2586,9 @@
         <locale>Kiev</locale>
         <remarks>Met with President Kravchuk.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>455</id>
@@ -2675,12 +2598,11 @@
         <end-date>1991-12-21</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting and met with Foreign Ministers of the European
-            Community.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and met with Foreign Ministers of the European Community.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>456</id>
@@ -2692,9 +2614,9 @@
         <locale>Mexico, D.F.</locale>
         <remarks>Attended the signing of the Salvadoran Peace Treaty.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>457</id>
@@ -2706,9 +2628,9 @@
         <locale>San Salvador</locale>
         <remarks>Addressed the Salvadoran National Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>458</id>
@@ -2720,9 +2642,9 @@
         <locale>Managua</locale>
         <remarks>Met with President Chamorro.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>459</id>
@@ -2734,9 +2656,9 @@
         <locale>Moscow</locale>
         <remarks>Attended Middle East peace conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>460</id>
@@ -2748,9 +2670,9 @@
         <locale>Prague</locale>
         <remarks>Attended CSCE Council of Ministers Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>461</id>
@@ -2760,12 +2682,11 @@
         <end-date>1992-02-10</end-date>
         <country id="germany">Germany</country>
         <locale>Frankfurt</locale>
-        <remarks>Attended ceremonies inaugurating emergency aid to the former Soviet
-            republics.</remarks>
+        <remarks>Attended ceremonies inaugurating emergency aid to the former Soviet republics.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>462</id>
@@ -2777,9 +2698,9 @@
         <locale>Kishenev</locale>
         <remarks>Met with President Snegur.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>463</id>
@@ -2791,9 +2712,9 @@
         <locale>Yerevan</locale>
         <remarks>Met with President Ter-Petrossian.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>464</id>
@@ -2803,12 +2724,11 @@
         <end-date>1992-02-12</end-date>
         <country id="azerbaijan">Azerbaijan</country>
         <locale>Baku</locale>
-        <remarks>Met with President Mutalibov and discussed possible establishment of diplomatic
-            relations.</remarks>
+        <remarks>Met with President Mutalibov and discussed possible establishment of diplomatic relations.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>465</id>
@@ -2818,12 +2738,11 @@
         <end-date>1992-02-12</end-date>
         <country id="tajikistan">Tajikistan</country>
         <locale>Dushanbe</locale>
-        <remarks>Met with President Nabiyev and discussed possible establishment of diplomatic
-            relations.</remarks>
+        <remarks>Met with President Nabiyev and discussed possible establishment of diplomatic relations.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>466</id>
@@ -2835,9 +2754,9 @@
         <locale>Ashkhabad</locale>
         <remarks>Met with President Niyazov.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>467</id>
@@ -2849,9 +2768,9 @@
         <locale>Yekaterinburg, Chelyabinsk-70</locale>
         <remarks>Met with former Soviet nuclear scientists.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>468</id>
@@ -2863,9 +2782,9 @@
         <locale>Tashkent, Samarkand</locale>
         <remarks>Met with President Karimov and Uzbek political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>469</id>
@@ -2875,12 +2794,11 @@
         <end-date>1992-02-18</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Discussed strategic arms reductions with President Yeltsin and Foreign Minister
-            Kozyrev.</remarks>
+        <remarks>Discussed strategic arms reductions with President Yeltsin and Foreign Minister Kozyrev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>470</id>
@@ -2890,14 +2808,11 @@
         <end-date>1992-03-11</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting and met with North Atlantic Cooperation Council
-            Foreign Ministers. Discussed peace-keeping efforts in Yugoslavia with European Community
-            Foreign Ministers, and strategic arms reductions with Russian Foreign Minister
-            Kozyrev.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and met with North Atlantic Cooperation Council Foreign Ministers. Discussed peace-keeping efforts in Yugoslavia with European Community Foreign Ministers, and strategic arms reductions with Russian Foreign Minister Kozyrev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>471</id>
@@ -2909,9 +2824,9 @@
         <locale>London</locale>
         <remarks>Met with Prime Minister Major.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>472</id>
@@ -2921,12 +2836,11 @@
         <end-date>1992-05-24</end-date>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
-        <remarks>Attended Conference on Assistance to the New Independent States. Signed protocol
-            making Russia, Belarus, Kazakhstan and Ukraine parties to the START Treaty.</remarks>
+        <remarks>Attended Conference on Assistance to the New Independent States. Signed protocol making Russia, Belarus, Kazakhstan and Ukraine parties to the START Treaty.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>473</id>
@@ -2938,9 +2852,9 @@
         <locale>Tblisi</locale>
         <remarks>Met with State Council Chairman Shevardnadze and Prime Minister Sigua.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>474</id>
@@ -2950,12 +2864,11 @@
         <end-date>1992-06-12</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed strategic arms reductions with Russian Foreign Minister
-            Kozyrev.</remarks>
+        <remarks>Discussed strategic arms reductions with Russian Foreign Minister Kozyrev.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>475</id>
@@ -2967,9 +2880,9 @@
         <locale>Warsaw</locale>
         <remarks>Accompanied President Bush on a visit.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>476</id>
@@ -2979,12 +2892,11 @@
         <end-date>1992-07-08</end-date>
         <country id="germany">Germany</country>
         <locale>Munich</locale>
-        <remarks>Accompanied President Bush to the Economic Summit Meeting and to meetings with
-            Russian President Yeltsin.</remarks>
+        <remarks>Accompanied President Bush to the Economic Summit Meeting and to meetings with Russian President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>477</id>
@@ -2996,9 +2908,9 @@
         <locale>Helsinki</locale>
         <remarks>Accompanied President Bush to the CSCE Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>478</id>
@@ -3008,12 +2920,11 @@
         <end-date>1992-07-21</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Middle East peace process with Prime Minister Rabin, Israeli
-            officials, and Palestinian representatives.</remarks>
+        <remarks>Discussed the Middle East peace process with Prime Minister Rabin, Israeli officials, and Palestinian representatives.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>479</id>
@@ -3023,12 +2934,11 @@
         <end-date>1992-07-21</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Discussed the Middle East peace process and the Iraq crisis with King
-            Hussein.</remarks>
+        <remarks>Discussed the Middle East peace process and the Iraq crisis with King Hussein.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>480</id>
@@ -3038,12 +2948,11 @@
         <end-date>1992-07-22</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Discussed the Middle East peace process and the Iraq crisis with President
-            Assad.</remarks>
+        <remarks>Discussed the Middle East peace process and the Iraq crisis with President Assad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>481</id>
@@ -3053,12 +2962,11 @@
         <end-date>1992-07-22</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Middle East peace process and the Iraq crisis with President
-            Mubarak.</remarks>
+        <remarks>Discussed the Middle East peace process and the Iraq crisis with President Mubarak.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>482</id>
@@ -3068,12 +2976,11 @@
         <end-date>1992-07-23</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Discussed the Middle East peace process and the Iraq crisis with President
-            Assad.</remarks>
+        <remarks>Discussed the Middle East peace process and the Iraq crisis with President Assad.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>483</id>
@@ -3083,12 +2990,11 @@
         <end-date>1992-07-23</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Zahle</locale>
-        <remarks>Discussed the Middle East peace process and the Taif Accord with President
-            Hrawi.</remarks>
+        <remarks>Discussed the Middle East peace process and the Taif Accord with President Hrawi.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>484</id>
@@ -3098,12 +3004,11 @@
         <end-date>1992-07-24</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Discussed the Middle East peace process and the Iraq crisis with King Fahd and
-            Foreign Minister Prince Saud.</remarks>
+        <remarks>Discussed the Middle East peace process and the Iraq crisis with King Fahd and Foreign Minister Prince Saud.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>485</id>
@@ -3115,9 +3020,9 @@
         <locale>Malé</locale>
         <remarks>Met with President Gayoom en route to the Philippines.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
     <trip who="baker-james-addison" role="secretary">
         <id>486</id>
@@ -3129,8 +3034,8 @@
         <locale>Manila</locale>
         <remarks>Attended ASEAN Post-Ministerial Conference.</remarks>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-27T12:35:48.889-06:00</created-datetime>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T12:35:48.889-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
 </trips>

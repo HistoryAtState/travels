@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2671</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-11-26</start-date>
+        <end-date>1928-11-26</end-date>
+        <country id="honduras">Honduras</country>
+        <locale>Amapala</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2672</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-11-26</start-date>
+        <end-date>1928-11-26</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>Cutuco</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2673</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-11-27</start-date>
+        <end-date>1928-11-27</end-date>
+        <country id="nicaragua">Nicaragua</country>
+        <locale>Corinto</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2674</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-11-28</start-date>
+        <end-date>1928-11-28</end-date>
+        <country id="costa-rica">Costa Rica</country>
+        <locale>San Jose</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2675</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-12-01</start-date>
+        <end-date>1928-12-01</end-date>
+        <country id="ecuador">Ecuador</country>
+        <locale>Guayaquil</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2676</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-12-05</start-date>
+        <end-date>1928-12-05</end-date>
+        <country id="peru">Peru</country>
+        <locale>Lima</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2677</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-12-08</start-date>
+        <end-date>1928-12-11</end-date>
+        <country id="chile">Chile</country>
+        <locale>Antofagasta, Santiago</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2678</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-12-13</start-date>
+        <end-date>1928-12-15</end-date>
+        <country id="argentina">Argentina</country>
+        <locale>Buenos Aires</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2679</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-12-16</start-date>
+        <end-date>1928-12-18</end-date>
+        <country id="uruguay">Uruguay</country>
+        <locale>Montevideo</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="hoover-herbert-c" role="president">
+        <id>2680</id>
+        <role>president</role>
+        <name>Herbert C. Hoover</name>
+        <start-date>1928-12-21</start-date>
+        <end-date>1928-12-23</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Rio de Janeiro</locale>
+        <remarks>Good will trip. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

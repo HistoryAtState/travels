@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="ford-gerald-r" role="president">
+        <id>2861</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1974-10-21</start-date>
+        <end-date>1974-10-21</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Nogales, Magdalena de Kino</locale>
+        <remarks>Met with President Echeverria and laid a wreath at the tomb of Padre Eusebio Kino.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2862</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1974-11-18</start-date>
+        <end-date>1974-11-22</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo, Kyoto</locale>
+        <remarks>State visit; met with Prime Minister Tanaka.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2020-03-23T00:00:00-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2863</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1974-11-22</start-date>
+        <end-date>1974-11-23</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Park.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2864</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1974-11-23</start-date>
+        <end-date>1974-11-24</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Vladivostok</locale>
+        <remarks>Met with General Secretary Brezhnev and discussed limitations of strategic arms.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2865</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1974-12-14</start-date>
+        <end-date>1974-12-16</end-date>
+        <country id="france">France</country>
+        <locale>Martinique</locale>
+        <remarks>Met with President Giscard d'Estaing.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2866</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-05-28</start-date>
+        <end-date>1975-05-31</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended NATO summit meeting, addressed the North Atlantic Council, and met separately with NATO Heads of State and Government.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2867</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-05-31</start-date>
+        <end-date>1975-06-01</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Met with Generalissimo Franco. Received keys to city from Mayor of Madrid.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2868</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-06-01</start-date>
+        <end-date>1975-06-03</end-date>
+        <country id="austria">Austria</country>
+        <locale>Salzburg</locale>
+        <remarks>Met with Chancellor Kreisky and with Egyptian President Sadat.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2869</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-06-03</start-date>
+        <end-date>1975-06-03</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with President Leone and Prime Minister Moro.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2870</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-06-03</start-date>
+        <end-date>1975-06-03</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Audience with Pope Paul VI.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2871</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-07-26</start-date>
+        <end-date>1975-07-28</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn, Linz</locale>
+        <remarks>Met with President Scheel and Chancellor Schmidt.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2872</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-07-28</start-date>
+        <end-date>1975-07-29</end-date>
+        <country id="poland">Poland</country>
+        <locale>Warsaw, Krakow</locale>
+        <remarks>Official visit; met with First Secretary Gierek.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2873</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-07-29</start-date>
+        <end-date>1975-08-02</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Attended opening session of the Conference on Security and Cooperation in Europe. Met with the Heads of State and Government of Finland, Great Britain, Turkey, West Germany, France, Italy, and Spain. Also met with Soviet General Secretary Brezhnev. Signed the Final Act of the Conference on August 1.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2874</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-08-02</start-date>
+        <end-date>1975-08-03</end-date>
+        <country id="romania">Romania</country>
+        <locale>Bucharest, Sinaia</locale>
+        <remarks>Official visit; met with President Ceausescu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2875</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-08-03</start-date>
+        <end-date>1975-08-04</end-date>
+        <country id="yugoslavia">Yugoslavia</country>
+        <locale>Belgrade</locale>
+        <remarks>Official visit; met with President Tito and Prime Minister Bijedic.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2876</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-11-15</start-date>
+        <end-date>1975-11-17</end-date>
+        <country id="france">France</country>
+        <locale>Rambouillet</locale>
+        <remarks>Attended Economic Summit meeting of the Heads of State and Government of France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2877</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-12-01</start-date>
+        <end-date>1975-12-05</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Peking</locale>
+        <remarks>Official visit; met with Chairman Mao Tse-tung and Vice Premier Teng Hsiao-ping.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2878</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-12-05</start-date>
+        <end-date>1975-12-06</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Jakarta</locale>
+        <remarks>Official visit; met with President Suharto.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="ford-gerald-r" role="president">
+        <id>2879</id>
+        <role>president</role>
+        <name>Gerald R. Ford</name>
+        <start-date>1975-12-06</start-date>
+        <end-date>1975-12-07</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Official visit; met with President Marcos.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="carter-jimmy" role="president">
+        <id>2880</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1977-05-05</start-date>
+        <end-date>1977-05-10</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London, Newcastle</locale>
+        <remarks>Attended Economic Summit Meeting May 7-8 of the Heads of State and Government of Canada, France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom. Also met with the Prime Ministers of Greece, Belgium, Turkey, Norway, the Netherlands, and Luxembourg, and with the President of Portugal. Addressed NATO Ministers meeting on May 10.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2881</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1977-05-09</start-date>
+        <end-date>1977-05-09</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Official visit; met with President Furgler. Also met with Syrian President Assad.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2882</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1977-12-29</start-date>
+        <end-date>1977-12-31</end-date>
+        <country id="poland">Poland</country>
+        <locale>Warsaw</locale>
+        <remarks>Official visit; met with First Secretary Gierek.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2883</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1977-12-31</start-date>
+        <end-date>1978-01-01</end-date>
+        <country id="iran">Iran</country>
+        <locale>Tehran</locale>
+        <remarks>Official visit; met with Shah Mohammed Reza Pahlavi and King Hussein of Jordan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2884</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-01</start-date>
+        <end-date>1978-01-03</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi, Daulatpur-Nasirabad</locale>
+        <remarks>Met with President Reddy and Prime Minister Desai. Addressed Parliament.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2885</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-03</start-date>
+        <end-date>1978-01-04</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with King Khalid and Crown Prince Fahd.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2886</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-04</start-date>
+        <end-date>1978-01-04</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Aswan</locale>
+        <remarks>Met with President Sadat and German Chancellor Schmidt.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2887</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-04</start-date>
+        <end-date>1978-01-06</end-date>
+        <country id="france">France</country>
+        <locale>Paris, Normandy, Bayeux, Versailles</locale>
+        <remarks>Met with President Giscard d'Estaing and Prime Minister Barre.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2888</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-01-06</start-date>
+        <end-date>1978-01-06</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Met with King Baudouin and Prime Minister Tindemans; attended meetings of the Commission of the European Communities and the North Atlantic Council.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2889</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-03-28</start-date>
+        <end-date>1978-03-29</end-date>
+        <country id="venezuela">Venezuela</country>
+        <locale>Caracas</locale>
+        <remarks>Met with President Perez, addressed Congress, and signed maritime boundary agreement.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2890</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-03-29</start-date>
+        <end-date>1978-03-31</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia, Rio de Janeiro</locale>
+        <remarks>Official visit; met with President Geisel and addressed Brazilian Congress.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2891</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-03-31</start-date>
+        <end-date>1978-04-03</end-date>
+        <country id="nigeria">Nigeria</country>
+        <locale>Lagos</locale>
+        <remarks>Met with President Obasanjo; first State visit of a U.S. President to sub-Saharan Africa.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2892</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-04-03</start-date>
+        <end-date>1978-04-03</end-date>
+        <country id="liberia">Liberia</country>
+        <locale>Monrovia</locale>
+        <remarks>Met with President Tolbert.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2893</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-06-16</start-date>
+        <end-date>1978-06-17</end-date>
+        <country id="panama">Panama</country>
+        <locale>Panama City</locale>
+        <remarks>Invited by President Lakas and General Torrijos to sign protocol confirming exchange of documents ratifying Panama Canal treaties. Also met informally with Presidents Perez of Venezuela, Lopez Michelson of Colombia, Lopez Portillo of Mexico, Carazo of Costa Rica, and Prime Minister Manley of Jamaica.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2894</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-07-14</start-date>
+        <end-date>1978-07-15</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn, Wiesbaden-Erbenheim Air Base, Frankfurt</locale>
+        <remarks>State visit; met with President Scheel and Chancellor Schmidt. Addressed U.S. and German military personnel.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2895</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-07-15</start-date>
+        <end-date>1978-07-15</end-date>
+        <country id="germany">Germany</country>
+        <locale>West Berlin</locale>
+        <remarks>Spoke at the Airlift Memorial.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2896</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1978-07-16</start-date>
+        <end-date>1978-07-17</end-date>
+        <country id="germany">Germany, Federal Republic of</country>
+        <locale>Bonn</locale>
+        <remarks>Attended Economic Summit Meeting of the Heads of State and Government of France, the Federal Republic of Germany, Canada, Italy, Japan, and the United Kingdom.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2897</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-01-04</start-date>
+        <end-date>1979-01-09</end-date>
+        <country id="france">France</country>
+        <locale>Guadeloupe</locale>
+        <remarks>Met informally with President Giscard d'Estaing, German Chancellor Schmidt, and British Prime Minister Callaghan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2898</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-02-14</start-date>
+        <end-date>1979-02-16</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico, D.F.</locale>
+        <remarks>State visit; met with President Lopez Portillo and addressed the Mexican Congress.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2899</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-03-07</start-date>
+        <end-date>1979-03-10</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo, Alexandria, Giza</locale>
+        <remarks>State visit; met with President Sadat and addressed People's Assembly.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2900</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-03-10</start-date>
+        <end-date>1979-03-13</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>State visit; met with President Navon and Prime Minister Begin. Addressed the Knesset.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2901</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-03-13</start-date>
+        <end-date>1979-03-13</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Sadat.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2902</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-06-14</start-date>
+        <end-date>1979-06-18</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>State visit; met with President Kirchschlaeger and Chancellor Kreisky. Met with Soviet General Secretary Brezhnev to sign SALT II Treaty June 16-18.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-11-09T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2903</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-06-24</start-date>
+        <end-date>1979-06-29</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo, Shimoda</locale>
+        <remarks>State visit; met with Emperor Hirohito and Prime Minister Ohira. Attended Economic Summit Meeting June 28-29 of the Heads of State and Government of Canada, France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2904</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1979-06-29</start-date>
+        <end-date>1979-07-01</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>State visit; met with President Park and Prime Minister Choi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2905</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-19</start-date>
+        <end-date>1980-06-24</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome, Venice</locale>
+        <remarks>State visit; met with President Pertini. Attended Economic Summit Conference June 21-24 of the Heads of State and Government of Canada, France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2906</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-21</start-date>
+        <end-date>1980-06-21</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Audience with Pope John Paul II.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2907</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-24</start-date>
+        <end-date>1980-06-25</end-date>
+        <country id="yugoslavia">Yugoslavia</country>
+        <locale>Belgrade</locale>
+        <remarks>Official visit; met with President Mijatovic.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2908</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-25</start-date>
+        <end-date>1980-06-26</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Official visit; met with King Juan Carlos I and Prime Minister Suarez.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2909</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-06-26</start-date>
+        <end-date>1980-06-26</end-date>
+        <country id="portugal">Portugal</country>
+        <locale>Lisbon</locale>
+        <remarks>Official visit; met with President Eanes and Prime Minister Sa Carneiro.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="carter-jimmy" role="president">
+        <id>2910</id>
+        <role>president</role>
+        <name>James E. Carter</name>
+        <start-date>1980-07-09</start-date>
+        <end-date>1980-07-10</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Official visit; attended memorial services for former Prime Minister Ohira; met with Emperor Hirohito, President Ziaur Rahman of Bangladesh, Prime Minister Fraser of Australia, Prime Minister Prem of Thailand, and Premier Hua Guofeng of China.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

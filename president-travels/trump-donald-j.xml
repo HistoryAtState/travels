@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
     <trip who="trump-donald-j" role="president">
-        <id>3810</id>
+        <id>3730</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-20</start-date>
         <end-date>2017-05-22</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Salman bin Abdel Aziz Al-Saud. Signed military sales agreement. Met
-            with leaders of the Gulf Cooperation Council.</remarks>
+        <remarks>Met with King Salman bin Abdel Aziz Al-Saud. Signed military sales agreement. Met with leaders of the Gulf Cooperation Council.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3811</id>
+        <id>3731</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-22</start-date>
         <end-date>2017-05-23</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with President Reuven Rivlin and Prime Minister Benjamin Netanyahu. Visited the
-            Western Wall and Yad Vashem.</remarks>
+        <remarks>Met with President Reuven Rivlin and Prime Minister Benjamin Netanyahu. Visited the Western Wall and Yad Vashem.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3812</id>
+        <id>3732</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-23</start-date>
@@ -45,7 +43,7 @@
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3813</id>
+        <id>3733</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-23</start-date>
@@ -59,7 +57,7 @@
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3814</id>
+        <id>3734</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-24</start-date>
@@ -73,7 +71,7 @@
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3815</id>
+        <id>3735</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-24</start-date>
@@ -87,37 +85,35 @@
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3816</id>
+        <id>3736</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-05-25</start-date>
         <end-date>2017-05-27</end-date>
         <country id="italy">Italy</country>
         <locale>Taormina, Sigonella</locale>
-        <remarks>Attended the G–7 Summit Meeting. Stopped at NAS Sigonella while returning to the
-            United States.</remarks>
+        <remarks>Attended the G–7 Summit Meeting. Stopped at NAS Sigonella while returning to the United States.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3817</id>
+        <id>3737</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-07-05</start-date>
         <end-date>2017-07-06</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Met with President Andrzej Duda, delivered a public address, and addressed the
-            Three Seas Summit.</remarks>
+        <remarks>Met with President Andrzej Duda, delivered a public address, and addressed the Three Seas Summit.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3818</id>
+        <id>3738</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-07-06</start-date>
@@ -131,22 +127,21 @@
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3819</id>
+        <id>3739</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-07-13</start-date>
         <end-date>2017-07-14</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Official visit. Met with President Emmanuel Macron. Commemorated Bastille Day and
-            the entry of the United States into World War I.</remarks>
+        <remarks>Official visit. Met with President Emmanuel Macron. Commemorated Bastille Day and the entry of the United States into World War I.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3975</id>
+        <id>3895</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-05</start-date>
@@ -160,22 +155,21 @@
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3976</id>
+        <id>3896</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-07</start-date>
         <end-date>2017-11-08</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Osan, Seoul</locale>
-        <remarks>Met with President Moon Jae-in. Visited U.S. Military personnel at Garrisons
-            Humphreys and Yongsan.</remarks>
+        <remarks>Met with President Moon Jae-in. Visited U.S. Military personnel at Garrisons Humphreys and Yongsan.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3977</id>
+        <id>3897</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-08</start-date>
@@ -189,37 +183,35 @@
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3978</id>
+        <id>3898</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-10</start-date>
         <end-date>2017-11-12</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Danang, Hanoi</locale>
-        <remarks>Attended the APEC Economic Leaders Meeting. Met with President Tran Dai
-            Quang.</remarks>
+        <remarks>Attended the APEC Economic Leaders Meeting. Met with President Tran Dai Quang.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3979</id>
+        <id>3899</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2017-11-12</start-date>
         <end-date>2017-11-14</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Met with President Rodrigo Duterte and attended the 31st ASEAN Summit
-            Meeting.</remarks>
+        <remarks>Met with President Rodrigo Duterte and attended the 31st ASEAN Summit Meeting.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3980</id>
+        <id>3900</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-01-24</start-date>
@@ -233,7 +225,7 @@
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3893</id>
+        <id>3813</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-06-09</start-date>
@@ -247,22 +239,21 @@
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3894</id>
+        <id>3814</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-06-10</start-date>
         <end-date>2018-06-13</end-date>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
-        <remarks>Participated in the summit with North Korean leader Kim Jong-un and bilateral
-            events with Singaporean Prime Minister Lee Hsien Loong.</remarks>
+        <remarks>Participated in the summit with North Korean leader Kim Jong-un and bilateral events with Singaporean Prime Minister Lee Hsien Loong.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3895</id>
+        <id>3815</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-07-10</start-date>
@@ -276,7 +267,7 @@
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3896</id>
+        <id>3816</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-07-12</start-date>
@@ -290,7 +281,7 @@
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3897</id>
+        <id>3817</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-07-16</start-date>
@@ -304,22 +295,21 @@
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3898</id>
+        <id>3818</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-11-10</start-date>
         <end-date>2018-11-11</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Commemorated the 100th anniversary of the end of the WWI and met with French
-            President Emmanuel Macron.</remarks>
+        <remarks>Commemorated the 100th anniversary of the end of the WWI and met with French President Emmanuel Macron.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3899</id>
+        <id>3819</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2018-11-29</start-date>
@@ -333,7 +323,7 @@
         <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3981</id>
+        <id>3901</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-02-27</start-date>
@@ -347,7 +337,7 @@
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3966</id>
+        <id>3886</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-05-25</start-date>
@@ -361,7 +351,7 @@
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3967</id>
+        <id>3887</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-06-03</start-date>
@@ -375,7 +365,7 @@
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3968</id>
+        <id>3888</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-06-06</start-date>
@@ -389,7 +379,7 @@
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3969</id>
+        <id>3889</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-06-28</start-date>
@@ -403,22 +393,21 @@
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3970</id>
+        <id>3890</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-06-30</start-date>
         <end-date>2019-06-30</end-date>
         <country id="korea-south">Korea, South</country>
         <locale>Seoul</locale>
-        <remarks>Met with President Moon Jae-in, and crossed briefly into North Korean territory
-            where he was photographed with and spoke to Chairman Kim Jong-un.</remarks>
+        <remarks>Met with President Moon Jae-in, and crossed briefly into North Korean territory where he was photographed with and spoke to Chairman Kim Jong-un.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3971</id>
+        <id>3891</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-08-24</start-date>
@@ -432,7 +421,7 @@
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3972</id>
+        <id>3892</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-11-28</start-date>
@@ -446,7 +435,7 @@
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
     <trip who="trump-donald-j" role="president">
-        <id>3973</id>
+        <id>3893</id>
         <role>president</role>
         <name>Donald J. Trump</name>
         <start-date>2019-12-03</start-date>
@@ -458,5 +447,33 @@
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3987</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2020-01-21</start-date>
+        <end-date>2020-01-22</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Davos</locale>
+        <remarks>Attended the 2020 World Economic Forum.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2021-06-09T10:55:00-04:00</created-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2022-01-05T07:54:38-04:00</last-modified-datetime>
+    </trip>
+    <trip who="trump-donald-j" role="president">
+        <id>3988</id>
+        <role>president</role>
+        <name>Donald J. Trump</name>
+        <start-date>2020-02-24</start-date>
+        <end-date>2020-02-25</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi</locale>
+        <remarks>Met with Prime Minister Narendra Modi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2021-06-09T10:57:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime>2022-01-05T07:52:50-04:00</last-modified-datetime>
     </trip>
 </trips>

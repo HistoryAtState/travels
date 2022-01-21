@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="nixon-richard-m" role="president">
+        <id>2819</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-02-23</start-date>
+        <end-date>1969-02-24</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended 23d meeting of North Atlantic Council; met with King Baudouin I.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2820</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-02-24</start-date>
+        <end-date>1969-02-26</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Informal visit; held conversations with Prime Minister Wilson. Received by Queen Elizabeth II.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2821</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-02-26</start-date>
+        <end-date>1969-02-27</end-date>
+        <country id="germany">Germany</country>
+        <locale>West Berlin</locale>
+        <remarks>Addressed the Bundestag on February 26.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>marrsaw</last-modified-by>
+        <last-modified-datetime>2013-08-29T00:00:00-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2822</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-02-27</start-date>
+        <end-date>1969-02-28</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with President Saragat, Prime Minister Rumor, and other officials.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2823</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-02-28</start-date>
+        <end-date>1969-03-02</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President De Gaulle.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2824</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-03-02</start-date>
+        <end-date>1969-03-02</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Audience with Pope Paul VI.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2825</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-07-26</start-date>
+        <end-date>1969-07-27</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>State visit; met with President Marcos.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2826</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-07-27</start-date>
+        <end-date>1969-07-28</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Jakarta</locale>
+        <remarks>State visit; met with President Suharto.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2827</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-07-28</start-date>
+        <end-date>1969-07-30</end-date>
+        <country id="thailand">Thailand</country>
+        <locale>Bangkok</locale>
+        <remarks>State visit; met with King Bhumibol Adulyadej.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2828</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-07-30</start-date>
+        <end-date>1969-07-30</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Saigon, Di An</locale>
+        <remarks>Met with President Thieu and visited U.S. military personnel.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2829</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-07-31</start-date>
+        <end-date>1969-08-01</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi</locale>
+        <remarks>State visit; met with Acting President Hidayatullah.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2830</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-08-01</start-date>
+        <end-date>1969-08-02</end-date>
+        <country id="pakistan">Pakistan</country>
+        <locale>Lahore</locale>
+        <remarks>State visit; met with President Yahya Khan.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2831</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-08-02</start-date>
+        <end-date>1969-08-03</end-date>
+        <country id="romania">Romania</country>
+        <locale>Bucharest</locale>
+        <remarks>Official visit; met with President Ceausescu.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2832</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-08-03</start-date>
+        <end-date>1969-08-03</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Mildenhall Air Force Base</locale>
+        <remarks>Informal meeting with Prime Minister Wilson.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2833</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1969-09-08</start-date>
+        <end-date>1969-09-08</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Ciudad Acuna</locale>
+        <remarks>Dedicated Aimistad Dam.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2834</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1970-08-20</start-date>
+        <end-date>1970-08-21</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Puerto Vallarta</locale>
+        <remarks>Official visit; met with President Diaz Ordaz.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2835</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1970-09-27</start-date>
+        <end-date>1970-09-30</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome, Naples</locale>
+        <remarks>Official visit; met with President Saragat; visited NATO Southern Command.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2836</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1970-09-28</start-date>
+        <end-date>1970-09-28</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Audience with Pope Paul VI.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2837</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1970-09-30</start-date>
+        <end-date>1970-10-02</end-date>
+        <country id="yugoslavia">Yugoslavia</country>
+        <locale>Belgrade</locale>
+        <remarks>State visit; met with President Tito.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2838</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1970-10-02</start-date>
+        <end-date>1970-10-03</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>State visit; met with Generalissimo Franco.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2839</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1970-10-03</start-date>
+        <end-date>1970-10-03</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Chequers</locale>
+        <remarks>Met informally with Queen Elizabeth II and Prime Minister Heath.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2840</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1970-10-03</start-date>
+        <end-date>1970-10-05</end-date>
+        <country id="ireland">Ireland</country>
+        <locale>Limerick, Timahoe, Dublin</locale>
+        <remarks>State visit; met with Prime Minister Lynch.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2841</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1970-11-12</start-date>
+        <end-date>1970-11-12</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended memorial services for former President De Gaulle.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2842</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1971-12-13</start-date>
+        <end-date>1971-12-14</end-date>
+        <country id="portugal">Portugal</country>
+        <locale>Terceira Island (Azores)</locale>
+        <remarks>Discussed international monetary problems with French President Pompidou and Portuguese Prime Minister Caetano.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2843</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1971-12-20</start-date>
+        <end-date>1971-12-21</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Bermuda</locale>
+        <remarks>Met with British Prime Minister Heath.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2844</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1972-02-21</start-date>
+        <end-date>1972-02-28</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Shanghai, Peking, Hangchow</locale>
+        <remarks>State visit; met with Chairman Mao Tse-tung and Premier Chou En-lai.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2845</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1972-04-13</start-date>
+        <end-date>1972-04-15</end-date>
+        <country id="canada">Canada</country>
+        <locale>Ottawa</locale>
+        <remarks>State visit; met with Governor General Michener and Prime Minister Trudeau; addressed Parliament.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2846</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1972-05-20</start-date>
+        <end-date>1972-05-22</end-date>
+        <country id="austria">Austria</country>
+        <locale>Salzburg</locale>
+        <remarks>Informal visit; met with Chancellor Kreisky.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2847</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1972-05-22</start-date>
+        <end-date>1972-05-30</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Moscow, Leningrad, Kiev</locale>
+        <remarks>State visit; met with Premier Kosygin and General Secretary Brezhnev. Signed SALT I and ABM Treaties.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2848</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1972-05-30</start-date>
+        <end-date>1972-05-31</end-date>
+        <country id="iran">Iran</country>
+        <locale>Tehran</locale>
+        <remarks>Official visit; met with Shah Mohammed Reza Pahlavi.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2849</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1972-05-31</start-date>
+        <end-date>1972-06-01</end-date>
+        <country id="poland">Poland</country>
+        <locale>Warsaw</locale>
+        <remarks>Official visit; met with First Secretary Gierek.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2850</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1973-05-31</start-date>
+        <end-date>1973-06-01</end-date>
+        <country id="iceland">Iceland</country>
+        <locale>Reykjavik</locale>
+        <remarks>Met with President Eldjarn and Prime Minister Johanneson, and French President Pompidou.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2851</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-04-05</start-date>
+        <end-date>1974-04-07</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Attended memorial services for former President Pompidou. Met afterward with interim President Poher, Italian Prime Minister Leone, British Prime Minister Wilson, West German Chancellor Brandt, Danish Prime Minister Hartling, Soviet President Podgorny, and Japanese Prime Minister Tanaka.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2852</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-06-10</start-date>
+        <end-date>1974-06-12</end-date>
+        <country id="austria">Austria</country>
+        <locale>Salzburg</locale>
+        <remarks>Met with Chancellor Kreisky.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2853</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-06-12</start-date>
+        <end-date>1974-06-14</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo, Alexandria</locale>
+        <remarks>Met with President Sadat.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2854</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-06-14</start-date>
+        <end-date>1974-06-15</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jidda</locale>
+        <remarks>Met with King Faisal.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2855</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-06-15</start-date>
+        <end-date>1974-06-16</end-date>
+        <country id="syria">Syria</country>
+        <locale>Damascus</locale>
+        <remarks>Met with President Assad.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2856</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-06-16</start-date>
+        <end-date>1974-06-17</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Met with President Katzir and Prime Minister Rabin.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2857</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-06-17</start-date>
+        <end-date>1974-06-18</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>State visit; met with King Hussein.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2858</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-06-18</start-date>
+        <end-date>1974-06-19</end-date>
+        <country id="portugal">Portugal</country>
+        <locale>Lajes Field (The Azores)</locale>
+        <remarks>Met with President Spinola.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2859</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-06-25</start-date>
+        <end-date>1974-06-26</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended North Atlantic Council meeting, and met separately with King Baudonin and Queen Fabiola, Prime Minister Tindemans; and with German Chancellor Schmidt, British Prime Minister Wilson, and Italian Prime Minister Rumor.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="nixon-richard-m" role="president">
+        <id>2860</id>
+        <role>president</role>
+        <name>Richard M. Nixon</name>
+        <start-date>1974-06-27</start-date>
+        <end-date>1974-07-03</end-date>
+        <country id="russia">U.S.S.R.</country>
+        <locale>Moscow, Minsk, Oreanda</locale>
+        <remarks>Official visit; met with General Secretary Brezhnev, President Podgorny, and Premier Kosygin.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>

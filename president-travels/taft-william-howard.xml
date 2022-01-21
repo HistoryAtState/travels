@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip who="taft-william-howard" role="president">
+        <id>2655</id>
+        <role>president</role>
+        <name>William Howard Taft</name>
+        <start-date>1909-01-29</start-date>
+        <end-date>1909-02-07</end-date>
+        <country id="panama">Panama</country>
+        <locale>Colon, Panama City</locale>
+        <remarks>Inspected construction of Panama Canal. Met with President Obaldia. [Visit made as President-elect.]</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+    <trip who="taft-william-howard" role="president">
+        <id>2656</id>
+        <role>president</role>
+        <name>William Howard Taft</name>
+        <start-date>1909-10-16</start-date>
+        <end-date>1909-10-16</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Ciudad Juarez</locale>
+        <remarks>Part of an exchange of visits with President Diaz across the border.</remarks>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+    </trip>
+</trips>
