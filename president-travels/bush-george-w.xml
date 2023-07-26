@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2381</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2382</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -28,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2383</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -42,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2384</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -56,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2385</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -64,13 +64,14 @@
         <end-date>2001-06-15</end-date>
         <country id="sweden">Sweden</country>
         <locale>Goteborg</locale>
-        <remarks>Attended U.S.-European Union Summit Meeting; met with King Carl XVI Gustav.</remarks>
+        <remarks>Attended U.S.-European Union Summit Meeting; met with King Carl XVI
+            Gustav.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2386</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -84,7 +85,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2387</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -98,7 +99,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2388</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -112,7 +113,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2389</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -120,13 +121,14 @@
         <end-date>2001-07-24</end-date>
         <country id="italy">Italy</country>
         <locale>Genoa, Castel Gandolfo, Rome</locale>
-        <remarks>Attended the G-8 Economic Summit. Met with Pope John Paul II at Castel Gandolfo and with Prime Minister Berlusconi and President Ciampi in Rome.</remarks>
+        <remarks>Attended the G-8 Economic Summit. Met with Pope John Paul II at Castel Gandolfo and
+            with Prime Minister Berlusconi and President Ciampi in Rome.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2390</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -140,7 +142,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2391</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -154,7 +156,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2392</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -168,7 +170,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2393</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -176,13 +178,14 @@
         <end-date>2002-02-21</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul, Dorasan, Osan</locale>
-        <remarks>Met with President Kin Dae-Jung, visited the Demilitarized Zone, addressed U.S. military personnel.</remarks>
+        <remarks>Met with President Kin Dae-Jung, visited the Demilitarized Zone, addressed U.S.
+            military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2394</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -196,7 +199,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2395</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -204,13 +207,14 @@
         <end-date>2002-03-22</end-date>
         <country id="mexico">Mexico</country>
         <locale>Monterrey</locale>
-        <remarks>Attended the International Conference on Financing for Development and met with President Fox.</remarks>
+        <remarks>Attended the International Conference on Financing for Development and met with
+            President Fox.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2396</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -218,13 +222,14 @@
         <end-date>2002-03-24</end-date>
         <country id="peru">Peru</country>
         <locale>Lima</locale>
-        <remarks>Met with the Presidents of Peru, Colombia, and Bolivia, and with the Vice President of Ecuador.</remarks>
+        <remarks>Met with the Presidents of Peru, Colombia, and Bolivia, and with the Vice President
+            of Ecuador.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2397</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -238,7 +243,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2398</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -252,7 +257,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2399</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -260,13 +265,14 @@
         <end-date>2002-05-26</end-date>
         <country id="russia">Russia</country>
         <locale>Moscow, St. Petersburg</locale>
-        <remarks>Summit meeting with President Putin. Signed strategic arms reduction treaty.</remarks>
+        <remarks>Summit meeting with President Putin. Signed strategic arms reduction
+            treaty.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2400</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -274,13 +280,14 @@
         <end-date>2002-05-27</end-date>
         <country id="france">France</country>
         <locale>Paris, St. Mere- Eglise, Colleville</locale>
-        <remarks>Met with President Chirac and delivered a Memorial Day address in Normandy.</remarks>
+        <remarks>Met with President Chirac and delivered a Memorial Day address in
+            Normandy.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2401</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -288,13 +295,14 @@
         <end-date>2002-05-28</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with President Ciampi and Prime Minister Berlusconi. Attended NATO Summit Meeting and inaugurated the NATO-Russia Council.</remarks>
+        <remarks>Met with President Ciampi and Prime Minister Berlusconi. Attended NATO Summit
+            Meeting and inaugurated the NATO-Russia Council.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2402</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -308,7 +316,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2403</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -322,7 +330,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2404</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -336,7 +344,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2405</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -350,7 +358,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2406</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -364,7 +372,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2407</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -378,7 +386,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2408</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -392,7 +400,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2409</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -400,13 +408,14 @@
         <end-date>2003-03-16</end-date>
         <country id="portugal">Portugal</country>
         <locale>Terceira Island (Azores)</locale>
-        <remarks>Discussed the Iraq crisis with British Prime Minister Blair, Spanish President Aznar, and Portuguese Prime Minister Durao.</remarks>
+        <remarks>Discussed the Iraq crisis with British Prime Minister Blair, Spanish President
+            Aznar, and Portuguese Prime Minister Durao.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2410</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -414,13 +423,14 @@
         <end-date>2003-04-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Belfast, Hillsborough (Northern Ireland)</locale>
-        <remarks>Met with Prime Minister Blair to discuss the reconstruction of Iraq. Also met with Irish Prime Minister Ahern and Northern Irish political leaders.</remarks>
+        <remarks>Met with Prime Minister Blair to discuss the reconstruction of Iraq. Also met with
+            Irish Prime Minister Ahern and Northern Irish political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2411</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -428,13 +438,14 @@
         <end-date>2003-05-31</end-date>
         <country id="poland">Poland</country>
         <locale>Krakow, Auschwitz-Birkenau</locale>
-        <remarks>Met with President Kwasniewski and Prime Minister Miller; visited former Nazi concentration camps.</remarks>
+        <remarks>Met with President Kwasniewski and Prime Minister Miller; visited former Nazi
+            concentration camps.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2412</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -442,13 +453,14 @@
         <end-date>2003-06-01</end-date>
         <country id="russia">Russia</country>
         <locale>St. Petersburg</locale>
-        <remarks>Met with President Putin and attended ceremonies commemorating the city’s 300th anniversary.</remarks>
+        <remarks>Met with President Putin and attended ceremonies commemorating the city’s 300th
+            anniversary.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2413</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -456,13 +468,14 @@
         <end-date>2003-06-02</end-date>
         <country id="france">France</country>
         <locale>Evian-les-Bains</locale>
-        <remarks>Attended the G-8 Economic Summit and met with Chinese President Hu Jintao.</remarks>
+        <remarks>Attended the G-8 Economic Summit and met with Chinese President Hu
+            Jintao.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2414</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -470,13 +483,14 @@
         <end-date>2003-06-03</end-date>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
-        <remarks>Attended “Red Sea Summit” with the leaders of Bahrain, Egypt, Jordan, and Saudi Arabia, and with Palestinian Prime Minister Abbas.</remarks>
+        <remarks>Attended “Red Sea Summit” with the leaders of Bahrain, Egypt, Jordan, and Saudi
+            Arabia, and with Palestinian Prime Minister Abbas.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2415</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -484,13 +498,14 @@
         <end-date>2003-06-04</end-date>
         <country id="jordan">Jordan</country>
         <locale>Aqaba</locale>
-        <remarks>Attended meetings with Israeli Prime Minister Sharon and Palestinian Prime Minister Abbas. Met with King Abdullah II.</remarks>
+        <remarks>Attended meetings with Israeli Prime Minister Sharon and Palestinian Prime Minister
+            Abbas. Met with King Abdullah II.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2416</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -498,13 +513,14 @@
         <end-date>2003-06-05</end-date>
         <country id="qatar">Qatar</country>
         <locale>Doha</locale>
-        <remarks>Met with Emir Hamad Thani, visited U.S. Central Command headquarters and addressed U.S. military personnel. Overflew Baghdad en route to Qatar.</remarks>
+        <remarks>Met with Emir Hamad Thani, visited U.S. Central Command headquarters and addressed
+            U.S. military personnel. Overflew Baghdad en route to Qatar.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2417</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -518,7 +534,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2418</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -532,7 +548,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2419</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -546,7 +562,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2420</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -560,7 +576,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2421</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -574,7 +590,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2422</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -588,7 +604,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2423</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -596,13 +612,14 @@
         <end-date>2003-10-19</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Addressed a joint session of the Philippine Congress and met with President Arroyo-Macapagal.</remarks>
+        <remarks>Addressed a joint session of the Philippine Congress and met with President
+            Arroyo-Macapagal.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2424</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -616,7 +633,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2425</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -630,7 +647,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2426</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -644,7 +661,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2427</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -658,7 +675,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2428</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -672,7 +689,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2429</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -680,13 +697,14 @@
         <end-date>2003-11-27</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
-        <remarks>Met with members of the Coalition Provisional Authority and the Iraqi Governing Council and addressed U.S. military personnel.</remarks>
+        <remarks>Met with members of the Coalition Provisional Authority and the Iraqi Governing
+            Council and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2430</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -700,7 +718,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2431</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -714,7 +732,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2432</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -728,7 +746,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2433</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -742,7 +760,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2434</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -756,7 +774,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2435</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -764,13 +782,14 @@
         <end-date>2004-06-29</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Istanbul</locale>
-        <remarks>Met with President Sezer and Prime Minister Erdogan and attended NATO Summit meeting in Istanbul.</remarks>
+        <remarks>Met with President Sezer and Prime Minister Erdogan and attended NATO Summit
+            meeting in Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2436</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -784,7 +803,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2437</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -798,7 +817,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2438</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -812,7 +831,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2439</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -826,7 +845,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2440</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -840,7 +859,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2441</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -854,7 +873,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2442</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -868,7 +887,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2443</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -882,7 +901,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2444</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -896,7 +915,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2445</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -904,13 +923,14 @@
         <end-date>2005-05-08</end-date>
         <country id="netherlands">Netherlands</country>
         <locale>Maastricht, Valkenburg, Margraten</locale>
-        <remarks>Met with Prime Minister Balkenende and gave an address at a U.S. military cemetery.</remarks>
+        <remarks>Met with Prime Minister Balkenende and gave an address at a U.S. military
+            cemetery.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2446</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -924,7 +944,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2447</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -938,7 +958,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2448</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -952,7 +972,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2449</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -966,7 +986,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2450</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -980,7 +1000,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2451</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -994,7 +1014,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2452</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1008,7 +1028,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2453</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1022,7 +1042,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2454</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1036,7 +1056,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2455</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1050,7 +1070,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2456</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1064,7 +1084,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2457</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1078,7 +1098,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2458</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1086,13 +1106,14 @@
         <end-date>2006-03-01</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Bagram, Kabul</locale>
-        <remarks>Met with President Karzai, dedicated new U.S. Embassy, and addressed U.S. military personnel.</remarks>
+        <remarks>Met with President Karzai, dedicated new U.S. Embassy, and addressed U.S. military
+            personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2459</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1106,7 +1127,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2460</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1120,7 +1141,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2461</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1134,7 +1155,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2462</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1148,7 +1169,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2463</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1162,7 +1183,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2464</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1170,13 +1191,14 @@
         <end-date>2006-06-22</end-date>
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
-        <remarks>Met with President Solyom, Prime Minister Gyurcsany and commemorated the 50th anniversary of the Hungarian Uprising.</remarks>
+        <remarks>Met with President Solyom, Prime Minister Gyurcsany and commemorated the 50th
+            anniversary of the Hungarian Uprising.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2465</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1190,7 +1212,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2466</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1198,13 +1220,14 @@
         <end-date>2006-07-17</end-date>
         <country id="russia">Russia</country>
         <locale>St. Petersburg</locale>
-        <remarks>Attended the G-8 Economic Summit. Met with President Hu of China, July 16; and President Lula of Brazil and Prime Minister Singh of India, July 17.</remarks>
+        <remarks>Attended the G-8 Economic Summit. Met with President Hu of China, July 16; and
+            President Lula of Brazil and Prime Minister Singh of India, July 17.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2467</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1218,7 +1241,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2468</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1226,13 +1249,14 @@
         <end-date>2006-11-17</end-date>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
-        <remarks>Met with Acting President Pillay and Prime Minister Lee. Addressed National Singapore University.</remarks>
+        <remarks>Met with Acting President Pillay and Prime Minister Lee. Addressed National
+            Singapore University.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2469</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1246,7 +1270,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2470</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1260,7 +1284,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2471</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1274,7 +1298,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2472</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1288,7 +1312,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2473</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1302,7 +1326,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2474</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1316,7 +1340,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2475</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1330,7 +1354,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2476</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1344,7 +1368,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2477</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1358,7 +1382,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2478</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1372,7 +1396,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2479</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1380,13 +1404,14 @@
         <end-date>2007-06-05</end-date>
         <country id="czech-republic">Czech Republic</country>
         <locale>Prague</locale>
-        <remarks>Met with President Klaus and Prime Minister Topolanek. Addressed Conference on Democracy and Security.</remarks>
+        <remarks>Met with President Klaus and Prime Minister Topolanek. Addressed Conference on
+            Democracy and Security.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2480</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1394,13 +1419,14 @@
         <end-date>2007-06-08</end-date>
         <country id="germany">Germany</country>
         <locale>Heiligen-damm</locale>
-        <remarks>Attended the G-8 Summit Meeting. Also met with Chinese President Hu Jintao.</remarks>
+        <remarks>Attended the G-8 Summit Meeting. Also met with Chinese President Hu
+            Jintao.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2481</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1414,7 +1440,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2482</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1428,7 +1454,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2483</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1442,7 +1468,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2484</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1456,7 +1482,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2485</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1470,7 +1496,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2486</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1478,13 +1504,14 @@
         <end-date>2007-08-21</end-date>
         <country id="canada">Canada</country>
         <locale>Montebello, Quebec</locale>
-        <remarks>Attended North American Leaders’ Summit with Mexican President Calderon and Canadian Prime Minister Harper.</remarks>
+        <remarks>Attended North American Leaders’ Summit with Mexican President Calderon and
+            Canadian Prime Minister Harper.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2487</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1492,13 +1519,14 @@
         <end-date>2007-09-03</end-date>
         <country id="iraq">Iraq</country>
         <locale>Al-Assad Air Force Base</locale>
-        <remarks>Met with Gen. Petraeus, Secretary of State Rice, Secretary of Defense Gates, senior U.S. officials, and Iraqi political leaders.</remarks>
+        <remarks>Met with Gen. Petraeus, Secretary of State Rice, Secretary of Defense Gates, senior
+            U.S. officials, and Iraqi political leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2488</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1512,7 +1540,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2489</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1526,7 +1554,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2490</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1540,7 +1568,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2491</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1548,13 +1576,14 @@
         <end-date>2008-01-12</end-date>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City, Camp Arifjan</locale>
-        <remarks>Attended Roundtable on Democracy and Development. Met with Gen. Petraeus and Ambassador Crocker at Camp Arifjan and addressed U.S. military personnel.</remarks>
+        <remarks>Attended Roundtable on Democracy and Development. Met with Gen. Petraeus and
+            Ambassador Crocker at Camp Arifjan and addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2492</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1562,13 +1591,14 @@
         <end-date>2008-01-13</end-date>
         <country id="bahrain">Bahrain</country>
         <locale>Manama</locale>
-        <remarks>Met with King Hamad bin Isa al –Khalifa. Addressed U.S. military personnel.</remarks>
+        <remarks>Met with King Hamad bin Isa al –Khalifa. Addressed U.S. military
+            personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2493</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1576,13 +1606,14 @@
         <end-date>2008-01-14</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi, Dubai</locale>
-        <remarks>Met with President Khalifa bin Zayid al Nuhayyin and Crown Prince Sheikh Mohammed.</remarks>
+        <remarks>Met with President Khalifa bin Zayid al Nuhayyin and Crown Prince Sheikh
+            Mohammed.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2494</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1596,7 +1627,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2495</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1610,7 +1641,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2496</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1624,7 +1655,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2497</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1638,7 +1669,7 @@
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-08-21T00:00:00-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2498</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1652,7 +1683,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2499</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1666,7 +1697,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2500</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1680,7 +1711,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2501</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1694,7 +1725,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2502</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1702,13 +1733,15 @@
         <end-date>2008-04-04</end-date>
         <country id="romania">Romania</country>
         <locale>Bucharest</locale>
-        <remarks>Met with President Basescu and Prime Minister Popescu-Tariceanu. Attended NATO, Euro-Atlantic Partnership Council, NATO-Ukraine Commission, and NATO-Russia Council Summit Meetings.</remarks>
+        <remarks>Met with President Basescu and Prime Minister Popescu-Tariceanu. Attended NATO,
+            Euro-Atlantic Partnership Council, NATO-Ukraine Commission, and NATO-Russia Council
+            Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2503</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1722,7 +1755,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2504</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1736,7 +1769,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2505</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1744,13 +1777,14 @@
         <end-date>2008-05-16</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem, Masada</locale>
-        <remarks>Met with President Peres and Prime Minister Olmert. Addressed the Knesset. Commemorated Israel’s 60th anniversary.</remarks>
+        <remarks>Met with President Peres and Prime Minister Olmert. Addressed the Knesset.
+            Commemorated Israel’s 60th anniversary.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2506</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1764,7 +1798,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2507</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1772,13 +1806,15 @@
         <end-date>2008-05-18</end-date>
         <country id="egypt">Egypt</country>
         <locale>Sharm el-Sheikh</locale>
-        <remarks>Met with President Mubarak, King Abdullah II of Jordan, Palestinian Authority President Abbas and Prime Minister Fayyad, Afghan President Karzai and Pakistani Prime Minister Gilan. Addressed the World Economic Forum.</remarks>
+        <remarks>Met with President Mubarak, King Abdullah II of Jordan, Palestinian Authority
+            President Abbas and Prime Minister Fayyad, Afghan President Karzai and Pakistani Prime
+            Minister Gilan. Addressed the World Economic Forum.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2508</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1786,13 +1822,14 @@
         <end-date>2008-06-10</end-date>
         <country id="slovenia">Slovenia</country>
         <locale>Ljubljana</locale>
-        <remarks>Met with President Turk and Prime Minister Jansa. Attended the EU-US Summit Meeting.</remarks>
+        <remarks>Met with President Turk and Prime Minister Jansa. Attended the EU-US Summit
+            Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2509</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1806,7 +1843,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2510</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1820,7 +1857,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2511</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1834,7 +1871,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2512</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1842,13 +1879,14 @@
         <end-date>2008-06-15</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President Sarkozy. Addressed the OECD. Attended wreath-laying ceremonies at Suresnes and Mont Valerien.</remarks>
+        <remarks>Met with President Sarkozy. Addressed the OECD. Attended wreath-laying ceremonies
+            at Suresnes and Mont Valerien.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2513</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1856,13 +1894,15 @@
         <end-date>2008-06-16</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Belfast</locale>
-        <remarks>Met with Queen Elizabeth II at Windsor Castle. Met with Prime Minister Blair and Quartet Representative Blair. In Belfast, met with First Minister Robertson and Deputy First Minister McGuinness.</remarks>
+        <remarks>Met with Queen Elizabeth II at Windsor Castle. Met with Prime Minister Blair and
+            Quartet Representative Blair. In Belfast, met with First Minister Robertson and Deputy
+            First Minister McGuinness.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2514</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1870,13 +1910,14 @@
         <end-date>2008-07-09</end-date>
         <country id="japan">Japan</country>
         <locale>Toyako</locale>
-        <remarks>Attended the G-8 Economic Summit. Also met with Tanzanian President Kikwete, Indian Prime Minister Singh, Chinese President Hu, and South Korean President Lee.</remarks>
+        <remarks>Attended the G-8 Economic Summit. Also met with Tanzanian President Kikwete, Indian
+            Prime Minister Singh, Chinese President Hu, and South Korean President Lee.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2515</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1890,7 +1931,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2516</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1904,7 +1945,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2517</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1912,13 +1953,14 @@
         <end-date>2008-08-11</end-date>
         <country id="china">China</country>
         <locale>Beijing</locale>
-        <remarks>Attended opening ceremonies of the Olympic Games. Dedicated a new U.S. Embassy. Met with President Hu and Russian Prime Minister Putin.</remarks>
+        <remarks>Attended opening ceremonies of the Olympic Games. Dedicated a new U.S. Embassy. Met
+            with President Hu and Russian Prime Minister Putin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2518</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1932,7 +1974,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2519</id>
         <role>president</role>
         <name>George W. Bush</name>
@@ -1940,13 +1982,14 @@
         <end-date>2008-12-14</end-date>
         <country id="iraq">Iraq</country>
         <locale>Baghdad</locale>
-        <remarks>Met with President Talabani and Prime Minister Maliki. Signed Strategic Framework and Security Agreements. Visited U.S. military personnel.</remarks>
+        <remarks>Met with President Talabani and Prime Minister Maliki. Signed Strategic Framework
+            and Security Agreements. Visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="bush-george-w" role="president">
+    <trip role="president" who="bush-george-w">
         <id>2520</id>
         <role>president</role>
         <name>George W. Bush</name>

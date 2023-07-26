@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="roosevelt-theodore" role="president">
+    <trip role="president" who="roosevelt-theodore">
         <id>2654</id>
         <role>president</role>
         <name>Theodore Roosevelt</name>
@@ -8,7 +8,8 @@
         <end-date>1906-11-17</end-date>
         <country id="panama">Panama</country>
         <locale>Colon, Panama City</locale>
-        <remarks>To inspect construction of Panama Canal. First visit abroad by any President or President-elect. Departed the U.S. November 9; returned to U.S. November 26.</remarks>
+        <remarks>To inspect construction of Panama Canal. First visit abroad by any President or
+            President-elect. Departed the U.S. November 9; returned to U.S. November 26.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

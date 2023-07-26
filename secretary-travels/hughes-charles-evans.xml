@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="hughes-charles-evans" role="secretary">
+    <trip role="secretary" who="hughes-charles-evans">
         <id>935</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="hughes-charles-evans" role="secretary">
+    <trip role="secretary" who="hughes-charles-evans">
         <id>936</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
@@ -22,13 +22,14 @@
         <end-date>1922-09-12</end-date>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
-        <remarks>U.S. Special Mission to Brazil. Attended ceremonies commemorating centenary of Brazilian independence. Left U.S. August 24; returned September 23.</remarks>
+        <remarks>U.S. Special Mission to Brazil. Attended ceremonies commemorating centenary of
+            Brazilian independence. Left U.S. August 24; returned September 23.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
     </trip>
-    <trip who="hughes-charles-evans" role="secretary">
+    <trip role="secretary" who="hughes-charles-evans">
         <id>937</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
@@ -42,7 +43,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="hughes-charles-evans" role="secretary">
+    <trip role="secretary" who="hughes-charles-evans">
         <id>938</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
@@ -50,13 +51,14 @@
         <end-date>1924-07-28</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>As President of the American Bar Association, attended an international law convention. Left U.S. July 12.</remarks>
+        <remarks>As President of the American Bar Association, attended an international law
+            convention. Left U.S. July 12.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="hughes-charles-evans" role="secretary">
+    <trip role="secretary" who="hughes-charles-evans">
         <id>939</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
@@ -70,7 +72,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="hughes-charles-evans" role="secretary">
+    <trip role="secretary" who="hughes-charles-evans">
         <id>940</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
@@ -84,7 +86,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="hughes-charles-evans" role="secretary">
+    <trip role="secretary" who="hughes-charles-evans">
         <id>941</id>
         <role>secretary</role>
         <name>Charles Evans Hughes</name>
@@ -92,7 +94,8 @@
         <end-date>1924-08-04</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with President Ebert and Foreign Minister Stresemann. Returned to U.S. August 14.</remarks>
+        <remarks>Met with President Ebert and Foreign Minister Stresemann. Returned to U.S. August
+            14.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

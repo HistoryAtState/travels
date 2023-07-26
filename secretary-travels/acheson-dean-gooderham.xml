@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3290</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:25:22.673-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3291</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -22,13 +22,14 @@
         <end-date>1949-11-11</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with the Foreign Ministers of the United Kingdom, France, Belgium, Luxembourg, and the Netherlands.</remarks>
+        <remarks>Met with the Foreign Ministers of the United Kingdom, France, Belgium, Luxembourg,
+            and the Netherlands.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-12-16T07:39:58.699-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3292</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -42,7 +43,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3293</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -50,13 +51,14 @@
         <end-date>1949-11-14</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with West Berlin officials and the commandants of the occupation sectors. Briefly visited East Berlin.</remarks>
+        <remarks>Met with West Berlin officials and the commandants of the occupation sectors.
+            Briefly visited East Berlin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-12-16T07:39:58.699-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3294</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -70,7 +72,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3295</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -84,7 +86,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3296</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -98,7 +100,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3297</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -112,7 +114,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3298</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -126,7 +128,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3299</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -140,7 +142,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3300</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -148,13 +150,14 @@
         <end-date>1952-02-19</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Attended the funeral of King George VI and conferred with the British and French Foreign Ministers and with West German Chancellor Adenauer.</remarks>
+        <remarks>Attended the funeral of King George VI and conferred with the British and French
+            Foreign Ministers and with West German Chancellor Adenauer.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-12-16T07:39:58.699-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3301</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -168,7 +171,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3302</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -176,13 +179,14 @@
         <end-date>1952-05-26</end-date>
         <country id="germany">Germany</country>
         <locale>Bonn</locale>
-        <remarks>Signed Bonn Agreements providing for West German membership in NATO and the European Defense Community.</remarks>
+        <remarks>Signed Bonn Agreements providing for West German membership in NATO and the
+            European Defense Community.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-12-16T07:39:58.699-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3303</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -190,13 +194,14 @@
         <end-date>1952-05-29</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Signed Protocol to the North Atlantic Treaty regarding the European Defense Community, May 28.</remarks>
+        <remarks>Signed Protocol to the North Atlantic Treaty regarding the European Defense
+            Community, May 28.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-12-16T07:39:58.699-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3304</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -204,13 +209,14 @@
         <end-date>1952-06-28</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Oxford</locale>
-        <remarks>Met with British and French Foreign Ministers. Received honorary degree from Oxford University.</remarks>
+        <remarks>Met with British and French Foreign Ministers. Received honorary degree from Oxford
+            University.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-12-16T07:39:58.699-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3305</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -224,7 +230,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3306</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -238,7 +244,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3307</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -252,7 +258,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3308</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -266,7 +272,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3309</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -280,7 +286,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3310</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
@@ -294,7 +300,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-12-16T07:39:58.699-04:00</last-modified-datetime>
     </trip>
-    <trip who="acheson-dean-gooderham" role="secretary">
+    <trip role="secretary" who="acheson-dean-gooderham">
         <id>3311</id>
         <role>secretary</role>
         <name>Dean Gooderham Acheson</name>
