@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2207</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -8,13 +8,14 @@
         <end-date>1977-02-17</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Rabin and Foreign Minister Allon; reviewed the Middle East peace process.</remarks>
+        <remarks>Met with Prime Minister Rabin and Foreign Minister Allon; reviewed the Middle East
+            peace process.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2208</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -22,13 +23,14 @@
         <end-date>1977-02-18</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Sadat and Foreign Minister Fahmy; reviewed the Middle East peace process.</remarks>
+        <remarks>Met with President Sadat and Foreign Minister Fahmy; reviewed the Middle East peace
+            process.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2209</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -42,7 +44,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2210</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -56,7 +58,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2211</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -64,13 +66,14 @@
         <end-date>1977-02-20</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with Crown Prince Fahd and Foreign Minister Prince Saud; reviewed the Middle East peace process.</remarks>
+        <remarks>Met with Crown Prince Fahd and Foreign Minister Prince Saud; reviewed the Middle
+            East peace process.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2212</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -84,7 +87,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2213</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -98,7 +101,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2214</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -106,13 +109,14 @@
         <end-date>1977-03-30</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Presented arms reduction proposal to General Secretary Brezhnev and Foreign Minister Gromyko.</remarks>
+        <remarks>Presented arms reduction proposal to General Secretary Brezhnev and Foreign
+            Minister Gromyko.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2215</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -120,13 +124,14 @@
         <end-date>1977-03-31</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Briefed Chancellor Schmidt and Foreign Minister Genscher on meetings with Soviet leaders.</remarks>
+        <remarks>Briefed Chancellor Schmidt and Foreign Minister Genscher on meetings with Soviet
+            leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2216</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -140,7 +145,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2217</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -148,13 +153,14 @@
         <end-date>1977-04-01</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Briefed President Giscard d'Estaing and senior French officials on meetings with Soviet leaders.</remarks>
+        <remarks>Briefed President Giscard d'Estaing and senior French officials on meetings with
+            Soviet leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2218</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -162,13 +168,14 @@
         <end-date>1977-05-11</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Accompanied President Carter to Economic Summit Meeting. Attended NATO Ministerial Meeting (May 10-11). Met May 11 with Israeli Foreign Minister Allon.</remarks>
+        <remarks>Accompanied President Carter to Economic Summit Meeting. Attended NATO Ministerial
+            Meeting (May 10-11). Met May 11 with Israeli Foreign Minister Allon.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2219</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -182,7 +189,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2220</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -196,7 +203,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2221</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -210,7 +217,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2222</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -218,13 +225,14 @@
         <end-date>1977-05-21</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Met with Soviet Foreign Minister Gromyko. Signed Convention on the Prohibition of Military or Any Other Hostile Use of Environmental Modification Techniques.</remarks>
+        <remarks>Met with Soviet Foreign Minister Gromyko. Signed Convention on the Prohibition of
+            Military or Any Other Hostile Use of Environmental Modification Techniques.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2223</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -238,7 +246,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2224</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -252,7 +260,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2225</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -266,7 +274,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2226</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -280,7 +288,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2227</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -288,13 +296,14 @@
         <end-date>1977-08-03</end-date>
         <country id="egypt">Egypt</country>
         <locale>Alexandria</locale>
-        <remarks>Met with President Sadat; discussed the Middle East peace process. Revisited.</remarks>
+        <remarks>Met with President Sadat; discussed the Middle East peace process.
+            Revisited.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2228</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -302,13 +311,14 @@
         <end-date>1977-08-03</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Beirut</locale>
-        <remarks>Met with President Sarkis and senior Lebanese officials; reviewed the Middle East peace process.</remarks>
+        <remarks>Met with President Sarkis and senior Lebanese officials; reviewed the Middle East
+            peace process.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2229</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -316,13 +326,14 @@
         <end-date>1977-08-05</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Reviewed the Middle East peace process with President Assad. Revisited Syria August 11.</remarks>
+        <remarks>Reviewed the Middle East peace process with President Assad. Revisited Syria August
+            11.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2230</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -330,13 +341,14 @@
         <end-date>1977-08-07</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Reviewed the Middle East peace process with King Hussein. Revisited Jordan August 11.</remarks>
+        <remarks>Reviewed the Middle East peace process with King Hussein. Revisited Jordan August
+            11.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2231</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -344,13 +356,14 @@
         <end-date>1977-08-09</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Taif</locale>
-        <remarks>Reviewed the Middle East peace process with King Khalid and senior Saudi officials.</remarks>
+        <remarks>Reviewed the Middle East peace process with King Khalid and senior Saudi
+            officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2232</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -358,13 +371,14 @@
         <end-date>1977-08-11</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Reviewed the Middle East peace process with Prime Minister Begin and Foreign Minister Dayan.</remarks>
+        <remarks>Reviewed the Middle East peace process with Prime Minister Begin and Foreign
+            Minister Dayan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2233</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -378,7 +392,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2234</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -386,13 +400,14 @@
         <end-date>1977-08-26</end-date>
         <country id="china">China</country>
         <locale>Peking</locale>
-        <remarks>Met with Chairman Hua, Foreign Minister Huang, and senior Chinese officials.</remarks>
+        <remarks>Met with Chairman Hua, Foreign Minister Huang, and senior Chinese
+            officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2235</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -406,7 +421,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2236</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -420,7 +435,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2237</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -434,7 +449,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2238</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -448,7 +463,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2239</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -462,7 +477,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2240</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -476,7 +491,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2241</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -490,7 +505,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2242</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -504,7 +519,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2243</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -518,7 +533,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2244</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -532,7 +547,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2245</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -546,7 +561,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2246</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -560,7 +575,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2247</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -574,7 +589,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2248</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -588,7 +603,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2249</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -602,7 +617,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2250</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -616,7 +631,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2251</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -630,7 +645,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2252</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -644,7 +659,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2253</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -658,7 +673,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2254</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -666,13 +681,14 @@
         <end-date>1978-01-20</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Attended the opening session of the Egyptian- Israeli Political Committee.</remarks>
+        <remarks>Attended the opening session of the Egyptian- Israeli Political
+            Committee.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2255</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -686,7 +702,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2256</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -700,7 +716,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2257</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -714,7 +730,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2258</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -728,7 +744,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2259</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -742,7 +758,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2260</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -756,7 +772,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2261</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -770,7 +786,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2262</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -784,7 +800,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2263</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -792,13 +808,14 @@
         <end-date>1978-04-16</end-date>
         <country id="tanzania">Tanzania</country>
         <locale>Dar es Salaam</locale>
-        <remarks>Discussed the Rhodesian question with British Foreign Secretary Owen and leaders of Zimbabwe's Patriotic Front.</remarks>
+        <remarks>Discussed the Rhodesian question with British Foreign Secretary Owen and leaders of
+            Zimbabwe's Patriotic Front.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2264</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -806,13 +823,14 @@
         <end-date>1978-04-17</end-date>
         <country id="south-africa">South Africa</country>
         <locale>Pretoria</locale>
-        <remarks>Discussed Rhodesia and Namibia with Foreign Minister Botha and British Foreign Secretary Owen.</remarks>
+        <remarks>Discussed Rhodesia and Namibia with Foreign Minister Botha and British Foreign
+            Secretary Owen.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2265</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -820,13 +838,14 @@
         <end-date>1978-04-17</end-date>
         <country id="zimbabwe">Southern Rhodesia (Zimbabwe)</country>
         <locale>Salisbury</locale>
-        <remarks>Discussed the Rhodesian question with members of the Transitional Government and British Foreign Secretary Owen.</remarks>
+        <remarks>Discussed the Rhodesian question with members of the Transitional Government and
+            British Foreign Secretary Owen.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2266</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -840,7 +859,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2267</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -854,7 +873,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-05-30T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2268</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -862,13 +881,14 @@
         <end-date>1978-05-05</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F., Puerto Vallarta</locale>
-        <remarks>Official visit. Met with President Lopez Portillo and Foreign Relations Secretary Roel.</remarks>
+        <remarks>Official visit. Met with President Lopez Portillo and Foreign Relations Secretary
+            Roel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2269</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -882,7 +902,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2270</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -896,7 +916,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2271</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -910,7 +930,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2272</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -918,13 +938,14 @@
         <end-date>1978-07-17</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Frankfurt, Bonn</locale>
-        <remarks>Accompanied President Carter on a State visit and to the Economic Summit Meeting.</remarks>
+        <remarks>Accompanied President Carter on a State visit and to the Economic Summit
+            Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2273</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -938,7 +959,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2274</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -946,13 +967,14 @@
         <end-date>1978-07-20</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Hollingbourne</locale>
-        <remarks>Discussed the Rhodesia question with Foreign Secretary Owen. Also met with the Egyptian and Israeli Foreign Ministers at Leeds Castle, July 18.</remarks>
+        <remarks>Discussed the Rhodesia question with Foreign Secretary Owen. Also met with the
+            Egyptian and Israeli Foreign Ministers at Leeds Castle, July 18.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2275</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -960,13 +982,14 @@
         <end-date>1978-08-07</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with Prime Minister Begin and delivered an invitation to meet with Presidents Carter and Sadat at Camp David.</remarks>
+        <remarks>Met with Prime Minister Begin and delivered an invitation to meet with Presidents
+            Carter and Sadat at Camp David.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2276</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -974,13 +997,14 @@
         <end-date>1978-08-09</end-date>
         <country id="egypt">Egypt</country>
         <locale>Alexandria</locale>
-        <remarks>Met with President Sadat and delivered an invitation to meet with President Carter and Prime Minister Begin at Camp David.</remarks>
+        <remarks>Met with President Sadat and delivered an invitation to meet with President Carter
+            and Prime Minister Begin at Camp David.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2277</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -994,7 +1018,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2278</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1008,7 +1032,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2279</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1022,7 +1046,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2280</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1036,7 +1060,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2281</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1050,7 +1074,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2282</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1064,7 +1088,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2283</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1072,13 +1096,14 @@
         <end-date>1978-10-24</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Discussed SALT negotiations with President Brezhnev and Foreign Minister Gromyko.</remarks>
+        <remarks>Discussed SALT negotiations with President Brezhnev and Foreign Minister
+            Gromyko.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2284</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1092,7 +1117,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2285</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1106,7 +1131,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2286</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1114,13 +1139,14 @@
         <end-date>1978-12-15</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Egyptian- Israeli peace process. Visited Cairo December 10-11, 12-13, and 14-15.</remarks>
+        <remarks>Discussed the Egyptian- Israeli peace process. Visited Cairo December 10-11, 12-13,
+            and 14-15.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2287</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1128,13 +1154,14 @@
         <end-date>1978-12-12</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
-        <remarks>Discussed the Egyptian-Israeli peace process and attended the funeral of former Prime Minister Meir.</remarks>
+        <remarks>Discussed the Egyptian-Israeli peace process and attended the funeral of former
+            Prime Minister Meir.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2288</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1148,7 +1175,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2289</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1162,7 +1189,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2290</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1176,7 +1203,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2291</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1190,7 +1217,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2292</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1204,7 +1231,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2293</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1218,7 +1245,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2294</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1226,13 +1253,14 @@
         <end-date>1979-03-13</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Accompanied President Carter during final Egyptian-Israeli peace negotiations.</remarks>
+        <remarks>Accompanied President Carter during final Egyptian-Israeli peace
+            negotiations.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2295</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1240,13 +1268,14 @@
         <end-date>1979-05-24</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Prime Minister Thatcher and Foreign Secretary Lord Carrington. Also met with Israeli Prime Minister Begin May 24.</remarks>
+        <remarks>Met with Prime Minister Thatcher and Foreign Secretary Lord Carrington. Also met
+            with Israeli Prime Minister Begin May 24.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2296</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1260,7 +1289,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2297</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1268,13 +1297,15 @@
         <end-date>1979-05-27</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Beersheva, El Arish</locale>
-        <remarks>Attended opening session of Egyptian-Israeli autonomy talks on the West Bank and Gaza at Beersheva, and the exchange of ratifications of the Egyptian-Israeli Peace Treaty.</remarks>
+        <remarks>Attended opening session of Egyptian-Israeli autonomy talks on the West Bank and
+            Gaza at Beersheva, and the exchange of ratifications of the Egyptian-Israeli Peace
+            Treaty.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2298</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1288,7 +1319,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2299</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1302,7 +1333,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2300</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1316,7 +1347,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2301</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1330,7 +1361,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2302</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1338,13 +1369,14 @@
         <end-date>1979-06-18</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Accompanied President Carter to U.S.-Soviet Summit and the signing of the SALT II Treaty.</remarks>
+        <remarks>Accompanied President Carter to U.S.-Soviet Summit and the signing of the SALT II
+            Treaty.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2303</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1358,7 +1390,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2304</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1366,13 +1398,14 @@
         <end-date>1979-06-29</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Accompanied President Carter on a State visit and to the Economic Summit Meeting.</remarks>
+        <remarks>Accompanied President Carter on a State visit and to the Economic Summit
+            Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2305</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1386,7 +1419,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2306</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1400,7 +1433,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2307</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1414,7 +1447,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2308</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1428,7 +1461,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2309</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1442,7 +1475,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2310</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1456,7 +1489,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2311</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1464,13 +1497,14 @@
         <end-date>1979-12-10</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed international responses to the Iranian hostage crisis with Prime Minister Thatcher and Foreign Secretary Lord Carrington.</remarks>
+        <remarks>Discussed international responses to the Iranian hostage crisis with Prime Minister
+            Thatcher and Foreign Secretary Lord Carrington.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2312</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1478,13 +1512,15 @@
         <end-date>1979-12-11</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Discussed international responses to the Iranian hostage crisis with President Giscard d'Estaing and Foreign Minister Francois-Poncet. Also met with Japanese Foreign Minister Okita.</remarks>
+        <remarks>Discussed international responses to the Iranian hostage crisis with President
+            Giscard d'Estaing and Foreign Minister Francois-Poncet. Also met with Japanese Foreign
+            Minister Okita.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2313</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1492,13 +1528,14 @@
         <end-date>1979-12-11</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Discussed international responses to the Iranian hostage crisis with President Pertini and Prime Minister Cossiga.</remarks>
+        <remarks>Discussed international responses to the Iranian hostage crisis with President
+            Pertini and Prime Minister Cossiga.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2314</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1506,13 +1543,14 @@
         <end-date>1979-12-12</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Discussed international responses to the Iranian hostage crisis with Chancellor Schmidt and Foreign Minister Genscher.</remarks>
+        <remarks>Discussed international responses to the Iranian hostage crisis with Chancellor
+            Schmidt and Foreign Minister Genscher.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2315</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1520,13 +1558,14 @@
         <end-date>1979-12-14</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting and a special meeting of NATO Foreign and Defense Ministers.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and a special meeting of NATO Foreign and Defense
+            Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2316</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1534,13 +1573,14 @@
         <end-date>1980-02-20</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Discussed responses to Soviet invasion of Afghanistan with Chancellor Schmidt and Foreign Minister Genscher.</remarks>
+        <remarks>Discussed responses to Soviet invasion of Afghanistan with Chancellor Schmidt and
+            Foreign Minister Genscher.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2317</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1548,13 +1588,14 @@
         <end-date>1980-02-21</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Discussed responses to Soviet invasion of Afghanistan with President Pertini and Foreign Minister Ruffini.</remarks>
+        <remarks>Discussed responses to Soviet invasion of Afghanistan with President Pertini and
+            Foreign Minister Ruffini.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2318</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1562,13 +1603,14 @@
         <end-date>1980-02-21</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Discussed responses to Soviet invasion of Afghanistan with Foreign Minister Francois-Poncet.</remarks>
+        <remarks>Discussed responses to Soviet invasion of Afghanistan with Foreign Minister
+            Francois-Poncet.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2319</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>
@@ -1576,13 +1618,14 @@
         <end-date>1980-02-22</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed responses to Soviet invasion of Afghanistan with Foreign Secretary Lord Carrington.</remarks>
+        <remarks>Discussed responses to Soviet invasion of Afghanistan with Foreign Secretary Lord
+            Carrington.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="vance-cyrus-roberts" role="secretary">
+    <trip role="secretary" who="vance-cyrus-roberts">
         <id>2320</id>
         <role>secretary</role>
         <name>Cyrus Roberts Vance</name>

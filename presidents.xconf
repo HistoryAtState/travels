@@ -2,7 +2,7 @@
     <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <range>
             <create match="//president">
-                <field name="president-id" match="id" type="xs:string"/>
+                <field match="id" name="president-id" type="xs:string"/>
             </create>
         </range>
     </index>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2188</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2189</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
@@ -22,13 +22,14 @@
         <end-date>1945-01-31</end-date>
         <country id="italy">Italy</country>
         <locale>Naples</locale>
-        <remarks>Discussed postwar issues and policy toward Italy with Presidential adviser Harry Hopkins.</remarks>
+        <remarks>Discussed postwar issues and policy toward Italy with Presidential adviser Harry
+            Hopkins.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2190</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
@@ -42,7 +43,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2191</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
@@ -50,13 +51,14 @@
         <end-date>1945-02-14</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Yalta, Moscow</locale>
-        <remarks>Accompanied President Roosevelt to the Crimea Conference. Met afterward (February 11-14) with Soviet Foreign Minister Molotov.</remarks>
+        <remarks>Accompanied President Roosevelt to the Crimea Conference. Met afterward (February
+            11-14) with Soviet Foreign Minister Molotov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2192</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
@@ -70,7 +72,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2193</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
@@ -84,7 +86,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2194</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
@@ -98,7 +100,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2195</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
@@ -106,13 +108,14 @@
         <end-date>1945-02-20</end-date>
         <country id="guatemala">Guatemala</country>
         <locale>Guatemala City</locale>
-        <remarks>Met with the Presidential Triumvirate and Secretary of Foreign Relations Munoz Meany.</remarks>
+        <remarks>Met with the Presidential Triumvirate and Secretary of Foreign Relations Munoz
+            Meany.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2196</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>
@@ -126,7 +129,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="stettinius-edward-reilly" role="secretary">
+    <trip role="secretary" who="stettinius-edward-reilly">
         <id>2197</id>
         <role>secretary</role>
         <name>Edward Reilly Stettinius</name>

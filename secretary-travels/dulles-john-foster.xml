@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>738</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>739</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -22,13 +22,14 @@
         <end-date>1953-02-03</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with senior French officials and with representatives of NATO and the Organization for European Economic Cooperation.</remarks>
+        <remarks>Met with senior French officials and with representatives of NATO and the
+            Organization for European Economic Cooperation.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>740</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -42,7 +43,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>741</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -56,7 +57,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>742</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -70,7 +71,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>743</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -84,7 +85,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>744</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -98,7 +99,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>745</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -112,7 +113,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>746</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -120,13 +121,14 @@
         <end-date>1953-05-13</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with Prime Minister Naguib, Foreign Minister Fawzi, and Egyptian military leaders. Attended regional conference of U.S. Ambassadors.</remarks>
+        <remarks>Met with Prime Minister Naguib, Foreign Minister Fawzi, and Egyptian military
+            leaders. Attended regional conference of U.S. Ambassadors.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>747</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -140,7 +142,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>748</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -154,7 +156,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>749</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -168,7 +170,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>750</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -182,7 +184,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>751</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -196,7 +198,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>752</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -210,7 +212,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>753</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -224,7 +226,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>754</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -238,7 +240,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>755</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -246,13 +248,14 @@
         <end-date>1953-05-27</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Istanbul</locale>
-        <remarks>Met with President Bayer, Prime Minister Menderes, and senior Turkish officials.</remarks>
+        <remarks>Met with President Bayer, Prime Minister Menderes, and senior Turkish
+            officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>756</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -266,7 +269,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>757</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -280,7 +283,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>758</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -294,7 +297,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>759</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -308,7 +311,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>760</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -316,13 +319,14 @@
         <end-date>1953-08-08</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with Prime Minister Yoshida while returning to U.S. Announced return of the Amami Islands to Japan. Returned to U.S. August 10.</remarks>
+        <remarks>Met with Prime Minister Yoshida while returning to U.S. Announced return of the
+            Amami Islands to Japan. Returned to U.S. August 10.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>761</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -336,7 +340,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>762</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -350,7 +354,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>763</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -364,7 +368,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>764</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -372,13 +376,14 @@
         <end-date>1954-02-18</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Attended Big Four Foreign Ministers Meeting. Sessions of February 1-6, 15, and 17 were held in East Berlin.</remarks>
+        <remarks>Attended Big Four Foreign Ministers Meeting. Sessions of February 1-6, 15, and 17
+            were held in East Berlin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>765</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -392,7 +397,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>766</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -406,7 +411,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>767</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -420,7 +425,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>768</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -434,7 +439,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>769</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -448,7 +453,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>770</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -462,7 +467,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>771</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -476,7 +481,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>772</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -484,13 +489,14 @@
         <end-date>1954-07-15</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Conferred with Prime Ministers Eden and Mendes-France on the Genera Conference.</remarks>
+        <remarks>Conferred with Prime Ministers Eden and Mendes-France on the Genera
+            Conference.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>773</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -504,7 +510,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>774</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -518,7 +524,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>775</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -526,13 +532,14 @@
         <end-date>1954-09-10</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with Prime Minister Yoshida and Foreign Minister Okazaki en route from Manila.</remarks>
+        <remarks>Met with Prime Minister Yoshida and Foreign Minister Okazaki en route from
+            Manila.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>776</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -546,7 +553,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>777</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -560,7 +567,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>778</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -574,7 +581,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>779</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -582,13 +589,14 @@
         <end-date>1954-10-23</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended NATO, Four- and Nine-Power Conferences. Returned to U.S. October 25.</remarks>
+        <remarks>Attended NATO, Four- and Nine-Power Conferences. Returned to U.S. October
+            25.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>780</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -602,7 +610,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>781</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -616,7 +624,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>782</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -630,7 +638,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>783</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -644,7 +652,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>784</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -658,7 +666,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>785</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -672,7 +680,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>786</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -686,7 +694,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>787</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -700,7 +708,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>788</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -714,7 +722,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>789</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -728,7 +736,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>790</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -742,7 +750,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>791</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -756,7 +764,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>792</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -770,7 +778,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>793</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -778,13 +786,14 @@
         <end-date>1955-07-16</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with the French and British Foreign Ministers and attended a North Atlantic Council meeting.</remarks>
+        <remarks>Met with the French and British Foreign Ministers and attended a North Atlantic
+            Council meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>794</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -798,7 +807,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>795</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -806,13 +815,14 @@
         <end-date>1955-09-26</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Attended meeting of the Joint U.S.-Canadian Commission on Trade and Economic Affairs.</remarks>
+        <remarks>Attended meeting of the Joint U.S.-Canadian Commission on Trade and Economic
+            Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>796</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -820,13 +830,14 @@
         <end-date>1955-10-23</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with President Gronchi and Foreign Minister Martino. Left Washington October 21.</remarks>
+        <remarks>Met with President Gronchi and Foreign Minister Martino. Left Washington October
+            21.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>797</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -840,7 +851,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>798</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -854,7 +865,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>799</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -862,13 +873,14 @@
         <end-date>1955-11-16</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Attended meeting of the Foreign Ministers of the United Kingdom, France, the Soviet Union, and the United States.</remarks>
+        <remarks>Attended meeting of the Foreign Ministers of the United Kingdom, France, the Soviet
+            Union, and the United States.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>800</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -882,7 +894,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>801</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -896,7 +908,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>802</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -910,7 +922,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>803</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -924,7 +936,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>804</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -938,7 +950,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>805</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -952,7 +964,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>806</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -966,7 +978,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>807</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -980,7 +992,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>808</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -994,7 +1006,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>809</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1008,7 +1020,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>810</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1022,7 +1034,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>811</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1036,7 +1048,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>812</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1050,7 +1062,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>813</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1064,7 +1076,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>814</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1078,7 +1090,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>815</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1092,7 +1104,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>816</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1100,13 +1112,14 @@
         <end-date>1956-07-24</end-date>
         <country id="panama">Panama</country>
         <locale>Panama City</locale>
-        <remarks>Accompanied President Eisenhower to a meeting of the Presidents of the American Republics.</remarks>
+        <remarks>Accompanied President Eisenhower to a meeting of the Presidents of the American
+            Republics.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>817</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1120,7 +1133,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>818</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1134,7 +1147,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>819</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1148,7 +1161,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>820</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1156,13 +1169,14 @@
         <end-date>1956-08-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Attended Tripartite Conference on the Suez Canal with the British and French Foreign Ministers.</remarks>
+        <remarks>Attended Tripartite Conference on the Suez Canal with the British and French
+            Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>821</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1176,7 +1190,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>822</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1190,7 +1204,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>823</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1204,7 +1218,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>824</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1212,13 +1226,14 @@
         <end-date>1957-03-14</end-date>
         <country id="australia">Australia</country>
         <locale>Canberra</locale>
-        <remarks>Attended Third Meeting of SEATO Council of Ministers. Left Washington March 6; returned March 17.</remarks>
+        <remarks>Attended Third Meeting of SEATO Council of Ministers. Left Washington March 6;
+            returned March 17.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>825</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1226,13 +1241,14 @@
         <end-date>1957-03-24</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
-        <remarks>Attended a meeting between President Eisenhower and Prime Minister Macmillan.</remarks>
+        <remarks>Attended a meeting between President Eisenhower and Prime Minister
+            Macmillan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>826</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1246,7 +1262,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>827</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1254,13 +1270,14 @@
         <end-date>1957-05-06</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Prime Minister Mollet and attended meeting of U.S. Chiefs of Mission to European countries.</remarks>
+        <remarks>Met with Prime Minister Mollet and attended meeting of U.S. Chiefs of Mission to
+            European countries.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>828</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1268,13 +1285,14 @@
         <end-date>1957-07-28</end-date>
         <country id="canada">Canada</country>
         <locale>Kingston, Ottawa</locale>
-        <remarks>Personal and private visit. Met informally with Prime Minister Diefenbaker.</remarks>
+        <remarks>Personal and private visit. Met informally with Prime Minister
+            Diefenbaker.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>829</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1288,7 +1306,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>830</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1302,7 +1320,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>831</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1310,13 +1328,14 @@
         <end-date>1957-12-20</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
-        <remarks>Met with Generalissimo Franco and senior Spanish officials while returning from Paris.</remarks>
+        <remarks>Met with Generalissimo Franco and senior Spanish officials while returning from
+            Paris.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>832</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1324,13 +1343,14 @@
         <end-date>1958-01-23</end-date>
         <country id="morocco">Morocco</country>
         <locale>Marrakesh</locale>
-        <remarks>Met with King Mohammed V, Foreign Minister Balafrej, and senior Moroccan officials.</remarks>
+        <remarks>Met with King Mohammed V, Foreign Minister Balafrej, and senior Moroccan
+            officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>833</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1344,7 +1364,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>834</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1358,7 +1378,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>835</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1366,13 +1386,14 @@
         <end-date>1958-03-13</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Attended Fourth Meeting of the SEATO Ministerial Council. Left U.S. March 7.</remarks>
+        <remarks>Attended Fourth Meeting of the SEATO Ministerial Council. Left U.S. March
+            7.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>836</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1380,13 +1401,14 @@
         <end-date>1958-03-16</end-date>
         <country id="taiwan">Republic of China</country>
         <locale>Taipei</locale>
-        <remarks>Met with President Chiang and attended a conference of U.S. Chiefs of Mission to Asian countries. Returned March 18.</remarks>
+        <remarks>Met with President Chiang and attended a conference of U.S. Chiefs of Mission to
+            Asian countries. Returned March 18.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>837</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1400,7 +1422,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>838</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1414,7 +1436,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>839</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1422,13 +1444,14 @@
         <end-date>1958-05-10</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended the opening session of a conference of U.S. Chiefs of Mission to European countries.</remarks>
+        <remarks>Attended the opening session of a conference of U.S. Chiefs of Mission to European
+            countries.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>840</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1442,7 +1465,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>841</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1456,7 +1479,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>842</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1470,7 +1493,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>843</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1484,7 +1507,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>844</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1498,7 +1521,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>845</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1512,7 +1535,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>846</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1526,7 +1549,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>847</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1540,7 +1563,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>848</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1554,7 +1577,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>849</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1568,7 +1591,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>850</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1582,7 +1605,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>851</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1596,7 +1619,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>852</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1610,7 +1633,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>853</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>
@@ -1618,13 +1641,14 @@
         <end-date>1959-02-07</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President De Gaulle, Foreign Minister Couve de Murville, and NATO Secretary General Spaak.</remarks>
+        <remarks>Met with President De Gaulle, Foreign Minister Couve de Murville, and NATO
+            Secretary General Spaak.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="dulles-john-foster" role="secretary">
+    <trip role="secretary" who="dulles-john-foster">
         <id>854</id>
         <role>secretary</role>
         <name>John Foster Dulles</name>

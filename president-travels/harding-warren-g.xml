@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="harding-warren-g" role="president">
+    <trip role="president" who="harding-warren-g">
         <id>2667</id>
         <role>president</role>
         <name>Warren G. Harding</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="harding-warren-g" role="president">
+    <trip role="president" who="harding-warren-g">
         <id>2668</id>
         <role>president</role>
         <name>Warren G. Harding</name>
@@ -28,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="harding-warren-g" role="president">
+    <trip role="president" who="harding-warren-g">
         <id>2669</id>
         <role>president</role>
         <name>Warren G. Harding</name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2861</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -8,13 +8,14 @@
         <end-date>1974-10-21</end-date>
         <country id="mexico">Mexico</country>
         <locale>Nogales, Magdalena de Kino</locale>
-        <remarks>Met with President Echeverria and laid a wreath at the tomb of Padre Eusebio Kino.</remarks>
+        <remarks>Met with President Echeverria and laid a wreath at the tomb of Padre Eusebio
+            Kino.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2862</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -28,7 +29,7 @@
         <last-modified-by>bottsjd</last-modified-by>
         <last-modified-datetime>2020-03-23T00:00:00-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2863</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -42,7 +43,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2864</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -50,13 +51,14 @@
         <end-date>1974-11-24</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Vladivostok</locale>
-        <remarks>Met with General Secretary Brezhnev and discussed limitations of strategic arms.</remarks>
+        <remarks>Met with General Secretary Brezhnev and discussed limitations of strategic
+            arms.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2865</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -70,7 +72,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2866</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -78,13 +80,14 @@
         <end-date>1975-05-31</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO summit meeting, addressed the North Atlantic Council, and met separately with NATO Heads of State and Government.</remarks>
+        <remarks>Attended NATO summit meeting, addressed the North Atlantic Council, and met
+            separately with NATO Heads of State and Government.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2867</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -92,13 +95,14 @@
         <end-date>1975-06-01</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
-        <remarks>Met with Generalissimo Franco. Received keys to city from Mayor of Madrid.</remarks>
+        <remarks>Met with Generalissimo Franco. Received keys to city from Mayor of
+            Madrid.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2868</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -112,7 +116,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2869</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -126,7 +130,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2870</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -140,7 +144,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2871</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -154,7 +158,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2872</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -168,7 +172,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2873</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -176,13 +180,16 @@
         <end-date>1975-08-02</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Attended opening session of the Conference on Security and Cooperation in Europe. Met with the Heads of State and Government of Finland, Great Britain, Turkey, West Germany, France, Italy, and Spain. Also met with Soviet General Secretary Brezhnev. Signed the Final Act of the Conference on August 1.</remarks>
+        <remarks>Attended opening session of the Conference on Security and Cooperation in Europe.
+            Met with the Heads of State and Government of Finland, Great Britain, Turkey, West
+            Germany, France, Italy, and Spain. Also met with Soviet General Secretary Brezhnev.
+            Signed the Final Act of the Conference on August 1.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2874</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -196,7 +203,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2875</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -210,7 +217,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2876</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -218,13 +225,14 @@
         <end-date>1975-11-17</end-date>
         <country id="france">France</country>
         <locale>Rambouillet</locale>
-        <remarks>Attended Economic Summit meeting of the Heads of State and Government of France, the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
+        <remarks>Attended Economic Summit meeting of the Heads of State and Government of France,
+            the Federal Republic of Germany, Italy, Japan, and the United Kingdom.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2877</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -232,13 +240,14 @@
         <end-date>1975-12-05</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Peking</locale>
-        <remarks>Official visit; met with Chairman Mao Tse-tung and Vice Premier Teng Hsiao-ping.</remarks>
+        <remarks>Official visit; met with Chairman Mao Tse-tung and Vice Premier Teng
+            Hsiao-ping.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2878</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
@@ -252,7 +261,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="ford-gerald-r" role="president">
+    <trip role="president" who="ford-gerald-r">
         <id>2879</id>
         <role>president</role>
         <name>Gerald R. Ford</name>
