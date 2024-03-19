@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2521</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -8,14 +8,13 @@
         <end-date>1993-04-04</end-date>
         <country id="canada">Canada</country>
         <locale>Vancouver</locale>
-        <remarks>Summit meeting with Russian President Yeltsin; also met with Prime Minister
-            Mulroney.</remarks>
+        <remarks>Summit meeting with Russian President Yeltsin; also met with Prime Minister Mulroney.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2522</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -23,15 +22,13 @@
         <end-date>1993-07-10</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada,
-            France, Germany, Italy, Japan, and the United Kingdom. Also met with Russian President
-            Yeltsin.</remarks>
+        <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada, France, Germany, Italy, Japan, and the United Kingdom. Also met with Russian President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2523</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -39,14 +36,13 @@
         <end-date>1993-07-11</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>Met with President Kim, addressed the Korean National Assembly, and visited U.S.
-            military personnel.</remarks>
+        <remarks>Met with President Kim, addressed the Korean National Assembly, and visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2524</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -60,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2525</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -68,14 +64,13 @@
         <end-date>1994-01-12</end-date>
         <country id="czech-republic">Czech Republic</country>
         <locale>Prague</locale>
-        <remarks>Met with the Presidents and Prime Ministers of the Czech Republic, Hungary, Poland,
-            and Slovakia.</remarks>
+        <remarks>Met with the Presidents and Prime Ministers of the Czech Republic, Hungary, Poland, and Slovakia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2526</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -89,7 +84,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2527</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -97,14 +92,13 @@
         <end-date>1994-01-15</end-date>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
-        <remarks>Met with President Yeltsin and senior Russian officials. Signed nuclear disarmament
-            agreement with Ukraine.</remarks>
+        <remarks>Met with President Yeltsin and senior Russian officials. Signed nuclear disarmament agreement with Ukraine.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2528</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -118,7 +112,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2529</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -132,7 +126,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2530</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -140,14 +134,13 @@
         <end-date>1994-06-04</end-date>
         <country id="italy">Italy</country>
         <locale>Rome, Nettuno</locale>
-        <remarks>Met with Prime Minister Berlusconi and President Scalfaro. Visited U.S. Military
-            Cemetery.</remarks>
+        <remarks>Met with Prime Minister Berlusconi and President Scalfaro. Visited U.S. Military Cemetery.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2531</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -161,7 +154,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2532</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -169,16 +162,13 @@
         <end-date>1994-06-05</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Cambridge, London, Portsmouth</locale>
-        <remarks>Visited U.S. Military Cemetery. Met with Prime Minister Major. Attended state
-            dinner with Queen Elizabeth II and heads of state and government of Canada, Poland, the
-            Czech Republic, Slovakia, Australia, New Zealand, Norway, and Belgium. Attended D-Day
-            commemorative ceremonies.</remarks>
+        <remarks>Visited U.S. Military Cemetery. Met with Prime Minister Major. Attended state dinner with Queen Elizabeth II and heads of state and government of Canada, Poland, the Czech Republic, Slovakia, Australia, New Zealand, Norway, and Belgium. Attended D-Day commemorative ceremonies.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2533</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -186,14 +176,13 @@
         <end-date>1994-06-08</end-date>
         <country id="france">France</country>
         <locale>Colleville, Paris</locale>
-        <remarks>Attended D-Day memorial ceremonies. Met with President Mitterrand and senior French
-            officials. Addressed the French National Assembly.</remarks>
+        <remarks>Attended D-Day memorial ceremonies. Met with President Mitterrand and senior French officials. Addressed the French National Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2534</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -207,7 +196,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2535</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -221,7 +210,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2536</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -229,14 +218,13 @@
         <end-date>1994-07-07</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Addressed the Polish Parliament and attended ceremonies commemorating the Warsaw
-            Ghetto revolt.</remarks>
+        <remarks>Addressed the Polish Parliament and attended ceremonies commemorating the Warsaw Ghetto revolt.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2537</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -244,14 +232,13 @@
         <end-date>1994-07-10</end-date>
         <country id="italy">Italy</country>
         <locale>Naples</locale>
-        <remarks>Met with the Prime Ministers of Italy, Japan, and Canada. Attended G-7 Economic
-            Summit Meeting and met with President Yeltsin.</remarks>
+        <remarks>Met with the Prime Ministers of Italy, Japan, and Canada. Attended G-7 Economic Summit Meeting and met with President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2538</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -259,15 +246,13 @@
         <end-date>1994-07-12</end-date>
         <country id="germany">Germany</country>
         <locale>Bonn, Oggersheim, Berlin</locale>
-        <remarks>Met with Chancellor Kohl and German political leaders. Delivered a public address
-            at the Brandenburg Gate and attended deactivation ceremony for the Berlin
-            Brigade.</remarks>
+        <remarks>Met with Chancellor Kohl and German political leaders. Delivered a public address at the Brandenburg Gate and attended deactivation ceremony for the Berlin Brigade.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2539</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -281,7 +266,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2540</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -289,14 +274,13 @@
         <end-date>1994-10-27</end-date>
         <country id="jordan">Jordan</country>
         <locale>Aqaba, Wadi Arava, Amman</locale>
-        <remarks>Attended signing of the Israel-Jordan peace agreement and addressed the Jordanian
-            Parliament.</remarks>
+        <remarks>Attended signing of the Israel-Jordan peace agreement and addressed the Jordanian Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2541</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -310,7 +294,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2542</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -324,7 +308,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2543</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -338,7 +322,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2544</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -352,7 +336,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2545</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -366,7 +350,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2546</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -380,7 +364,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2547</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -394,7 +378,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2548</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -408,7 +392,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2549</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -422,7 +406,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2550</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -436,7 +420,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2551</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -450,7 +434,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2552</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -458,15 +442,13 @@
         <end-date>1995-06-17</end-date>
         <country id="canada">Canada</country>
         <locale>Halifax (Nova Scotia)</locale>
-        <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada,
-            France, Germany, Italy, Japan, and the United Kingdom. Also met with Russian President
-            Yeltsin.</remarks>
+        <remarks>Attended Economic Summit Meeting with the Heads of State and Government of Canada, France, Germany, Italy, Japan, and the United Kingdom. Also met with Russian President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2553</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -480,7 +462,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2554</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -488,14 +470,13 @@
         <end-date>1995-12-01</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Belfast, Londonderry</locale>
-        <remarks>Met with Queen Elizabeth and Prime Minister Major; addressed Parliament, and
-            delivered several public addresses in Northern Ireland.</remarks>
+        <remarks>Met with Queen Elizabeth and Prime Minister Major; addressed Parliament, and delivered several public addresses in Northern Ireland.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2555</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -509,7 +490,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2556</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -523,7 +504,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2557</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -537,7 +518,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2558</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -551,7 +532,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2559</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -565,7 +546,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2560</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -579,7 +560,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2561</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -593,7 +574,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2562</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -607,7 +588,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2563</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -621,7 +602,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2564</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -635,7 +616,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2565</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -649,7 +630,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2566</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -657,14 +638,13 @@
         <end-date>1996-04-18</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>State visit. Issued joint statement on U.S.-Japanese security relations. Addressed
-            the Diet and U.S. Navy personnel.</remarks>
+        <remarks>State visit. Issued joint statement on U.S.-Japanese security relations. Addressed the Diet and U.S. Navy personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2567</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -672,14 +652,13 @@
         <end-date>1996-04-21</end-date>
         <country id="russia">Russia</country>
         <locale>St. Petersburg, Moscow</locale>
-        <remarks>Attended G-7 summit on nuclear safety and held a summit meeting with President
-            Yeltsin.</remarks>
+        <remarks>Attended G-7 summit on nuclear safety and held a summit meeting with President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2568</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -687,14 +666,13 @@
         <end-date>1996-06-29</end-date>
         <country id="france">France</country>
         <locale>Lyon, Perouges, Paris</locale>
-        <remarks>Attended the G-7 Economic Summit Meeting and met with Russian Prime Minister
-            Chernomyrdin and UN Secretary-General Boutrous-Ghali.</remarks>
+        <remarks>Attended the G-7 Economic Summit Meeting and met with Russian Prime Minister Chernomyrdin and UN Secretary-General Boutrous-Ghali.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2569</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -702,14 +680,13 @@
         <end-date>1996-11-23</end-date>
         <country id="australia">Australia</country>
         <locale>Sydney, Canberra, Port Douglas</locale>
-        <remarks>State Visit. Addressed joint meeting of Parliament and visited the Great Barrier
-            Reef.</remarks>
+        <remarks>State Visit. Addressed joint meeting of Parliament and visited the Great Barrier Reef.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2570</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -723,7 +700,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2571</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -737,7 +714,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2572</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -745,14 +722,13 @@
         <end-date>1997-03-21</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Summit meeting with Russian President Yeltsin. Also met with President
-            Ahtisaari.</remarks>
+        <remarks>Summit meeting with Russian President Yeltsin. Also met with President Ahtisaari.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2573</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -766,7 +742,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2574</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -774,14 +750,13 @@
         <end-date>1997-05-09</end-date>
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
-        <remarks>Attended a Summit Meeting of Presidents of the Central American
-            Republics.</remarks>
+        <remarks>Attended a Summit Meeting of Presidents of the Central American Republics.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2575</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -795,7 +770,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2576</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -809,7 +784,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2577</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -817,14 +792,13 @@
         <end-date>1997-05-28</end-date>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague, Rotterdam</locale>
-        <remarks>Attended U.S.-EU Summit Meeting and commemorated the 50th anniversary of the
-            Marshall Plan.</remarks>
+        <remarks>Attended U.S.-EU Summit Meeting and commemorated the 50th anniversary of the Marshall Plan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2578</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -838,7 +812,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2579</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -846,14 +820,13 @@
         <end-date>1997-07-10</end-date>
         <country id="spain">Spain</country>
         <locale>Palma de Majorca, Madrid, Granada</locale>
-        <remarks>Vacationed with King Juan Carlos I and Queen Sophia and attended a NATO Summit
-            Meeting in Madrid.</remarks>
+        <remarks>Vacationed with King Juan Carlos I and Queen Sophia and attended a NATO Summit Meeting in Madrid.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2580</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -867,7 +840,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2581</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -881,7 +854,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2582</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -895,7 +868,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2583</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -909,7 +882,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2584</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -923,7 +896,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2585</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -937,7 +910,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2586</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -951,7 +924,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2587</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -965,7 +938,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2588</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -973,14 +946,13 @@
         <end-date>1997-12-22</end-date>
         <country id="bosnia-herzegovina">Bosnia-Herzegovina</country>
         <locale>Sarajevo, Tuzla</locale>
-        <remarks>Met with the Bosnian Collective Presidency and with Bosnian Serb President Plavsic;
-            visited U.S. military personnel.</remarks>
+        <remarks>Met with the Bosnian Collective Presidency and with Bosnian Serb President Plavsic; visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2589</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -994,7 +966,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2590</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1002,14 +974,13 @@
         <end-date>1998-03-25</end-date>
         <country id="uganda">Uganda</country>
         <locale>Kampala, Kisowera, Mukono, Wanyange, Entebbe</locale>
-        <remarks>Met with President Museveni and with the Presidents of Ethiopia, Rwanda, Tanzania,
-            Kenya, and the Congo.</remarks>
+        <remarks>Met with President Museveni and with the Presidents of Ethiopia, Rwanda, Tanzania, Kenya, and the Congo.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2591</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1023,7 +994,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2592</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1037,7 +1008,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2593</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1051,7 +1022,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2594</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1059,14 +1030,13 @@
         <end-date>1998-04-02</end-date>
         <country id="senegal">Senegal</country>
         <locale>Dakar, Thies, Goree Island</locale>
-        <remarks>Met with President Diouf; visited Senegalese peacekeeping troops; delivered several
-            public addresses.</remarks>
+        <remarks>Met with President Diouf; visited Senegalese peacekeeping troops; delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2595</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1080,7 +1050,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2596</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1088,14 +1058,13 @@
         <end-date>1998-05-14</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin, Potsdam, Frankfurt, Eisenach</locale>
-        <remarks>Met with Chancellor Kohl; commemorated 50th anniversary of the Berlin
-            Airlift.</remarks>
+        <remarks>Met with Chancellor Kohl; commemorated 50th anniversary of the Berlin Airlift.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2597</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1109,7 +1078,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2598</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1123,7 +1092,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2599</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1137,7 +1106,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2600</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1151,7 +1120,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2601</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1159,14 +1128,13 @@
         <end-date>1998-09-03</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Belfast, Armagh, Omagh</locale>
-        <remarks>Met with Prime Minister Blair and Northern Irish political leaders; addressed the
-            Northern Ireland Assembly.</remarks>
+        <remarks>Met with Prime Minister Blair and Northern Irish political leaders; addressed the Northern Ireland Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2602</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1174,14 +1142,13 @@
         <end-date>1998-09-05</end-date>
         <country id="ireland">Ireland</country>
         <locale>Dublin, Adare, Limerick, Ballybunion</locale>
-        <remarks>Met with Prime Minister Ahern; delivered several public addresses; played
-            golf.</remarks>
+        <remarks>Met with Prime Minister Ahern; delivered several public addresses; played golf.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2603</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1189,14 +1156,13 @@
         <end-date>1998-11-20</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with Emperor Akihito and Prime Minister Obuchi; addressed American Chamber of
-            Commerce.</remarks>
+        <remarks>Met with Emperor Akihito and Prime Minister Obuchi; addressed American Chamber of Commerce.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2604</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1210,7 +1176,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2605</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1224,7 +1190,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2606</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1232,14 +1198,13 @@
         <end-date>1998-12-15</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
         <locale>Gaza, Bethlehem, Erez</locale>
-        <remarks>Addressed Palestine National Council; attended a meeting with Prime Minister
-            Netanyahu and Chairman Arafat at Erez.</remarks>
+        <remarks>Addressed Palestine National Council; attended a meeting with Prime Minister Netanyahu and Chairman Arafat at Erez.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2607</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1253,7 +1218,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2608</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1267,7 +1232,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2609</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1281,7 +1246,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2610</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1289,14 +1254,13 @@
         <end-date>1999-03-09</end-date>
         <country id="honduras">Honduras</country>
         <locale>Soto Cano Air Base, Tegucigalpa</locale>
-        <remarks>Discussed reconstruction aid with President Flores; addressed U.S. military
-            personnel.</remarks>
+        <remarks>Discussed reconstruction aid with President Flores; addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2611</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1310,7 +1274,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2612</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1324,7 +1288,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2613</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1338,23 +1302,21 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2614</id>
         <role>president</role>
         <name>William J. Clinton</name>
         <start-date>1999-05-04</start-date>
         <end-date>1999-05-06</end-date>
         <country id="germany">Germany</country>
-        <locale>Frankfurt, Ramstein Air Force Base, Spangdahlem Air Force Base, Bonn,
-            Ingelheim</locale>
-        <remarks>Addressed U.S. military personnel; met with Chancellor Schroeder; met with Kosovo
-            refugees.</remarks>
+        <locale>Frankfurt, Ramstein Air Force Base, Spangdahlem Air Force Base, Bonn, Ingelheim</locale>
+        <remarks>Addressed U.S. military personnel; met with Chancellor Schroeder; met with Kosovo refugees.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2615</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1368,7 +1330,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2616</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1376,14 +1338,13 @@
         <end-date>1999-06-17</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Discussed peacekeeping in Kosovo with President Chirac and Prime Minister
-            Jospin.</remarks>
+        <remarks>Discussed peacekeeping in Kosovo with President Chirac and Prime Minister Jospin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2617</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1397,7 +1358,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2618</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1405,14 +1366,13 @@
         <end-date>1999-06-22</end-date>
         <country id="slovenia">Slovenia</country>
         <locale>Ljubljana</locale>
-        <remarks>Met with President Kucan, Prime Minister Drnovsek, and President Djukanovic of
-            Montenegro.</remarks>
+        <remarks>Met with President Kucan, Prime Minister Drnovsek, and President Djukanovic of Montenegro.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2619</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1420,14 +1380,13 @@
         <end-date>1999-06-22</end-date>
         <country id="macedonia">Macedonia, Former Yugoslav Republic of</country>
         <locale>Skopje</locale>
-        <remarks>Met with President Gligorov; addressed Kosovar refugees and NATO military
-            personnel.</remarks>
+        <remarks>Met with President Gligorov; addressed Kosovar refugees and NATO military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2620</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1441,7 +1400,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2621</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1449,14 +1408,13 @@
         <end-date>1999-07-25</end-date>
         <country id="morocco">Morocco</country>
         <locale>Rabat</locale>
-        <remarks>Attended the funeral of King Hassan II; met with Palestinian Authority President
-            Arafat and Israeli Prime Minister Barak.</remarks>
+        <remarks>Attended the funeral of King Hassan II; met with Palestinian Authority President Arafat and Israeli Prime Minister Barak.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2622</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1470,7 +1428,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2623</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1484,7 +1442,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2624</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1498,7 +1456,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2625</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1506,15 +1464,13 @@
         <end-date>1999-10-08</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa, Mont Tremblant</locale>
-        <remarks>Working visit. Met with Prime Minister Chretien and Quebec Premier Bouchard,
-            attended Federalism Conference at Mont Tremblant, and dedicated new Embassy
-            building.</remarks>
+        <remarks>Working visit. Met with Prime Minister Chretien and Quebec Premier Bouchard, attended Federalism Conference at Mont Tremblant, and dedicated new Embassy building.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2626</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1522,14 +1478,13 @@
         <end-date>1999-11-02</end-date>
         <country id="norway">Norway</country>
         <locale>Oslo</locale>
-        <remarks>State visit. Attended commemorative ceremony for former Israeli Prime Minister
-            Rabin; discussed Chechnya crisis with Russian Prime Minister Putin.</remarks>
+        <remarks>State visit. Attended commemorative ceremony for former Israeli Prime Minister Rabin; discussed Chechnya crisis with Russian Prime Minister Putin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2627</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1537,14 +1492,13 @@
         <end-date>1999-11-19</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Izmit, Ephesus, Istanbul</locale>
-        <remarks>State visit and attended Organization for Security and Cooperation in Europe Summit
-            meeting in Istanbul.</remarks>
+        <remarks>State visit and attended Organization for Security and Cooperation in Europe Summit meeting in Istanbul.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2628</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1558,7 +1512,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2629</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1572,7 +1526,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2630</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1586,7 +1540,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2631</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1594,14 +1548,13 @@
         <end-date>1999-11-23</end-date>
         <country id="kosovo">Serbia-Montenegro (Kosovo)</country>
         <locale>Pristina, Urosevac, Camp Bondsteel</locale>
-        <remarks>Met with Kosovar Transisional Council; addressed the Albanian community and U.S.
-            military personnel.</remarks>
+        <remarks>Met with Kosovar Transisional Council; addressed the Albanian community and U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2632</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1615,7 +1568,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2633</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1629,7 +1582,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2634</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1637,14 +1590,13 @@
         <end-date>2000-03-25</end-date>
         <country id="india">India</country>
         <locale>New Delhi, Agra, Jaipur, Hyderabad, Bombay</locale>
-        <remarks>Met with President Narayanan; signed Joint Statement on Energy and the Environment;
-            addressed the Indian Parliament.</remarks>
+        <remarks>Met with President Narayanan; signed Joint Statement on Energy and the Environment; addressed the Indian Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2635</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1658,7 +1610,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2636</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1672,7 +1624,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2637</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1686,7 +1638,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2638</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1700,7 +1652,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2639</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1708,14 +1660,13 @@
         <end-date>2000-06-01</end-date>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
-        <remarks>Attended U.S.-European Union Summit Meeting; met with Israeli Prime Minister
-            Barak.</remarks>
+        <remarks>Attended U.S.-European Union Summit Meeting; met with Israeli Prime Minister Barak.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2640</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1723,14 +1674,13 @@
         <end-date>2000-06-03</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin, Aachen</locale>
-        <remarks>Met with President Rau and Chancellor Schroeder; received Charlemagne Prize, and
-            attended a Third Way Conference.</remarks>
+        <remarks>Met with President Rau and Chancellor Schroeder; received Charlemagne Prize, and attended a Third Way Conference.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2641</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1744,7 +1694,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2642</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1758,7 +1708,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2643</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1772,7 +1722,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2644</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1786,7 +1736,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2645</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1800,7 +1750,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2646</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1808,14 +1758,13 @@
         <end-date>2000-08-29</end-date>
         <country id="tanzania">Tanzania</country>
         <locale>Arusha</locale>
-        <remarks>Met with former South African President Mandela to promote a peace agreement for
-            Burundi; also met with President Mkapa.</remarks>
+        <remarks>Met with former South African President Mandela to promote a peace agreement for Burundi; also met with President Mkapa.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-08-21T00:00:00-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2647</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1829,7 +1778,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2648</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1843,7 +1792,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2649</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1857,7 +1806,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2650</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1871,7 +1820,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2651</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1885,7 +1834,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2652</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1899,7 +1848,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="clinton-william-j">
+    <trip who="clinton-william-j" role="president">
         <id>2653</id>
         <role>president</role>
         <name>William J. Clinton</name>
@@ -1907,8 +1856,7 @@
         <end-date>2000-12-14</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Belfast, London, Coventry</locale>
-        <remarks>Met with Prime Minister Blair and Northern Irish political leaders in Belfast, met
-            with Queen Elizabeth II, and made a speech at the University of Warwick.</remarks>
+        <remarks>Met with Prime Minister Blair and Northern Irish political leaders in Belfast, met with Queen Elizabeth II, and made a speech at the University of Warwick.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

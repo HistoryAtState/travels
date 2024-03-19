@@ -46,10 +46,8 @@
         </zip>
     </target>
 
-    <target description="Store git revision in ${repository.version}" if="git.present"
-        name="git.revision">
-        <exec errorproperty="" executable="git" failifexecutionfails="false"
-            outputproperty="git.revision">
+    <target description="Store git revision in ${repository.version}" if="git.present" name="git.revision">
+        <exec errorproperty="" executable="git" failifexecutionfails="false" outputproperty="git.revision">
             <arg value="--git-dir=${git.repo.path}"/>
             <arg value="rev-parse"/>
             <arg value="HEAD"/>
@@ -62,8 +60,7 @@
         </condition>
         <echo>Git repo: ${repository.version}</echo>
 
-        <exec errorproperty="" executable="git" failifexecutionfails="false"
-            outputproperty="git.time">
+        <exec errorproperty="" executable="git" failifexecutionfails="false" outputproperty="git.time">
             <arg value="--git-dir=${git.repo.path}"/>
             <arg value="show"/>
             <arg value="-s"/>
