@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="coolidge-calvin" role="president">
+    <trip role="president" who="coolidge-calvin">
         <id>2670</id>
         <role>president</role>
         <name>Calvin Coolidge</name>

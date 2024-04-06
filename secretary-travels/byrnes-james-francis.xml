@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="byrnes-james-francis" role="secretary">
+    <trip role="secretary" who="byrnes-james-francis">
         <id>487</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="byrnes-james-francis" role="secretary">
+    <trip role="secretary" who="byrnes-james-francis">
         <id>488</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
@@ -22,13 +22,14 @@
         <end-date>1945-07-25</end-date>
         <country id="germany">Germany</country>
         <locale>Potsdam</locale>
-        <remarks>Accompanied President Truman to the Tripartite Conference of Berlin (Potsdam Conference).</remarks>
+        <remarks>Accompanied President Truman to the Tripartite Conference of Berlin (Potsdam
+            Conference).</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="byrnes-james-francis" role="secretary">
+    <trip role="secretary" who="byrnes-james-francis">
         <id>489</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
@@ -36,13 +37,14 @@
         <end-date>1945-08-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Plymouth</locale>
-        <remarks>Accompanied President Truman to a meeting with King George VI. Returned to U.S. August 7.</remarks>
+        <remarks>Accompanied President Truman to a meeting with King George VI. Returned to U.S.
+            August 7.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="byrnes-james-francis" role="secretary">
+    <trip role="secretary" who="byrnes-james-francis">
         <id>490</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
@@ -56,7 +58,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="byrnes-james-francis" role="secretary">
+    <trip role="secretary" who="byrnes-james-francis">
         <id>491</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
@@ -70,7 +72,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="byrnes-james-francis" role="secretary">
+    <trip role="secretary" who="byrnes-james-francis">
         <id>492</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
@@ -84,7 +86,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="byrnes-james-francis" role="secretary">
+    <trip role="secretary" who="byrnes-james-francis">
         <id>493</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
@@ -98,7 +100,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="byrnes-james-francis" role="secretary">
+    <trip role="secretary" who="byrnes-james-francis">
         <id>494</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>
@@ -106,13 +108,14 @@
         <end-date>1946-07-13</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended second part of the Second Session of the Council of Foreign Ministers.</remarks>
+        <remarks>Attended second part of the Second Session of the Council of Foreign
+            Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="byrnes-james-francis" role="secretary">
+    <trip role="secretary" who="byrnes-james-francis">
         <id>495</id>
         <role>secretary</role>
         <name>James Francis Byrnes</name>

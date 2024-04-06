@@ -1,24 +1,24 @@
 default namespace = ""
 
 start =
-  element trips {
-    element trip {
-      attribute role { xsd:NCName },
-      attribute who { xsd:NCName },
-      element id { xsd:integer },
-      element role { xsd:NCName },
-      element name { text },
-      element start-date { xsd:date },
-      element end-date { xsd:date },
-      element country {
-        attribute id { xsd:NCName },
-        text
-      },
-      element locale { text },
-      element remarks { text },
-      element created-by { xsd:NCName },
-      element created-datetime { xsd:dateTime },
-      element last-modified-by { xsd:NCName },
-      element last-modified-datetime { xsd:dateTime }
-    }+
-  }
+    element trips {
+        element trip {
+            attribute role { xsd:NCName },
+            attribute who { xsd:NCName },
+            element id { xsd:integer },
+            element role { xsd:NCName },
+            element name { text },
+            element start-date { xsd:date },
+            element end-date { xsd:date },
+            element country {
+                attribute id { xsd:NCName },
+                text
+            },
+            element locale { text },
+            element remarks { text },
+            element created-by { xsd:NCName },
+            element created-datetime { xsd:dateTime },
+            element last-modified-by { xsd:NCName },
+            element last-modified-datetime { xsd:dateTime }
+        }+
+    }

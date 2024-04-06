@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2657</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2658</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
@@ -22,13 +22,14 @@
         <end-date>1918-12-25</end-date>
         <country id="france">France</country>
         <locale>Paris, Chaumont</locale>
-        <remarks>Attended Preliminary to the Paris Peace Conference. Departed the U.S. December 4.</remarks>
+        <remarks>Attended Preliminary to the Paris Peace Conference. Departed the U.S. December
+            4.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2659</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
@@ -42,7 +43,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2660</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
@@ -56,7 +57,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2661</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
@@ -70,7 +71,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2662</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
@@ -84,7 +85,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2663</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
@@ -98,7 +99,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2664</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
@@ -112,7 +113,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2665</id>
         <role>president</role>
         <name>Woodrow Wilson</name>
@@ -126,7 +127,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="wilson-woodrow" role="president">
+    <trip role="president" who="wilson-woodrow">
         <id>2666</id>
         <role>president</role>
         <name>Woodrow Wilson</name>

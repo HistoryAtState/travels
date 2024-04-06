@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2739</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2740</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -28,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2741</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -42,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2742</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -50,13 +50,14 @@
         <end-date>1953-12-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
-        <remarks>Attended Bermuda Conference with Prime Minister Churchill and French President Laniel.</remarks>
+        <remarks>Attended Bermuda Conference with Prime Minister Churchill and French President
+            Laniel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2743</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -64,13 +65,14 @@
         <end-date>1955-07-23</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Summit conference with British Prime Minister Eden, French Premier Faure, and Soviet Premier Bulganin.</remarks>
+        <remarks>Summit conference with British Prime Minister Eden, French Premier Faure, and
+            Soviet Premier Bulganin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2744</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -84,7 +86,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2745</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -98,7 +100,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2746</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -112,7 +114,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2747</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -126,7 +128,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2748</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -140,7 +142,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2749</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -154,7 +156,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2750</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -168,7 +170,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2751</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -182,7 +184,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2752</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -190,13 +192,14 @@
         <end-date>1959-09-04</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Informal meeting with President De Gaulle and Italian Premier Segni. Addressed North Atlantic Council.</remarks>
+        <remarks>Informal meeting with President De Gaulle and Italian Premier Segni. Addressed
+            North Atlantic Council.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2753</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -210,7 +213,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2754</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -224,7 +227,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2755</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -238,7 +241,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2756</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -252,7 +255,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2757</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -266,7 +269,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2758</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -280,7 +283,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2759</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -294,7 +297,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2760</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -308,7 +311,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2761</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -316,13 +319,14 @@
         <end-date>1959-12-15</end-date>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
-        <remarks>Official visit; met with King Paul, Prime Minister Karamanlis, and addressed Parliament. Traveled by sea from Athens to Tunis.</remarks>
+        <remarks>Official visit; met with King Paul, Prime Minister Karamanlis, and addressed
+            Parliament. Traveled by sea from Athens to Tunis.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2762</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -336,7 +340,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2763</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -344,13 +348,14 @@
         <end-date>1959-12-21</end-date>
         <country id="france">France</country>
         <locale>Toulon, Paris</locale>
-        <remarks>Conference with President De Gaulle, British Prime Minister Macmillan, and German Chancellor Adenauer.</remarks>
+        <remarks>Conference with President De Gaulle, British Prime Minister Macmillan, and German
+            Chancellor Adenauer.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2764</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -364,7 +369,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2765</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -378,7 +383,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2766</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -392,7 +397,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2767</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -406,7 +411,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2768</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -420,7 +425,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2769</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -428,13 +433,14 @@
         <end-date>1960-03-03</end-date>
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
-        <remarks>Met with President Nardone. Returned to the U.S. via Buenos Aires and Surinam.</remarks>
+        <remarks>Met with President Nardone. Returned to the U.S. via Buenos Aires and
+            Surinam.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2770</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -442,13 +448,14 @@
         <end-date>1960-05-19</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Conference with President De Gaulle, British Prime Minister Macmillan, and Soviet Premier Khrushchev.</remarks>
+        <remarks>Conference with President De Gaulle, British Prime Minister Macmillan, and Soviet
+            Premier Khrushchev.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2771</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -462,7 +469,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2772</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -470,13 +477,14 @@
         <end-date>1960-06-16</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>State visit; met with President Garcia. Traveled by sea from Manila to Taipei.</remarks>
+        <remarks>State visit; met with President Garcia. Traveled by sea from Manila to
+            Taipei.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2773</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -490,7 +498,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2774</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>
@@ -504,7 +512,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="eisenhower-dwight-d" role="president">
+    <trip role="president" who="eisenhower-dwight-d">
         <id>2775</id>
         <role>president</role>
         <name>Dwight D. Eisenhower</name>

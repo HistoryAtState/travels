@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="xar" name="travels" basedir=".">
-    <xmlproperty file="build.properties.xml" semanticAttributes="true" keepRoot="false"/>
+<project basedir="." default="xar" name="travels">
+    <xmlproperty file="build.properties.xml" keepRoot="false" semanticAttributes="true"/>
     <property name="build.dir" value="build"/>
     <property name="git.repo.path" value="${basedir}/.git"/>
-    <available file="${git.repo.path}" type="dir" property="git.present"/>
+    <available file="${git.repo.path}" property="git.present" type="dir"/>
 
     <target name="clean">
         <echo message="Deleting xar files..."/>
         <delete dir="${build.dir}" failonerror="false"/>
-        <delete file="${basedir}/expath-pkg.xml" failonerror="false"/>
-        <delete file="${basedir}/repo.xml" failonerror="false"/>
+        <delete failonerror="false" file="${basedir}/expath-pkg.xml"/>
+        <delete failonerror="false" file="${basedir}/repo.xml"/>
     </target>
-    
-    <target name="xar" depends="clean,git.revision" description="create xar file">
+
+    <target depends="clean,git.revision" description="create xar file" name="xar">
         <echo message="Creating build folder..."/>
         <mkdir dir="${build.dir}"/>
 
         <echo message="Apply values to expath-pkg.xml..."/>
-        <copy todir="${basedir}" overwrite="true" verbose="true">
+        <copy overwrite="true" todir="${basedir}" verbose="true">
             <fileset file="*.xml.tmpl"/>
             <filterchain>
                 <replacetokens>
@@ -50,21 +50,24 @@
         <echo>Version: ${app.version}</echo>        
     </target>
 
-    <target name="git.revision" description="Store git revision in ${repository.version}" if="git.present">
-        <exec executable="git" outputproperty="git.revision" failifexecutionfails="false" errorproperty="">
+    <target description="Store git revision in ${repository.version}" if="git.present"
+        name="git.revision">
+        <exec errorproperty="" executable="git" failifexecutionfails="false"
+            outputproperty="git.revision">
             <arg value="--git-dir=${git.repo.path}"/>
-            <arg value="rev-parse"/>            
+            <arg value="rev-parse"/>
             <arg value="HEAD"/>
         </exec>
-        <condition property="repository.version" value="${git.revision}" else="unknown">
+        <condition else="unknown" property="repository.version" value="${git.revision}">
             <and>
                 <isset property="git.revision"/>
-                <length string="${git.revision}" trim="yes" length="0" when="greater"/>
+                <length length="0" string="${git.revision}" trim="yes" when="greater"/>
             </and>
         </condition>
         <echo>Git repo: ${repository.version}</echo>
-        
-        <exec executable="git" outputproperty="git.time" failifexecutionfails="false" errorproperty="">
+
+        <exec errorproperty="" executable="git" failifexecutionfails="false"
+            outputproperty="git.time">
             <arg value="--git-dir=${git.repo.path}"/>
             <arg value="show"/>
             <arg value="-s"/>
@@ -72,5 +75,5 @@
             <arg value="${git.revision}"/>
         </exec>
         <echo>Git time: ${git.time}</echo>
-    </target>  
+    </target>
 </project>

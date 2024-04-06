@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1221</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1222</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
@@ -22,13 +22,14 @@
         <end-date>1980-05-16</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Attended ceremonies for the 25th anniversary of the Austrian State Treaty and met with Soviet Foreign Minister Gromyko.</remarks>
+        <remarks>Attended ceremonies for the 25th anniversary of the Austrian State Treaty and met
+            with Soviet Foreign Minister Gromyko.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1223</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
@@ -36,13 +37,14 @@
         <end-date>1980-06-24</end-date>
         <country id="italy">Italy</country>
         <locale>Rome, Venice</locale>
-        <remarks>Accompanied President Carter on a State visit and to Economic Summit Meeting.</remarks>
+        <remarks>Accompanied President Carter on a State visit and to Economic Summit
+            Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1224</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
@@ -56,7 +58,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1225</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
@@ -70,7 +72,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1226</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
@@ -84,7 +86,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1227</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
@@ -92,13 +94,14 @@
         <end-date>1980-07-10</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Accompanied President Carter to funeral of Prime Minister Ohira. Met with Chinese Premier Hua Guofeng.</remarks>
+        <remarks>Accompanied President Carter to funeral of Prime Minister Ohira. Met with Chinese
+            Premier Hua Guofeng.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1228</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
@@ -112,7 +115,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1229</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>
@@ -126,7 +129,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="muskie-edmund-sixtus" role="secretary">
+    <trip role="secretary" who="muskie-edmund-sixtus">
         <id>1230</id>
         <role>secretary</role>
         <name>Edmund Sixtus Muskie</name>

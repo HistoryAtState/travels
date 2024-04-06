@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2819</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2820</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -22,13 +22,14 @@
         <end-date>1969-02-26</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Informal visit; held conversations with Prime Minister Wilson. Received by Queen Elizabeth II.</remarks>
+        <remarks>Informal visit; held conversations with Prime Minister Wilson. Received by Queen
+            Elizabeth II.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2821</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -42,7 +43,7 @@
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-08-29T00:00:00-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2822</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -56,7 +57,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2823</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -70,7 +71,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2824</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -84,7 +85,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2825</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -98,7 +99,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2826</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -112,7 +113,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2827</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -126,7 +127,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2828</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -140,7 +141,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2829</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -154,7 +155,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2830</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -168,7 +169,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2831</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -182,7 +183,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2832</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -196,7 +197,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2833</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -210,7 +211,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2834</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -224,7 +225,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2835</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -232,13 +233,14 @@
         <end-date>1970-09-30</end-date>
         <country id="italy">Italy</country>
         <locale>Rome, Naples</locale>
-        <remarks>Official visit; met with President Saragat; visited NATO Southern Command.</remarks>
+        <remarks>Official visit; met with President Saragat; visited NATO Southern
+            Command.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2836</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -252,7 +254,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2837</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -266,7 +268,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2838</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -280,7 +282,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2839</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -294,7 +296,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2840</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -308,7 +310,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2841</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -322,7 +324,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2842</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -330,13 +332,14 @@
         <end-date>1971-12-14</end-date>
         <country id="portugal">Portugal</country>
         <locale>Terceira Island (Azores)</locale>
-        <remarks>Discussed international monetary problems with French President Pompidou and Portuguese Prime Minister Caetano.</remarks>
+        <remarks>Discussed international monetary problems with French President Pompidou and
+            Portuguese Prime Minister Caetano.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2843</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -350,7 +353,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2844</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -364,7 +367,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2845</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -372,13 +375,14 @@
         <end-date>1972-04-15</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>State visit; met with Governor General Michener and Prime Minister Trudeau; addressed Parliament.</remarks>
+        <remarks>State visit; met with Governor General Michener and Prime Minister Trudeau;
+            addressed Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2846</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -392,7 +396,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2847</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -400,13 +404,14 @@
         <end-date>1972-05-30</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow, Leningrad, Kiev</locale>
-        <remarks>State visit; met with Premier Kosygin and General Secretary Brezhnev. Signed SALT I and ABM Treaties.</remarks>
+        <remarks>State visit; met with Premier Kosygin and General Secretary Brezhnev. Signed SALT I
+            and ABM Treaties.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2848</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -420,7 +425,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2849</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -434,7 +439,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2850</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -442,13 +447,14 @@
         <end-date>1973-06-01</end-date>
         <country id="iceland">Iceland</country>
         <locale>Reykjavik</locale>
-        <remarks>Met with President Eldjarn and Prime Minister Johanneson, and French President Pompidou.</remarks>
+        <remarks>Met with President Eldjarn and Prime Minister Johanneson, and French President
+            Pompidou.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2851</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -456,13 +462,16 @@
         <end-date>1974-04-07</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended memorial services for former President Pompidou. Met afterward with interim President Poher, Italian Prime Minister Leone, British Prime Minister Wilson, West German Chancellor Brandt, Danish Prime Minister Hartling, Soviet President Podgorny, and Japanese Prime Minister Tanaka.</remarks>
+        <remarks>Attended memorial services for former President Pompidou. Met afterward with
+            interim President Poher, Italian Prime Minister Leone, British Prime Minister Wilson,
+            West German Chancellor Brandt, Danish Prime Minister Hartling, Soviet President
+            Podgorny, and Japanese Prime Minister Tanaka.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2852</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -476,7 +485,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2853</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -490,7 +499,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2854</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -504,7 +513,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2855</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -518,7 +527,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2856</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -532,7 +541,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2857</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -546,7 +555,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2858</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -560,7 +569,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2859</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -568,13 +577,15 @@
         <end-date>1974-06-26</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended North Atlantic Council meeting, and met separately with King Baudonin and Queen Fabiola, Prime Minister Tindemans; and with German Chancellor Schmidt, British Prime Minister Wilson, and Italian Prime Minister Rumor.</remarks>
+        <remarks>Attended North Atlantic Council meeting, and met separately with King Baudonin and
+            Queen Fabiola, Prime Minister Tindemans; and with German Chancellor Schmidt, British
+            Prime Minister Wilson, and Italian Prime Minister Rumor.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="nixon-richard-m" role="president">
+    <trip role="president" who="nixon-richard-m">
         <id>2860</id>
         <role>president</role>
         <name>Richard M. Nixon</name>
@@ -582,7 +593,8 @@
         <end-date>1974-07-03</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow, Minsk, Oreanda</locale>
-        <remarks>Official visit; met with General Secretary Brezhnev, President Podgorny, and Premier Kosygin.</remarks>
+        <remarks>Official visit; met with General Secretary Brezhnev, President Podgorny, and
+            Premier Kosygin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

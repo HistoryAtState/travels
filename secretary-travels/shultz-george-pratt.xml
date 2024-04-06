@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1918</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1919</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -22,13 +22,14 @@
         <end-date>1982-10-09</end-date>
         <country id="mexico">Mexico</country>
         <locale>Tijuana</locale>
-        <remarks>Accompanied President Reagan to a meeting with President-elect De la Madrid.</remarks>
+        <remarks>Accompanied President Reagan to a meeting with President-elect De la
+            Madrid.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1920</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -42,7 +43,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1921</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -56,7 +57,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1922</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -70,7 +71,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1923</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -84,7 +85,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1924</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -98,7 +99,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1925</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -112,7 +113,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1926</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -120,13 +121,14 @@
         <end-date>1982-12-11</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting and met with European Economic Community officials.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and met with European Economic Community
+            officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1927</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -140,7 +142,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1928</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -154,7 +156,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1929</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -168,7 +170,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1930</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -176,13 +178,14 @@
         <end-date>1982-12-16</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
-        <remarks>Met with Prime Minister Gonzalez and with Western delegates to the CSCE Meeting.</remarks>
+        <remarks>Met with Prime Minister Gonzalez and with Western delegates to the CSCE
+            Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1931</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -196,7 +199,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1932</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -210,7 +213,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1933</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -224,7 +227,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1934</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -232,13 +235,14 @@
         <end-date>1983-02-08</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>Met with President Chun and Prime Minister Kim. Visited American and Korean military personnel.</remarks>
+        <remarks>Met with President Chun and Prime Minister Kim. Visited American and Korean
+            military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1935</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -246,13 +250,14 @@
         <end-date>1983-02-09</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Hong Kong</locale>
-        <remarks>Attended a meeting of Chiefs of U.S. Diplomatic Missions in Asia and the Pacific.</remarks>
+        <remarks>Attended a meeting of Chiefs of U.S. Diplomatic Missions in Asia and the
+            Pacific.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1936</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -266,7 +271,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1937</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -280,7 +285,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1938</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -294,7 +299,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1939</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -308,7 +313,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1940</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -322,7 +327,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1941</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -336,7 +341,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1942</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -350,7 +355,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1943</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -364,7 +369,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1944</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -378,7 +383,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1945</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -392,7 +397,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1946</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -406,7 +411,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1947</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -420,7 +425,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1948</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -428,13 +433,14 @@
         <end-date>1983-05-08</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jidda</locale>
-        <remarks>Discussed the proposed Israeli-Lebanon agreement with Foreign Minister Prince Saud.</remarks>
+        <remarks>Discussed the proposed Israeli-Lebanon agreement with Foreign Minister Prince
+            Saud.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1949</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -448,7 +454,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1950</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -462,7 +468,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1951</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -476,7 +482,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1952</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -490,7 +496,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1953</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -504,7 +510,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1954</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -518,7 +524,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1955</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -532,7 +538,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1956</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -540,13 +546,14 @@
         <end-date>1983-07-04</end-date>
         <country id="pakistan">Pakistan</country>
         <locale>Islamabad, Peshawar</locale>
-        <remarks>Met with President Zia and Foreign Minister Yaqub Khan. Visited an Afghan refugee camp.</remarks>
+        <remarks>Met with President Zia and Foreign Minister Yaqub Khan. Visited an Afghan refugee
+            camp.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-17T09:06:57.03-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1957</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -560,7 +567,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1958</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -574,7 +581,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1959</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -588,7 +595,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1960</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -602,7 +609,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1961</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -616,7 +623,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1962</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -630,7 +637,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1963</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -644,7 +651,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1964</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -652,13 +659,14 @@
         <end-date>1983-09-09</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
-        <remarks>Attended the final session of the CSCE Follow-up Meeting. Met with Soviet Foreign Minister Gromyko.</remarks>
+        <remarks>Attended the final session of the CSCE Follow-up Meeting. Met with Soviet Foreign
+            Minister Gromyko.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1965</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -672,7 +680,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1966</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -680,13 +688,14 @@
         <end-date>1983-10-27</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Discussed the Lebanon situation with the Foreign Ministers of France, Italy, and the United Kingdom.</remarks>
+        <remarks>Discussed the Lebanon situation with the Foreign Ministers of France, Italy, and
+            the United Kingdom.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1967</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -700,7 +709,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1968</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -714,7 +723,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1969</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -728,7 +737,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1970</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -742,7 +751,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1971</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -756,7 +765,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1972</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -770,7 +779,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1973</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -784,7 +793,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1974</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -798,7 +807,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1975</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -806,13 +815,14 @@
         <end-date>1984-01-19</end-date>
         <country id="sweden">Sweden</country>
         <locale>Stockholm</locale>
-        <remarks>Attended the opening session of the Conference on Confidence- and Security-Building Measures and Disarmament in Europe.</remarks>
+        <remarks>Attended the opening session of the Conference on Confidence- and Security-Building
+            Measures and Disarmament in Europe.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1976</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -826,7 +836,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1977</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -840,7 +850,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1978</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -848,13 +858,14 @@
         <end-date>1984-02-03</end-date>
         <country id="venezuela">Venezuela</country>
         <locale>Caracas</locale>
-        <remarks>Attended the inauguration of President Lusinchi and met with Central American Foreign Ministers.</remarks>
+        <remarks>Attended the inauguration of President Lusinchi and met with Central American
+            Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1979</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -868,7 +879,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1980</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -876,13 +887,14 @@
         <end-date>1984-02-07</end-date>
         <country id="grenada">Grenada</country>
         <locale>St. George's</locale>
-        <remarks>Met with the Governor General and members of the interim government; attended 10th anniversary of independence celebrations.</remarks>
+        <remarks>Met with the Governor General and members of the interim government; attended 10th
+            anniversary of independence celebrations.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1981</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -896,7 +908,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1982</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -910,7 +922,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1983</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -924,7 +936,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1984</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -938,7 +950,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1985</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -952,7 +964,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1986</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -966,7 +978,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1987</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -980,7 +992,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1988</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -994,7 +1006,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1989</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1008,7 +1020,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1990</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1022,7 +1034,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1991</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1036,7 +1048,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1992</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1050,7 +1062,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1993</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1064,7 +1076,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1994</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1078,7 +1090,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1995</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1092,7 +1104,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1996</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1106,7 +1118,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1997</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1120,7 +1132,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1998</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1134,7 +1146,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>1999</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1148,7 +1160,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2000</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1162,7 +1174,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2001</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1176,7 +1188,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2002</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1190,7 +1202,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2003</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1204,7 +1216,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2004</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1212,13 +1224,14 @@
         <end-date>1985-01-08</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Discussed future strategic arms negotiations with Soviet Foreign Minister Gromyko.</remarks>
+        <remarks>Discussed future strategic arms negotiations with Soviet Foreign Minister
+            Gromyko.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2005</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1232,7 +1245,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2006</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1246,7 +1259,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2007</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1254,13 +1267,14 @@
         <end-date>1985-03-02</end-date>
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
-        <remarks>Attended the inauguration of President Sanguinetti. Returned to Washington March 3.</remarks>
+        <remarks>Attended the inauguration of President Sanguinetti. Returned to Washington March
+            3.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2008</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1268,13 +1282,14 @@
         <end-date>1985-03-13</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Moscow</locale>
-        <remarks>Accompanied Vice President Bush to the funeral of Soviet President Chernenko.</remarks>
+        <remarks>Accompanied Vice President Bush to the funeral of Soviet President
+            Chernenko.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2009</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1288,7 +1303,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2010</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1302,7 +1317,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2011</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1310,13 +1325,14 @@
         <end-date>1985-05-06</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Accompanied President Reagan to the Economic Summit Meeting and on a State visit.</remarks>
+        <remarks>Accompanied President Reagan to the Economic Summit Meeting and on a State
+            visit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2012</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1330,7 +1346,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2013</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1344,7 +1360,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2014</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1358,7 +1374,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2015</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1372,7 +1388,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2016</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1386,7 +1402,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2017</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1400,7 +1416,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2018</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1408,13 +1424,14 @@
         <end-date>1985-05-15</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Attended ceremonies commemorating the 30th anniversary of the Austrian State Treaty. Met with Soviet Foreign Minister Gromyko.</remarks>
+        <remarks>Attended ceremonies commemorating the 30th anniversary of the Austrian State
+            Treaty. Met with Soviet Foreign Minister Gromyko.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2019</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1428,7 +1445,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2020</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1436,13 +1453,14 @@
         <end-date>1985-06-08</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Prime Minister Thatcher. Attended a conference of U.S. Chiefs of Mission. Returned by way of Bermuda.</remarks>
+        <remarks>Met with Prime Minister Thatcher. Attended a conference of U.S. Chiefs of Mission.
+            Returned by way of Bermuda.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2021</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1456,7 +1474,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2022</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1464,13 +1482,14 @@
         <end-date>1985-07-10</end-date>
         <country id="thailand">Thailand</country>
         <locale>Bangkok</locale>
-        <remarks>Met with Prime Minister Prem and senior Thai officials. Also visited Cambodian refugee camps on the Thai border.</remarks>
+        <remarks>Met with Prime Minister Prem and senior Thai officials. Also visited Cambodian
+            refugee camps on the Thai border.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2023</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1484,7 +1503,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2024</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1498,7 +1517,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2025</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1512,7 +1531,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2026</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1526,7 +1545,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2027</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1534,13 +1553,15 @@
         <end-date>1985-08-01</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Attended ceremonies commemorating 10th anniversary of the Final Act of the Conference on Security and Cooperation in Europe. Met with Soviet Foreign Minister Shevardnadze.</remarks>
+        <remarks>Attended ceremonies commemorating 10th anniversary of the Final Act of the
+            Conference on Security and Cooperation in Europe. Met with Soviet Foreign Minister
+            Shevardnadze.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2028</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1554,7 +1575,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2029</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1568,7 +1589,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2030</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1582,7 +1603,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2031</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1590,13 +1611,14 @@
         <end-date>1985-11-03</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Met with President Koivisto and Foreign Minister Vayrynen while en route to Moscow.</remarks>
+        <remarks>Met with President Koivisto and Foreign Minister Vayrynen while en route to
+            Moscow.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2032</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1610,7 +1632,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2033</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1624,7 +1646,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2034</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1632,13 +1654,14 @@
         <end-date>1985-11-21</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Accompanied President Reagan to the Summit Meeting with Soviet General Secretary Gorbachev.</remarks>
+        <remarks>Accompanied President Reagan to the Summit Meeting with Soviet General Secretary
+            Gorbachev.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2035</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1652,7 +1675,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2036</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1666,7 +1689,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2037</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1680,7 +1703,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2038</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1688,13 +1711,14 @@
         <end-date>1985-12-13</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting and a U.S.-European Community Ministerial Meeting.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and a U.S.-European Community Ministerial
+            Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2039</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1708,7 +1732,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2040</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1722,7 +1746,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2041</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1736,7 +1760,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2042</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1750,7 +1774,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2043</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1764,7 +1788,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2044</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1778,7 +1802,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2045</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1792,7 +1816,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2046</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1806,7 +1830,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2047</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1814,13 +1838,14 @@
         <end-date>1986-03-16</end-date>
         <country id="sweden">Sweden</country>
         <locale>Stockholm</locale>
-        <remarks>Attended the funeral of Prime Minister Palme and met with Soviet Premier Ryzhkov.</remarks>
+        <remarks>Attended the funeral of Prime Minister Palme and met with Soviet Premier
+            Ryzhkov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2048</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1834,7 +1859,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2049</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1842,13 +1867,14 @@
         <end-date>1986-03-25</end-date>
         <country id="turkey">Turkey</country>
         <locale>Istanbul, Ankara</locale>
-        <remarks>Discussed economic and defense matters with Prime Minister Ozal and senior Turkish officials.</remarks>
+        <remarks>Discussed economic and defense matters with Prime Minister Ozal and senior Turkish
+            officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2050</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1856,13 +1882,14 @@
         <end-date>1986-03-28</end-date>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
-        <remarks>Discussed defense issues with Prime Minister Papandreou and senior Greek officials.</remarks>
+        <remarks>Discussed defense issues with Prime Minister Papandreou and senior Greek
+            officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2051</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1876,7 +1903,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2052</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1890,7 +1917,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2053</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1904,7 +1931,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2054</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1918,7 +1945,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2055</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1932,7 +1959,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2056</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1946,7 +1973,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2057</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1960,7 +1987,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2058</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1974,7 +2001,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2059</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -1988,7 +2015,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2060</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2002,7 +2029,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2061</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2010,13 +2037,14 @@
         <end-date>1986-06-28</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Attended ASEAN Post-Ministerial Meeting. Also met with New Zealand Prime Minister Lange.</remarks>
+        <remarks>Attended ASEAN Post-Ministerial Meeting. Also met with New Zealand Prime Minister
+            Lange.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2062</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2030,7 +2058,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2063</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2044,7 +2072,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2064</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2058,7 +2086,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2065</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2072,7 +2100,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2066</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2080,13 +2108,14 @@
         <end-date>1986-10-12</end-date>
         <country id="iceland">Iceland</country>
         <locale>Reykjavik</locale>
-        <remarks>Accompanied President Reagan to a meeting with Soviet General Secretary Gorbachev.</remarks>
+        <remarks>Accompanied President Reagan to a meeting with Soviet General Secretary
+            Gorbachev.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2067</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2100,7 +2129,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2068</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2114,7 +2143,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2069</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2122,13 +2151,14 @@
         <end-date>1986-11-06</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Attended the opening of the Follow-up Meeting of the Conference on Security and Cooperation in Europe.</remarks>
+        <remarks>Attended the opening of the Follow-up Meeting of the Conference on Security and
+            Cooperation in Europe.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2070</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2142,7 +2172,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2071</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2156,7 +2186,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2072</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2170,7 +2200,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2073</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2184,7 +2214,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2074</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2198,7 +2228,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2075</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2212,7 +2242,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2076</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2226,7 +2256,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2077</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2240,7 +2270,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2078</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2254,7 +2284,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2079</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2268,7 +2298,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2080</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2282,7 +2312,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2081</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2296,7 +2326,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2082</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2310,7 +2340,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2083</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2324,7 +2354,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2084</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2338,7 +2368,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2085</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2352,7 +2382,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2086</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2366,7 +2396,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2087</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2380,7 +2410,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2088</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2394,7 +2424,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2089</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2408,7 +2438,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2090</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2422,7 +2452,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2091</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2436,7 +2466,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2092</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2450,7 +2480,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2093</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2458,13 +2488,14 @@
         <end-date>1987-06-17</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Met with President Aquino. Signed an emergency aid package. Visited Corregidor.</remarks>
+        <remarks>Met with President Aquino. Signed an emergency aid package. Visited
+            Corregidor.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2094</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2478,7 +2509,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2095</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2492,7 +2523,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2096</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2506,7 +2537,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2097</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2520,7 +2551,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2098</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2534,7 +2565,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2099</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2548,7 +2579,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2100</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2556,13 +2587,14 @@
         <end-date>1987-10-19</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem, Tel Aviv, Rehovot</locale>
-        <remarks>Further meetings with Israeli officials. Received an honorary degree from the Weizmann Institute.</remarks>
+        <remarks>Further meetings with Israeli officials. Received an honorary degree from the
+            Weizmann Institute.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2101</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2576,7 +2608,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2102</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2590,7 +2622,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2103</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2604,7 +2636,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2104</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2618,7 +2650,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2105</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2632,7 +2664,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2106</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2646,7 +2678,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2107</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2660,7 +2692,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2108</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2668,13 +2700,14 @@
         <end-date>1987-12-12</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended a NATO Ministerial Meeting and met with EEC representatives. Signed the INF Basing Inspection Agreement.</remarks>
+        <remarks>Attended a NATO Ministerial Meeting and met with EEC representatives. Signed the
+            INF Basing Inspection Agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2109</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2688,7 +2721,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2110</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2702,7 +2735,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2111</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2716,7 +2749,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2112</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2730,7 +2763,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2113</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2744,7 +2777,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2114</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2758,7 +2791,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2115</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2772,7 +2805,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2116</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2786,7 +2819,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2117</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2800,7 +2833,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2118</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2808,13 +2841,14 @@
         <end-date>1988-02-27</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
-        <remarks>Met with Prime Minister Shamir and senior Israeli officials. Discussed a Middle East peace initiative.</remarks>
+        <remarks>Met with Prime Minister Shamir and senior Israeli officials. Discussed a Middle
+            East peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2119</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2822,13 +2856,14 @@
         <end-date>1988-02-27</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Met with President Assad and Foreign Minister Khaddam regarding a Middle East peace initiative.</remarks>
+        <remarks>Met with President Assad and Foreign Minister Khaddam regarding a Middle East peace
+            initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2120</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2836,13 +2871,14 @@
         <end-date>1988-02-27</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with Crown Prince Hassan and Prime Minister Rifai regarding a Middle East peace initiative.</remarks>
+        <remarks>Met with Crown Prince Hassan and Prime Minister Rifai regarding a Middle East peace
+            initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2121</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2856,7 +2892,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2122</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2870,7 +2906,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2123</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2884,7 +2920,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2124</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2892,13 +2928,14 @@
         <end-date>1988-02-29</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Briefed Crown Prince Hassan and senior officials on meetings with other Arab leaders.</remarks>
+        <remarks>Briefed Crown Prince Hassan and senior officials on meetings with other Arab
+            leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2125</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2912,7 +2949,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2126</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2926,7 +2963,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2127</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2940,7 +2977,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2128</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2954,7 +2991,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2129</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2968,7 +3005,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2130</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2982,7 +3019,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2131</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -2996,7 +3033,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2132</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3010,7 +3047,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2133</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3024,7 +3061,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2134</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3038,7 +3075,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2135</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3052,7 +3089,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2136</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3066,7 +3103,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2137</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3080,7 +3117,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2138</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3094,7 +3131,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2139</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3108,7 +3145,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2140</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3122,7 +3159,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2141</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3136,7 +3173,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2142</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3144,13 +3181,14 @@
         <end-date>1988-04-14</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Attended the signing of an agreement for the withdrawal of Soviet forces from Afghanistan.</remarks>
+        <remarks>Attended the signing of an agreement for the withdrawal of Soviet forces from
+            Afghanistan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2143</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3164,7 +3202,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2144</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3178,7 +3216,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2145</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3192,7 +3230,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2146</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3200,13 +3238,14 @@
         <end-date>1988-05-12</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Met with Soviet Foreign Minister Shevardnadze; discussed INF verification procedures.</remarks>
+        <remarks>Met with Soviet Foreign Minister Shevardnadze; discussed INF verification
+            procedures.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2147</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3220,7 +3259,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2148</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3228,13 +3267,14 @@
         <end-date>1988-05-29</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Accompanied President Reagan to meetings with President Koivisto en route to Moscow.</remarks>
+        <remarks>Accompanied President Reagan to meetings with President Koivisto en route to
+            Moscow.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2149</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3248,7 +3288,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>3885</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3262,7 +3302,7 @@
         <last-modified-by>bottsjd</last-modified-by>
         <last-modified-datetime>2020-10-28T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2150</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3276,7 +3316,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2151</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3290,7 +3330,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2152</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3304,7 +3344,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2153</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3318,7 +3358,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2154</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3332,7 +3372,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2155</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3346,7 +3386,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2156</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3360,7 +3400,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2157</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3374,7 +3414,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2158</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3382,13 +3422,14 @@
         <end-date>1988-06-29</end-date>
         <country id="guatemala">Guatemala</country>
         <locale>Guatemala City</locale>
-        <remarks>Met with President Vicinio Cerezo. Signed an economic assistance agreement. Met with Nicaraguan Resistance leaders.</remarks>
+        <remarks>Met with President Vicinio Cerezo. Signed an economic assistance agreement. Met
+            with Nicaraguan Resistance leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2159</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3396,13 +3437,14 @@
         <end-date>1988-06-30</end-date>
         <country id="el-salvador">El Salvador</country>
         <locale>San Salvador</locale>
-        <remarks>Met with Acting President Castillo Claramount and Salvadoran officials and military officers. Signed an economic assistance agreement.</remarks>
+        <remarks>Met with Acting President Castillo Claramount and Salvadoran officials and military
+            officers. Signed an economic assistance agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2160</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3416,7 +3458,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2161</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3430,7 +3472,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2162</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3444,7 +3486,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2163</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3458,7 +3500,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2164</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3466,13 +3508,14 @@
         <end-date>1988-07-11</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
-        <remarks>Met with President Suharto and senior Indonesian officials. Signed agreements on double taxation.</remarks>
+        <remarks>Met with President Suharto and senior Indonesian officials. Signed agreements on
+            double taxation.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2165</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3486,7 +3529,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2166</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3500,7 +3543,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2167</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3514,7 +3557,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2168</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3528,7 +3571,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2169</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3542,7 +3585,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2170</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3556,7 +3599,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2171</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3564,13 +3607,14 @@
         <end-date>1988-08-01</end-date>
         <country id="guatemala">Guatemala</country>
         <locale>Guatemala City</locale>
-        <remarks>Met with the Foreign Ministers of Guatemala, Costa Rica, Honduras, and El Salvador.</remarks>
+        <remarks>Met with the Foreign Ministers of Guatemala, Costa Rica, Honduras, and El
+            Salvador.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2172</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3584,7 +3628,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2173</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3598,7 +3642,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2174</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3612,7 +3656,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2175</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3626,7 +3670,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2176</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3640,7 +3684,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2177</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3654,7 +3698,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2178</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3668,7 +3712,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2179</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3682,7 +3726,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2180</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3696,7 +3740,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2181</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3710,7 +3754,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2182</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3724,7 +3768,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2183</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3738,7 +3782,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2184</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3752,7 +3796,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2185</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3766,7 +3810,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2186</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
@@ -3780,7 +3824,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip who="shultz-george-pratt" role="secretary">
+    <trip role="secretary" who="shultz-george-pratt">
         <id>2187</id>
         <role>secretary</role>
         <name>George Pratt Shultz</name>
