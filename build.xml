@@ -39,11 +39,15 @@
         <echo message="------------------------------------------------------------"/>
         <echo message="Creating xar file..."/>
         <echo message="------------------------------------------------------------"/>
-
-        <zip basedir="${basedir}" destfile="${build.dir}/${app.name}-${app.version}.xar">
+        
+        <zip basedir="${basedir}" destfile="${build.dir}/${app.name}.xar">
             <exclude name="${build.dir}/**"/>
             <exclude name="*.tmpl"/>
+            <exclude name=".github/**"/>
+            <exclude name="test/**"/>
+            <exclude name="node_modules/**"/>
         </zip>
+        <echo>Version: ${app.version}</echo>        
     </target>
 
     <target description="Store git revision in ${repository.version}" if="git.present"
