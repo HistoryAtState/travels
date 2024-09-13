@@ -27,7 +27,7 @@
             <let name="this-id" value="./string()"/>
             <let name="count-used" value="count($trip-ids[. eq $this-id])"/>
             <assert sqf:fix="update-id" test="$count-used eq 1">Trip ID problem: <value-of
-                    select="$count-used - 1"/> other trip(s) also use this ID."/></assert>
+                    select="$count-used - 1"/> other trip(s) also use this ID."/&gt;</assert>
             <sqf:fix id="update-id">
                 <sqf:description>
                     <sqf:title>Fix ID (use next available ID, <value-of select="$next-id"

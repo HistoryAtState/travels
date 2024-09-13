@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip role="president" who="biden-joseph-r">
+        <id>4113</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2021-06-09</start-date>
+        <end-date>2021-06-13</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London, Cornwall</locale>
+        <remarks>Met with Prime Minister Boris Johnson and Queen Elizabeth II. Attended the G7
+            Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-05-24T10:47:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4114</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2021-06-13</start-date>
+        <end-date>2021-06-15</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Met with King Philippe and Prime Minister Alexander De Croo. Attended the NATO
+            Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-05-24T10:48:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4115</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2021-06-15</start-date>
+        <end-date>2021-06-16</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Geneva</locale>
+        <remarks>Met with President Guy Parmelin and Foreign Minister Ignazio Cassis. Attended a
+            summit meeting with Russian President Vladimir Putin.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-05-24T10:50:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4116</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2021-10-29</start-date>
+        <end-date>2021-10-29</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Met with Pope Francis.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-05-24T10:53:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4117</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2021-10-29</start-date>
+        <end-date>2021-11-01</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Attended the G20 Leader's Summit. Met with Prime Minister Mario Draghi, President
+            Emmanuel Macron, Chancellor Angela Merkel, and Prime Minister Boris Johnson.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-05-24T10:54:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4118</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2021-11-01</start-date>
+        <end-date>2021-11-02</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Glasgow</locale>
+        <remarks>Attended the United Nations Climate Change Conference.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-05-24T10:55:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4119</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2021-11-01</start-date>
+        <end-date>2021-11-02</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Glasgow</locale>
+        <remarks>Attended World Leader Summit at the start of the COP26, the 26th Conference of the
+            Parties to the U.N. Framework Convention on Climate Change.</remarks>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2023-05-26T16:04:14-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4101</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-03-24</start-date>
+        <end-date>2022-03-25</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended the NATO Extraordinary Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T10:46:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4102</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-03-25</start-date>
+        <end-date>2022-03-26</end-date>
+        <country id="poland">Poland</country>
+        <locale>Rzeszow, Warsaw</locale>
+        <remarks>Met with President Andrzej Duda.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T10:49:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4103</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-05-19</start-date>
+        <end-date>2022-05-21</end-date>
+        <country id="korea-south">Korea, South</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Yoon Suk Yeol.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T10:51:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4104</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-05-21</start-date>
+        <end-date>2022-05-24</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Japanese Prime Minister Kishida Fumio and attended the Quad Leaders’
+            Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T10:52:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4105</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-06-25</start-date>
+        <end-date>2022-06-28</end-date>
+        <country id="germany">Germany</country>
+        <locale>Schloss Elmau</locale>
+        <remarks>Attended the G7 Leaders’ Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T10:54:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4106</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-06-28</start-date>
+        <end-date>2022-06-30</end-date>
+        <country id="spain">Spain</country>
+        <locale>Madrid</locale>
+        <remarks>Met with Prime Minister Pedro Sánchez Perez-Castejon and participated in the Madrid
+            NATO Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T10:56:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4107</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-07-13</start-date>
+        <end-date>2022-07-15</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Consulted with regional partners.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T11:01:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4108</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-07-15</start-date>
+        <end-date>2022-07-15</end-date>
+        <country id="west-bank">West Bank</country>
+        <locale>Ramallah</locale>
+        <remarks>Consulted with regional partners.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T11:02:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4109</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-07-15</start-date>
+        <end-date>2022-07-16</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jeddah</locale>
+        <remarks>Met with King Salman bin Abd al-Aziz Al Saud and Crown Prince Muhammad bin Salman
+            bin Abd al-Aziz Al Saud. Attended Summit of the Gulf Cooperation Council.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T11:04:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4110</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-11-11</start-date>
+        <end-date>2022-11-11</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Sharm el-Sheikh</locale>
+        <remarks>Attended the 2022 United Nations Climate Change Conference.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T11:05:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4111</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-11-12</start-date>
+        <end-date>2022-11-13</end-date>
+        <country id="cambodia">Cambodia</country>
+        <locale>Phnom Penh</locale>
+        <remarks>Participated in the U.S.-ASEAN and East Asia Summits.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T11:06:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4112</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2022-11-13</start-date>
+        <end-date>2022-11-16</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Bali</locale>
+        <remarks>Participated in the G20 Leaders’ Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-02-15T11:08:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+</trips>

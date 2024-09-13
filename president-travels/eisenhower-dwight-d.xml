@@ -506,11 +506,11 @@
         <end-date>1960-06-20</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>Met with Prime Minister Chung and addressed the National Assembly.</remarks>
+        <remarks>Met with Prime Minister Huh Chung and addressed the National Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2022-02-25T14:35:00-04:00</last-modified-datetime>
     </trip>
     <trip role="president" who="eisenhower-dwight-d">
         <id>2775</id>
