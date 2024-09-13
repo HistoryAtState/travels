@@ -450,12 +450,12 @@
         <end-date>1985-05-10</end-date>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
-        <remarks>State visit; met with President Eanes and Prime Minister Scares; addressed the
+        <remarks>State visit; met with President Eanes and Prime Minister Soares; addressed the
             National Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2023-10-20T13:35:00-04:00</last-modified-datetime>
     </trip>
     <trip role="president" who="reagan-ronald">
         <id>2942</id>
