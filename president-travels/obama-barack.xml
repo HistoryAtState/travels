@@ -923,15 +923,15 @@
         <id>3729</id>
         <role>president</role>
         <name>Barack Obama</name>
-        <start-date>2013-09-05</start-date>
-        <end-date>2013-09-06</end-date>
+        <start-date>2013-12-09</start-date>
+        <end-date>2013-12-11</end-date>
         <country id="south-africa">South Africa</country>
         <locale>Johannesburg</locale>
         <remarks>Attended memorial service for former President Nelson Mandela.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-24T10:13:29.995-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2017-04-24T10:13:29.995-04:00</last-modified-datetime>
+        <last-modified-by>cabrerath</last-modified-by>
+        <last-modified-datetime>2022-07-12T10:13:00-04:00</last-modified-datetime>
     </trip>
     <trip role="president" who="obama-barack">
         <id>3409</id>

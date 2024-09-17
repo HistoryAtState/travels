@@ -3,7 +3,7 @@
     <trip role="president" who="truman-harry-s">
         <id>2733</id>
         <role>president</role>
-        <name>Harry S Truman</name>
+        <name>Harry S. Truman</name>
         <start-date>1945-07-15</start-date>
         <end-date>1945-07-15</end-date>
         <country id="belgium">Belgium</country>
@@ -17,7 +17,7 @@
     <trip role="president" who="truman-harry-s">
         <id>2734</id>
         <role>president</role>
-        <name>Harry S Truman</name>
+        <name>Harry S. Truman</name>
         <start-date>1945-07-16</start-date>
         <end-date>1945-08-02</end-date>
         <country id="germany">Germany</country>
@@ -32,7 +32,7 @@
     <trip role="president" who="truman-harry-s">
         <id>2735</id>
         <role>president</role>
-        <name>Harry S Truman</name>
+        <name>Harry S. Truman</name>
         <start-date>1945-08-02</start-date>
         <end-date>1945-08-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -46,7 +46,7 @@
     <trip role="president" who="truman-harry-s">
         <id>3202</id>
         <role>president</role>
-        <name>Harry S Truman</name>
+        <name>Harry S. Truman</name>
         <start-date>1946-08-22</start-date>
         <end-date>1946-08-30</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -61,7 +61,7 @@
     <trip role="president" who="truman-harry-s">
         <id>2736</id>
         <role>president</role>
-        <name>Harry S Truman</name>
+        <name>Harry S. Truman</name>
         <start-date>1947-03-03</start-date>
         <end-date>1947-03-06</end-date>
         <country id="mexico">Mexico</country>
@@ -75,7 +75,7 @@
     <trip role="president" who="truman-harry-s">
         <id>2737</id>
         <role>president</role>
-        <name>Harry S Truman</name>
+        <name>Harry S. Truman</name>
         <start-date>1947-06-10</start-date>
         <end-date>1947-06-12</end-date>
         <country id="canada">Canada</country>
@@ -90,7 +90,7 @@
     <trip role="president" who="truman-harry-s">
         <id>2738</id>
         <role>president</role>
-        <name>Harry S Truman</name>
+        <name>Harry S. Truman</name>
         <start-date>1947-09-01</start-date>
         <end-date>1947-09-07</end-date>
         <country id="brazil">Brazil</country>
