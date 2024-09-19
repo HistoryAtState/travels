@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="secretary" who="colby-bainbridge">
+    <trip who="colby-bainbridge" role="secretary">
         <id>733</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
@@ -8,14 +8,13 @@
         <end-date>1920-12-10</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bridgetown (Barbados)</locale>
-        <remarks>Met with British colonial officials during a refueling stop en route to South
-            America. Left U.S. December 4.</remarks>
+        <remarks>Met with British colonial officials during a refueling stop en route to South America. Left U.S. December 4.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="colby-bainbridge">
+    <trip who="colby-bainbridge" role="secretary">
         <id>734</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
@@ -29,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="colby-bainbridge">
+    <trip who="colby-bainbridge" role="secretary">
         <id>735</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
@@ -37,14 +36,13 @@
         <end-date>1920-12-31</end-date>
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
-        <remarks>Official visit; repaid 1918 visit by President (then Foreign Minister)
-            Brum.</remarks>
+        <remarks>Official visit; repaid 1918 visit by President (then Foreign Minister) Brum.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="colby-bainbridge">
+    <trip who="colby-bainbridge" role="secretary">
         <id>736</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
@@ -58,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="colby-bainbridge">
+    <trip who="colby-bainbridge" role="secretary">
         <id>737</id>
         <role>secretary</role>
         <name>Bainbridge Colby</name>
@@ -66,8 +64,7 @@
         <end-date>1921-01-21</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Port-of-Spain</locale>
-        <remarks>Met with British colonial (Trinidad) officials while returning from South America.
-            Returned to U.S. January 26.</remarks>
+        <remarks>Met with British colonial (Trinidad) officials while returning from South America. Returned to U.S. January 26.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

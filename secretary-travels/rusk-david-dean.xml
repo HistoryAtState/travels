@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1798</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1799</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -28,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1800</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -42,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1801</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -56,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1802</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -70,7 +70,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1803</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -84,7 +84,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1804</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -98,7 +98,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1805</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -112,7 +112,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1806</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -120,14 +120,13 @@
         <end-date>1961-08-09</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended a Foreign Ministers meeting on Berlin and met with the NATO Permanent
-            Council.</remarks>
+        <remarks>Attended a Foreign Ministers meeting on Berlin and met with the NATO Permanent Council.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1807</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -135,14 +134,13 @@
         <end-date>1961-08-10</end-date>
         <country id="italy">Italy</country>
         <locale>Rome, Milan, Cadenabbia</locale>
-        <remarks>Met with Italian Prime Minister Fanfani and Foreign Minister Segni, and, on August
-            10, with German Chancellor Adenauer.</remarks>
+        <remarks>Met with Italian Prime Minister Fanfani and Foreign Minister Segni, and, on August 10, with German Chancellor Adenauer.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1808</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -150,14 +148,13 @@
         <end-date>1961-11-04</end-date>
         <country id="japan">Japan</country>
         <locale>Hakone</locale>
-        <remarks>Attended a meeting of U.S.-Japan Joint Committee on Trade and Economic
-            Affairs.</remarks>
+        <remarks>Attended a meeting of U.S.-Japan Joint Committee on Trade and Economic Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1809</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -171,7 +168,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1810</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -185,7 +182,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1811</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -199,7 +196,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1812</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -213,7 +210,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1813</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -221,14 +218,13 @@
         <end-date>1962-02-01</end-date>
         <country id="uruguay">Uruguay</country>
         <locale>Punta del Este</locale>
-        <remarks>Attended the 8th Meeting of Consultation of the American Foreign
-            Ministers.</remarks>
+        <remarks>Attended the 8th Meeting of Consultation of the American Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1814</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -242,7 +238,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1815</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -256,7 +252,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1816</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -270,7 +266,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1817</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -284,7 +280,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1818</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -298,7 +294,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1819</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -312,7 +308,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1820</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -326,7 +322,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1821</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -334,14 +330,13 @@
         <end-date>1962-06-23</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Discussed the Berlin crisis with Chancellor Adenauer and Foreign Minister
-            Schroeder.</remarks>
+        <remarks>Discussed the Berlin crisis with Chancellor Adenauer and Foreign Minister Schroeder.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1822</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -355,7 +350,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1823</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -363,14 +358,13 @@
         <end-date>1962-06-27</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Oxford</locale>
-        <remarks>Met with Prime Minister Macmillan and Foreign Secretary Home. Received an honorary
-            degree from Oxford University.</remarks>
+        <remarks>Met with Prime Minister Macmillan and Foreign Secretary Home. Received an honorary degree from Oxford University.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1824</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -384,7 +378,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1825</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -398,7 +392,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1826</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -406,14 +400,13 @@
         <end-date>1962-08-26</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Met with Prime Minister Diefenbaker and Secretary for External Affairs
-            Green.</remarks>
+        <remarks>Met with Prime Minister Diefenbaker and Secretary for External Affairs Green.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1827</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -427,7 +420,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1828</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -441,7 +434,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1829</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -449,14 +442,13 @@
         <end-date>1963-03-20</end-date>
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
-        <remarks>Accompanied President Kennedy to the Conference of the Presidents of Central
-            American Republics.</remarks>
+        <remarks>Accompanied President Kennedy to the Conference of the Presidents of Central American Republics.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1830</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -470,7 +462,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1831</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -484,7 +476,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1832</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -498,7 +490,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1833</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -512,7 +504,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1834</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -526,7 +518,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1835</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -534,14 +526,13 @@
         <end-date>1963-05-05</end-date>
         <country id="yugoslavia">Yugoslavia</country>
         <locale>Belgrade</locale>
-        <remarks>Met with President Tito; returned official visit by the Yugoslav Secretary of State
-            for Foreign Affairs.</remarks>
+        <remarks>Met with President Tito; returned official visit by the Yugoslav Secretary of State for Foreign Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1836</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -555,7 +546,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1837</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -569,7 +560,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1838</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -583,7 +574,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1839</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -597,7 +588,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1840</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -611,7 +602,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1841</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -625,7 +616,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1842</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -633,14 +624,13 @@
         <end-date>1963-08-11</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Discussed the Test Ban Treaty with Chancellor Adenauer and Foreign Minister
-            Schroeder.</remarks>
+        <remarks>Discussed the Test Ban Treaty with Chancellor Adenauer and Foreign Minister Schroeder.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1843</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -654,7 +644,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1844</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -668,7 +658,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1845</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -682,7 +672,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1846</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -690,14 +680,13 @@
         <end-date>1964-01-28</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of Joint U.S.-Japan Committee on Trade and Economic
-            Affairs.</remarks>
+        <remarks>Attended a meeting of Joint U.S.-Japan Committee on Trade and Economic Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1847</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -711,7 +700,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1848</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -725,7 +714,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1849</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -739,7 +728,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1850</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -753,7 +742,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1851</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -761,14 +750,13 @@
         <end-date>1964-04-30</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Attended a meeting of the Joint U.S.-Canadian Committee on Trade and Economic
-            Affairs.</remarks>
+        <remarks>Attended a meeting of the Joint U.S.-Canadian Committee on Trade and Economic Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1852</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -776,14 +764,13 @@
         <end-date>1964-05-10</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with Foreign Minister Spaak and officials of the European Economic
-            Community.</remarks>
+        <remarks>Met with Foreign Minister Spaak and officials of the European Economic Community.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1853</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -797,7 +784,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1854</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -811,7 +798,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1855</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -825,7 +812,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1856</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -839,7 +826,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1857</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -853,7 +840,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1858</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -867,7 +854,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1859</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -881,7 +868,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1860</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -895,7 +882,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1861</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -909,7 +896,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1862</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -923,7 +910,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1863</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -937,7 +924,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1864</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -951,7 +938,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1865</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -965,7 +952,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1866</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -979,7 +966,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1867</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -993,7 +980,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1868</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1007,7 +994,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1869</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1021,7 +1008,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1870</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1035,7 +1022,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1871</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1049,7 +1036,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1872</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1063,7 +1050,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1873</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1077,7 +1064,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1874</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1091,7 +1078,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1875</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1099,14 +1086,13 @@
         <end-date>1966-04-16</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F.</locale>
-        <remarks>Accompanied President Johnson on an informal visit. Dedicated a statue of President
-            Lincoln.</remarks>
+        <remarks>Accompanied President Johnson on an informal visit. Dedicated a statue of President Lincoln.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1876</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1120,7 +1106,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1877</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1134,7 +1120,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1878</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1148,7 +1134,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1879</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1162,7 +1148,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1880</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1176,7 +1162,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1881</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1190,7 +1176,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1882</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1204,7 +1190,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1883</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1218,7 +1204,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1884</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1232,7 +1218,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1885</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1246,7 +1232,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1886</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1254,14 +1240,13 @@
         <end-date>1966-07-09</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>Met with President Park and signed an agreement on the status of U.S.
-            forces.</remarks>
+        <remarks>Met with President Park and signed an agreement on the status of U.S. forces.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1887</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1275,7 +1260,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1888</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1289,7 +1274,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1889</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1303,7 +1288,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1890</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1317,7 +1302,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1891</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1331,7 +1316,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1892</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1345,7 +1330,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1893</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1359,7 +1344,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1894</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1373,7 +1358,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1895</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1387,7 +1372,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1896</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1401,7 +1386,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1897</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1415,7 +1400,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1898</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1429,7 +1414,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1899</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1443,7 +1428,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1900</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1457,7 +1442,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1901</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1471,7 +1456,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1902</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1485,7 +1470,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1903</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1499,7 +1484,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1904</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1513,7 +1498,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1905</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1527,7 +1512,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1906</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1541,7 +1526,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1907</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1555,7 +1540,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1908</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1569,7 +1554,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1909</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1583,7 +1568,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1910</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1597,7 +1582,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1911</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1611,7 +1596,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1912</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>
@@ -1625,7 +1610,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rusk-david-dean">
+    <trip who="rusk-david-dean" role="secretary">
         <id>1913</id>
         <role>secretary</role>
         <name>David Dean Rusk</name>

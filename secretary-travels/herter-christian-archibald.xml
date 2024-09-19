@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>912</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>913</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -22,14 +22,13 @@
         <end-date>1959-06-20</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Attended a Conference of the Foreign Ministers of France, the United Kingdom, the
-            Soviet Union, and the United States on the questions of Germany and Berlin.</remarks>
+        <remarks>Attended a Conference of the Foreign Ministers of France, the United Kingdom, the Soviet Union, and the United States on the questions of Germany and Berlin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>914</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -37,14 +36,13 @@
         <end-date>1959-07-11</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Informal meeting with Prime Minister Diefenbaker and Secretary for External Affairs
-            Green.</remarks>
+        <remarks>Informal meeting with Prime Minister Diefenbaker and Secretary for External Affairs Green.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>915</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -58,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>916</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -72,7 +70,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>917</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -80,14 +78,13 @@
         <end-date>1959-08-18</end-date>
         <country id="chile">Chile</country>
         <locale>Santiago</locale>
-        <remarks>Attended the 5th Meeting of Consultation of Ministers of Foreign Affairs of the
-            American States.</remarks>
+        <remarks>Attended the 5th Meeting of Consultation of Ministers of Foreign Affairs of the American States.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>918</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -101,7 +98,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>919</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -109,14 +106,13 @@
         <end-date>1959-09-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Chequers</locale>
-        <remarks>Accompanied President Eisenhower on an informal visit. Also met with Spanish
-            Foreign Minister Castiella.</remarks>
+        <remarks>Accompanied President Eisenhower on an informal visit. Also met with Spanish Foreign Minister Castiella.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>920</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -124,14 +120,13 @@
         <end-date>1959-09-04</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Accompanied President Eisenhower to meeting of the North Atlantic
-            Council.</remarks>
+        <remarks>Accompanied President Eisenhower to meeting of the North Atlantic Council.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>921</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -139,14 +134,13 @@
         <end-date>1959-12-22</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended NATO Ministerial Meeting and a meeting of the Heads of State and
-            Government of France, Germany, the United Kingdom, and the United States.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and a meeting of the Heads of State and Government of France, Germany, the United Kingdom, and the United States.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>922</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -160,7 +154,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>923</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -174,7 +168,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>924</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -188,7 +182,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>925</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -202,7 +196,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>926</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -216,7 +210,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>927</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -230,7 +224,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>928</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -244,7 +238,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>929</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -258,7 +252,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>930</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -266,15 +260,13 @@
         <end-date>1960-05-21</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Accompanied President Eisenhower to a meeting of the Chiefs of State and Heads of
-            Government of France, the Soviet Union, the United Kingdom, and the United States. Also
-            attended a meeting of NATO's Permanent Council.</remarks>
+        <remarks>Accompanied President Eisenhower to a meeting of the Chiefs of State and Heads of Government of France, the Soviet Union, the United Kingdom, and the United States. Also attended a meeting of NATO's Permanent Council.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>931</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -282,14 +274,13 @@
         <end-date>1960-08-29</end-date>
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
-        <remarks>Attended the 6th and 7th Meetings of Consultation of the American Foreign
-            Ministers.</remarks>
+        <remarks>Attended the 6th and 7th Meetings of Consultation of the American Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>932</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -303,7 +294,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>933</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>
@@ -317,7 +308,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="herter-christian-archibald">
+    <trip who="herter-christian-archibald" role="secretary">
         <id>934</id>
         <role>secretary</role>
         <name>Christian Archibald Herter</name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1669</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -8,14 +8,13 @@
         <end-date>1969-02-24</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Accompanied President Nixon; attended the 23d meeting of the North Atlantic
-            Council.</remarks>
+        <remarks>Accompanied President Nixon; attended the 23d meeting of the North Atlantic Council.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1670</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -29,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1671</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -43,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1672</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -57,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1673</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -71,7 +70,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-05-30T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>3812</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -85,7 +84,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-14T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1674</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -99,7 +98,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1675</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -107,14 +106,13 @@
         <end-date>1969-05-19</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Saigon</locale>
-        <remarks>Met with President Thieu and U.S. and Vietnamese officials. Left U.S. May
-            12.</remarks>
+        <remarks>Met with President Thieu and U.S. and Vietnamese officials. Left U.S. May 12.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1676</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -128,7 +126,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1677</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -142,7 +140,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1678</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -156,7 +154,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1679</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -170,7 +168,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1680</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -184,7 +182,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1681</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -192,14 +190,13 @@
         <end-date>1969-06-27</end-date>
         <country id="canada">Canada</country>
         <locale>Montreal</locale>
-        <remarks>Accompanied President Nixon to the 10th Anniversary ceremonies of the St. Lawrence
-            Seaway.</remarks>
+        <remarks>Accompanied President Nixon to the 10th Anniversary ceremonies of the St. Lawrence Seaway.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1682</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -213,7 +210,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1683</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -227,7 +224,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1684</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -235,14 +232,13 @@
         <end-date>1969-07-31</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of the Joint Committee on Trade and Economic Development. Signed
-            a space cooperation agreement.</remarks>
+        <remarks>Attended a meeting of the Joint Committee on Trade and Economic Development. Signed a space cooperation agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1685</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -256,7 +252,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1686</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -270,7 +266,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1687</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -284,7 +280,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1688</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -298,7 +294,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1689</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -312,7 +308,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1690</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -326,7 +322,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1691</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -340,7 +336,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1692</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -348,14 +344,13 @@
         <end-date>1969-12-05</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting. Visited the Commission of the European
-            Communities.</remarks>
+        <remarks>Attended NATO Ministerial Meeting. Visited the Commission of the European Communities.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1693</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -363,14 +358,13 @@
         <end-date>1969-12-05</end-date>
         <country id="germany">Germany, Federal Republic of</country>
         <locale>Bonn</locale>
-        <remarks>Met with Chancellor Brandt, Foreign Minister Scheel, and senior German
-            officials.</remarks>
+        <remarks>Met with Chancellor Brandt, Foreign Minister Scheel, and senior German officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1694</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -384,7 +378,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1695</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -392,14 +386,13 @@
         <end-date>1969-12-08</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with President Pompidou, senior French officials, and with the U.S. delegation
-            to the Vietnam Peace Talks.</remarks>
+        <remarks>Met with President Pompidou, senior French officials, and with the U.S. delegation to the Vietnam Peace Talks.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1696</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -407,14 +400,13 @@
         <end-date>1970-02-09</end-date>
         <country id="morocco">Morocco</country>
         <locale>Rabat</locale>
-        <remarks>Met with King Hassan II and senior Moroccan officials. Signed an air transport
-            agreement.</remarks>
+        <remarks>Met with King Hassan II and senior Moroccan officials. Signed an air transport agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1697</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -428,7 +420,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1698</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -436,14 +428,13 @@
         <end-date>1970-02-13</end-date>
         <country id="ethiopia">Ethiopia</country>
         <locale>Addis Ababa</locale>
-        <remarks>Met with Emperor Haile Selassie and senior Ethiopian officials. Addressed the
-            Organization of African Unity February 12.</remarks>
+        <remarks>Met with Emperor Haile Selassie and senior Ethiopian officials. Addressed the Organization of African Unity February 12.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1699</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -457,7 +448,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1700</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -471,7 +462,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1701</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -479,14 +470,13 @@
         <end-date>1970-02-18</end-date>
         <country id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</country>
         <locale>Kinshasa</locale>
-        <remarks>Met with President Mobutu and senior Congolese officials. Attended a conference of
-            U.S. Chiefs of Mission to African countries.</remarks>
+        <remarks>Met with President Mobutu and senior Congolese officials. Attended a conference of U.S. Chiefs of Mission to African countries.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1702</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -500,7 +490,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1703</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -514,7 +504,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1704</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -528,7 +518,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1705</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -542,7 +532,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1706</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -556,7 +546,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1707</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -570,7 +560,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1708</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -584,7 +574,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1709</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -592,14 +582,13 @@
         <end-date>1970-05-31</end-date>
         <country id="portugal">Portugal</country>
         <locale>Lisbon</locale>
-        <remarks>Met with Prime Minister Caetano and senior Portuguese officials. Amended an air
-            transport agreement.</remarks>
+        <remarks>Met with Prime Minister Caetano and senior Portuguese officials. Amended an air transport agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1710</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -613,7 +602,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1711</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -621,14 +610,13 @@
         <end-date>1970-07-07</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Saigon</locale>
-        <remarks>Met with the Foreign Ministers of countries contributing troops to
-            Vietnam.</remarks>
+        <remarks>Met with the Foreign Ministers of countries contributing troops to Vietnam.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1712</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -636,14 +624,13 @@
         <end-date>1970-07-10</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of U.S. Chiefs of Mission to Asian countries and met with Prime
-            Minister Sato and senior Japanese officials.</remarks>
+        <remarks>Attended a meeting of U.S. Chiefs of Mission to Asian countries and met with Prime Minister Sato and senior Japanese officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1713</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -657,7 +644,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1714</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -671,7 +658,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1715</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -685,7 +672,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1716</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -699,7 +686,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1717</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -713,7 +700,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1718</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -727,7 +714,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1719</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -741,7 +728,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1720</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -755,7 +742,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1721</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -763,14 +750,13 @@
         <end-date>1970-11-24</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Attended a meeting of the Joint U.S.-Canadian Committee on Trade and Economic
-            Affairs.</remarks>
+        <remarks>Attended a meeting of the Joint U.S.-Canadian Committee on Trade and Economic Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1722</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -784,7 +770,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1723</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -798,7 +784,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1724</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -812,7 +798,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1725</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -826,7 +812,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1726</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -840,7 +826,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1727</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -854,7 +840,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1728</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -868,7 +854,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1729</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -882,7 +868,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1730</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -890,14 +876,13 @@
         <end-date>1971-05-03</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Met with King Hussein and senior Jordanian officials. Discussed the Jarring Middle
-            East peace initiative.</remarks>
+        <remarks>Met with King Hussein and senior Jordanian officials. Discussed the Jarring Middle East peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1731</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -911,7 +896,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1732</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -919,14 +904,13 @@
         <end-date>1971-05-06</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Sadat and senior Egyptian officials. Discussed the Jarring peace
-            initiative.</remarks>
+        <remarks>Met with President Sadat and senior Egyptian officials. Discussed the Jarring peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1733</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -934,14 +918,13 @@
         <end-date>1971-05-08</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv</locale>
-        <remarks>Met with Prime Minister Meir, Foreign Minister Eban, and senior Israeli officials.
-            Discussed the Jarring peace initiative.</remarks>
+        <remarks>Met with Prime Minister Meir, Foreign Minister Eban, and senior Israeli officials. Discussed the Jarring peace initiative.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1734</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -955,7 +938,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1735</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -969,7 +952,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1736</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -983,7 +966,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1737</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -997,7 +980,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1738</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1011,7 +994,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1739</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1025,7 +1008,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1740</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1033,14 +1016,13 @@
         <end-date>1971-12-14</end-date>
         <country id="portugal">Portugal</country>
         <locale>Terceira Island (Azores)</locale>
-        <remarks>Accoompanied President Nixon to meeting with French President Pompidou and
-            Portuguese Prime Minister Caetano.</remarks>
+        <remarks>Accoompanied President Nixon to meeting with French President Pompidou and Portuguese Prime Minister Caetano.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1741</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1054,7 +1036,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1742</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1068,7 +1050,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1743</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1082,7 +1064,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1744</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1096,7 +1078,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1745</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1104,14 +1086,13 @@
         <end-date>1972-05-04</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Pre-summit consultation with Prime Minister Heath and Foreign Secretary Douglas
-            Home.</remarks>
+        <remarks>Pre-summit consultation with Prime Minister Heath and Foreign Secretary Douglas Home.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1746</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1119,14 +1100,13 @@
         <end-date>1972-05-05</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with the Belgian and Dutch Foreign Ministers and with the President of the
-            Commission of the European Community.</remarks>
+        <remarks>Met with the Belgian and Dutch Foreign Ministers and with the President of the Commission of the European Community.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1747</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1140,7 +1120,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1748</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1154,7 +1134,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1749</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1168,7 +1148,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1750</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1182,7 +1162,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1751</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1196,7 +1176,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1752</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1204,14 +1184,13 @@
         <end-date>1972-06-01</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Accompanied President Nixon on official visit. Signed consular convention with
-            Poland.</remarks>
+        <remarks>Accompanied President Nixon on official visit. Signed consular convention with Poland.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1753</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1225,7 +1204,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1754</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1239,7 +1218,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1755</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1247,14 +1226,13 @@
         <end-date>1972-06-03</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Signed Final Quadripartite Protocol to the Quadripartite Agreement on Berlin.
-            Visited East and West Berlin.</remarks>
+        <remarks>Signed Final Quadripartite Protocol to the Quadripartite Agreement on Berlin. Visited East and West Berlin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1756</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1268,7 +1246,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1757</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1282,7 +1260,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1758</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1296,7 +1274,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1759</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1310,7 +1288,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1760</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1324,7 +1302,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1761</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1338,7 +1316,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1762</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1352,7 +1330,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1763</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1360,14 +1338,13 @@
         <end-date>1972-07-06</end-date>
         <country id="romania">Romania</country>
         <locale>Bucharest</locale>
-        <remarks>Met with President Ceausescu. Signed consular convention and cultural and
-            scientific exchange agreements.</remarks>
+        <remarks>Met with President Ceausescu. Signed consular convention and cultural and scientific exchange agreements.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1764</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1375,14 +1352,13 @@
         <end-date>1972-07-07</end-date>
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
-        <remarks>Met with First Secretary Kadar. Signed consular convention and scientific and
-            technical exchange agreements.</remarks>
+        <remarks>Met with First Secretary Kadar. Signed consular convention and scientific and technical exchange agreements.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1765</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1396,7 +1372,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1766</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1410,7 +1386,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1767</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1424,7 +1400,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1768</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1438,7 +1414,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1769</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1452,7 +1428,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1770</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1466,7 +1442,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1771</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1480,7 +1456,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1772</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1494,7 +1470,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1773</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1502,14 +1478,13 @@
         <end-date>1973-05-15</end-date>
         <country id="venezuela">Venezuela</country>
         <locale>Caracas</locale>
-        <remarks>Met with President Caldera, Foreign Minister Calvani and senior Venezuelan
-            officials.</remarks>
+        <remarks>Met with President Caldera, Foreign Minister Calvani and senior Venezuelan officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1774</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1523,7 +1498,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1775</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1531,14 +1506,13 @@
         <end-date>1973-05-18</end-date>
         <country id="colombia">Colombia</country>
         <locale>Bogota</locale>
-        <remarks>Met with President Pastrana, Foreign Minister Vasquez, and senior Colombian
-            officials.</remarks>
+        <remarks>Met with President Pastrana, Foreign Minister Vasquez, and senior Colombian officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1776</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1552,7 +1526,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1777</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1566,7 +1540,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1778</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1580,7 +1554,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1779</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1594,7 +1568,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1780</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1608,7 +1582,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1781</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1622,7 +1596,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1782</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1636,7 +1610,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1783</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1650,7 +1624,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1784</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1658,14 +1632,13 @@
         <end-date>1973-07-03</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Attended the first phase of the Conference on Security and Cooperation in
-            Europe.</remarks>
+        <remarks>Attended the first phase of the Conference on Security and Cooperation in Europe.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1785</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1679,7 +1652,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1786</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>
@@ -1687,14 +1660,13 @@
         <end-date>1973-07-17</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of the Joint U.S.-Japan Committee on Trade and Economic
-            Affairs.</remarks>
+        <remarks>Attended a meeting of the Joint U.S.-Japan Committee on Trade and Economic Affairs.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rogers-william-pierce">
+    <trip who="rogers-william-pierce" role="secretary">
         <id>1787</id>
         <role>secretary</role>
         <name>William Pierce Rogers</name>

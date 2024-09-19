@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>496</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -8,14 +8,13 @@
         <end-date>1993-02-19</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed Middle East peace process with President Mubarak and Foreign Minister
-            Moussa.</remarks>
+        <remarks>Discussed Middle East peace process with President Mubarak and Foreign Minister Moussa.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>497</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -29,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>498</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -43,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>499</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -57,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>500</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -71,7 +70,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>501</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -85,7 +84,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>502</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -99,7 +98,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>503</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -107,14 +106,13 @@
         <end-date>1993-02-25</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Middle East peace process with senior Israeli officials and
-            Palestinian representatives.</remarks>
+        <remarks>Discussed the Middle East peace process with senior Israeli officials and Palestinian representatives.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>504</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -128,7 +126,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>505</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -142,7 +140,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>506</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -150,14 +148,13 @@
         <end-date>1993-04-04</end-date>
         <country id="canada">Canada</country>
         <locale>Vancouver</locale>
-        <remarks>Accompanied President Clinton to a summit meeting with Russian President
-            Yeltsin.</remarks>
+        <remarks>Accompanied President Clinton to a summit meeting with Russian President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>507</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -165,14 +162,13 @@
         <end-date>1993-04-15</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Attended a meeting of the G-7 Foreign and Finance Ministers on aid to the former
-            Soviet Union.</remarks>
+        <remarks>Attended a meeting of the G-7 Foreign and Finance Ministers on aid to the former Soviet Union.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>508</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -180,14 +176,13 @@
         <end-date>1993-05-03</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Chevening</locale>
-        <remarks>Discussed the Bosnian crisis with senior British officials and with the Foreign
-            Ministers of Spain and Greece.</remarks>
+        <remarks>Discussed the Bosnian crisis with senior British officials and with the Foreign Ministers of Spain and Greece.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>509</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -201,7 +196,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>510</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -215,7 +210,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>511</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -229,7 +224,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>512</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -243,7 +238,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>513</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -257,7 +252,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>514</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -271,7 +266,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>515</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -285,7 +280,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>516</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -299,7 +294,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>517</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -313,7 +308,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>518</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -321,14 +316,13 @@
         <end-date>1993-07-10</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Accompanied President Clinton to the Economic Summit Meeting and to meetings with
-            Russian President Yeltsin.</remarks>
+        <remarks>Accompanied President Clinton to the Economic Summit Meeting and to meetings with Russian President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>519</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -342,7 +336,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>520</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -356,7 +350,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>521</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -370,7 +364,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>522</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -384,7 +378,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>523</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -398,7 +392,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>524</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -412,7 +406,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>525</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -426,7 +420,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>526</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -440,7 +434,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>527</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -454,7 +448,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>528</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -468,7 +462,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>529</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -482,7 +476,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>530</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -490,14 +484,13 @@
         <end-date>1993-10-21</end-date>
         <country id="hungary">Hungary</country>
         <locale>Budapest</locale>
-        <remarks>Met with Foreign Minister Jeszensky and addressed the American Chamber of
-            Commerce.</remarks>
+        <remarks>Met with Foreign Minister Jeszensky and addressed the American Chamber of Commerce.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>531</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -505,14 +498,13 @@
         <end-date>1993-10-23</end-date>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
-        <remarks>Met with senior Russian officials and addressed the Academy of the National
-            Economy.</remarks>
+        <remarks>Met with senior Russian officials and addressed the Academy of the National Economy.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>532</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -520,14 +512,13 @@
         <end-date>1993-10-24</end-date>
         <country id="kazakhstan">Kazakhstan</country>
         <locale>Almaty</locale>
-        <remarks>Met with President Nazarbayev and signed taxation and economic assistance
-            agreements.</remarks>
+        <remarks>Met with President Nazarbayev and signed taxation and economic assistance agreements.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>533</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -541,7 +532,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>534</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -555,7 +546,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>535</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -569,7 +560,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>536</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -583,7 +574,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>537</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -591,14 +582,13 @@
         <end-date>1993-12-03</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with EC Foreign Ministers and attended NATO and NACC Ministerial
-            Meetings.</remarks>
+        <remarks>Met with EC Foreign Ministers and attended NATO and NACC Ministerial Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>538</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -612,7 +602,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>539</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -626,7 +616,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>540</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -634,14 +624,13 @@
         <end-date>1993-12-06</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Discussed the Middle East peace process with senior Jordanian officials and PLO
-            Chairman Arafat.</remarks>
+        <remarks>Discussed the Middle East peace process with senior Jordanian officials and PLO Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>541</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -649,14 +638,13 @@
         <end-date>1993-12-08</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Middle East peace process with senior Israeli officials and
-            Palestinian representatives.</remarks>
+        <remarks>Discussed the Middle East peace process with senior Israeli officials and Palestinian representatives.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>542</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -670,7 +658,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>543</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -684,7 +672,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>544</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -698,7 +686,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>545</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -712,7 +700,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>546</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -726,7 +714,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>547</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -740,7 +728,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>548</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -748,14 +736,13 @@
         <end-date>1994-01-12</end-date>
         <country id="czech-republic">Czech Republic</country>
         <locale>Prague</locale>
-        <remarks>Accompanied President Clinton to meetings with the Presidents of the Czech
-            Republic, Poland, and Hungary; and with the Prime Minister of Slovakia.</remarks>
+        <remarks>Accompanied President Clinton to meetings with the Presidents of the Czech Republic, Poland, and Hungary; and with the Prime Minister of Slovakia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>549</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -769,7 +756,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>550</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -777,14 +764,13 @@
         <end-date>1994-01-15</end-date>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
-        <remarks>Accompanied President Clinton to meetings with President Yeltsin and senior Russian
-            officials.</remarks>
+        <remarks>Accompanied President Clinton to meetings with President Yeltsin and senior Russian officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>551</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -798,7 +784,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>552</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -812,7 +798,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>553</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -820,14 +806,13 @@
         <end-date>1994-01-23</end-date>
         <country id="norway">Norway</country>
         <locale>Oslo</locale>
-        <remarks>Attended the funeral of Norwegian Foreign Minister Holst. Met with Israeli Foreign
-            Minister Peres and PLO Chairman Arafat.</remarks>
+        <remarks>Attended the funeral of Norwegian Foreign Minister Holst. Met with Israeli Foreign Minister Peres and PLO Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>554</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -835,14 +820,13 @@
         <end-date>1994-01-24</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Met with Chinese Foreign Minister Qian and discussed the Bosnian conflict with
-            senior French officials.</remarks>
+        <remarks>Met with Chinese Foreign Minister Qian and discussed the Bosnian conflict with senior French officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>555</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -856,7 +840,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>556</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -864,14 +848,13 @@
         <end-date>1994-03-11</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with senior Japanese officials and attended a meeting of the International
-            Committee on the Reconstruction of Cambodia.</remarks>
+        <remarks>Met with senior Japanese officials and attended a meeting of the International Committee on the Reconstruction of Cambodia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>557</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -885,7 +868,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>558</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -899,7 +882,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>559</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -907,14 +890,13 @@
         <end-date>1994-04-26</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed the Bosnian conflict with the Foreign Ministers of the United Kingdom and
-            France. Also met with King Hussein of Jordan.</remarks>
+        <remarks>Discussed the Bosnian conflict with the Foreign Ministers of the United Kingdom and France. Also met with King Hussein of Jordan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>560</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -928,7 +910,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>561</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -942,7 +924,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>562</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -950,14 +932,13 @@
         <end-date>1994-04-28</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Met with President Mubarak, the Foreign Ministers of Egypt and Israel, and PLO
-            Chairman Arafat.</remarks>
+        <remarks>Met with President Mubarak, the Foreign Ministers of Egypt and Israel, and PLO Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>563</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -971,7 +952,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>564</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -979,14 +960,13 @@
         <end-date>1994-05-01</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus, Palmyra</locale>
-        <remarks>Discussed the status of the Golan Heights with President Assad and Foreign Minister
-            Sharaa.</remarks>
+        <remarks>Discussed the status of the Golan Heights with President Assad and Foreign Minister Sharaa.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>565</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1000,7 +980,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>566</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1008,15 +988,13 @@
         <end-date>1994-05-04</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Attended the signing of the agreement to implement the Israel-Palestinian
-            Declaration of Principles, and discussed the Bosnian conflict with Russian Foreign
-            Minister Kozyrev.</remarks>
+        <remarks>Attended the signing of the agreement to implement the Israel-Palestinian Declaration of Principles, and discussed the Bosnian conflict with Russian Foreign Minister Kozyrev.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>567</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1030,7 +1008,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>568</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1038,14 +1016,13 @@
         <end-date>1994-05-15</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Attended conference of European Union Foreign Ministers on the Bosnian
-            conflict.</remarks>
+        <remarks>Attended conference of European Union Foreign Ministers on the Bosnian conflict.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>569</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1059,7 +1036,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>570</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1067,14 +1044,13 @@
         <end-date>1994-05-18</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the future status of the Golan Heights with Prime Minister
-            Rabin.</remarks>
+        <remarks>Discussed the future status of the Golan Heights with Prime Minister Rabin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>571</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1088,7 +1064,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>572</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1102,7 +1078,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>573</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1116,7 +1092,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>3289</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1124,14 +1100,13 @@
         <end-date>1994-06-02</end-date>
         <country id="holy-see">Vatican City</country>
         <locale/>
-        <remarks>Accompanied President Clinton to Vatican City for meetings with senior church
-            officials.</remarks>
+        <remarks>Accompanied President Clinton to Vatican City for meetings with senior church officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>574</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1139,14 +1114,13 @@
         <end-date>1994-06-04</end-date>
         <country id="italy">Italy</country>
         <locale>Rome, Nettuno</locale>
-        <remarks>Accompanied President Clinton to meetings with Prime Minister Berlusconi, President
-            Scalfaro, and senior Italian officials.</remarks>
+        <remarks>Accompanied President Clinton to meetings with Prime Minister Berlusconi, President Scalfaro, and senior Italian officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>575</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1154,14 +1128,13 @@
         <end-date>1994-06-05</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Cambridge, London, Portsmouth</locale>
-        <remarks>Accompanied President Clinton to meeting with Prime Minister Major and to D-Day
-            commemorative ceremonies.</remarks>
+        <remarks>Accompanied President Clinton to meeting with Prime Minister Major and to D-Day commemorative ceremonies.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>576</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1169,15 +1142,13 @@
         <end-date>1994-06-08</end-date>
         <country id="france">France</country>
         <locale>Caen, Colleville, Paris</locale>
-        <remarks>Accompanied President Clinton to D-Day memorial ceremonies and to meetings with
-            President Mitterrand and senior French officials. Addressed OECD ministerial
-            meeting.</remarks>
+        <remarks>Accompanied President Clinton to D-Day memorial ceremonies and to meetings with President Mitterrand and senior French officials. Addressed OECD ministerial meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>577</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1191,7 +1162,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>578</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1199,14 +1170,13 @@
         <end-date>1994-06-22</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Attended NATO Ministerial Meeting and met with Russian Foreign Minister
-            Kozyrev.</remarks>
+        <remarks>Attended NATO Ministerial Meeting and met with Russian Foreign Minister Kozyrev.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>579</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1220,7 +1190,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>580</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1234,7 +1204,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>581</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1242,14 +1212,13 @@
         <end-date>1994-07-06</end-date>
         <country id="latvia">Latvia</country>
         <locale>Riga</locale>
-        <remarks>Accompanied President Clinton to a meeting with the Presidents of the Baltic
-            States.</remarks>
+        <remarks>Accompanied President Clinton to a meeting with the Presidents of the Baltic States.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>582</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1263,7 +1232,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>583</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1271,14 +1240,13 @@
         <end-date>1994-07-11</end-date>
         <country id="italy">Italy</country>
         <locale>Naples</locale>
-        <remarks>Accompanied President Clinton to the G-7 Economic Summit and to meetings with
-            Russian President Yeltsin.</remarks>
+        <remarks>Accompanied President Clinton to the G-7 Economic Summit and to meetings with Russian President Yeltsin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>584</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1286,14 +1254,13 @@
         <end-date>1994-07-12</end-date>
         <country id="germany">Germany</country>
         <locale>Bonn, Berlin</locale>
-        <remarks>Accompanied President Clinton to meetings with Chancellor Kohl and EU President
-            Delors.</remarks>
+        <remarks>Accompanied President Clinton to meetings with Chancellor Kohl and EU President Delors.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>585</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1301,14 +1268,13 @@
         <end-date>1994-07-19</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Middle East peace process with Prime Minister Rabin and Foreign
-            Minister Peres.</remarks>
+        <remarks>Discussed the Middle East peace process with Prime Minister Rabin and Foreign Minister Peres.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>586</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1316,14 +1282,13 @@
         <end-date>1994-07-20</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Discussed the Middle East peace process with President Assad and Foreign Minster
-            Sharaa.</remarks>
+        <remarks>Discussed the Middle East peace process with President Assad and Foreign Minster Sharaa.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>587</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1337,7 +1302,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>588</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1351,7 +1316,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>589</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1365,7 +1330,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>590</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1379,7 +1344,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>591</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1387,14 +1352,13 @@
         <end-date>1994-07-30</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Attended a meeting of Contact Group Foreign Ministers about the Bosnian
-            conflict.</remarks>
+        <remarks>Attended a meeting of Contact Group Foreign Ministers about the Bosnian conflict.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>592</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1402,14 +1366,13 @@
         <end-date>1994-08-06</end-date>
         <country id="egypt">Egypt</country>
         <locale>Alexandria</locale>
-        <remarks>Discussed the Middle East Peace Process with President Mubarak and PLO Chairman
-            Arafat.</remarks>
+        <remarks>Discussed the Middle East Peace Process with President Mubarak and PLO Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>593</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1417,14 +1380,13 @@
         <end-date>1994-08-07</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Middle East peace process with Prime Minister Rabin and Foreign
-            Minister Peres.</remarks>
+        <remarks>Discussed the Middle East peace process with Prime Minister Rabin and Foreign Minister Peres.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>594</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1432,14 +1394,13 @@
         <end-date>1994-08-08</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Discussed the Middle East peace process with President Assad and Foreign Minister
-            Sharaa.</remarks>
+        <remarks>Discussed the Middle East peace process with President Assad and Foreign Minister Sharaa.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>595</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1447,14 +1408,13 @@
         <end-date>1994-08-08</end-date>
         <country id="jordan">Jordan</country>
         <locale>Aqaba, Amman</locale>
-        <remarks>Attended inauguration of the Jordan-Israel Border Crossing, and discussed the
-            Middle East peace process with King Hussein.</remarks>
+        <remarks>Attended inauguration of the Jordan-Israel Border Crossing, and discussed the Middle East peace process with King Hussein.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>596</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1462,14 +1422,13 @@
         <end-date>1994-08-09</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Middle East peace process with Prime Minister Rabin and Foreign
-            Minister Peres.</remarks>
+        <remarks>Discussed the Middle East peace process with Prime Minister Rabin and Foreign Minister Peres.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>597</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1483,7 +1442,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>598</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1497,7 +1456,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>599</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1511,7 +1470,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>600</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1525,7 +1484,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>601</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1539,7 +1498,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>602</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1547,14 +1506,13 @@
         <end-date>1994-10-12</end-date>
         <country id="kuwait">Kuwait</country>
         <locale>Kuwait City, Camp Doha</locale>
-        <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council and the United
-            Kingdom. Addressed U.S. military personnel.</remarks>
+        <remarks>Met with the Foreign Ministers of the Gulf Cooperation Council and the United Kingdom. Addressed U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>603</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1568,7 +1526,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>604</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1582,7 +1540,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>605</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1590,14 +1548,13 @@
         <end-date>1994-10-14</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Discussed the Middle East peace process with President Mubarak and PLO Chairman
-            Arafat.</remarks>
+        <remarks>Discussed the Middle East peace process with President Mubarak and PLO Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>606</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1605,14 +1562,13 @@
         <end-date>1994-10-14</end-date>
         <country id="germany">Germany</country>
         <locale>Frankfurt</locale>
-        <remarks>Commented to the press on the Middle East peace process and the Iraq-Kuwait
-            crisis.</remarks>
+        <remarks>Commented to the press on the Middle East peace process and the Iraq-Kuwait crisis.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>607</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1626,7 +1582,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>608</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1634,14 +1590,13 @@
         <end-date>1994-10-26</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Accompanied President Clinton to meetings with President Mubarak and PLO Chairman
-            Arafat.</remarks>
+        <remarks>Accompanied President Clinton to meetings with President Mubarak and PLO Chairman Arafat.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>609</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1649,14 +1604,13 @@
         <end-date>1994-10-27</end-date>
         <country id="jordan">Jordan</country>
         <locale>Aqaba, Wadi Arava, Amman</locale>
-        <remarks>Accompanied President Clinton to the signing of the Israel-Jordan peace treaty and
-            to meetings with senior Jordanian officials.</remarks>
+        <remarks>Accompanied President Clinton to the signing of the Israel-Jordan peace treaty and to meetings with senior Jordanian officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>610</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1670,7 +1624,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>611</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1684,7 +1638,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>612</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1698,7 +1652,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>613</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1712,7 +1666,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>614</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1726,7 +1680,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>615</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1734,15 +1688,13 @@
         <end-date>1994-11-10</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul, Osan</locale>
-        <remarks>Discussed the security situation on the Korean Peninsula with senior Korean
-            officials, addressed Korean-American Friendship Society and U.S. military
-            personnel.</remarks>
+        <remarks>Discussed the security situation on the Korean Peninsula with senior Korean officials, addressed Korean-American Friendship Society and U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>616</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1756,7 +1708,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>617</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1770,7 +1722,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>618</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1784,7 +1736,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>619</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1798,7 +1750,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-05-31T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>620</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1812,7 +1764,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>621</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1826,7 +1778,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>622</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1840,7 +1792,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>623</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1854,7 +1806,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>624</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1868,7 +1820,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>625</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1882,7 +1834,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>626</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1896,7 +1848,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>627</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1910,7 +1862,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>628</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1924,7 +1876,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>629</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1938,7 +1890,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>630</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1946,14 +1898,13 @@
         <end-date>1995-03-12</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Met with the Gulf Cooperation Council Foreign Ministers and discussed the situation
-            in Iraq with King Fahd.</remarks>
+        <remarks>Met with the Gulf Cooperation Council Foreign Ministers and discussed the situation in Iraq with King Fahd.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>631</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1967,7 +1918,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>632</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1981,7 +1932,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>633</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -1995,7 +1946,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>634</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2009,7 +1960,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>635</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2023,7 +1974,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>636</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2037,7 +1988,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>637</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2051,7 +2002,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>638</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2065,7 +2016,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>639</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2073,14 +2024,13 @@
         <end-date>1995-06-01</end-date>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague, Noordwijk</locale>
-        <remarks>Attended a meeting of the Contact Group Foreign Ministers and NATO and NACC
-            Ministerial Meetings.</remarks>
+        <remarks>Attended a meeting of the Contact Group Foreign Ministers and NATO and NACC Ministerial Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>640</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2094,7 +2044,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>641</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2108,7 +2058,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>642</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2116,14 +2066,13 @@
         <end-date>1995-06-04</end-date>
         <country id="haiti">Haiti</country>
         <locale>Montrouis</locale>
-        <remarks>Attended an OAS ministerial meeting and the inauguration of a new Haitian police
-            force.</remarks>
+        <remarks>Attended an OAS ministerial meeting and the inauguration of a new Haitian police force.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>643</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2131,14 +2080,13 @@
         <end-date>1995-06-09</end-date>
         <country id="israel">Israel</country>
         <locale>Tel Aviv, Jerusalem</locale>
-        <remarks>Discussed the Israel-Syrian peace process with Prime Minister Rabin and Foreign
-            Minister Peres.</remarks>
+        <remarks>Discussed the Israel-Syrian peace process with Prime Minister Rabin and Foreign Minister Peres.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>644</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2152,7 +2100,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>645</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2166,7 +2114,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>646</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2180,7 +2128,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>647</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2194,7 +2142,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>648</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2208,7 +2156,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>649</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2222,7 +2170,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>650</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2230,14 +2178,13 @@
         <end-date>1995-07-22</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed the Bosnian conflict with NATO and Contact Group
-            representatives.</remarks>
+        <remarks>Discussed the Bosnian conflict with NATO and Contact Group representatives.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>651</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2245,14 +2192,13 @@
         <end-date>1995-08-03</end-date>
         <country id="brunei">Brunei Darussalam</country>
         <locale>Bandar Seri Begawan</locale>
-        <remarks>Met with the Foreign Ministers of China and Russia and attended ASEAN Post-
-            Ministerial Conference.</remarks>
+        <remarks>Met with the Foreign Ministers of China and Russia and attended ASEAN Post- Ministerial Conference.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>652</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2260,14 +2206,13 @@
         <end-date>1995-08-04</end-date>
         <country id="malaysia">Malaysia</country>
         <locale>Kuala Lumpur</locale>
-        <remarks>Discussed the Bosnian conflict with Prime Minister Mahathir; signed commercial and
-            educational exchange agreements.</remarks>
+        <remarks>Discussed the Bosnian conflict with Prime Minister Mahathir; signed commercial and educational exchange agreements.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>653</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2275,14 +2220,13 @@
         <end-date>1995-08-05</end-date>
         <country id="cambodia">Cambodia</country>
         <locale>Phnom Penh</locale>
-        <remarks>Met with King Sihanouk and senior Cambodian officials. Signed AID and OPIC
-            agreements.</remarks>
+        <remarks>Met with King Sihanouk and senior Cambodian officials. Signed AID and OPIC agreements.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>654</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2290,14 +2234,13 @@
         <end-date>1995-08-07</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Hanoi</locale>
-        <remarks>Signed agreements normalizing relations with Vietnam and opened the U.S.
-            Embassy.</remarks>
+        <remarks>Signed agreements normalizing relations with Vietnam and opened the U.S. Embassy.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>655</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2305,14 +2248,13 @@
         <end-date>1995-10-30</end-date>
         <country id="jordan">Jordan</country>
         <locale>Amman</locale>
-        <remarks>Attended the opening session of the Middle East and North Africa Economic
-            Summit.</remarks>
+        <remarks>Attended the opening session of the Middle East and North Africa Economic Summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>656</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2326,7 +2268,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>657</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2340,7 +2282,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>658</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2354,7 +2296,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>659</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2368,7 +2310,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>660</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2382,7 +2324,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>661</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2396,7 +2338,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>662</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2410,7 +2352,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>663</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2424,7 +2366,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>664</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2438,7 +2380,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>665</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2452,7 +2394,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>666</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2460,14 +2402,13 @@
         <end-date>1996-01-11</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Discussed the Israel-Syrian peace process with senior Israeli officials and King
-            Hussein of Jordan.</remarks>
+        <remarks>Discussed the Israel-Syrian peace process with senior Israeli officials and King Hussein of Jordan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>667</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2481,7 +2422,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>668</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2495,7 +2436,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>669</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2509,7 +2450,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>670</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2523,7 +2464,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>671</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2537,7 +2478,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>672</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2551,7 +2492,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>673</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2565,7 +2506,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>674</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2579,7 +2520,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>675</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2587,14 +2528,13 @@
         <end-date>1996-02-11</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Met with Russian Foreign Minister Primakov and Ukrainian President
-            Kuchma.</remarks>
+        <remarks>Met with Russian Foreign Minister Primakov and Ukrainian President Kuchma.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>676</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2602,15 +2542,13 @@
         <end-date>1996-02-27</end-date>
         <country id="el-salvador">El Salvador</country>
         <locale>San Salvador</locale>
-        <remarks>Address the Legislative Assembly and met with the Presidents of El Salvador,
-            Honduras, and Costa Rica, the Prime Minister of Belize, and the Vice President of
-            Nicaragua.</remarks>
+        <remarks>Address the Legislative Assembly and met with the Presidents of El Salvador, Honduras, and Costa Rica, the Prime Minister of Belize, and the Vice President of Nicaragua.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>677</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2624,7 +2562,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>678</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2632,14 +2570,13 @@
         <end-date>1996-03-01</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
-        <remarks>Met with President Menem and Foreign Minister Di Tella. Signed agreement on space
-            cooperation.</remarks>
+        <remarks>Met with President Menem and Foreign Minister Di Tella. Signed agreement on space cooperation.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>679</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2647,15 +2584,13 @@
         <end-date>1996-03-03</end-date>
         <country id="brazil">Brazil</country>
         <locale>Sao Paulo, Brasilia, Manaus</locale>
-        <remarks>Met with President Cardoso and Foreign Minister Lampreia. Signed agreement on
-            peaceful uses of atomic energy, visited National Institute for Amazon
-            Research.</remarks>
+        <remarks>Met with President Cardoso and Foreign Minister Lampreia. Signed agreement on peaceful uses of atomic energy, visited National Institute for Amazon Research.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>680</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2669,7 +2604,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>681</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2683,7 +2618,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>682</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2691,14 +2626,13 @@
         <end-date>1996-03-16</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem, Tel Aviv</locale>
-        <remarks>Accompanied President Clinton and held further discussions with Israeli officials
-            on cooperation against terrorism.</remarks>
+        <remarks>Accompanied President Clinton and held further discussions with Israeli officials on cooperation against terrorism.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>683</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2712,7 +2646,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>684</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2720,14 +2654,13 @@
         <end-date>1996-03-18</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Attended meeting with the Presidents of Serbia and Croatia, and the Acting
-            President of Bosnia; and addressed the Conference on Disarmament.</remarks>
+        <remarks>Attended meeting with the Presidents of Serbia and Croatia, and the Acting President of Bosnia; and addressed the Conference on Disarmament.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>685</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2741,7 +2674,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>686</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2755,7 +2688,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>687</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2763,14 +2696,13 @@
         <end-date>1996-03-23</end-date>
         <country id="russia">Russia</country>
         <locale>Moscow</locale>
-        <remarks>Met with President Yeltsin and Foreign Minister Primakov and attended a meeting of
-            Contact Group Foreign Ministers.</remarks>
+        <remarks>Met with President Yeltsin and Foreign Minister Primakov and attended a meeting of Contact Group Foreign Ministers.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>688</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2784,7 +2716,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>689</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2798,7 +2730,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>690</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2812,7 +2744,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>691</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2826,7 +2758,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>692</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2840,7 +2772,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>693</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2854,7 +2786,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>694</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2868,7 +2800,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>695</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2882,7 +2814,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>696</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2896,7 +2828,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>697</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2910,7 +2842,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>698</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2918,14 +2850,13 @@
         <end-date>1996-04-24</end-date>
         <country id="lebanon">Lebanon</country>
         <locale>Shtoura</locale>
-        <remarks>Met with Prime Minister Hariri and Speaker Berri; attempted to resolve the
-            Israel-Lebanon conflict.</remarks>
+        <remarks>Met with Prime Minister Hariri and Speaker Berri; attempted to resolve the Israel-Lebanon conflict.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>699</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2939,7 +2870,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>700</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2947,14 +2878,13 @@
         <end-date>1996-04-25</end-date>
         <country id="syria">Syria</country>
         <locale>Damascus</locale>
-        <remarks>Attempted to resolve the Israel-Lebanon conflict. Also met with Lebanese Prime
-            Minister Hariri and Speaker Berri.</remarks>
+        <remarks>Attempted to resolve the Israel-Lebanon conflict. Also met with Lebanese Prime Minister Hariri and Speaker Berri.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>701</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2968,7 +2898,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>702</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2982,7 +2912,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>703</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -2996,7 +2926,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>704</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3010,7 +2940,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>705</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3018,14 +2948,13 @@
         <end-date>1996-06-03</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Discussed implementation of the Dayton Accords with the Presidents of Bosnia,
-            Croatia, and Serbia, and with representatives of IFOR and OSCE.</remarks>
+        <remarks>Discussed implementation of the Dayton Accords with the Presidents of Bosnia, Croatia, and Serbia, and with representatives of IFOR and OSCE.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>706</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3039,7 +2968,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>707</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3053,7 +2982,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>708</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3067,7 +2996,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>709</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3075,14 +3004,13 @@
         <end-date>1996-06-26</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Dhahran</locale>
-        <remarks>Met with Foreign Minister Prince Saud and with U.S. and Saudi military
-            personnel.</remarks>
+        <remarks>Met with Foreign Minister Prince Saud and with U.S. and Saudi military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>710</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3096,7 +3024,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>711</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3104,14 +3032,13 @@
         <end-date>1996-07-25</end-date>
         <country id="indonesia">Indonesia</country>
         <locale>Jakarta</locale>
-        <remarks>Ministerial Conference. Met with the Indonesian Human Rights Commission and with
-            Russian Foreign Minister Primakov.</remarks>
+        <remarks>Ministerial Conference. Met with the Indonesian Human Rights Commission and with Russian Foreign Minister Primakov.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>712</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3125,7 +3052,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>713</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3133,14 +3060,13 @@
         <end-date>1996-08-13</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Discussed implementation of the Dayton Accords with senior NATO and OSCE
-            officials.</remarks>
+        <remarks>Discussed implementation of the Dayton Accords with senior NATO and OSCE officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>714</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3154,7 +3080,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>715</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3162,14 +3088,13 @@
         <end-date>1996-08-15</end-date>
         <country id="bosnia-herzegovina">Bosnia</country>
         <locale>Sarajevo</locale>
-        <remarks>Met with President Izetbegovic and five political leaders to discuss national
-            elections.</remarks>
+        <remarks>Met with President Izetbegovic and five political leaders to discuss national elections.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>716</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3177,14 +3102,13 @@
         <end-date>1996-09-06</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Discussed the Northern Iraq and Bosnian crises with Prime Minister Major and
-            Foreign Secretary Rifkind.</remarks>
+        <remarks>Discussed the Northern Iraq and Bosnian crises with Prime Minister Major and Foreign Secretary Rifkind.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>717</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3192,14 +3116,13 @@
         <end-date>1996-09-05</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Discussed the Northern Iraq and Bosnian crises with President Chirac and Foreign
-            Minister de Charette.</remarks>
+        <remarks>Discussed the Northern Iraq and Bosnian crises with President Chirac and Foreign Minister de Charette.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>718</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3213,7 +3136,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>719</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3227,7 +3150,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>720</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3241,7 +3164,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>721</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3255,7 +3178,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>722</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3269,7 +3192,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>723</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3277,14 +3200,13 @@
         <end-date>1996-10-11</end-date>
         <country id="ethiopia">Ethiopia</country>
         <locale>Addis Ababa</locale>
-        <remarks>Met with Prime Minister Zenawi and discussed plans for an African crisis-response
-            force with OAU officials.</remarks>
+        <remarks>Met with Prime Minister Zenawi and discussed plans for an African crisis-response force with OAU officials.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>724</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3292,14 +3214,13 @@
         <end-date>1996-10-12</end-date>
         <country id="tanzania">Tanzania</country>
         <locale>Arusha</locale>
-        <remarks>Discussed the Burundi crisis with the Presidents of Tanzania, Kenya, and Uganda.
-            Also met with the Chief Prosecutor of the International War Crimes Tribunal.</remarks>
+        <remarks>Discussed the Burundi crisis with the Presidents of Tanzania, Kenya, and Uganda. Also met with the Chief Prosecutor of the International War Crimes Tribunal.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>725</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3307,14 +3228,13 @@
         <end-date>1996-10-14</end-date>
         <country id="south-africa">South Africa</country>
         <locale>Cape Town, Johannesburg, Pretoria</locale>
-        <remarks>Met with President Mandela and delivered an address at the University of the
-            Witwatersrand.</remarks>
+        <remarks>Met with President Mandela and delivered an address at the University of the Witwatersrand.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>726</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3328,7 +3248,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>727</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3342,7 +3262,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>728</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3350,14 +3270,13 @@
         <end-date>1996-11-14</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Attended a meeting of the Steering Board of the Bosnian Peace Implementation
-            Council.</remarks>
+        <remarks>Attended a meeting of the Steering Board of the Bosnian Peace Implementation Council.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>729</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3371,7 +3290,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>730</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3385,7 +3304,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>731</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>
@@ -3399,7 +3318,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="christopher-warren-minor">
+    <trip who="christopher-warren-minor" role="secretary">
         <id>732</id>
         <role>secretary</role>
         <name>Warren Minor Christopher</name>

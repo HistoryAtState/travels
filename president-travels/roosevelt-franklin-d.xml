@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2681</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2682</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -28,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2683</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -42,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2684</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -56,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2685</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -70,7 +70,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2686</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -84,7 +84,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2687</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -98,7 +98,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2688</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -106,14 +106,13 @@
         <end-date>1935-10-16</end-date>
         <country id="panama">Panama</country>
         <locale>Balboa</locale>
-        <remarks>Informal visit with President Arias while returning to Washington, D.C. from West
-            Coast.</remarks>
+        <remarks>Informal visit with President Arias while returning to Washington, D.C. from West Coast.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2689</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -127,7 +126,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2690</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -141,7 +140,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2691</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -155,7 +154,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2692</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -169,7 +168,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2693</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -183,7 +182,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2694</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -191,14 +190,13 @@
         <end-date>1936-12-02</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires</locale>
-        <remarks>Attended session of Inter-American Conference for the Maintenance of
-            Peace.</remarks>
+        <remarks>Attended session of Inter-American Conference for the Maintenance of Peace.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2695</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -212,7 +210,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2696</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -226,7 +224,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>3894</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -240,7 +238,7 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2020-01-23T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2697</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -254,7 +252,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2698</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -262,14 +260,13 @@
         <end-date>1938-08-18</end-date>
         <country id="canada">Canada</country>
         <locale>Kingston</locale>
-        <remarks>Received honorary degree from Queens University and dedicated Thousand Islands
-            Bridge.</remarks>
+        <remarks>Received honorary degree from Queens University and dedicated Thousand Islands Bridge.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2699</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -283,7 +280,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2700</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -297,7 +294,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2701</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -311,7 +308,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2702</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -325,7 +322,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2703</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -339,7 +336,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2704</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -353,7 +350,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2705</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -367,7 +364,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2706</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -381,7 +378,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2707</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -389,14 +386,13 @@
         <end-date>1940-12-13</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>The Bahamas</locale>
-        <remarks>Inspected British base sites for possible American use. Met with the Duke of
-            Windsor at Eleutheria Island, December 13. Returned to the U.S. December 14.</remarks>
+        <remarks>Inspected British base sites for possible American use. Met with the Duke of Windsor at Eleutheria Island, December 13. Returned to the U.S. December 14.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2708</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -404,14 +400,13 @@
         <end-date>1941-08-12</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Argentia (Newfoundland)</locale>
-        <remarks>Attended conference with Prime Minister Churchill. Announced the Atlantic
-            Charter.</remarks>
+        <remarks>Attended conference with Prime Minister Churchill. Announced the Atlantic Charter.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2709</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -425,7 +420,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2710</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -439,7 +434,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2711</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -453,7 +448,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2712</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -467,7 +462,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2713</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -481,7 +476,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2714</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -495,7 +490,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2715</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -509,7 +504,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2716</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -523,7 +518,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2717</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -537,7 +532,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2718</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -551,7 +546,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2719</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -565,7 +560,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2720</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -579,7 +574,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2721</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -587,14 +582,13 @@
         <end-date>1943-11-26</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Attended First Cairo Conference with British Prime Minister Churchill and Chinese
-            Generalissimo Chiang Kai-shek.</remarks>
+        <remarks>Attended First Cairo Conference with British Prime Minister Churchill and Chinese Generalissimo Chiang Kai-shek.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2722</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -602,14 +596,13 @@
         <end-date>1943-12-02</end-date>
         <country id="iran">Iran</country>
         <locale>Tehran</locale>
-        <remarks>Attended Tehran Conference with Soviet Premier Stalin and British Prime Minister
-            Churchill.</remarks>
+        <remarks>Attended Tehran Conference with Soviet Premier Stalin and British Prime Minister Churchill.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2723</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -617,14 +610,13 @@
         <end-date>1943-12-07</end-date>
         <country id="egypt">Egypt</country>
         <locale>Cairo</locale>
-        <remarks>Attended Second Cairo Conference with British Prime Minister Churchill and Turkish
-            President Inonu.</remarks>
+        <remarks>Attended Second Cairo Conference with British Prime Minister Churchill and Turkish President Inonu.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2724</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -638,7 +630,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2725</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -652,7 +644,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2726</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -666,7 +658,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2727</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -680,7 +672,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2728</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -694,7 +686,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2729</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -708,7 +700,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2730</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -716,14 +708,13 @@
         <end-date>1945-02-12</end-date>
         <country id="russia">U.S.S.R.</country>
         <locale>Yalta</locale>
-        <remarks>Attended Yalta Conference with Soviet Premier Stalin and British Prime Minister
-            Churchill.</remarks>
+        <remarks>Attended Yalta Conference with Soviet Premier Stalin and British Prime Minister Churchill.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2731</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -731,14 +722,13 @@
         <end-date>1945-02-15</end-date>
         <country id="egypt">Egypt</country>
         <locale>Great Bitter Lake, Suez Canal, Alexandria</locale>
-        <remarks>Met with King Farouk, Ethiopian Emperor Haile Selassie, Saudi Arabian King Ibn
-            Saud, and British Prime Minister Churchill.</remarks>
+        <remarks>Met with King Farouk, Ethiopian Emperor Haile Selassie, Saudi Arabian King Ibn Saud, and British Prime Minister Churchill.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="roosevelt-franklin-d">
+    <trip who="roosevelt-franklin-d" role="president">
         <id>2732</id>
         <role>president</role>
         <name>Franklin D. Roosevelt</name>
@@ -746,8 +736,7 @@
         <end-date>1945-02-18</end-date>
         <country id="france">France</country>
         <locale>Algiers (Algeria)</locale>
-        <remarks>Briefed U.S. Ambassadors to the United Kingdom, France, and Italy on the Yalta
-            Conference.</remarks>
+        <remarks>Briefed U.S. Ambassadors to the United Kingdom, France, and Italy on the Yalta Conference.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

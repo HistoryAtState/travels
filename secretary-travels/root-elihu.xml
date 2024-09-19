@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1788</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1789</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -22,14 +22,13 @@
         <end-date>1906-08-07</end-date>
         <country id="brazil">Brazil</country>
         <locale>Para, Pernambuco, Bahia, Rio de Janeiro, Sao Paulo, Santos</locale>
-        <remarks>Attended Third International Conference of American States. Left U.S. July
-            4.</remarks>
+        <remarks>Attended Third International Conference of American States. Left U.S. July 4.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1790</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -37,14 +36,13 @@
         <end-date>1906-08-13</end-date>
         <country id="uruguay">Uruguay</country>
         <locale>Montevideo</locale>
-        <remarks>Met with President Batlle y Ordonez and Foreign Minister Romeu; delivered several
-            public addresses.</remarks>
+        <remarks>Met with President Batlle y Ordonez and Foreign Minister Romeu; delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1791</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -52,14 +50,13 @@
         <end-date>1906-08-21</end-date>
         <country id="argentina">Argentina</country>
         <locale>Buenos Aires, Bahia Blanca</locale>
-        <remarks>Met with President Figueroa and Foreign Minister Montes; delivered several public
-            addresses.</remarks>
+        <remarks>Met with President Figueroa and Foreign Minister Montes; delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1792</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -67,14 +64,13 @@
         <end-date>1906-09-04</end-date>
         <country id="chile">Chile</country>
         <locale>Lota, Santiago, Valparaiso</locale>
-        <remarks>Met with President Riesco and Foreign Minister Huneeus; delivered several public
-            addresses.</remarks>
+        <remarks>Met with President Riesco and Foreign Minister Huneeus; delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1793</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -82,14 +78,13 @@
         <end-date>1906-09-16</end-date>
         <country id="peru">Peru</country>
         <locale>Callao, Lima</locale>
-        <remarks>Met with President Pardo and Foreign Minister Prado; delivered several public
-            addresses.</remarks>
+        <remarks>Met with President Pardo and Foreign Minister Prado; delivered several public addresses.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1794</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -103,7 +98,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1795</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -117,7 +112,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1796</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -131,7 +126,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="root-elihu">
+    <trip who="root-elihu" role="secretary">
         <id>1797</id>
         <role>secretary</role>
         <name>Elihu Root</name>
@@ -139,9 +134,7 @@
         <end-date>1907-10-16</end-date>
         <country id="mexico">Mexico</country>
         <locale>Mexico, D.F., Cuernavaca, Puebla, Orizaba, Guadalajara, Potosi</locale>
-        <remarks>Met with President Diaz, Foreign Minister Mariscal, and Governors of several
-            Mexican States. Delivered several public addresses Left Washington September
-            26.</remarks>
+        <remarks>Met with President Diaz, Foreign Minister Mariscal, and Governors of several Mexican States. Delivered several public addresses Left Washington September 26.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
