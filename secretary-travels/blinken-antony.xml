@@ -1450,4 +1450,859 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4120</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-01-08</start-date>
+        <end-date>2023-01-10</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico City</locale>
+        <remarks>Attended the 10th North American Leaders’ Summit as part of President Biden's
+            delegation.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T12:47:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4121</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-01-29</start-date>
+        <end-date>2023-01-30</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Abdel Fattah El-Sisi, Foreign Minister Sameh Shoukry, and senior
+            Egyptian officials.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T12:49:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4122</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-01-30</start-date>
+        <end-date>2023-01-30</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu, Foreign Minister Eli Cohen, and other
+            senior leaders.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T12:50:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4123</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-01-31</start-date>
+        <end-date>2023-01-31</end-date>
+        <country id="west-bank">West Bank</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with President Mahmoud Abbas.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T12:51:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4124</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-02-16</start-date>
+        <end-date>2023-02-19</end-date>
+        <country id="germany">Germany</country>
+        <locale>Munich</locale>
+        <remarks>Attended the Munich Security Conference.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T12:54:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4125</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-02-19</start-date>
+        <end-date>2023-02-20</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Incirlik, Ankara</locale>
+        <remarks>Saw U.S. efforts to assist the Turkish authorities responding to the devastation
+            caused by the February 6 earthquakes and met with Turkish Foreign Minister Mevlüt
+            Çavuşoğlu.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T12:58:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4126</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-02-20</start-date>
+        <end-date>2023-02-22</end-date>
+        <country id="greece">Greece</country>
+        <locale>Athens</locale>
+        <remarks>Met with Prime Minister Mitsotakis and launched the fourth round of the U.S.-Greece
+            Strategic Dialogue.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T13:59:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4127</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-02-27</start-date>
+        <end-date>2023-02-28</end-date>
+        <country id="kazakhstan">Kazakhstan</country>
+        <locale>Astana</locale>
+        <remarks>Participated in a C5+1 Ministerial and met with senior Kazakh officials.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T14:01:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4128</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-02-28</start-date>
+        <end-date>2023-03-01</end-date>
+        <country id="uzbekistan">Uzbekistan</country>
+        <locale>Tashkent</locale>
+        <remarks>Met with Uzbek officials.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T14:02:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4129</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-03-01</start-date>
+        <end-date>2023-03-03</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi</locale>
+        <remarks>Participated in the G20 Foreign Ministers’ Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-17T14:05:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4132</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-03-14</start-date>
+        <end-date>2023-03-16</end-date>
+        <country id="ethiopia">Ethiopia</country>
+        <locale>Addis Ababa</locale>
+        <remarks>Met with Ethiopian officials and African Union Commission Chairperson Moussa Faki
+            Mahamat.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:41:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4133</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-03-16</start-date>
+        <end-date>2023-03-17</end-date>
+        <country id="niger">Niger </country>
+        <locale>Niamey</locale>
+        <remarks>Met President Mohamed Bazoum and Foreign Minister Hassoumi Massaoudou.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:43:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4134</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-04-03</start-date>
+        <end-date>2023-04-05</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended the NATO Foreign Ministerial, the tenth U.S.-EU Energy Council meeting,
+            and bilateral meetings.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:45:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4135</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-04-11</start-date>
+        <end-date>2023-04-12</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>Belfast</locale>
+        <remarks>Accompanied President Biden.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:46:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4136</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-04-12</start-date>
+        <end-date>2023-04-14</end-date>
+        <country id="ireland">Ireland</country>
+        <locale>Dublin</locale>
+        <remarks>Accompanied President Biden.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:47:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4137</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-04-14</start-date>
+        <end-date>2023-04-16</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi</locale>
+        <remarks>Met with Prime Minister Pham Minh Chinh and Foreign Minister Bui Thanh
+            Son.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:50:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4138</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-04-16</start-date>
+        <end-date>2023-04-18</end-date>
+        <country id="japan">Japan</country>
+        <locale>Karuizawa</locale>
+        <remarks>Attended the G7 Foreign Ministers’ Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:52:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4139</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-05-17</start-date>
+        <end-date>2023-05-20</end-date>
+        <country id="japan">Japan</country>
+        <locale>Hiroshima</locale>
+        <remarks>Accompanied President Biden to the G7 Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:53:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4140</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-05-21</start-date>
+        <end-date>2023-05-22</end-date>
+        <country id="papua-new-guinea">Papua New Guinea</country>
+        <locale>Port Moresby</locale>
+        <remarks>Met with Prime Minister James Marape and Pacific Islands Forum leaders on behalf of
+            President Biden.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:55:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4141</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-05-29</start-date>
+        <end-date>2023-05-31</end-date>
+        <country id="sweden">Sweden</country>
+        <locale>Luleå</locale>
+        <remarks>Met with Swedish Prime Minister Ulf Kristersson and Swedish Foreign Minister Tobias
+            Billström.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:57:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4142</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-05-31</start-date>
+        <end-date>2023-06-01</end-date>
+        <country id="norway">Norway</country>
+        <locale>Oslo</locale>
+        <remarks>Met with Norwegian Prime Minister Jonas Gahr Støre and Norwegian Foreign Minister
+            Anniken Huitfeldt.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:58:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4143</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-06-01</start-date>
+        <end-date>2023-06-02</end-date>
+        <country id="finland">Finland</country>
+        <locale>Helsinki</locale>
+        <remarks>Met with Finnish Prime Minister Sanna Marin and Finnish Foreign Minister Pekka
+            Haavisto.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T10:58:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4144</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-06-06</start-date>
+        <end-date>2023-06-08</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jeddah, Riyadh</locale>
+        <remarks>Met with Crown Prince and Prime Minister Mohammed bin Salman, participated in a
+            U.S.-Gulf Cooperation Council (GCC) Ministerial, and co-hosted a Ministerial meeting of
+            the Global Coalition to Defeat ISIS.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:00:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4145</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-06-17</start-date>
+        <end-date>2023-06-19</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Beijing</locale>
+        <remarks>Met with President Xi Jinping and Foreign Minister Qin Gang.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:01:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4146</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-06-20</start-date>
+        <end-date>2023-06-21</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Attended the Ukraine Recovery Conference and met with counterparts from the United
+            Kingdom, Ukraine, and other partners and allies.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:07:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4147</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-07-05</start-date>
+        <end-date>2023-07-06</end-date>
+        <country id="trinidad-and-tobago">Trinidad and Tobago</country>
+        <locale>Port of Spain</locale>
+        <remarks>Participated in the Caribbean Community (CARICOM) Heads of Government meeting and
+            the 50th Anniversary of CARICOM celebration.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:09:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4148</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-07-06</start-date>
+        <end-date>2023-07-06</end-date>
+        <country id="guyana">Guyana</country>
+        <locale>Georgetown</locale>
+        <remarks>Met with President Dr. Mohamed Irfaan Ali and Foreign Minister Hugh Todd.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:10:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4149</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-07-09</start-date>
+        <end-date>2023-07-10</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Accompanied President Biden for NATO meetings.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:11:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4150</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-07-11</start-date>
+        <end-date>2023-07-12</end-date>
+        <country id="lithuania">Lithuania</country>
+        <locale>Vilnius</locale>
+        <remarks>Accompanied President Biden for NATO meetings.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:13:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4151</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-07-13</start-date>
+        <end-date>2023-07-15</end-date>
+        <country id="indonesia">Indonesia</country>
+        <locale>Jakarta</locale>
+        <remarks>Participated in the annual U.S.-ASEAN Foreign Ministers’ Meeting and the second
+            U.S.-Indonesia Strategic Dialogue with Foreign Minister Retno Marsudi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:14:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4152</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-07-26</start-date>
+        <end-date>2023-07-27</end-date>
+        <country id="tonga">Tonga</country>
+        <locale>Nukuʻalofa</locale>
+        <remarks>Dedicated the new U.S. Embassy and met with Tongan senior officials.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:16:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4153</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-07-27</start-date>
+        <end-date>2023-07-28</end-date>
+        <country id="new-zealand">New Zealand</country>
+        <locale>Wellington</locale>
+        <remarks>Met with senior officials and attended the FIFA Women’s World Cup.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:17:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4154</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-07-28</start-date>
+        <end-date>2023-07-29</end-date>
+        <country id="australia">Australia</country>
+        <locale>Brisbane</locale>
+        <remarks>Attended the Australia – U.S. Ministerial Consultations and held bilateral
+            meetings.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:19:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4155</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-09-06</start-date>
+        <end-date>2023-09-06</end-date>
+        <country id="ukraine">Ukraine</country>
+        <locale>Kyiv</locale>
+        <remarks>Met with President Volodymyr Zelenskyy, Prime Minister Denys Shmyhal, and Foreign
+            Minister Dmytro Kuleba.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:20:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4156</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-09-07</start-date>
+        <end-date>2023-09-10</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi</locale>
+        <remarks>Accompanied President Biden.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:24:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4157</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-09-10</start-date>
+        <end-date>2023-09-11</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi</locale>
+        <remarks>Accompanied President Biden.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:28:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4158</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-10-04</start-date>
+        <end-date>2023-10-05</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico City</locale>
+        <remarks>Co-chaired the 2023 U.S.-Mexico High-Level Security Dialogue.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:31:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4176</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-10-11</start-date>
+        <end-date>2023-10-12</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv</locale>
+        <remarks>Met with President Isaac Herzog and Prime Minister Benjamin Netanyahu.</remarks>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2024-08-27T15:04:40-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4160</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-10-13</start-date>
+        <end-date>2023-10-13</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with Palestinian Authority President Mahmoud Abbas and King Abdullah
+            II.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:43:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4161</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-10-13</start-date>
+        <end-date>2023-10-13</end-date>
+        <country id="bahrain">Bahrain</country>
+        <locale>Manama</locale>
+        <remarks>Met with Crown Prince-Prime Minister Salman bin Hamad Al Khalifa.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:45:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4162</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-10-13</start-date>
+        <end-date>2023-10-13</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Prime Minister and Minister of Foreign Affairs Mohammed Bin Abdulrahman Al
+            Thani.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:46:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4163</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-10-14</start-date>
+        <end-date>2023-10-14</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with President Sheikh Mohammed bin Zayed Al Nahyan.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:47:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4164</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-10-14</start-date>
+        <end-date>2023-10-15</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with Crown Prince and Prime Minister Mohammed bin Salman.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:48:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4165</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-10-15</start-date>
+        <end-date>2023-10-15</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Abdel Fattah El-Sisi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:49:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4166</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-10-16</start-date>
+        <end-date>2023-10-18</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv</locale>
+        <remarks>Met with President Isaac Herzog and Prime Minister Benjamin Netanyahu in advance of
+            President Biden’s visit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2023-10-18T11:50:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4177</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-03</start-date>
+        <end-date>2023-11-03</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv</locale>
+        <remarks>Met with the Prime Minister Benjamin Netanyahu, the Israeli War Cabinet, and
+            President Isaac Herzog.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:42:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4178</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-03</start-date>
+        <end-date>2023-11-04</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with King Abdullah II and regional partners.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:44:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4179</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-05</start-date>
+        <end-date>2023-11-05</end-date>
+        <country id="west-bank">West Bank</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with Palestinian Authority President Mahmoud Abbas.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:45:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4180</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-05</start-date>
+        <end-date>2023-11-05</end-date>
+        <country id="iraq">Iraq</country>
+        <locale>Baghdad</locale>
+        <remarks>Met with Prime Minister Mohammed al-Sudani.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:46:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4189</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-05</start-date>
+        <end-date>2023-11-06</end-date>
+        <country id="turkey">Turkey</country>
+        <locale>Ankara</locale>
+        <remarks>Met with Foreign Minister Hakan Fidan.</remarks>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2024-08-29T13:32:11-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4181</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-07</start-date>
+        <end-date>2023-11-08</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Prime Minister Kishida Fumio and participated in the G7 Foreign Ministers’
+            Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:48:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4182</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-08</start-date>
+        <end-date>2023-11-09</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Yoon Suk Yeol, Foreign Minister Park Jin, and National Security
+            Advisor Cho Tae-yong.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:49:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4183</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-09</start-date>
+        <end-date>2023-11-10</end-date>
+        <country id="india">India</country>
+        <locale>New Delhi</locale>
+        <remarks>Participated in the 2+2 Ministerial Dialogue with Secretary of Defense Lloyd J.
+            Austin III.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:50:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4184</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-28</start-date>
+        <end-date>2023-11-29</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended the NATO Foreign Ministers Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:51:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4185</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-29</start-date>
+        <end-date>2023-11-29</end-date>
+        <country id="macedonia">North Macedonia </country>
+        <locale>Skopje</locale>
+        <remarks>Met with Prime Minister Dimitar Kovačevski and Foreign Minister Bujar Osmani and
+            attends OSCE Ministerial Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:53:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4186</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-30</start-date>
+        <end-date>2023-11-30</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv</locale>
+        <remarks>Met with President Isaac Herzog, Prime Minister Benjamin Netanyahu, and the Israeli
+            War Cabinet.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:54:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4190</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-11-30</start-date>
+        <end-date>2023-11-30</end-date>
+        <country id="west-bank">West Bank</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with Palestinian Authority President Mahmoud Abbas.</remarks>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2024-08-29T13:53:10-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4187</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-12-01</start-date>
+        <end-date>2023-12-01</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Dubai</locale>
+        <remarks>Attended the UN Climate Conference, COP28.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-08-29T12:56:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony">
+        <id>4191</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2023-12-27</start-date>
+        <end-date>2023-12-27</end-date>
+        <country id="mexico">Mexico</country>
+        <locale>Mexico City</locale>
+        <remarks>Met with President Andrés Manuel López Obrador.</remarks>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2024-08-29T15:36:32-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
 </trips>
