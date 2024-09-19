@@ -3829,13 +3829,13 @@
         <role>secretary</role>
         <name>George Pratt Shultz</name>
         <start-date>1989-01-16</start-date>
-        <end-date>1989-01-18</end-date>
+        <end-date>1989-01-17</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
         <remarks>Attended the closing session of the CSCE Follow-up Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-by>cabrerath</last-modified-by>
+        <last-modified-datetime>2024-06-11T13:35:00-04:00</last-modified-datetime>
     </trip>
 </trips>
