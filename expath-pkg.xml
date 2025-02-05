@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<package abbrev="travels" name="http://history.state.gov/ns/data/travels" spec="1.0" version="0.4"
-    xmlns="http://expath.org/ns/pkg">
-    <title>Travels (data)</title>
-</package>
