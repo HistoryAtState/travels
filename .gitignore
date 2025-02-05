@@ -2,5 +2,6 @@ build/*
 .existdb.json
 .DS_Store
 .idea/*
+expath-pkg.xml
 .vscode/
 node_modules/
