@@ -62,7 +62,7 @@ jobs:
 
       # Commit repo.xml file
       - name: Commit and Push
-        if: ${{ matrix.java-version == 17 && github.event_name == 'push' }}
+        if: ${{ matrix.java-version == 17 && github.event_name == 'push' && github.ref != 'refs/heads/master' }}
         uses: actions-x/commit@v6
         with:
           message: "fix(repo.xml): update [skip ci]"
