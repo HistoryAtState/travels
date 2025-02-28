@@ -462,7 +462,7 @@
         <id>carter-jimmy</id>
         <name>Jimmy Carter</name>
         <birth-year>1924</birth-year>
-        <death-year still-alive="true"/>
+        <death-year>2024</death-year>
         <took-office-date>1977-01-20</took-office-date>
         <left-office-date>1981-01-20</left-office-date>
         <created-by>admin</created-by>
@@ -548,10 +548,22 @@
         <birth-year>1942</birth-year>
         <death-year still-alive="true"/>
         <took-office-date>2021-01-20</took-office-date>
-        <left-office-date still-in-office="true"/>
+        <left-office-date>2025-01-20</left-office-date>
         <created-by>wicentowskijc</created-by>
         <created-date>2020-11-07</created-date>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-date>2020-11-07</last-modified-date>
+    </president>
+    <president n="47">
+        <id>trump-donald-j</id>
+        <name>Donald J. Trump</name>
+        <birth-year>1946</birth-year>
+        <death-year still-alive="true"/>
+        <took-office-date>2025-01-20</took-office-date>
+        <left-office-date still-in-office="true"/>
+        <created-by>doa-exist-temp</created-by>
+        <created-date/>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-date/>
     </president>
 </presidents>
