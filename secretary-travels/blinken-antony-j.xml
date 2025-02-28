@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>3992</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-03-15</start-date>
         <end-date>2021-03-17</end-date>
         <country id="japan">Japan</country>
@@ -15,10 +15,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4019</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-03-15</start-date>
         <end-date>2021-03-17</end-date>
         <country id="japan">Japan</country>
@@ -30,10 +30,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>3993</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-03-17</start-date>
         <end-date>2021-03-18</end-date>
         <country id="korea-south">Korea, South</country>
@@ -45,10 +45,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4020</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-03-17</start-date>
         <end-date>2021-03-18</end-date>
         <country id="korea-south">Korea, South</country>
@@ -60,10 +60,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>3994</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-03-22</start-date>
         <end-date>2021-03-24</end-date>
         <country id="belgium">Belgium</country>
@@ -74,10 +74,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4021</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-03-22</start-date>
         <end-date>2021-03-25</end-date>
         <country id="belgium">Belgium</country>
@@ -91,10 +91,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4022</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-04-13</start-date>
         <end-date>2021-04-15</end-date>
         <country id="belgium">Belgium</country>
@@ -105,10 +105,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>3995</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-04-15</start-date>
         <end-date>2021-04-15</end-date>
         <country id="afghanistan">Afghanistan</country>
@@ -119,10 +119,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>3998</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-05-03</start-date>
         <end-date>2021-05-05</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -134,10 +134,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>3999</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-05-05</start-date>
         <end-date>2021-05-06</end-date>
         <country id="ukraine">Ukraine</country>
@@ -148,10 +148,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4000</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-05-16</start-date>
         <end-date>2021-05-17</end-date>
         <country id="denmark">Denmark</country>
@@ -163,10 +163,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4001</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-05-17</start-date>
         <end-date>2021-05-20</end-date>
         <country id="iceland">Iceland</country>
@@ -179,10 +179,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4002</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-05-20</start-date>
         <end-date>2021-05-20</end-date>
         <country id="denmark">Denmark (Greenland)</country>
@@ -194,10 +194,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4003</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-05-25</start-date>
         <end-date>2021-05-26</end-date>
         <country id="israel">Israel</country>
@@ -209,10 +209,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4004</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-05-25</start-date>
         <end-date>2021-05-25</end-date>
         <country id="palestinian-authority">Palestinian Authority</country>
@@ -224,10 +224,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4005</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-05-26</start-date>
         <end-date>2021-05-26</end-date>
         <country id="egypt">Egypt</country>
@@ -239,10 +239,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4006</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-05-26</start-date>
         <end-date>2021-05-27</end-date>
         <country id="jordan">Jordan</country>
@@ -254,10 +254,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4007</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-06-01</start-date>
         <end-date>2021-06-02</end-date>
         <country id="costa-rica">Costa Rica</country>
@@ -270,10 +270,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4008</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-06-10</start-date>
         <end-date>2021-06-12</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -285,10 +285,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4023</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-06-13</start-date>
         <end-date>2021-06-15</end-date>
         <country id="belgium">Belgium</country>
@@ -299,10 +299,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4009</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-06-16</start-date>
         <end-date>2021-06-16</end-date>
         <country id="switzerland">Switzerland</country>
@@ -314,10 +314,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4010</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-06-23</start-date>
         <end-date>2021-06-24</end-date>
         <country id="germany">Germany</country>
@@ -330,10 +330,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4011</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-06-24</start-date>
         <end-date>2021-06-27</end-date>
         <country id="france">France</country>
@@ -345,10 +345,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4012</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-06-27</start-date>
         <end-date>2021-06-28</end-date>
         <country id="italy">Italy</country>
@@ -362,10 +362,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4013</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-06-28</start-date>
         <end-date>2021-06-28</end-date>
         <country id="holy-see">Vatican City</country>
@@ -377,10 +377,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4014</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-06-28</start-date>
         <end-date>2021-06-29</end-date>
         <country id="italy">Italy</country>
@@ -391,10 +391,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime>2021-09-21T13:58:00-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4015</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-07-26</start-date>
         <end-date>2021-07-28</end-date>
         <country id="india">India</country>
@@ -406,10 +406,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4016</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-07-28</start-date>
         <end-date>2021-07-28</end-date>
         <country id="kuwait">Kuwait</country>
@@ -420,10 +420,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4017</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-09-06</start-date>
         <end-date>2021-09-08</end-date>
         <country id="qatar">Qatar</country>
@@ -435,10 +435,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4018</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-09-08</start-date>
         <end-date>2021-09-08</end-date>
         <country id="germany">Germany</country>
@@ -450,10 +450,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4024</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-10-04</start-date>
         <end-date>2021-10-06</end-date>
         <country id="france">France</country>
@@ -465,10 +465,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4025</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-10-07</start-date>
         <end-date>2021-10-08</end-date>
         <country id="mexico">Mexico</country>
@@ -480,10 +480,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4026</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-10-19</start-date>
         <end-date>2021-10-20</end-date>
         <country id="ecuador">Ecuador</country>
@@ -495,10 +495,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4027</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-10-20</start-date>
         <end-date>2021-10-21</end-date>
         <country id="colombia">Colombia</country>
@@ -511,10 +511,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4029</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-10-28</start-date>
         <end-date>2021-10-31</end-date>
         <country id="italy">Italy</country>
@@ -526,10 +526,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4028</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-10-29</start-date>
         <end-date>2021-10-29</end-date>
         <country id="holy-see">Vatican City</country>
@@ -541,10 +541,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4030</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-10-31</start-date>
         <end-date>2021-11-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -556,10 +556,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4032</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-11-17</start-date>
         <end-date>2021-11-18</end-date>
         <country id="kenya">Kenya</country>
@@ -571,10 +571,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4033</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-11-18</start-date>
         <end-date>2021-11-19</end-date>
         <country id="nigeria">Nigeria</country>
@@ -586,10 +586,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4037</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-11-19</start-date>
         <end-date>2021-11-20</end-date>
         <country id="senegal">Senegal</country>
@@ -600,10 +600,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4036</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-11-29</start-date>
         <end-date>2021-12-01</end-date>
         <country id="latvia">Latvia</country>
@@ -616,10 +616,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4038</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-12-01</start-date>
         <end-date>2021-12-02</end-date>
         <country id="sweden">Sweden</country>
@@ -631,10 +631,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4039</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-12-09</start-date>
         <end-date>2021-12-12</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -645,10 +645,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4040</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-12-13</start-date>
         <end-date>2021-12-14</end-date>
         <country id="indonesia">Indonesia</country>
@@ -659,10 +659,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4041</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2021-12-14</start-date>
         <end-date>2021-12-15</end-date>
         <country id="malaysia">Malaysia</country>
@@ -674,10 +674,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4044</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-01-18</start-date>
         <end-date>2022-01-20</end-date>
         <country id="ukraine">Ukraine</country>
@@ -689,10 +689,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4047</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-01-20</start-date>
         <end-date>2022-01-21</end-date>
         <country id="germany">Germany</country>
@@ -703,10 +703,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4048</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-01-21</start-date>
         <end-date>2022-01-21</end-date>
         <country id="switzerland">Switzerland</country>
@@ -717,10 +717,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4049</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-02-09</start-date>
         <end-date>2022-02-12</end-date>
         <country id="australia">Australia</country>
@@ -734,10 +734,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4051</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-02-12</start-date>
         <end-date>2022-02-12</end-date>
         <country id="fiji">Fiji</country>
@@ -749,10 +749,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4053</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-02-18</start-date>
         <end-date>2022-02-19</end-date>
         <country id="germany">Germany</country>
@@ -763,10 +763,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4054</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-03</start-date>
         <end-date>2022-03-05</end-date>
         <country id="belgium">Belgium</country>
@@ -778,10 +778,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4055</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-05</start-date>
         <end-date>2022-03-05</end-date>
         <country id="poland">Poland</country>
@@ -792,10 +792,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4056</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-05</start-date>
         <end-date>2022-03-06</end-date>
         <country id="moldova">Moldova</country>
@@ -807,10 +807,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4057</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-06</start-date>
         <end-date>2022-03-07</end-date>
         <country id="lithuania">Lithuania</country>
@@ -822,10 +822,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4058</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-07</start-date>
         <end-date>2022-03-08</end-date>
         <country id="latvia">Latvia</country>
@@ -837,10 +837,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4059</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-08</start-date>
         <end-date>2022-03-08</end-date>
         <country id="estonia">Estonia</country>
@@ -852,10 +852,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4060</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-08</start-date>
         <end-date>2022-03-08</end-date>
         <country id="france">France</country>
@@ -867,10 +867,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4061</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-26</start-date>
         <end-date>2022-03-28</end-date>
         <country id="israel">Israel</country>
@@ -885,10 +885,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4062</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-27</start-date>
         <end-date>2022-03-27</end-date>
         <country id="west-bank">West Bank</country>
@@ -899,10 +899,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4063</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-29</start-date>
         <end-date>2022-03-30</end-date>
         <country id="morocco">Morocco</country>
@@ -914,10 +914,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4064</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-03-30</start-date>
         <end-date>2022-03-30</end-date>
         <country id="algeria">Algeria</country>
@@ -929,10 +929,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4065</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-04-05</start-date>
         <end-date>2022-04-07</end-date>
         <country id="belgium">Belgium</country>
@@ -943,10 +943,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4066</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-04-19</start-date>
         <end-date>2022-04-20</end-date>
         <country id="panama">Panama</country>
@@ -959,10 +959,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4067</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-04-24</start-date>
         <end-date>2022-04-25</end-date>
         <country id="ukraine">Ukraine</country>
@@ -975,10 +975,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4068</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-05-14</start-date>
         <end-date>2022-05-15</end-date>
         <country id="germany">Germany</country>
@@ -989,10 +989,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4069</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-05-15</start-date>
         <end-date>2022-05-15</end-date>
         <country id="france">France</country>
@@ -1004,10 +1004,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4070</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-05-16</start-date>
         <end-date>2022-05-16</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
@@ -1020,10 +1020,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4071</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-05-21</start-date>
         <end-date>2022-05-24</end-date>
         <country id="japan">Japan</country>
@@ -1036,10 +1036,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4072</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-06-23</start-date>
         <end-date>2022-06-25</end-date>
         <country id="germany">Germany</country>
@@ -1051,10 +1051,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4073</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-06-25</start-date>
         <end-date>2022-06-28</end-date>
         <country id="germany">Germany</country>
@@ -1065,10 +1065,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4074</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-06-28</start-date>
         <end-date>2022-06-30</end-date>
         <country id="spain">Spain</country>
@@ -1079,10 +1079,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4075</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-07-07</start-date>
         <end-date>2022-07-09</end-date>
         <country id="indonesia">Indonesia</country>
@@ -1093,10 +1093,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4076</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-07-09</start-date>
         <end-date>2022-07-11</end-date>
         <country id="thailand">Thailand</country>
@@ -1108,10 +1108,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4077</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-07-11</start-date>
         <end-date>2022-07-11</end-date>
         <country id="japan">Japan</country>
@@ -1124,10 +1124,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4078</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-07-13</start-date>
         <end-date>2022-07-15</end-date>
         <country id="israel">Israel</country>
@@ -1138,10 +1138,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4079</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-07-15</start-date>
         <end-date>2022-07-15</end-date>
         <country id="west-bank">West Bank</country>
@@ -1152,10 +1152,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4080</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-07-15</start-date>
         <end-date>2022-07-16</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
@@ -1166,10 +1166,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4081</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-08-03</start-date>
         <end-date>2022-08-05</end-date>
         <country id="cambodia">Cambodia</country>
@@ -1182,10 +1182,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4082</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-08-06</start-date>
         <end-date>2022-08-06</end-date>
         <country id="philippines">Philippines</country>
@@ -1197,10 +1197,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4083</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-08-07</start-date>
         <end-date>2022-08-09</end-date>
         <country id="south-africa">South Africa</country>
@@ -1212,10 +1212,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4084</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-08-09</start-date>
         <end-date>2022-08-10</end-date>
         <country id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</country>
@@ -1226,10 +1226,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4085</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-08-10</start-date>
         <end-date>2022-08-11</end-date>
         <country id="rwanda">Rwanda</country>
@@ -1240,10 +1240,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4086</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-09-08</start-date>
         <end-date>2022-09-09</end-date>
         <country id="ukraine">Ukraine</country>
@@ -1255,10 +1255,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4087</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-09-09</start-date>
         <end-date>2022-09-09</end-date>
         <country id="belgium">Belgium</country>
@@ -1270,10 +1270,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4088</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-09-12</start-date>
         <end-date>2022-09-12</end-date>
         <country id="mexico">Mexico</country>
@@ -1285,10 +1285,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4089</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-10-03</start-date>
         <end-date>2022-10-04</end-date>
         <country id="colombia">Colombia</country>
@@ -1300,10 +1300,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4090</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-10-05</start-date>
         <end-date>2022-10-05</end-date>
         <country id="chile">Chile</country>
@@ -1314,10 +1314,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4091</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-10-06</start-date>
         <end-date>2022-10-06</end-date>
         <country id="peru">Peru</country>
@@ -1330,10 +1330,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4092</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-10-27</start-date>
         <end-date>2022-10-28</end-date>
         <country id="canada">Canada</country>
@@ -1344,10 +1344,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4093</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-11-03</start-date>
         <end-date>2022-11-04</end-date>
         <country id="germany">Germany</country>
@@ -1359,10 +1359,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4094</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-11-11</start-date>
         <end-date>2022-11-11</end-date>
         <country id="egypt">Egypt</country>
@@ -1374,10 +1374,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4095</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-11-12</start-date>
         <end-date>2022-11-13</end-date>
         <country id="cambodia">Cambodia</country>
@@ -1389,10 +1389,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4096</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-11-13</start-date>
         <end-date>2022-11-16</end-date>
         <country id="indonesia">Indonesia</country>
@@ -1403,10 +1403,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4097</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-11-16</start-date>
         <end-date>2022-11-17</end-date>
         <country id="thailand">Thailand</country>
@@ -1418,10 +1418,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4098</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-11-21</start-date>
         <end-date>2022-11-22</end-date>
         <country id="qatar">Qatar</country>
@@ -1434,10 +1434,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4099</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2022-11-28</start-date>
         <end-date>2022-11-30</end-date>
         <country id="romania">Romania</country>
@@ -1450,10 +1450,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4120</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-01-08</start-date>
         <end-date>2023-01-10</end-date>
         <country id="mexico">Mexico</country>
@@ -1465,10 +1465,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4121</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-01-29</start-date>
         <end-date>2023-01-30</end-date>
         <country id="egypt">Egypt</country>
@@ -1480,10 +1480,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4122</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-01-30</start-date>
         <end-date>2023-01-30</end-date>
         <country id="israel">Israel</country>
@@ -1495,10 +1495,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4123</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-01-31</start-date>
         <end-date>2023-01-31</end-date>
         <country id="west-bank">West Bank</country>
@@ -1509,10 +1509,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4124</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-02-16</start-date>
         <end-date>2023-02-19</end-date>
         <country id="germany">Germany</country>
@@ -1523,13 +1523,13 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4125</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-02-19</start-date>
         <end-date>2023-02-20</end-date>
-        <country id="turkey">Turkey</country>
+        <country id="turkiye">Türkiye</country>
         <locale>Incirlik, Ankara</locale>
         <remarks>Saw U.S. efforts to assist the Turkish authorities responding to the devastation
             caused by the February 6 earthquakes and met with Turkish Foreign Minister Mevlüt
@@ -1539,10 +1539,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4126</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-02-20</start-date>
         <end-date>2023-02-22</end-date>
         <country id="greece">Greece</country>
@@ -1554,10 +1554,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4127</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-02-27</start-date>
         <end-date>2023-02-28</end-date>
         <country id="kazakhstan">Kazakhstan</country>
@@ -1568,10 +1568,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4128</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-02-28</start-date>
         <end-date>2023-03-01</end-date>
         <country id="uzbekistan">Uzbekistan</country>
@@ -1582,10 +1582,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4129</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-03-01</start-date>
         <end-date>2023-03-03</end-date>
         <country id="india">India</country>
@@ -1596,10 +1596,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4132</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-03-14</start-date>
         <end-date>2023-03-16</end-date>
         <country id="ethiopia">Ethiopia</country>
@@ -1611,10 +1611,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4133</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-03-16</start-date>
         <end-date>2023-03-17</end-date>
         <country id="niger">Niger </country>
@@ -1625,10 +1625,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4134</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-04-03</start-date>
         <end-date>2023-04-05</end-date>
         <country id="belgium">Belgium</country>
@@ -1640,10 +1640,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4135</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-04-11</start-date>
         <end-date>2023-04-12</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -1654,10 +1654,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4136</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-04-12</start-date>
         <end-date>2023-04-14</end-date>
         <country id="ireland">Ireland</country>
@@ -1668,10 +1668,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4137</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-04-14</start-date>
         <end-date>2023-04-16</end-date>
         <country id="vietnam">Vietnam</country>
@@ -1683,10 +1683,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4138</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-04-16</start-date>
         <end-date>2023-04-18</end-date>
         <country id="japan">Japan</country>
@@ -1697,10 +1697,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4139</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-05-17</start-date>
         <end-date>2023-05-20</end-date>
         <country id="japan">Japan</country>
@@ -1711,10 +1711,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4140</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-05-21</start-date>
         <end-date>2023-05-22</end-date>
         <country id="papua-new-guinea">Papua New Guinea</country>
@@ -1726,10 +1726,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4141</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-05-29</start-date>
         <end-date>2023-05-31</end-date>
         <country id="sweden">Sweden</country>
@@ -1741,10 +1741,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4142</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-05-31</start-date>
         <end-date>2023-06-01</end-date>
         <country id="norway">Norway</country>
@@ -1756,10 +1756,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4143</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-06-01</start-date>
         <end-date>2023-06-02</end-date>
         <country id="finland">Finland</country>
@@ -1771,10 +1771,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4144</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-06-06</start-date>
         <end-date>2023-06-08</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
@@ -1787,10 +1787,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4145</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-06-17</start-date>
         <end-date>2023-06-19</end-date>
         <country id="china">China, People’s Republic of</country>
@@ -1801,10 +1801,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4146</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-06-20</start-date>
         <end-date>2023-06-21</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -1816,10 +1816,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4147</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-07-05</start-date>
         <end-date>2023-07-06</end-date>
         <country id="trinidad-and-tobago">Trinidad and Tobago</country>
@@ -1831,10 +1831,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4148</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-07-06</start-date>
         <end-date>2023-07-06</end-date>
         <country id="guyana">Guyana</country>
@@ -1845,10 +1845,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4149</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-07-09</start-date>
         <end-date>2023-07-10</end-date>
         <country id="united-kingdom">United Kingdom</country>
@@ -1859,10 +1859,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4150</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-07-11</start-date>
         <end-date>2023-07-12</end-date>
         <country id="lithuania">Lithuania</country>
@@ -1873,10 +1873,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4151</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-07-13</start-date>
         <end-date>2023-07-15</end-date>
         <country id="indonesia">Indonesia</country>
@@ -1888,10 +1888,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4152</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-07-26</start-date>
         <end-date>2023-07-27</end-date>
         <country id="tonga">Tonga</country>
@@ -1902,10 +1902,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4153</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-07-27</start-date>
         <end-date>2023-07-28</end-date>
         <country id="new-zealand">New Zealand</country>
@@ -1916,10 +1916,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4154</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-07-28</start-date>
         <end-date>2023-07-29</end-date>
         <country id="australia">Australia</country>
@@ -1931,10 +1931,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4155</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-09-06</start-date>
         <end-date>2023-09-06</end-date>
         <country id="ukraine">Ukraine</country>
@@ -1946,10 +1946,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4156</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-09-07</start-date>
         <end-date>2023-09-10</end-date>
         <country id="india">India</country>
@@ -1960,10 +1960,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4157</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-09-10</start-date>
         <end-date>2023-09-11</end-date>
         <country id="vietnam">Vietnam</country>
@@ -1974,10 +1974,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4158</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-10-04</start-date>
         <end-date>2023-10-05</end-date>
         <country id="mexico">Mexico</country>
@@ -1988,10 +1988,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4176</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-10-11</start-date>
         <end-date>2023-10-12</end-date>
         <country id="israel">Israel</country>
@@ -2002,10 +2002,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4160</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-10-13</start-date>
         <end-date>2023-10-13</end-date>
         <country id="jordan">Jordan</country>
@@ -2017,10 +2017,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4161</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-10-13</start-date>
         <end-date>2023-10-13</end-date>
         <country id="bahrain">Bahrain</country>
@@ -2031,10 +2031,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4162</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-10-13</start-date>
         <end-date>2023-10-13</end-date>
         <country id="qatar">Qatar</country>
@@ -2046,10 +2046,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4163</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-10-14</start-date>
         <end-date>2023-10-14</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
@@ -2060,10 +2060,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4164</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-10-14</start-date>
         <end-date>2023-10-15</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
@@ -2074,10 +2074,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4165</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-10-15</start-date>
         <end-date>2023-10-15</end-date>
         <country id="egypt">Egypt</country>
@@ -2088,10 +2088,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4166</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-10-16</start-date>
         <end-date>2023-10-18</end-date>
         <country id="israel">Israel</country>
@@ -2103,10 +2103,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4177</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-03</start-date>
         <end-date>2023-11-03</end-date>
         <country id="israel">Israel</country>
@@ -2118,10 +2118,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4178</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-03</start-date>
         <end-date>2023-11-04</end-date>
         <country id="jordan">Jordan</country>
@@ -2132,10 +2132,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4179</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-05</start-date>
         <end-date>2023-11-05</end-date>
         <country id="west-bank">West Bank</country>
@@ -2146,10 +2146,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4180</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-05</start-date>
         <end-date>2023-11-05</end-date>
         <country id="iraq">Iraq</country>
@@ -2160,13 +2160,13 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4189</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-05</start-date>
         <end-date>2023-11-06</end-date>
-        <country id="turkey">Turkey</country>
+        <country id="turkiye">Türkiye</country>
         <locale>Ankara</locale>
         <remarks>Met with Foreign Minister Hakan Fidan.</remarks>
         <created-by>doa-exist-temp</created-by>
@@ -2174,10 +2174,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4181</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-07</start-date>
         <end-date>2023-11-08</end-date>
         <country id="japan">Japan</country>
@@ -2189,10 +2189,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4182</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-08</start-date>
         <end-date>2023-11-09</end-date>
         <country id="korea-south">Korea, Republic of</country>
@@ -2204,10 +2204,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4183</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-09</start-date>
         <end-date>2023-11-10</end-date>
         <country id="india">India</country>
@@ -2219,10 +2219,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4184</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-28</start-date>
         <end-date>2023-11-29</end-date>
         <country id="belgium">Belgium</country>
@@ -2233,13 +2233,13 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4185</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-29</start-date>
         <end-date>2023-11-29</end-date>
-        <country id="macedonia">North Macedonia </country>
+        <country id="north-macedonia">North Macedonia </country>
         <locale>Skopje</locale>
         <remarks>Met with Prime Minister Dimitar Kovačevski and Foreign Minister Bujar Osmani and
             attends OSCE Ministerial Meeting.</remarks>
@@ -2248,10 +2248,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4186</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-30</start-date>
         <end-date>2023-11-30</end-date>
         <country id="israel">Israel</country>
@@ -2263,10 +2263,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4190</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-11-30</start-date>
         <end-date>2023-11-30</end-date>
         <country id="west-bank">West Bank</country>
@@ -2277,10 +2277,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4187</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-12-01</start-date>
         <end-date>2023-12-01</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
@@ -2291,10 +2291,10 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
-    <trip role="secretary" who="blinken-antony">
+    <trip role="secretary" who="blinken-antony-j">
         <id>4191</id>
         <role>secretary</role>
-        <name>Antony Blinken</name>
+        <name>Antony John Blinken</name>
         <start-date>2023-12-27</start-date>
         <end-date>2023-12-27</end-date>
         <country id="mexico">Mexico</country>
@@ -2302,6 +2302,1268 @@
         <remarks>Met with President Andrés Manuel López Obrador.</remarks>
         <created-by>doa-exist-temp</created-by>
         <created-datetime>2024-08-29T15:36:32-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4194</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-04</start-date>
+        <end-date>2024-01-06</end-date>
+        <country id="turkiye">Türkiye</country>
+        <locale>Istanbul</locale>
+        <remarks>Met with President Recep Tayyip Erdogan and Foreign Minister Hakan Fidan.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:37:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4195</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-06</start-date>
+        <end-date>2024-01-06</end-date>
+        <country id="greece">Greece</country>
+        <locale>Crete</locale>
+        <remarks>Met with Prime Minister Kyriakos Mitsotakis.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:38:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4196</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-07</start-date>
+        <end-date>2024-01-07</end-date>
+        <country id="jordan">Jordan</country>
+        <locale/>
+        <remarks>Met with met with King Abdullah II and Deputy Prime Minister and Minister of
+            Foreign Affairs and Expatriates Ayman Safadi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:40:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4197</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-07</start-date>
+        <end-date>2024-01-07</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Prime Minister and Minister of Foreign Affairs Mohammed bin Abdulrahman Al
+            Thani.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:41:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4198</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-08</start-date>
+        <end-date>2024-01-08</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with President Sheikh Mohammed bin Zayed Al Nahyan.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:42:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4199</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-08</start-date>
+        <end-date>2024-01-08</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Al ‘Ula</locale>
+        <remarks>Met with Crown Prince Mohammed bin Salman.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:44:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4200</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-09</start-date>
+        <end-date>2024-01-09</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu, President Isaac Herzog, and members of
+            the Israeli War Cabinet.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:45:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4201</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-10</start-date>
+        <end-date>2024-01-10</end-date>
+        <country id="bahrain">Bahrain</country>
+        <locale>Manama</locale>
+        <remarks>Met with King Hamad bin Isa Al Khalifa.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:46:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4202</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-10</start-date>
+        <end-date>2024-01-11</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Abdel Fattah El-Sisi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:49:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4290</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-10</start-date>
+        <end-date>2024-01-10</end-date>
+        <country id="west-bank">West Bank</country>
+        <locale>Ramallah</locale>
+        <remarks>Met with Palestinian Authority President Mahmoud Abbas.</remarks>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-27T14:36:34-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4203</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-15</start-date>
+        <end-date>2024-01-17</end-date>
+        <country id="switzerland">Switzerland</country>
+        <locale>Davos</locale>
+        <remarks>Attended the World Economic Forum.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:53:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4204</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-22</start-date>
+        <end-date>2024-01-22</end-date>
+        <country id="cape-verde">Cape Verde</country>
+        <locale>Praia</locale>
+        <remarks>Met with Prime Minister Ulisses Correia e Silva.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:54:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4205</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-23</start-date>
+        <end-date>2024-01-23</end-date>
+        <country id="cote-divoire">Cote d'Ivoire</country>
+        <locale>Abidjan</locale>
+        <remarks>Met with President Alassane Ouattara.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:55:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4206</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-23</start-date>
+        <end-date>2024-01-24</end-date>
+        <country id="nigeria">Nigeria</country>
+        <locale>Abuja, Lagos</locale>
+        <remarks>Met with President Bola Tinubu and Foreign Minister Yusuf Maitama Tuggar.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:57:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4207</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-01-24</start-date>
+        <end-date>2024-01-25</end-date>
+        <country id="angola">Angola</country>
+        <locale>Luanda</locale>
+        <remarks>Met with President João Lourenço and Foreign Minister Téte António.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T10:58:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4209</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-02-05</start-date>
+        <end-date>2024-02-05</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with Crown Prince and Prime Minister Mohammed bin Salman.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:07:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4210</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-02-06</start-date>
+        <end-date>2024-02-06</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Abdel Fattah El-Sisi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:10:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4211</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-02-06</start-date>
+        <end-date>2024-02-06</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Amir Sheikh Tamim bin Hamad Al Thani and Prime Minister Mohammed bin
+            Abdulrahman Al Thani.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:12:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4212</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-02-07</start-date>
+        <end-date>2024-02-08</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem, Tel Aviv</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu, President Isaac Herzog, and other
+            Israeli leaders.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:13:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4214</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-02-15</start-date>
+        <end-date>2024-02-15</end-date>
+        <country id="albania">Albania</country>
+        <locale>Tirana</locale>
+        <remarks>Met with Prime Minister Edi Rama and President Bajram Begaj.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:15:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4215</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-02-15</start-date>
+        <end-date>2024-02-17</end-date>
+        <country id="germany">Germany</country>
+        <locale>Munich</locale>
+        <remarks>Attended G7 Foreign Ministers Meeting and participated in the Munich Security
+            Conference as part of the U.S. delegation led by Vice President Kamala Harris.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:22:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4216</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-02-20</start-date>
+        <end-date>2024-02-22</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Brasilia, Rio de Janeiro</locale>
+        <remarks>Met with President Luiz Inácio Lula da Silva and attended the attend the G20
+            Foreign Ministers Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:24:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4217</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-02-22</start-date>
+        <end-date>2024-02-23</end-date>
+        <country id="argentina">Argentina</country>
+        <locale>Buenos Aires</locale>
+        <remarks>Met with President Javier Milei and Foreign Minister Diana Mondino.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:28:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4218</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-03-11</start-date>
+        <end-date>2024-03-11</end-date>
+        <country id="jamaica">Jamaica</country>
+        <locale>Kingston</locale>
+        <remarks>Attended the High-Level Meeting on Haiti convened by the Conference of the Heads of
+            Government of the Caribbean Community (CARICOM).</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:29:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4219</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-03-15</start-date>
+        <end-date>2024-03-15</end-date>
+        <country id="austria">Austria</country>
+        <locale>Vienna</locale>
+        <remarks>Met with President Alexander Van der Bellen, Chancellor Karl Nehammer, and Foreign
+            Minister Alexander Schallenberg. Met with International Atomic Energy Agency (IAEA)
+            Director General Rafael Grossi. Attended the United Nations Commission on Narcotic Drugs
+            (CND).</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:31:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4220</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-03-16</start-date>
+        <end-date>2024-03-16</end-date>
+        <country id="bahrain">Bahrain</country>
+        <locale>Manama</locale>
+        <remarks>Met with Crown Prince and Prime Minister Salman bin Hamad Al Khalifa and Foreign
+            Minister Abdullatif bin Rashid al-Zayani.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:33:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4221</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-03-17</start-date>
+        <end-date>2024-03-18</end-date>
+        <country id="korea-south">Korea, South</country>
+        <locale>Seoul</locale>
+        <remarks>Met with President Yoon Suk Yeol and Foreign Minister Cho Tae-yul. Headed the U.S.
+            delegation to the third Summit for Democracy.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:45:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4222</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-03-19</start-date>
+        <end-date>2024-03-19</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>Met with President Ferdinand Marcos, Jr., and Secretary of Foreign Affairs Enrique
+            Manalo.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:57:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4223</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-03-20</start-date>
+        <end-date>2024-03-21</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Jeddah</locale>
+        <remarks>Met with Crown Prince and Prime Minister Mohammed bin Salman Al Saud and Foreign
+            Minister Prince Faisal bin Farhan Al Saud.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T11:59:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4224</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-03-21</start-date>
+        <end-date>2024-03-21</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Abdel Fattah El-Sisi and Foreign Minister Sameh
+            Shoukry.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:03:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4225</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-03-22</start-date>
+        <end-date>2024-03-22</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu and the Israeli War Cabinet.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:04:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4226</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-04-01</start-date>
+        <end-date>2024-04-02</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Emmanuel Macron, Foreign Minister Stéphane Séjourné, and Defense
+            Minister Sébastien Lecornu. Met with UN Educational, Scientific, and Cultural
+            Organization Director General Audrey Azoulay.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:07:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4227</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-04-03</start-date>
+        <end-date>2024-04-05</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Participated in the NATO Foreign Ministers Meeting, coinciding with the 75th
+            anniversary of NATO. Attended the 6th U.S.-EU Trade and Technology Council and Mineral
+            Security Partnership Forum Launch meetings.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:08:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4228</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-04-16</start-date>
+        <end-date>2024-04-19</end-date>
+        <country id="italy">Italy</country>
+        <locale/>
+        <remarks>Met with Deputy Prime Minister and Foreign Minister Antonio Tajani. Attended the G7
+            Foreign Ministers Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:10:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4229</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-04-24</start-date>
+        <end-date>2024-04-27</end-date>
+        <country id="china">China, People’s Republic of</country>
+        <locale>Shanghai, Beijing</locale>
+        <remarks>Met with President Xi Jinping, Director of the Chinese Communist Party Central
+            Foreign Affairs Commission and Foreign Minister Wang Yi, and senior PRC
+            officials.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:11:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4230</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-04-29</start-date>
+        <end-date>2024-04-29</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with Foreign Minister Prince Faisal bin Farhan Al Saud. Participated in a
+            Ministerial meeting of the Gulf Cooperation Council. Attended special meeting of the
+            World Economic Forum.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:17:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4231</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-04-30</start-date>
+        <end-date>2024-04-30</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Amman</locale>
+        <remarks>Met with met with King Abdullah II and Deputy Prime Minister and Minister of
+            Foreign Affairs and Expatriates Ayman Safadi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:18:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4232</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-05-01</start-date>
+        <end-date>2024-05-01</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem, Kerem Shalom, Ashdod</locale>
+        <remarks>Met with President Isaac Herzog, Prime Minister Benjamin Netanyahu, and Defense
+            Minister Yoav Gallant.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:19:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4233</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-05-07</start-date>
+        <end-date>2024-05-07</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale>Guatemala City</locale>
+        <remarks>Met with President Bernardo Arévalo and participated in the Los Angeles Declaration
+            on Migration and Protection Ministerial.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T12:21:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4234</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-05-13</start-date>
+        <end-date>2024-05-16</end-date>
+        <country id="ukraine">Ukraine</country>
+        <locale>Kiev</locale>
+        <remarks>Met with President Volodymyr Zelenskyy, Prime Minister Denys Shmyhal, and Foreign
+            Minister Dmytro Kuleba.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:04:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4235</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-05-29</start-date>
+        <end-date>2024-05-29</end-date>
+        <country id="moldova">Moldova</country>
+        <locale>Chisinau</locale>
+        <remarks>Met with President Maia Sandu, Prime Minister Dorin Recean, and other senior
+            officials.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:06:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4236</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-05-29</start-date>
+        <end-date>2024-05-31</end-date>
+        <country id="czechia">Czechia</country>
+        <locale>Prague</locale>
+        <remarks>Met with President Peter Pavel and Foreign Minister Jan Lipavský. Participated in
+            an informal NATO Foreign Ministers Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:07:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4237</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-06-05</start-date>
+        <end-date>2024-06-09</end-date>
+        <country id="france">France</country>
+        <locale>Normandy, Paris</locale>
+        <remarks>Accompanied President Biden on his trip to Normandy and Paris to commemorate the
+            80th anniversary of D-Day and participate in his State Visit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:08:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4238</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-06-10</start-date>
+        <end-date>2024-06-10</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President Abdel Fattah El-Sisi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:10:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4239</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-06-10</start-date>
+        <end-date>2024-06-11</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem, Tel Aviv</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu, Defense Minister Yoav Gallant, and
+            other Israeli leaders.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:11:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4240</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-06-11</start-date>
+        <end-date>2024-06-11</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Dead Sea</locale>
+        <remarks>Attended a conference on the urgent humanitarian response to Gaza, co-hosted by
+            Jordan, Egypt, and the United Nations and met with King Abdullah II at the Dead
+            Sea.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:15:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4241</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-06-12</start-date>
+        <end-date>2024-06-12</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Amir Sheikh Tamim bin Hamad Al Thani and Prime Minister and Minister of
+            Foreign Affairs Mohammed bin Abdulrahman Al Thani.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:16:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4242</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-06-13</start-date>
+        <end-date>2024-06-14</end-date>
+        <country id="italy">Italy</country>
+        <locale>Apulia</locale>
+        <remarks>Accompanied President Biden to the G7 Leaders’ Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:17:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4243</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-07-26</start-date>
+        <end-date>2024-07-27</end-date>
+        <country id="laos">Laos</country>
+        <locale>Vientiane</locale>
+        <remarks>Participated in the annual ASEAN-U.S. Post Ministerial Conference, 14th East Asia
+            Summit Foreign Ministers’ Meeting, and the 31st ASEAN Regional Forum Foreign Ministers’
+            Meeting.  Met with Director of the Chinese Communist Party Central Foreign Affairs
+            Commission and Foreign Minister Wang Yi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:19:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4244</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-07-27</start-date>
+        <end-date>2024-07-27</end-date>
+        <country id="vietnam">Vietnam</country>
+        <locale>Hanoi</locale>
+        <remarks>Met with President To Lam, Prime Minister Pham Minh Chinh, and Foreign Minister Bui
+            Thanh Son and paid his respects to the family of General Secretary Nguyễn Phú
+            Trọng.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:19:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4245</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-07-28</start-date>
+        <end-date>2024-07-29</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>With Secretary of Defense Lloyd J. Austin III, met with Japanese Foreign Minister
+            Kamikawa Yoko and Japanese Defense Minister Kihara Minoru for a Foreign and Defense
+            Ministerial (2+2) Dialogue and subsequently with Prime Minister Kishida Fumio. Met with
+            Australian, Indian, and Japanese counterparts for a Quad Foreign Ministers’
+            Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:20:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4246</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-07-29</start-date>
+        <end-date>2024-07-30</end-date>
+        <country id="philippines">Philippines</country>
+        <locale>Manila</locale>
+        <remarks>With Secretary of Defense Austin, met with President Ferdinand Marcos Jr. and with
+            Secretary of Foreign Affairs Enrique Manalo and Secretary of National Defense Gilberto
+            Teodoro for a 2+2 Ministerial Dialogue.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:22:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4247</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-07-31</start-date>
+        <end-date>2024-07-31</end-date>
+        <country id="singapore">Singapore</country>
+        <locale>Singapore</locale>
+        <remarks>Met with Prime Minister Lawrence Wong, Senior Minister Lee Hsien Loong, and Foreign
+            Minister Vivian Balakrishnan.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:27:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4248</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-08-01</start-date>
+        <end-date>2024-08-01</end-date>
+        <country id="mongolia">Mongolia</country>
+        <locale>Ulaanbaatar</locale>
+        <remarks>Met with President Ukhnaaglin Khurelsukh, Prime Minister Oyun-Erdene Luvsannamsrai,
+            Foreign Minister Battsetseg Batmunkh, and other Mongolian officials to reaffirm the
+            importance of the U.S.-Mongolia Strategic Partnership.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-18T15:28:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4249</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-08-18</start-date>
+        <end-date>2024-08-19</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv</locale>
+        <remarks>Met with Prime Minister Netanyahu, President Isaac Herzog, and Minister of Defense
+            Yoav Gallant.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T11:44:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4250</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-08-20</start-date>
+        <end-date>2024-08-20</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo, Al Alamein </locale>
+        <remarks>Met with President Abdel Fattah El-Sisi and Foreign Minister Badr
+            Abdelatty.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T11:45:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4251</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-08-20</start-date>
+        <end-date>2024-08-20</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Minister of State Dr. Mohammed bin Abdulaziz Al-Khulaifi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T11:46:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4252</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-09-05</start-date>
+        <end-date>2024-09-05</end-date>
+        <country id="haiti">Haiti</country>
+        <locale>Port-au-Prince</locale>
+        <remarks>Met with Transitional Presidential Council Coordinator Edgard Leblanc Fils and
+            Prime Minister Garry Conille. Met with leadership of the Multinational Security Support
+            mission.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T11:48:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4253</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-09-06</start-date>
+        <end-date>2024-09-06</end-date>
+        <country id="dominican-republic">Dominican Republic</country>
+        <locale>Santo Domingo</locale>
+        <remarks>Met with President Luis Abinader.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T11:53:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4254</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-09-09</start-date>
+        <end-date>2024-09-10</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Prime Minister Keir Starmer and Foreign Secretary David Lammy. Opened the
+            U.S.-UK Strategic Dialogue.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:11:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4255</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-09-11</start-date>
+        <end-date>2024-09-11</end-date>
+        <country id="ukraine">Ukraine</country>
+        <locale>Kyiv</locale>
+        <remarks>Traveled with UK Foreign Secretary David Lammy and met with Ukrainian President
+            Volodymyr Zelenskyy, Prime Minister Denys Shmyhal, Foreign Minister Andrii Sybiha, and
+            other senior Ukrainian government officials.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:13:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4256</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-09-12</start-date>
+        <end-date>2024-09-12</end-date>
+        <country id="poland">Poland</country>
+        <locale>Warsaw</locale>
+        <remarks>Met with President Andrzej Duda, Prime Minister Donald Tusk, and Foreign Minister
+            Radosław Sikorski.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:14:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4257</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-09-17</start-date>
+        <end-date>2024-09-18</end-date>
+        <country id="egypt">Egypt</country>
+        <locale>Cairo</locale>
+        <remarks>Met with President El-Sisi and co-chaired the opening of the U.S.-Egypt Strategic
+            Dialogue with Foreign Minister Badr Abdelatty.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:15:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4258</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-09-19</start-date>
+        <end-date>2024-09-19</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Emmanuel Macron. Secretary Blinken also met with French Foreign
+            Minister Stéphane Séjourné, Italian Foreign Minister Antonio Tajani, and UK Foreign
+            Secretary David Lammy to discuss the Middle East, Ukraine, and other shared
+            priorities.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:19:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4259</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-10-10</start-date>
+        <end-date>2024-10-11</end-date>
+        <country id="laos">Laos</country>
+        <locale>Vientiane</locale>
+        <remarks>Participated in the East Asia Summit and the U.S.-ASEAN Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:21:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4260</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-10-22</start-date>
+        <end-date>2024-10-23</end-date>
+        <country id="israel">Israel</country>
+        <locale>Tel Aviv, Jerusalem</locale>
+        <remarks>Met with President Isaac Herzog and Prime Minister Benjamin Netanyahu.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:23:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4261</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-10-23</start-date>
+        <end-date>2024-10-24</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with Crown Prince Mohammed bin Salman and Foreign Minister Faisal bin Farhan al
+            Saud.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:25:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4262</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-10-24</start-date>
+        <end-date>2024-10-24</end-date>
+        <country id="qatar">Qatar</country>
+        <locale>Doha</locale>
+        <remarks>Met with Prime Minister Mohammed bin Abdulrahman Al Thani and Amir Sheikh Tamim bin
+            Hamad Al Thani.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:26:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4263</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-10-25</start-date>
+        <end-date>2024-10-25</end-date>
+        <country id="united-kingdom">United Kingdom</country>
+        <locale>London</locale>
+        <remarks>Met with Caretaker Lebanese Prime Minister Najib Mikati, United Arab Emirates
+            Foreign Minister Abdullah Bin Zayed Al Nahyan, and Jordan’s Deputy Prime Minister and
+            Minister of Foreign Affairs and Expatriates Ayman Safadi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:27:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4264</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-11-12</start-date>
+        <end-date>2024-11-13</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Met with NATO and European Union counterparts.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:28:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4265</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-11-14</start-date>
+        <end-date>2024-11-16</end-date>
+        <country id="peru">Peru</country>
+        <locale>Lima</locale>
+        <remarks>Joined President Biden at the annual Asia-Pacific Economic Cooperation (APEC)
+            Economic Leaders’ Week.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:30:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4266</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-11-18</start-date>
+        <end-date>2024-11-19</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Rio de Janeiro</locale>
+        <remarks>Attended the G20 Leaders’ Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:31:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4267</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-11-23</start-date>
+        <end-date>2024-11-27</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome, Anagni , Fiuggi</locale>
+        <remarks>Attended the G7 Foreign Ministers’ Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:33:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4268</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-11-27</start-date>
+        <end-date>2024-11-27</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Met with Pope Francis, Secretary of State Cardinal Pietro Parolin, and Secretary
+            for Relations with States Archbishop Paul Gallagher.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:34:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4269</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-12-03</start-date>
+        <end-date>2024-12-04</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended the NATO Foreign Ministers’ Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:35:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4270</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-12-04</start-date>
+        <end-date>2024-12-05</end-date>
+        <country id="malta">Malta</country>
+        <locale>Valletta, Attard</locale>
+        <remarks>Attended the 31st OSCE Ministerial Council Meeting and met with Prime Minister
+            Robert Abela.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:36:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4271</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-12-12</start-date>
+        <end-date>2024-12-12</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Aqaba</locale>
+        <remarks>Met with met with King Abdullah II and Deputy Prime Minister and Minister of
+            Foreign Affairs and Expatriates Ayman Safadi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:37:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4272</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-12-12</start-date>
+        <end-date>2024-12-13</end-date>
+        <country id="turkiye">Türkiye</country>
+        <locale>Ankara</locale>
+        <remarks>Met with President Recep Tayyip Erdogan and Foreign Minister Hakan Fidan.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:39:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4274</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-12-13</start-date>
+        <end-date>2024-12-13</end-date>
+        <country id="iraq">Iraq</country>
+        <locale>Baghdad</locale>
+        <remarks>Met with Prime Minister Mohammed Shiaa al-Sudani.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2024-12-19T12:40:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4291</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2024-12-14</start-date>
+        <end-date>2024-12-14</end-date>
+        <country id="jordan">Jordan</country>
+        <locale>Aqaba</locale>
+        <remarks>Met with King Abdullah II, the foreign ministers of the Arab Contact Group on
+            Syria, and UN Special Envoy for Syria Geir Pederson.</remarks>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-27T22:32:37-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4275</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2025-01-06</start-date>
+        <end-date>2025-01-06</end-date>
+        <country id="korea-south">Korea, Republic of</country>
+        <locale>Seoul</locale>
+        <remarks>Met with Acting President Choi Sang-mok and Foreign Minister Cho Tae-yul.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-25T10:11:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4276</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2025-01-07</start-date>
+        <end-date>2025-01-07</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Met with Prime Minister Ishiba Shigeru and Foreign Minister Iwaya
+            Takeshi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-25T14:09:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4277</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2025-01-08</start-date>
+        <end-date>2025-01-08</end-date>
+        <country id="france">France</country>
+        <locale>Paris</locale>
+        <remarks>Met with President Emmanuel Macron and Foreign Minister Jean-Noël Barrot.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-25T14:10:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4278</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2025-01-09</start-date>
+        <end-date>2025-01-10</end-date>
+        <country id="italy">Italy</country>
+        <locale>Rome</locale>
+        <remarks>Met with European counterparts to discuss the situation in Syria.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-25T14:11:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="blinken-antony-j">
+        <id>4279</id>
+        <role>secretary</role>
+        <name>Antony John Blinken</name>
+        <start-date>2025-01-10</start-date>
+        <end-date>2025-01-10</end-date>
+        <country id="holy-see">Vatican City</country>
+        <locale/>
+        <remarks>Met with Vatican officials.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-25T14:13:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
