@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip role="secretary" who="rubio-marco">
+        <id>4281</id>
+        <role>secretary</role>
+        <name>Marco Rubio</name>
+        <start-date>2025-02-01</start-date>
+        <end-date>2025-02-03</end-date>
+        <country id="panama">Panama</country>
+        <locale>Panama City</locale>
+        <remarks>Met with President José Raúl Mulino.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-26T12:43:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="rubio-marco">
+        <id>4282</id>
+        <role>secretary</role>
+        <name>Marco Rubio</name>
+        <start-date>2025-02-03</start-date>
+        <end-date>2025-02-04</end-date>
+        <country id="el-salvador">El Salvador</country>
+        <locale>San Salvador</locale>
+        <remarks>Met with President Nayib Bukele and Foreign Minister Alexandra Hill
+            Tinoco.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-26T12:45:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="rubio-marco">
+        <id>4283</id>
+        <role>secretary</role>
+        <name>Marco Rubio</name>
+        <start-date>2025-02-04</start-date>
+        <end-date>2025-02-04</end-date>
+        <country id="costa-rica">Costa Rica</country>
+        <locale>San Jose</locale>
+        <remarks>Met with President Rodrigo Chaves and Foreign Minister Arnoldo André.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-26T12:46:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="rubio-marco">
+        <id>4284</id>
+        <role>secretary</role>
+        <name>Marco Rubio</name>
+        <start-date>2025-02-04</start-date>
+        <end-date>2025-02-05</end-date>
+        <country id="guatemala">Guatemala</country>
+        <locale>Guatemala City</locale>
+        <remarks>Met with President Bernardo Arévalo.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-26T13:15:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="rubio-marco">
+        <id>4285</id>
+        <role>secretary</role>
+        <name>Marco Rubio</name>
+        <start-date>2025-02-05</start-date>
+        <end-date>2025-02-06</end-date>
+        <country id="dominican-republic">Dominican Republic</country>
+        <locale>Santo Domingo</locale>
+        <remarks>Met with President Luis Abinader and Foreign Minister Roberto Alvarez.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-26T13:16:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="rubio-marco">
+        <id>4286</id>
+        <role>secretary</role>
+        <name>Marco Rubio</name>
+        <start-date>2025-02-14</start-date>
+        <end-date>2025-02-15</end-date>
+        <country id="germany">Germany</country>
+        <locale>Munich</locale>
+        <remarks>Participated in the Munich Security Conference and the G7 Foreign Ministers’
+            Meeting.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-26T13:18:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="rubio-marco">
+        <id>4287</id>
+        <role>secretary</role>
+        <name>Marco Rubio</name>
+        <start-date>2025-02-15</start-date>
+        <end-date>2025-02-17</end-date>
+        <country id="israel">Israel</country>
+        <locale>Jerusalem</locale>
+        <remarks>Met with Prime Minister Benjamin Netanyahu and President Isaac Herzog.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-26T13:19:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="rubio-marco">
+        <id>4288</id>
+        <role>secretary</role>
+        <name>Marco Rubio</name>
+        <start-date>2025-02-17</start-date>
+        <end-date>2025-02-19</end-date>
+        <country id="saudi-arabia">Saudi Arabia</country>
+        <locale>Riyadh</locale>
+        <remarks>Met with Crown Prince and Prime Minister Mohammed bin Salman and Foreign Minister
+            Prince Faisal bin Farhan Al Saud. Also met with Russian Foreign Minister Sergei Lavrov
+            and Russian Aide to the President Yuri Ushakov, along with National Security Advisor
+            Mike Waltz, and Special Envoy to the Middle East Steve Witkoff.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-26T13:20:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="secretary" who="rubio-marco">
+        <id>4289</id>
+        <role>secretary</role>
+        <name>Marco Rubio</name>
+        <start-date>2025-02-19</start-date>
+        <end-date>2025-02-19</end-date>
+        <country id="united-arab-emirates">United Arab Emirates</country>
+        <locale>Abu Dhabi</locale>
+        <remarks>Met with President Mohammed Bin Zayed Al Nahyan and Foreign Minister Abdullah Bin
+            Zayed Al Nahyan.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-02-26T13:22:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+</trips>
