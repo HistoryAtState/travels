@@ -2219,7 +2219,7 @@
         <start-date>2024-01-07</start-date>
         <end-date>2024-01-07</end-date>
         <country id="jordan">Jordan</country>
-        <locale/>
+        <locale>Amman</locale>
         <remarks>Met with met with King Abdullah II and Deputy Prime Minister and Minister of Foreign Affairs and Expatriates Ayman Safadi.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2024-12-18T10:40:00-04:00</created-datetime>
@@ -2639,7 +2639,7 @@
         <start-date>2024-04-03</start-date>
         <end-date>2024-04-05</end-date>
         <country id="belgium">Belgium</country>
-        <locale>Brussels</locale>
+        <locale>Brussels, Leuven </locale>
         <remarks>Participated in the NATO Foreign Ministers Meeting, coinciding with the 75th anniversary of NATO. Attended the 6th U.S.-EU Trade and Technology Council and Mineral Security Partnership Forum Launch meetings.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2024-12-18T12:08:00-04:00</created-datetime>
@@ -2653,7 +2653,7 @@
         <start-date>2024-04-16</start-date>
         <end-date>2024-04-19</end-date>
         <country id="italy">Italy</country>
-        <locale/>
+        <locale>Capri</locale>
         <remarks>Met with Deputy Prime Minister and Foreign Minister Antonio Tajani. Attended the G7 Foreign Ministers Meeting.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2024-12-18T12:10:00-04:00</created-datetime>
@@ -2821,7 +2821,7 @@
         <start-date>2024-06-11</start-date>
         <end-date>2024-06-11</end-date>
         <country id="jordan">Jordan</country>
-        <locale>Dead Sea</locale>
+        <locale>Sweimeh, Dead Sea</locale>
         <remarks>Attended a conference on the urgent humanitarian response to Gaza, co-hosted by Jordan, Egypt, and the United Nations and met with King Abdullah II at the Dead Sea.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2024-12-18T15:15:00-04:00</created-datetime>
