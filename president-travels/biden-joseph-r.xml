@@ -447,4 +447,90 @@
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4293</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2024-06-04</start-date>
+        <end-date>2024-06-09</end-date>
+        <country id="france">France</country>
+        <locale>Normandy, Paris</locale>
+        <remarks>Commemorated the 80th anniversary of the D-Day landing at Normandy in World War II
+            as part of a State Visit. He also met with President Volodymyr Zelenskyy of
+            Ukraine.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-03-06T13:34:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4294</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2024-06-13</start-date>
+        <end-date>2024-06-14</end-date>
+        <country id="italy">Italy</country>
+        <locale>Savelletri, Fasano, Apulia</locale>
+        <remarks>Attended the G7 Leaders’ Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-03-06T13:35:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4295</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2024-10-17</start-date>
+        <end-date>2024-10-18</end-date>
+        <country id="germany">Germany</country>
+        <locale>Berlin</locale>
+        <remarks>Met with Chancellor Olaf Scholz.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-03-06T13:36:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4296</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2024-11-15</start-date>
+        <end-date>2024-11-17</end-date>
+        <country id="peru">Peru</country>
+        <locale>Lima</locale>
+        <remarks>Met with President Dina Boluarte and with President Xi Jinping of China.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-03-06T13:38:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4297</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2024-11-18</start-date>
+        <end-date>2024-11-19</end-date>
+        <country id="brazil">Brazil</country>
+        <locale>Manaus, Rio de Janeiro</locale>
+        <remarks>Participated in the G20 Leaders’ Summit.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-03-06T13:39:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip role="president" who="biden-joseph-r">
+        <id>4298</id>
+        <role>president</role>
+        <name>Joseph R. Biden</name>
+        <start-date>2024-12-02</start-date>
+        <end-date>2024-12-04</end-date>
+        <country id="angola">Angola</country>
+        <locale>Luanda</locale>
+        <remarks>Met with President João Lourenço.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2025-03-06T13:41:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
 </trips>
