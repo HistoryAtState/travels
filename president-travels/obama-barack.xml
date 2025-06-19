@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2960</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2961</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -22,14 +22,13 @@
         <end-date>2009-04-03</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Queen Elizabeth II and Prime Minister Brown. Attended the G-20 Economic
-            Summit Meeting.</remarks>
+        <remarks>Met with Queen Elizabeth II and Prime Minister Brown. Attended the G-20 Economic Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2962</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -43,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2963</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -57,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2964</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -71,7 +70,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2965</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -79,14 +78,13 @@
         <end-date>2009-04-07</end-date>
         <country id="turkey">Turkey</country>
         <locale>Ankara, Istanbul</locale>
-        <remarks>Met with President Gul and Prime Minister Erdogan; addressed the Grand National
-            Assembly.</remarks>
+        <remarks>Met with President Gul and Prime Minister Erdogan; addressed the Grand National Assembly.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2966</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -100,7 +98,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2967</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -114,7 +112,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2968</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -128,7 +126,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2969</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -142,7 +140,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2970</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -156,7 +154,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2971</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -164,14 +162,13 @@
         <end-date>2009-06-05</end-date>
         <country id="germany">Germany</country>
         <locale>Dresden, Weimar, Landstuhl</locale>
-        <remarks>Met with Chancellor Merkel, visited the Buchenwald concentration camp and visited
-            wounded U.S. military personnel.</remarks>
+        <remarks>Met with Chancellor Merkel, visited the Buchenwald concentration camp and visited wounded U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2972</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -179,14 +176,13 @@
         <end-date>2009-06-07</end-date>
         <country id="france">France</country>
         <locale>Paris, Caen</locale>
-        <remarks>Met with President Sarkozy and dedicated the new visitor center at the U.S.
-            Military Cemetery in Normandy.</remarks>
+        <remarks>Met with President Sarkozy and dedicated the new visitor center at the U.S. Military Cemetery in Normandy.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2973</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -200,7 +196,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2974</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -208,15 +204,13 @@
         <end-date>2009-07-10</end-date>
         <country id="italy">Italy</country>
         <locale>Rome, L’Aquila</locale>
-        <remarks>Attended the G-8 Summit Meeting. Also met with the leaders of Angola, Algeria,
-            Australia, Brazil, China, Egypt, India, Mexico, Nigeria, Senegal, South Africa, and
-            various international organizations.</remarks>
+        <remarks>Attended the G-8 Summit Meeting. Also met with the leaders of Angola, Algeria, Australia, Brazil, China, Egypt, India, Mexico, Nigeria, Senegal, South Africa, and various international organizations.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2975</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -230,7 +224,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2976</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -244,7 +238,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2977</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -258,7 +252,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2978</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -266,14 +260,13 @@
         <end-date>2009-10-02</end-date>
         <country id="denmark">Denmark</country>
         <locale>Copenhagen</locale>
-        <remarks>Addressed a session of the International Olympic Committee and met with Prime
-            Minister Rasmussen.</remarks>
+        <remarks>Addressed a session of the International Olympic Committee and met with Prime Minister Rasmussen.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2979</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -287,7 +280,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2980</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -301,7 +294,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2981</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -309,14 +302,13 @@
         <end-date>2009-11-18</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Shanghai, Beijing</locale>
-        <remarks>Met with President Hu, National People’s Congress Chairman Wu, and Premier Wen.
-            Visited the Great Wall.</remarks>
+        <remarks>Met with President Hu, National People’s Congress Chairman Wu, and Premier Wen. Visited the Great Wall.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-19T13:56:12.253-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2982</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -330,7 +322,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2983</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -344,7 +336,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>2984</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -358,7 +350,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-19T13:56:12.253-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3037</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -372,7 +364,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3038</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -380,16 +372,13 @@
         <end-date>2010-04-09</end-date>
         <country id="czech-republic">Czech Republic</country>
         <locale>Prague</locale>
-        <remarks>Signed Strategic Arms Reduction Treaty with Russia. Also met with the Presidents of
-            the Czech Republic, Estonia, Latvia, and Romania; and with the Prime Ministers of
-            Bulgaria, Croatia, the Czech Republic, Hungary, Lithuania, Poland, Slovakia, and
-            Slovenia.</remarks>
+        <remarks>Signed Strategic Arms Reduction Treaty with Russia. Also met with the Presidents of the Czech Republic, Estonia, Latvia, and Romania; and with the Prime Ministers of Bulgaria, Croatia, the Czech Republic, Hungary, Lithuania, Poland, Slovakia, and Slovenia.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3039</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -403,7 +392,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3040</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -411,14 +400,13 @@
         <end-date>2010-11-09</end-date>
         <country id="india">India</country>
         <locale>Mumbai, New Delhi</locale>
-        <remarks>Attended U.S.-India Business and Entrepreneurship Summit in Mumbai. Met with Prime
-            Minister Singh and President Patil. Addressed the Indian Parliament.</remarks>
+        <remarks>Attended U.S.-India Business and Entrepreneurship Summit in Mumbai. Met with Prime Minister Singh and President Patil. Addressed the Indian Parliament.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3041</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -432,7 +420,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3042</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -446,7 +434,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3043</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -460,7 +448,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3044</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -474,7 +462,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3045</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -482,14 +470,13 @@
         <end-date>2010-12-03</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Bagram</locale>
-        <remarks>Met with the leaders of the U.S. military and diplomatic missions and visited U.S.
-            military personnel.</remarks>
+        <remarks>Met with the leaders of the U.S. military and diplomatic missions and visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2011-03-18T15:19:12.242-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2011-03-18T15:19:12.242-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3046</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -503,7 +490,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3047</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -517,7 +504,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3048</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -531,7 +518,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3049</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -539,14 +526,13 @@
         <end-date>2011-05-23</end-date>
         <country id="ireland">Ireland</country>
         <locale>Dublin, Farmleigh, Moneygall</locale>
-        <remarks>Met with President McAleese and Prime Minister Kenny. Visited ancestral
-            home.</remarks>
+        <remarks>Met with President McAleese and Prime Minister Kenny. Visited ancestral home.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3050</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -554,14 +540,13 @@
         <end-date>2011-05-26</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London</locale>
-        <remarks>Met with Queen Elizabeth II, Prime Minister Cameron, and Labour Party leader
-            Miliband.</remarks>
+        <remarks>Met with Queen Elizabeth II, Prime Minister Cameron, and Labour Party leader Miliband.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3051</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -575,7 +560,7 @@
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-11-04T01:00:00-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3052</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -589,7 +574,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3053</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -603,7 +588,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3054</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -611,14 +596,13 @@
         <end-date>2011-11-17</end-date>
         <country id="australia">Australia</country>
         <locale>Canberra, Darwin</locale>
-        <remarks>Met with Prime Minister Gillard. Announced a new military cooperation
-            agreement.</remarks>
+        <remarks>Met with Prime Minister Gillard. Announced a new military cooperation agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T13:30:57.225-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3055</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -632,7 +616,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T13:30:57.225-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3203</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -640,14 +624,13 @@
         <end-date>2012-03-27</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>Attended the Nuclear Security Summit. Met with President Lee Myung-bak and visited
-            the Demilitarized Zone.</remarks>
+        <remarks>Attended the Nuclear Security Summit. Met with President Lee Myung-bak and visited the Demilitarized Zone.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-01-17T09:26:14.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T09:26:14.331-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3204</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -661,7 +644,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T09:26:14.331-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3205</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -669,14 +652,13 @@
         <end-date>2012-05-02</end-date>
         <country id="afghanistan">Afghanistan</country>
         <locale>Kabul</locale>
-        <remarks>Met with President Karzai and addressed U.S. military personnel. Signed a long-term
-            strategic partnership agreement.</remarks>
+        <remarks>Met with President Karzai and addressed U.S. military personnel. Signed a long-term strategic partnership agreement.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-01-17T09:26:14.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T09:26:14.331-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3206</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -690,7 +672,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T09:26:14.331-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3207</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -704,7 +686,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-02-19T09:26:14.331-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3208</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -712,14 +694,13 @@
         <end-date>2012-11-19</end-date>
         <country id="burma">Burma</country>
         <locale>Rangoon</locale>
-        <remarks>Met with President Thein Sein, National League for Democracy leader Aung San Suu
-            Kyi, and representatives of Burmese civil society.</remarks>
+        <remarks>Met with President Thein Sein, National League for Democracy leader Aung San Suu Kyi, and representatives of Burmese civil society.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-01-17T09:26:14.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T09:26:14.331-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3209</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -727,14 +708,13 @@
         <end-date>2012-11-19</end-date>
         <country id="cambodia">Cambodia</country>
         <locale>Phnom Penh</locale>
-        <remarks>Met with Prime Minister Hun Sen and a U.S.-ASEAN Leaders’ meeting, a Trans-Pacific
-            Partnership meeting, and the East Asia Summit meeting.</remarks>
+        <remarks>Met with Prime Minister Hun Sen and a U.S.-ASEAN Leaders’ meeting, a Trans-Pacific Partnership meeting, and the East Asia Summit meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2013-01-17T09:26:14.331-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-01-17T09:26:14.331-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3312</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -748,7 +728,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3313</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -762,7 +742,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3314</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -776,7 +756,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3315</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -790,7 +770,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3316</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -798,14 +778,13 @@
         <end-date>2013-05-04</end-date>
         <country id="costa-rica">Costa Rica</country>
         <locale>San Jose</locale>
-        <remarks>Met with President Laura Chinchilla and leaders of the Central American Integration
-            System.</remarks>
+        <remarks>Met with President Laura Chinchilla and leaders of the Central American Integration System.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3317</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -819,7 +798,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3318</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -833,7 +812,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3319</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -847,7 +826,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3320</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -855,14 +834,13 @@
         <end-date>2013-07-01</end-date>
         <country id="south-africa">South Africa</country>
         <locale>Johannesburg, Pretoria, Cape Town</locale>
-        <remarks>Met with President Jacob Zuma and with members of the Mandela family. Visited
-            Robben Island.</remarks>
+        <remarks>Met with President Jacob Zuma and with members of the Mandela family. Visited Robben Island.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3321</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -870,14 +848,13 @@
         <end-date>2013-07-02</end-date>
         <country id="tanzania">Tanzania</country>
         <locale>Dar es Salaam</locale>
-        <remarks>Met with President Jakaya Kikwete. Laid a wreath at the memorial to the 1998
-            Embassy bombing.</remarks>
+        <remarks>Met with President Jakaya Kikwete. Laid a wreath at the memorial to the 1998 Embassy bombing.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T10:13:29.995-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3322</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -891,7 +868,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3323</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -905,7 +882,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2014-06-10T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3728</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -919,7 +896,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-24T10:13:29.995-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3729</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -933,7 +910,7 @@
         <last-modified-by>cabrerath</last-modified-by>
         <last-modified-datetime>2022-07-12T10:13:00-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3409</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -947,7 +924,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3410</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -955,15 +932,13 @@
         <end-date>2014-03-25</end-date>
         <country id="netherlands">Netherlands</country>
         <locale>The Hague, Amsterdam</locale>
-        <remarks>Attended the World Forum the Nuclear Security Summit, and a G-7 meeting on the
-            Ukrainian crisis. Met with King Willem-Alexander and President Nursultan Nazarbayev of
-            Kazakhstan.</remarks>
+        <remarks>Attended the World Forum the Nuclear Security Summit, and a G-7 meeting on the Ukrainian crisis. Met with King Willem-Alexander and President Nursultan Nazarbayev of Kazakhstan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3411</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -971,14 +946,13 @@
         <end-date>2014-03-26</end-date>
         <country id="belgium">Belgium</country>
         <locale>Waregem, Brussels</locale>
-        <remarks>Attended a wreath-laying ceremony at the Flanders Field American Cemetery. Attended
-            a meeting of the Council of the European Union.</remarks>
+        <remarks>Attended a wreath-laying ceremony at the Flanders Field American Cemetery. Attended a meeting of the Council of the European Union.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3412</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -986,14 +960,13 @@
         <end-date>2014-03-28</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with President Giorgio Napolitano and Prime Minister Matteo Renzi. Toured the
-            Colosseum.</remarks>
+        <remarks>Met with President Giorgio Napolitano and Prime Minister Matteo Renzi. Toured the Colosseum.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3413</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1001,14 +974,13 @@
         <end-date>2014-03-27</end-date>
         <country id="holy-see">Vatican City</country>
         <locale/>
-        <remarks>Audience with Pope Francis and a meeting with Secretary of State Cardinal Pietro
-            Parolin.</remarks>
+        <remarks>Audience with Pope Francis and a meeting with Secretary of State Cardinal Pietro Parolin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3414</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1022,7 +994,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3415</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1036,7 +1008,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3416</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1044,14 +1016,13 @@
         <end-date>2014-04-25</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with Prime Minister Shinzo Abe and Emperor Akihito. Toured the National Museum
-            of Emerging Science and Innovation. Toured the Meiji Jingu Shrine.</remarks>
+        <remarks>Met with Prime Minister Shinzo Abe and Emperor Akihito. Toured the National Museum of Emerging Science and Innovation. Toured the Meiji Jingu Shrine.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3417</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1059,14 +1030,13 @@
         <end-date>2014-04-26</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>Met with President Park Geun-hye, attended a wreath-laying ceremony at the National
-            War Memorial, and visited U.S. military personnel.</remarks>
+        <remarks>Met with President Park Geun-hye, attended a wreath-laying ceremony at the National War Memorial, and visited U.S. military personnel.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-24T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3418</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1074,14 +1044,13 @@
         <end-date>2014-04-28</end-date>
         <country id="malaysia">Malaysia</country>
         <locale>Kuala Lumpur</locale>
-        <remarks>Met with Prime Minister Najib Razak, toured the National Mosque and the Malaysian
-            Global Innovation and Creativity Center.</remarks>
+        <remarks>Met with Prime Minister Najib Razak, toured the National Mosque and the Malaysian Global Innovation and Creativity Center.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3419</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1089,14 +1058,13 @@
         <end-date>2014-04-29</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila, Taguig</locale>
-        <remarks>Met with President Benigno S. Aquino 3rd. Attended a wreath-laying ceremony at the
-            American Manila Cemetery.</remarks>
+        <remarks>Met with President Benigno S. Aquino 3rd. Attended a wreath-laying ceremony at the American Manila Cemetery.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3420</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1110,7 +1078,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3421</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1124,7 +1092,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3422</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1132,14 +1100,13 @@
         <end-date>2014-06-04</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Met with President Bronislaw Komorowski. Attended a Solidarity Dinner and a Freedom
-            Day commemoration.</remarks>
+        <remarks>Met with President Bronislaw Komorowski. Attended a Solidarity Dinner and a Freedom Day commemoration.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-12-13T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3423</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1147,14 +1114,13 @@
         <end-date>2014-06-05</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with King Philippe and Prime Minister Elio Di Rupo. Attended meetings of the
-            G-7 leaders.</remarks>
+        <remarks>Met with King Philippe and Prime Minister Elio Di Rupo. Attended meetings of the G-7 leaders.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3424</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1162,15 +1128,13 @@
         <end-date>2014-06-06</end-date>
         <country id="france">France</country>
         <locale>Paris, Omaha Beach, Benouville, Ouistreham</locale>
-        <remarks>Met with President Francois Hollande. Attended ceremonies commemorating the 70th
-            anniversary of the Normandy landings. Discussed the Ukrainian situation with Russian
-            President Vladimir Putin.</remarks>
+        <remarks>Met with President Francois Hollande. Attended ceremonies commemorating the 70th anniversary of the Normandy landings. Discussed the Ukrainian situation with Russian President Vladimir Putin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3425</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1184,7 +1148,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3426</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1198,7 +1162,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3427</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1206,14 +1170,13 @@
         <end-date>2014-11-12</end-date>
         <country id="china">China, People’s Republic of</country>
         <locale>Beijing</locale>
-        <remarks>Attended the Asia Pacific Economic Cooperation CEO Summit Meeting and the Trans
-            Pacific Partnership Leaders Meeting.</remarks>
+        <remarks>Attended the Asia Pacific Economic Cooperation CEO Summit Meeting and the Trans Pacific Partnership Leaders Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3428</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1221,14 +1184,13 @@
         <end-date>2014-11-14</end-date>
         <country id="burma">Burma</country>
         <locale>Nay Pyi Taw, Rangoon</locale>
-        <remarks>Attended a United States-Association of Southeast Asian Naations Summit
-            Meeting.</remarks>
+        <remarks>Attended a United States-Association of Southeast Asian Naations Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3429</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1242,7 +1204,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3430</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1256,7 +1218,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3431</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1270,7 +1232,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3432</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1284,7 +1246,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3433</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1298,7 +1260,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3434</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1312,7 +1274,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3435</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1326,7 +1288,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3436</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1340,7 +1302,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3437</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1354,7 +1316,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3438</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1362,14 +1324,13 @@
         <end-date>2015-07-26</end-date>
         <country id="kenya">Kenya</country>
         <locale>Nairobi</locale>
-        <remarks>Attended Global Entrepreneurship Summit and met with President Uhuru Kenyatta.
-            Attended a State dinner.</remarks>
+        <remarks>Attended Global Entrepreneurship Summit and met with President Uhuru Kenyatta. Attended a State dinner.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3439</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1377,14 +1338,13 @@
         <end-date>2015-07-28</end-date>
         <country id="ethiopia">Ethiopia</country>
         <locale>Addis Ababa</locale>
-        <remarks>Attended a meeting on South Sudan and Counterterrorism Issues and met with Prime
-            Minister Hailemariam Desalegn (State dinner). Addressed the African Union.</remarks>
+        <remarks>Attended a meeting on South Sudan and Counterterrorism Issues and met with Prime Minister Hailemariam Desalegn (State dinner). Addressed the African Union.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3440</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1398,7 +1358,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3441</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1412,7 +1372,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3442</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1420,14 +1380,13 @@
         <end-date>2015-11-20</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Attended the Trans-Pacific Partnership, Pacific Alliance, and APEC Summit
-            Meetings.</remarks>
+        <remarks>Attended the Trans-Pacific Partnership, Pacific Alliance, and APEC Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-05-05T13:39:08.656-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3443</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1441,7 +1400,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3444</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1455,7 +1414,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2016-05-05T13:39:08.656-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3616</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1469,7 +1428,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3617</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1483,7 +1442,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3618</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1497,7 +1456,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3619</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1505,14 +1464,13 @@
         <end-date>2016-04-21</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Salman bin Abd-al Aziz Al Saud and attended the U.S.-Gulf Cooperation
-            Council Summit.</remarks>
+        <remarks>Met with King Salman bin Abd-al Aziz Al Saud and attended the U.S.-Gulf Cooperation Council Summit.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3620</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1526,7 +1484,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3621</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1534,14 +1492,13 @@
         <end-date>2016-04-25</end-date>
         <country id="germany">Germany</country>
         <locale>Hannover</locale>
-        <remarks>Met with Chancellor Angela Merkel, French President Francois Hollande, Italian
-            Prime Minister Matteo Renzi, and British Prime Minister David W. D. Cameron.</remarks>
+        <remarks>Met with Chancellor Angela Merkel, French President Francois Hollande, Italian Prime Minister Matteo Renzi, and British Prime Minister David W. D. Cameron.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3622</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1555,7 +1512,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3623</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1569,7 +1526,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3624</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1577,14 +1534,13 @@
         <end-date>2016-05-29</end-date>
         <country id="japan">Japan</country>
         <locale>Shima City, Ise, Iwakuni, Hiroshima</locale>
-        <remarks>Attended the G-7 Economic Summit. Attended ceremonies at the Hiroshima Peace
-            Memorial Park. .</remarks>
+        <remarks>Attended the G-7 Economic Summit. Attended ceremonies at the Hiroshima Peace Memorial Park. .</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3625</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1598,7 +1554,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3626</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1606,14 +1562,13 @@
         <end-date>2016-07-09</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Attended a NATO Summit Meeting and a NATO leaders’ meeting on
-            Afghanistan.</remarks>
+        <remarks>Attended a NATO Summit Meeting and a NATO leaders’ meeting on Afghanistan.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3627</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1621,14 +1576,13 @@
         <end-date>2016-07-10</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid, Torrejon Air Base, Rota</locale>
-        <remarks>Met with Spanish political leaders at Torrejon Air Base and visited Naval Station
-            Rota.</remarks>
+        <remarks>Met with Spanish political leaders at Torrejon Air Base and visited Naval Station Rota.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3628</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1642,7 +1596,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3629</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1650,14 +1604,13 @@
         <end-date>2016-09-09</end-date>
         <country id="laos">Laos</country>
         <locale>Vientiane, Luang Prabang</locale>
-        <remarks>Met with President Bounnyang Vorachit and attended an East Asia Summit
-            Meeting.</remarks>
+        <remarks>Met with President Bounnyang Vorachit and attended an East Asia Summit Meeting.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3630</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1671,7 +1624,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3631</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1685,7 +1638,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3632</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1693,14 +1646,13 @@
         <end-date>2016-11-16</end-date>
         <country id="greece">Greece</country>
         <locale>Athens</locale>
-        <remarks>Met with President Prokopios Pavlopoulis and Prime Minister Alexios
-            Tsipras.</remarks>
+        <remarks>Met with President Prokopios Pavlopoulis and Prime Minister Alexios Tsipras.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3633</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1708,15 +1660,13 @@
         <end-date>2016-11-18</end-date>
         <country id="germany">Germany</country>
         <locale>Berlin</locale>
-        <remarks>Met with Chancellor Angela Merkel, French President Francois Hollande, Spanish
-            Prime Minister Mariano Rajoy, Italian Prime Minister Matteo Renzi, and British Prime
-            Minister Theresa May.</remarks>
+        <remarks>Met with Chancellor Angela Merkel, French President Francois Hollande, Spanish Prime Minister Mariano Rajoy, Italian Prime Minister Matteo Renzi, and British Prime Minister Theresa May.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2017-04-21T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="obama-barack">
+    <trip who="obama-barack" role="president">
         <id>3634</id>
         <role>president</role>
         <name>Barack Obama</name>
@@ -1724,8 +1674,7 @@
         <end-date>2016-11-20</end-date>
         <country id="peru">Peru</country>
         <locale>Lima</locale>
-        <remarks>Met with President Pedro Pablo Kuczynski and attended Trans-Pacific Partnership and
-            APEC Summit Meetings.</remarks>
+        <remarks>Met with President Pedro Pablo Kuczynski and attended Trans-Pacific Partnership and APEC Summit Meetings.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

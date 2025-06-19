@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2776</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2777</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -22,14 +22,13 @@
         <end-date>1961-06-03</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>State visit; addressed North Atlantic Council and met with President De
-            Gaulle.</remarks>
+        <remarks>State visit; addressed North Atlantic Council and met with President De Gaulle.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2778</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -43,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2779</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -57,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2780</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -71,7 +70,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2781</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -85,7 +84,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2782</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -99,7 +98,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2783</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -113,7 +112,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2784</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -121,14 +120,13 @@
         <end-date>1962-12-21</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Nassau (The Bahamas)</locale>
-        <remarks>Conferred with Prime Minister Macmillan; concluded Nassau agreement on nuclear
-            defense systems.</remarks>
+        <remarks>Conferred with Prime Minister Macmillan; concluded Nassau agreement on nuclear defense systems.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2785</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -142,7 +140,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2786</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -156,7 +154,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2787</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -170,7 +168,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2788</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -184,7 +182,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2789</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -198,7 +196,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2790</id>
         <role>president</role>
         <name>John F. Kennedy</name>
@@ -212,7 +210,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="kennedy-john-f">
+    <trip who="kennedy-john-f" role="president">
         <id>2791</id>
         <role>president</role>
         <name>John F. Kennedy</name>

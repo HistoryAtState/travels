@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="president" who="truman-harry-s">
+    <trip who="truman-harry-s" role="president">
         <id>2733</id>
         <role>president</role>
         <name>Harry S. Truman</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="truman-harry-s">
+    <trip who="truman-harry-s" role="president">
         <id>2734</id>
         <role>president</role>
         <name>Harry S. Truman</name>
@@ -22,14 +22,13 @@
         <end-date>1945-08-02</end-date>
         <country id="germany">Germany</country>
         <locale>Potsdam</locale>
-        <remarks>Potsdam Conference with British Prime Ministers Churchill and Attlee and Soviet
-            Premier Stalin.</remarks>
+        <remarks>Potsdam Conference with British Prime Ministers Churchill and Attlee and Soviet Premier Stalin.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="truman-harry-s">
+    <trip who="truman-harry-s" role="president">
         <id>2735</id>
         <role>president</role>
         <name>Harry S. Truman</name>
@@ -43,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="truman-harry-s">
+    <trip who="truman-harry-s" role="president">
         <id>3202</id>
         <role>president</role>
         <name>Harry S. Truman</name>
@@ -51,14 +50,13 @@
         <end-date>1946-08-30</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Bermuda</locale>
-        <remarks>Informal visit; met with the Governor of Bermuda, Admiral Sir Ralph Leatham, K.C.B.
-            and inspected U.S. military facilities.</remarks>
+        <remarks>Informal visit; met with the Governor of Bermuda, Admiral Sir Ralph Leatham, K.C.B. and inspected U.S. military facilities.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-09-25T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-09-25T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="truman-harry-s">
+    <trip who="truman-harry-s" role="president">
         <id>2736</id>
         <role>president</role>
         <name>Harry S. Truman</name>
@@ -72,7 +70,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="truman-harry-s">
+    <trip who="truman-harry-s" role="president">
         <id>2737</id>
         <role>president</role>
         <name>Harry S. Truman</name>
@@ -80,14 +78,13 @@
         <end-date>1947-06-12</end-date>
         <country id="canada">Canada</country>
         <locale>Ottawa</locale>
-        <remarks>Official visit; met with Governor General Alexander and Prime Minister Mackenzie
-            King.</remarks>
+        <remarks>Official visit; met with Governor General Alexander and Prime Minister Mackenzie King.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="truman-harry-s">
+    <trip who="truman-harry-s" role="president">
         <id>2738</id>
         <role>president</role>
         <name>Harry S. Truman</name>
@@ -95,8 +92,7 @@
         <end-date>1947-09-07</end-date>
         <country id="brazil">Brazil</country>
         <locale>Rio de Janeiro</locale>
-        <remarks>State visit; addressed Rio de Janiero Conference for the Maintenance of Continental
-            Peace and Security and the Brazilian Congress.</remarks>
+        <remarks>State visit; addressed Rio de Janiero Conference for the Maintenance of Continental Peace and Security and the Brazilian Congress.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

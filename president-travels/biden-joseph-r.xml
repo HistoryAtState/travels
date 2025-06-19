@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4113</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -8,14 +8,13 @@
         <end-date>2021-06-13</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>London, Cornwall</locale>
-        <remarks>Met with Prime Minister Boris Johnson and Queen Elizabeth II. Attended the G7
-            Summit.</remarks>
+        <remarks>Met with Prime Minister Boris Johnson and Queen Elizabeth II. Attended the G7 Summit.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-05-24T10:47:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T15:55:56-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4114</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -23,14 +22,13 @@
         <end-date>2021-06-15</end-date>
         <country id="belgium">Belgium</country>
         <locale>Brussels</locale>
-        <remarks>Met with King Philippe and Prime Minister Alexander De Croo. Attended the NATO
-            Summit.</remarks>
+        <remarks>Met with King Philippe and Prime Minister Alexander De Croo. Attended the NATO Summit.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-05-24T10:48:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T15:58:31-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4115</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -38,14 +36,13 @@
         <end-date>2021-06-16</end-date>
         <country id="switzerland">Switzerland</country>
         <locale>Geneva</locale>
-        <remarks>Met with President Guy Parmelin and Foreign Minister Ignazio Cassis. Attended a
-            summit meeting with Russian President Vladimir Putin.</remarks>
+        <remarks>Met with President Guy Parmelin and Foreign Minister Ignazio Cassis. Attended a summit meeting with Russian President Vladimir Putin.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-05-24T10:50:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T15:59:40-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4116</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -57,9 +54,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-05-24T10:53:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-24T10:52:54-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4117</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -67,14 +64,13 @@
         <end-date>2021-11-01</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Attended the G20 Leader's Summit. Met with Prime Minister Mario Draghi, President
-            Emmanuel Macron, Chancellor Angela Merkel, and Prime Minister Boris Johnson.</remarks>
+        <remarks>Attended the G20 Leader's Summit. Met with Prime Minister Mario Draghi, President Emmanuel Macron, Chancellor Angela Merkel, and Prime Minister Boris Johnson.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-05-24T10:54:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T16:03:38-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4118</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -86,9 +82,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-05-24T10:55:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-24T10:55:29-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4119</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -96,14 +92,13 @@
         <end-date>2021-11-02</end-date>
         <country id="united-kingdom">United Kingdom</country>
         <locale>Glasgow</locale>
-        <remarks>Attended World Leader Summit at the start of the COP26, the 26th Conference of the
-            Parties to the U.N. Framework Convention on Climate Change.</remarks>
+        <remarks>Attended World Leader Summit at the start of the COP26, the 26th Conference of the Parties to the U.N. Framework Convention on Climate Change.</remarks>
         <created-by>doa-exist-temp</created-by>
         <created-datetime>2023-05-26T16:04:14-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T16:05:43-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4101</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -115,9 +110,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T10:46:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-02-15T10:46:20-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4102</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -129,9 +124,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T10:49:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T16:13:59-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4103</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -143,9 +138,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T10:51:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T16:16:10-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4104</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -153,14 +148,13 @@
         <end-date>2022-05-24</end-date>
         <country id="japan">Japan</country>
         <locale>Tokyo</locale>
-        <remarks>Met with Japanese Prime Minister Kishida Fumio and attended the Quad Leaders’
-            Summit.</remarks>
+        <remarks>Met with Japanese Prime Minister Kishida Fumio and attended the Quad Leaders’ Summit.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T10:52:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-02-15T10:51:59-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4105</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -172,9 +166,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T10:54:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T15:02:23-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4106</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -182,14 +176,13 @@
         <end-date>2022-06-30</end-date>
         <country id="spain">Spain</country>
         <locale>Madrid</locale>
-        <remarks>Met with Prime Minister Pedro Sánchez Perez-Castejon and participated in the Madrid
-            NATO Summit.</remarks>
+        <remarks>Met with Prime Minister Pedro Sánchez Perez-Castejon and participated in the Madrid NATO Summit.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T10:56:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-02-15T10:56:11-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4107</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -201,9 +194,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T11:01:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T15:22:51-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4108</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -215,9 +208,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T11:02:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T15:23:23-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4109</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -225,14 +218,13 @@
         <end-date>2022-07-16</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Jeddah</locale>
-        <remarks>Met with King Salman bin Abd al-Aziz Al Saud and Crown Prince Muhammad bin Salman
-            bin Abd al-Aziz Al Saud. Attended Summit of the Gulf Cooperation Council.</remarks>
+        <remarks>Met with King Salman bin Abd al-Aziz Al Saud and Crown Prince Muhammad bin Salman bin Abd al-Aziz Al Saud. Attended Summit of the Gulf Cooperation Council.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T11:04:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-26T15:25:41-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4110</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -244,9 +236,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T11:05:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-05-25T16:12:33-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4111</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -258,9 +250,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T11:06:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-02-15T11:06:31-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4112</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -272,9 +264,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-02-15T11:08:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-02-15T11:08:10-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4167</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -286,9 +278,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-10-19T10:42:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-08-26T12:39:49-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4168</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -296,14 +288,13 @@
         <end-date>2023-02-20</end-date>
         <country id="ukraine">Ukraine</country>
         <locale>Kyiv</locale>
-        <remarks>Met with President Zelensky to mark the one-year anniversary of Russia’s invasion
-            of Ukraine.</remarks>
+        <remarks>Met with President Zelensky to mark the one-year anniversary of Russia’s invasion of Ukraine.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-10-19T10:45:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-08-26T09:43:09-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4192</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -311,14 +302,13 @@
         <end-date>2023-02-22</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Met with President Andrzej Duda and attended summit with leaders of the Bucharest
-            Nine Eastern Flank NATO Allies and NATO Secretary General Jens Stoltenberg.</remarks>
+        <remarks>Met with President Andrzej Duda and attended summit with leaders of the Bucharest Nine Eastern Flank NATO Allies and NATO Secretary General Jens Stoltenberg.</remarks>
         <created-by>doa-exist-temp</created-by>
         <created-datetime>2024-09-06T13:48:20-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-09-06T13:54:07-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4169</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -330,9 +320,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-10-19T10:47:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-08-26T09:46:57-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4170</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -344,9 +334,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-10-19T10:48:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2023-10-19T10:48:06-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4171</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -354,14 +344,13 @@
         <end-date>2023-05-21</end-date>
         <country id="japan">Japan</country>
         <locale>Hiroshima</locale>
-        <remarks>Attended the G7 Summit and participated in other bilateral and multilateral
-            meetings.</remarks>
+        <remarks>Attended the G7 Summit and participated in other bilateral and multilateral meetings.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-10-19T10:50:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-08-26T12:22:20-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4172</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -373,9 +362,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-10-19T10:52:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-08-26T12:18:39-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4173</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -387,9 +376,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-10-19T10:53:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-08-26T12:14:30-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4193</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -397,14 +386,13 @@
         <end-date>2023-07-13</end-date>
         <country id="finland">Finland</country>
         <locale>Helsinki</locale>
-        <remarks>Met with the President of Finland and the Prime Ministers of Denmark, Iceland,
-            Norway, and Sweden for the third U.S.-Nordic Leaders’ Summit</remarks>
+        <remarks>Met with the President of Finland and the Prime Ministers of Denmark, Iceland, Norway, and Sweden for the third U.S.-Nordic Leaders’ Summit</remarks>
         <created-by>doa-exist-temp</created-by>
         <created-datetime>2024-09-06T13:55:37-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-09-06T13:56:59-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4174</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -412,14 +400,13 @@
         <end-date>2023-09-10</end-date>
         <country id="india">India</country>
         <locale>New Delhi</locale>
-        <remarks>Met with Prime Minister Narendra Modi and attended the G20 Leaders'
-            Summit.</remarks>
+        <remarks>Met with Prime Minister Narendra Modi and attended the G20 Leaders' Summit.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2023-10-19T10:54:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-08-26T12:13:17-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4175</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -431,9 +418,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2023-10-19T10:56:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-08-26T12:08:42-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4188</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -445,9 +432,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2024-08-29T13:15:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2024-08-29T13:15:48-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4293</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -455,15 +442,13 @@
         <end-date>2024-06-09</end-date>
         <country id="france">France</country>
         <locale>Normandy, Paris</locale>
-        <remarks>Commemorated the 80th anniversary of the D-Day landing at Normandy in World War II
-            as part of a State Visit. He also met with President Volodymyr Zelenskyy of
-            Ukraine.</remarks>
+        <remarks>Commemorated the 80th anniversary of the D-Day landing at Normandy in World War II as part of a State Visit. He also met with President Volodymyr Zelenskyy of Ukraine.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2025-03-06T13:34:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-03-13T15:15:19-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4294</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -475,9 +460,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-03-06T13:35:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-03-13T15:21:17-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4295</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -489,9 +474,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-03-06T13:36:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-03-06T13:36:42-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4296</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -503,9 +488,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-03-06T13:38:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-03-06T13:37:50-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4297</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -517,9 +502,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-03-06T13:39:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-03-13T15:29:02-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="biden-joseph-r">
+    <trip who="biden-joseph-r" role="president">
         <id>4298</id>
         <role>president</role>
         <name>Joseph R. Biden</name>
@@ -531,6 +516,6 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-03-06T13:41:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-03-06T13:41:16-04:00</last-modified-datetime>
     </trip>
 </trips>

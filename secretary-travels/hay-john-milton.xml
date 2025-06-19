@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="secretary" who="hay-john-milton">
+    <trip who="hay-john-milton" role="secretary">
         <id>908</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
@@ -14,7 +14,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="hay-john-milton">
+    <trip who="hay-john-milton" role="secretary">
         <id>909</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
@@ -28,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="hay-john-milton">
+    <trip who="hay-john-milton" role="secretary">
         <id>910</id>
         <role>secretary</role>
         <name>John Milton Hay</name>
@@ -42,7 +42,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="hay-john-milton">
+    <trip who="hay-john-milton" role="secretary">
         <id>911</id>
         <role>secretary</role>
         <name>John Milton Hay</name>

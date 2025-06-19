@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2792</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -8,14 +8,13 @@
         <end-date>1964-09-16</end-date>
         <country id="canada">Canada</country>
         <locale>Vancouver</locale>
-        <remarks>Informal visit; met with Prime Minister Pearson in ceremonies related to the
-            Columbia River Treaty.</remarks>
+        <remarks>Informal visit; met with Prime Minister Pearson in ceremonies related to the Columbia River Treaty.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2793</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -29,7 +28,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2794</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -37,14 +36,13 @@
         <end-date>1966-08-22</end-date>
         <country id="canada">Canada</country>
         <locale>Campobello Island, Chamcook</locale>
-        <remarks>Laid cornerstone at Roosevelt-Campobello International Park and conferred
-            informally with Prime Minister Pearson.</remarks>
+        <remarks>Laid cornerstone at Roosevelt-Campobello International Park and conferred informally with Prime Minister Pearson.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2795</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -58,7 +56,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2796</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -72,7 +70,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2797</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -80,14 +78,13 @@
         <end-date>1966-10-26</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila, Los Banos, Corregidor</locale>
-        <remarks>Attended summit conference with the Heads of State and Government of Australia,
-            Korea, New Zealand, the Philippines, Thailand, and Vietnam.</remarks>
+        <remarks>Attended summit conference with the Heads of State and Government of Australia, Korea, New Zealand, the Philippines, Thailand, and Vietnam.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2798</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -101,7 +98,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2799</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -115,7 +112,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2800</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -129,7 +126,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2801</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -137,14 +134,13 @@
         <end-date>1966-11-02</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul, Suwon</locale>
-        <remarks>State visit; met with President Park Chung Hee and Prime Minister Chung
-            Il-kwon.</remarks>
+        <remarks>State visit; met with President Park Chung Hee and Prime Minister Chung Il-kwon.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
         <last-modified-datetime>2022-02-25T14:35:00-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2802</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -152,14 +148,13 @@
         <end-date>1966-12-03</end-date>
         <country id="mexico">Mexico</country>
         <locale>Ciudad Acuna</locale>
-        <remarks>Informal meeting with President Diaz Ordaz. Inspected construction of Arnistad
-            Dam.</remarks>
+        <remarks>Informal meeting with President Diaz Ordaz. Inspected construction of Arnistad Dam.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2803</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -173,7 +168,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2804</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -187,7 +182,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2805</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -195,14 +190,13 @@
         <end-date>1967-04-26</end-date>
         <country id="germany">Germany</country>
         <locale>Bonn</locale>
-        <remarks>Attended funeral of Chancellor Adenauer and conversed with various heads of
-            state.</remarks>
+        <remarks>Attended funeral of Chancellor Adenauer and conversed with various heads of state.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2806</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -216,7 +210,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2807</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -224,14 +218,13 @@
         <end-date>1967-10-28</end-date>
         <country id="mexico">Mexico</country>
         <locale>Ciudad Juarez</locale>
-        <remarks>Attended transfer of El Chamizal from the US. to Mexico and conferred with
-            President Diaz Ordaz.</remarks>
+        <remarks>Attended transfer of El Chamizal from the US. to Mexico and conferred with President Diaz Ordaz.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2808</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -239,14 +232,13 @@
         <end-date>1967-12-22</end-date>
         <country id="australia">Australia</country>
         <locale>Canberra</locale>
-        <remarks>Attended funeral of Prime Minister Holt and conferred with other attending heads of
-            state.</remarks>
+        <remarks>Attended funeral of Prime Minister Holt and conferred with other attending heads of state.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2809</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -260,7 +252,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2810</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -274,7 +266,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2811</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -288,7 +280,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2812</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -302,7 +294,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2813</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -316,7 +308,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2814</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -330,7 +322,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2815</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -344,7 +336,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2816</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -358,7 +350,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2013-04-10T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2817</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>
@@ -372,7 +364,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="johnson-lyndon-b">
+    <trip who="johnson-lyndon-b" role="president">
         <id>2818</id>
         <role>president</role>
         <name>Lyndon B. Johnson</name>

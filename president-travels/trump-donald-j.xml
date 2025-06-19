@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3730</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -8,14 +8,13 @@
         <end-date>2017-05-22</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with King Salman bin Abdel Aziz Al-Saud. Signed military sales agreement. Met
-            with leaders of the Gulf Cooperation Council.</remarks>
+        <remarks>Met with King Salman bin Abdel Aziz Al-Saud. Signed military sales agreement. Met with leaders of the Gulf Cooperation Council.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3731</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -23,14 +22,13 @@
         <end-date>2017-05-23</end-date>
         <country id="israel">Israel</country>
         <locale>Jerusalem</locale>
-        <remarks>Met with President Reuven Rivlin and Prime Minister Benjamin Netanyahu. Visited the
-            Western Wall and Yad Vashem.</remarks>
+        <remarks>Met with President Reuven Rivlin and Prime Minister Benjamin Netanyahu. Visited the Western Wall and Yad Vashem.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3732</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -44,7 +42,7 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3733</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -58,7 +56,7 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3734</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -72,7 +70,7 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3735</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -86,7 +84,7 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3736</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -94,14 +92,13 @@
         <end-date>2017-05-27</end-date>
         <country id="italy">Italy</country>
         <locale>Taormina, Sigonella</locale>
-        <remarks>Attended the G–7 Summit Meeting. Stopped at NAS Sigonella while returning to the
-            United States.</remarks>
+        <remarks>Attended the G–7 Summit Meeting. Stopped at NAS Sigonella while returning to the United States.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3737</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -109,14 +106,13 @@
         <end-date>2017-07-06</end-date>
         <country id="poland">Poland</country>
         <locale>Warsaw</locale>
-        <remarks>Met with President Andrzej Duda, delivered a public address, and addressed the
-            Three Seas Summit.</remarks>
+        <remarks>Met with President Andrzej Duda, delivered a public address, and addressed the Three Seas Summit.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3738</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -130,7 +126,7 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3739</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -138,14 +134,13 @@
         <end-date>2017-07-14</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Official visit. Met with President Emmanuel Macron. Commemorated Bastille Day and
-            the entry of the United States into World War I.</remarks>
+        <remarks>Official visit. Met with President Emmanuel Macron. Commemorated Bastille Day and the entry of the United States into World War I.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-09-19T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3895</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -159,7 +154,7 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3896</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -167,14 +162,13 @@
         <end-date>2017-11-08</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Osan, Seoul</locale>
-        <remarks>Met with President Moon Jae-in. Visited U.S. Military personnel at Garrisons
-            Humphreys and Yongsan.</remarks>
+        <remarks>Met with President Moon Jae-in. Visited U.S. Military personnel at Garrisons Humphreys and Yongsan.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3897</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -188,7 +182,7 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3898</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -196,14 +190,13 @@
         <end-date>2017-11-12</end-date>
         <country id="vietnam">Vietnam</country>
         <locale>Danang, Hanoi</locale>
-        <remarks>Attended the APEC Economic Leaders Meeting. Met with President Tran Dai
-            Quang.</remarks>
+        <remarks>Attended the APEC Economic Leaders Meeting. Met with President Tran Dai Quang.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3899</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -211,14 +204,13 @@
         <end-date>2017-11-14</end-date>
         <country id="philippines">Philippines</country>
         <locale>Manila</locale>
-        <remarks>Met with President Rodrigo Duterte and attended the 31st ASEAN Summit
-            Meeting.</remarks>
+        <remarks>Met with President Rodrigo Duterte and attended the 31st ASEAN Summit Meeting.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2018-03-12T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3900</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -232,7 +224,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3813</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -246,7 +238,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3814</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -254,14 +246,13 @@
         <end-date>2018-06-13</end-date>
         <country id="singapore">Singapore</country>
         <locale>Singapore</locale>
-        <remarks>Participated in the summit with North Korean leader Kim Jong-un and bilateral
-            events with Singaporean Prime Minister Lee Hsien Loong.</remarks>
+        <remarks>Participated in the summit with North Korean leader Kim Jong-un and bilateral events with Singaporean Prime Minister Lee Hsien Loong.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2018-09-05T15:37:55.683-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3815</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -275,7 +266,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3816</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -289,7 +280,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3817</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -303,7 +294,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2018-09-05T15:37:55.683-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3818</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -311,14 +302,13 @@
         <end-date>2018-11-11</end-date>
         <country id="france">France</country>
         <locale>Paris</locale>
-        <remarks>Commemorated the 100th anniversary of the end of the WWI and met with French
-            President Emmanuel Macron.</remarks>
+        <remarks>Commemorated the 100th anniversary of the end of the WWI and met with French President Emmanuel Macron.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3819</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -332,7 +322,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3901</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -346,7 +336,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3886</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -360,7 +350,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3887</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -374,7 +364,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3888</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -388,7 +378,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3889</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -402,7 +392,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3890</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -410,14 +400,13 @@
         <end-date>2019-06-30</end-date>
         <country id="korea-south">Korea, South</country>
         <locale>Seoul</locale>
-        <remarks>Met with President Moon Jae-in, and crossed briefly into North Korean territory
-            where he was photographed with and spoke to Chairman Kim Jong-un.</remarks>
+        <remarks>Met with President Moon Jae-in, and crossed briefly into North Korean territory where he was photographed with and spoke to Chairman Kim Jong-un.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3891</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -431,7 +420,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3892</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -445,7 +434,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3893</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -459,7 +448,7 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3987</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -471,9 +460,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2021-06-09T10:55:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2021-12-01T23:03:17-04:00</last-modified-datetime>
     </trip>
-    <trip role="president" who="trump-donald-j">
+    <trip who="trump-donald-j" role="president">
         <id>3988</id>
         <role>president</role>
         <name>Donald J. Trump</name>
@@ -485,6 +474,6 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2021-06-09T10:57:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2021-12-01T23:03:54-04:00</last-modified-datetime>
     </trip>
 </trips>

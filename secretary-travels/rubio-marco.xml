@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <trips>
-    <trip role="secretary" who="rubio-marco">
+    <trip who="rubio-marco" role="secretary">
         <id>4281</id>
         <role>secretary</role>
         <name>Marco Rubio</name>
@@ -12,9 +12,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-02-26T12:43:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-02-26T12:43:16-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rubio-marco">
+    <trip who="rubio-marco" role="secretary">
         <id>4282</id>
         <role>secretary</role>
         <name>Marco Rubio</name>
@@ -22,14 +22,13 @@
         <end-date>2025-02-04</end-date>
         <country id="el-salvador">El Salvador</country>
         <locale>San Salvador</locale>
-        <remarks>Met with President Nayib Bukele and Foreign Minister Alexandra Hill
-            Tinoco.</remarks>
+        <remarks>Met with President Nayib Bukele and Foreign Minister Alexandra Hill Tinoco.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2025-02-26T12:45:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-02-27T17:32:35-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rubio-marco">
+    <trip who="rubio-marco" role="secretary">
         <id>4283</id>
         <role>secretary</role>
         <name>Marco Rubio</name>
@@ -41,9 +40,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-02-26T12:46:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-02-26T12:45:46-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rubio-marco">
+    <trip who="rubio-marco" role="secretary">
         <id>4284</id>
         <role>secretary</role>
         <name>Marco Rubio</name>
@@ -55,9 +54,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-02-26T13:15:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-02-27T17:34:03-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rubio-marco">
+    <trip who="rubio-marco" role="secretary">
         <id>4285</id>
         <role>secretary</role>
         <name>Marco Rubio</name>
@@ -69,9 +68,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-02-26T13:16:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-02-27T17:35:12-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rubio-marco">
+    <trip who="rubio-marco" role="secretary">
         <id>4286</id>
         <role>secretary</role>
         <name>Marco Rubio</name>
@@ -79,14 +78,13 @@
         <end-date>2025-02-15</end-date>
         <country id="germany">Germany</country>
         <locale>Munich</locale>
-        <remarks>Participated in the Munich Security Conference and the G7 Foreign Ministers’
-            Meeting.</remarks>
+        <remarks>Participated in the Munich Security Conference and the G7 Foreign Ministers’ Meeting.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2025-02-26T13:18:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-02-27T17:29:30-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rubio-marco">
+    <trip who="rubio-marco" role="secretary">
         <id>4287</id>
         <role>secretary</role>
         <name>Marco Rubio</name>
@@ -98,9 +96,9 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2025-02-26T13:19:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-02-27T17:27:59-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rubio-marco">
+    <trip who="rubio-marco" role="secretary">
         <id>4288</id>
         <role>secretary</role>
         <name>Marco Rubio</name>
@@ -108,16 +106,13 @@
         <end-date>2025-02-19</end-date>
         <country id="saudi-arabia">Saudi Arabia</country>
         <locale>Riyadh</locale>
-        <remarks>Met with Crown Prince and Prime Minister Mohammed bin Salman and Foreign Minister
-            Prince Faisal bin Farhan Al Saud. Also met with Russian Foreign Minister Sergei Lavrov
-            and Russian Aide to the President Yuri Ushakov, along with National Security Advisor
-            Mike Waltz, and Special Envoy to the Middle East Steve Witkoff.</remarks>
+        <remarks>Met with Crown Prince and Prime Minister Mohammed bin Salman and Foreign Minister Prince Faisal bin Farhan Al Saud. Also met with Russian Foreign Minister Sergei Lavrov and Russian Aide to the President Yuri Ushakov, along with National Security Advisor Mike Waltz, and Special Envoy to the Middle East Steve Witkoff.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2025-02-26T13:20:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-02-27T17:26:38-04:00</last-modified-datetime>
     </trip>
-    <trip role="secretary" who="rubio-marco">
+    <trip who="rubio-marco" role="secretary">
         <id>4289</id>
         <role>secretary</role>
         <name>Marco Rubio</name>
@@ -125,11 +120,10 @@
         <end-date>2025-02-19</end-date>
         <country id="united-arab-emirates">United Arab Emirates</country>
         <locale>Abu Dhabi</locale>
-        <remarks>Met with President Mohammed Bin Zayed Al Nahyan and Foreign Minister Abdullah Bin
-            Zayed Al Nahyan.</remarks>
+        <remarks>Met with President Mohammed Bin Zayed Al Nahyan and Foreign Minister Abdullah Bin Zayed Al Nahyan.</remarks>
         <created-by>cabrerath</created-by>
         <created-datetime>2025-02-26T13:22:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime/>
+        <last-modified-datetime>2025-02-26T13:22:03-04:00</last-modified-datetime>
     </trip>
 </trips>
