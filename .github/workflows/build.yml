@@ -24,7 +24,7 @@ jobs:
 
     steps:
       # Checkout code
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Install Test Dependencies
         run: |
           sudo apt-get update
@@ -67,7 +67,7 @@ jobs:
     if: github.ref == 'refs/heads/master'
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: false
       - name: Setup Node.js
