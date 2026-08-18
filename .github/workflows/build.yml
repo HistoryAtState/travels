@@ -50,7 +50,7 @@ jobs:
           docker run -dit -p 8080:8080 -v ${{ github.workspace }}/build:/exist/autodeploy \
           --name exist --rm --health-interval=2s --health-start-period=4s \
           duncdrum/existdb:${{ matrix.exist-version }}
-          sleep 10s
+          sleep 18s
 
       # Test
       - name: Run test
