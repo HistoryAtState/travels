@@ -1,0 +1,14 @@
+.github/workflows/build.yml
+  h_ff0005bef58c9d 53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5d4385310375984c6151693a42792600b8b644e1",
+  "prompts": {},
+  "humans": {
+    "h_ff0005bef58c9d": {
+      "author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
