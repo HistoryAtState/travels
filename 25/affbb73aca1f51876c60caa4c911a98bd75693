@@ -1,0 +1,21 @@
+.releaserc
+  s_dc7b1e6210c86b::t_c47658e4c57916 13
+build.xml
+  s_dc7b1e6210c86b::t_fbb42f89f4fed6 2-6,8-17,20-21,23-32,35-40,43-45,48,50,52-59,62-66,71-77,79,81-82,87-93,96,98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "25affbb73aca1f51876c60caa4c911a98bd75693",
+  "prompts": {},
+  "sessions": {
+    "s_dc7b1e6210c86b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8566efb-72fe-407b-93ce-e8f46959ea45",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
