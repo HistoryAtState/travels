@@ -14,7 +14,7 @@
                 <facet dimension="hsg-category" expression="'department'"/>
                 <facet dimension="hsg-publication" expression="'travels'"/>
                 <field expression="trip/name, trip/country, trip/remarks, trip/locale"
-                    name="hsg-fulltext" store="no"/>
+                    name="hsg-fulltext" store="yes"/>
                 <vector-field name="hsg-embedding" expression="trip/name, trip/country, trip/remarks, trip/locale"
                     dimension="384" similarity="cosine"
                     embedding="local" model="all-MiniLM-L6-v2"/>
