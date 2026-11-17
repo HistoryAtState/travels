@@ -2,7 +2,7 @@
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:frus="http://history.state.gov/frus/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
         xmlns:xs="http://www.w3.org/2001/XMLSchema">
-        <lucene>
+        <lucene vector-store="db">
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer">
                 <!-- Specify stop words - or remove them entirely -->
                 <param name="stopwords" type="org.apache.lucene.analysis.util.CharArraySet">
@@ -15,6 +15,9 @@
                 <facet dimension="hsg-publication" expression="'travels'"/>
                 <field expression="trip/name, trip/country, trip/remarks, trip/locale"
                     name="hsg-fulltext" store="no"/>
+                <vector-field name="hsg-embedding" expression="trip/name, trip/country, trip/remarks, trip/locale"
+                    dimension="384" similarity="cosine"
+                    embedding="local" model="all-MiniLM-L6-v2"/>
                 <field
                     expression="'/departmenthistory/travels/president/' || util:document-name(.) =&gt; substring-before('.xml')"
                     name="hsg-url"/>
