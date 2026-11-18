@@ -52,7 +52,16 @@ jobs:
           docker run -dit -p 8080:8080 -v ${{ github.workspace }}/build:/exist/autodeploy \
           --name exist --rm --health-interval=2s --health-start-period=4s \
           duncdrum/existdb:${{ matrix.exist-version }}
-          sleep 18s
+
+      - name: Wait for eXist-db to start
+        timeout-minutes: 5
+        run: |
+          until docker logs exist 2>&1 | grep -q "Server has started"; do
+            docker inspect -f '{{.State.Running}}' exist | grep -q true \
+              || { echo "::error::exist container exited before start"; docker logs exist; exit 1; }
+            sleep 2s
+          done
+          sleep 5s
 
       # Test
       - name: Run test
