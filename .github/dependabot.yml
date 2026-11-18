@@ -25,3 +25,9 @@ updates:
         - "@semantic-release/*"
         - "semantic-release"
         - "conventional-changelog-*"
+  ignore:
+    # v10 requires conventional-changelog-writer@9, but
+    # @semantic-release/release-notes-generator@14 still uses writer@8.
+    # Remove once release-notes-generator@15 is stable.
+    - dependency-name: "conventional-changelog-conventionalcommits"
+      update-types: ["version-update:semver-major"]
