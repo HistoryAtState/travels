@@ -9,12 +9,95 @@
                     <!--<value>the</value>-->
                 </param>
             </analyzer>
+            <!-- Analyzer chains (eXist 7 lucene analyzer chains) for hsg-jinks's search
+                 options. plain is the default field's: words are runs of non-space
+                 characters without the punctuation around them, split at em dashes
+                 (a pattern tokenizer, so highlights cover the word only); possessives
+                 dropped; each word indexed whole and in its parts (U.S.-Soviet:
+                 u.s.-soviet, u.s, soviet) but the parts never
+                 joined, so U.S. is not "us"; at query time a word is kept whole;
+                 lower-cased and folded (so F-16 equals F–16). cased keeps case; stemmed
+                 adds English (Porter) stemming; punct and literal keep words as written
+                 (no parts; literal keeps case too). -->
+            <analyzer id="plain">
+                <index>
+                    <tokenizer name="pattern" pattern="[^\s\p{P}](?:[^\s—―]*[^\s\p{P}])?" group="0"/>
+                    <filter name="length" min="1" max="255"/>
+                    <filter name="englishPossessive"/>
+                    <filter name="wordDelimiterGraph" preserveOriginal="1" splitOnNumerics="0"/>
+                    <filter name="flattenGraph"/>
+                    <filter name="lowercase"/>
+                    <filter name="asciiFolding"/>
+                </index>
+                <query>
+                    <tokenizer name="pattern" pattern="[^\s\p{P}](?:[^\s—―]*[^\s\p{P}])?" group="0"/>
+                    <filter name="length" min="1" max="255"/>
+                    <filter name="englishPossessive"/>
+                    <filter name="lowercase"/>
+                    <filter name="asciiFolding"/>
+                </query>
+            </analyzer>
+            <analyzer id="cased">
+                <index>
+                    <tokenizer name="pattern" pattern="[^\s\p{P}](?:[^\s—―]*[^\s\p{P}])?" group="0"/>
+                    <filter name="length" min="1" max="255"/>
+                    <filter name="englishPossessive"/>
+                    <filter name="wordDelimiterGraph" preserveOriginal="1" splitOnNumerics="0"/>
+                    <filter name="flattenGraph"/>
+                    <filter name="asciiFolding"/>
+                </index>
+                <query>
+                    <tokenizer name="pattern" pattern="[^\s\p{P}](?:[^\s—―]*[^\s\p{P}])?" group="0"/>
+                    <filter name="length" min="1" max="255"/>
+                    <filter name="englishPossessive"/>
+                    <filter name="asciiFolding"/>
+                </query>
+            </analyzer>
+            <analyzer id="punct">
+                <tokenizer name="pattern" pattern="[^\s\p{P}](?:[^\s—―]*[^\s\p{P}])?" group="0"/>
+                <filter name="length" min="1" max="255"/>
+                <filter name="lowercase"/>
+                <filter name="asciiFolding"/>
+            </analyzer>
+            <analyzer id="literal">
+                <tokenizer name="pattern" pattern="[^\s\p{P}](?:[^\s—―]*[^\s\p{P}])?" group="0"/>
+                <filter name="length" min="1" max="255"/>
+                <filter name="asciiFolding"/>
+            </analyzer>
+            <analyzer id="stemmed">
+                <index>
+                    <tokenizer name="pattern" pattern="[^\s\p{P}](?:[^\s—―]*[^\s\p{P}])?" group="0"/>
+                    <filter name="length" min="1" max="255"/>
+                    <filter name="englishPossessive"/>
+                    <filter name="wordDelimiterGraph" preserveOriginal="1" splitOnNumerics="0"/>
+                    <filter name="flattenGraph"/>
+                    <filter name="lowercase"/>
+                    <filter name="asciiFolding"/>
+                    <filter name="porterStem"/>
+                </index>
+                <query>
+                    <tokenizer name="pattern" pattern="[^\s\p{P}](?:[^\s—―]*[^\s\p{P}])?" group="0"/>
+                    <filter name="length" min="1" max="255"/>
+                    <filter name="englishPossessive"/>
+                    <filter name="lowercase"/>
+                    <filter name="asciiFolding"/>
+                    <filter name="porterStem"/>
+                </query>
+            </analyzer>
             <text index="no" qname="trips">
                 <!-- start required facets and fields -->
                 <facet dimension="hsg-category" expression="'department'"/>
                 <facet dimension="hsg-publication" expression="'travels'"/>
-                <field expression="trip/name, trip/country, trip/remarks, trip/locale"
+                <field analyzer="plain" expression="trip/name, trip/country, trip/remarks, trip/locale"
                     name="hsg-fulltext" store="no"/>
+                <field analyzer="stemmed" expression="trip/name, trip/country, trip/remarks, trip/locale"
+                    name="hsg-fulltext-stemmed" store="no"/>
+                <field analyzer="cased" expression="trip/name, trip/country, trip/remarks, trip/locale"
+                    name="hsg-fulltext-cased" store="no"/>
+                <field analyzer="punct" expression="trip/name, trip/country, trip/remarks, trip/locale"
+                    name="hsg-fulltext-punct" store="no"/>
+                <field analyzer="literal" expression="trip/name, trip/country, trip/remarks, trip/locale"
+                    name="hsg-fulltext-literal" store="no"/>
                 <vector-field name="hsg-embedding" expression="trip/name, trip/country, trip/remarks, trip/locale"
                     dimension="384" similarity="cosine"
                     embedding="local" model="all-MiniLM-L6-v2"/>
