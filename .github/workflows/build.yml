@@ -15,14 +15,9 @@ jobs:
     strategy:
        fail-fast: false
        matrix:
-        # 7.0.0-SNAPSHOT and 6.2.1 created
-         exist-version: [latest, release]
-         java-version: [11, 17]
-         exclude:
-           - exist-version: release
-             java-version: 17
-           - exist-version: latest
-             java-version: 11
+        # latest + experimental on Java 21
+         exist-version: [latest, experimental]
+         java-version: [21]
 
     steps:
       # Checkout code
